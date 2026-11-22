@@ -20,7 +20,7 @@ if ($BuildMuse) {
     New-Item -ItemType Directory -Path $out -Force | Out-Null
     Push-Location (Join-Path $PSScriptRoot 'gateway')
     try {
-        & go build -trimpath -o (Join-Path $out 'muse2api-rotation-502.exe') './cmd/muse2api'
+        & go build -trimpath -o (Join-Path $out 'muse2api-gateway-recovery.exe') './cmd/muse2api'
         if ($LASTEXITCODE -ne 0) { throw 'Go build failed' }
     } finally { Pop-Location }
 }

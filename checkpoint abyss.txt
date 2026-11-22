@@ -1,9 +1,7 @@
 Abyss Fieldnotes · 22/11/2026
 
-D001–D006 đã đăng. D007 toàn tập 09:16 đã sửa phụ đề, thay hai thumbnail AI và đang chờ chủ kênh duyệt.
-Phiên tiếp theo: D008 · Why Are There Lakes on the Seafloor? Bắt đầu ở abyss-studio/production/episodes/D008/BRIEF.md.
-Xem: http://127.0.0.1:4320/production/episodes/D007/full-v1/delivery/review.html
-Checkpoint: abyss-studio/production/channels/abyss-fieldnotes/CHECKPOINT.md
+Trên máy dựng, mở workspace E:\YOUTUBE và đọc checkpoint Abyss Fieldnotes. Dựng lại D008 từ đoạn mở và nhạc B đã duyệt, đối chiếu các cảnh cần Muse trong storyboard, kiểm bản mã hóa và lưu bản mới cạnh full-v1.
+Checkpoint trên máy dựng: E:\YOUTUBE\abyss-studio\production\channels\abyss-fieldnotes\CHECKPOINT.md
 
 Báo cáo ngày lúc 08:00 trên PC: http://127.0.0.1:4320/fieldnotes#youtube . Hướng dẫn OAuth trong app. Báo cáo mới nhất: abyss-studio/data/fieldnotes-daily/latest.json.
 

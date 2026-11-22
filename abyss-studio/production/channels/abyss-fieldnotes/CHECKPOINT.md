@@ -2,15 +2,15 @@
 
 Cập nhật ngày 2026-11-22. Thị trường US. Ngôn ngữ bản giao en-US.
 
-## D007 · This Deep-Sea Hunter Is a Colony
+## D008 · Why Are There Lakes on the Seafloor?
 
-D007 toàn tập 09:16 en-US chờ chủ kênh duyệt. Đã mở lại MP4 trong MPC-HC và xác nhận chỉ còn phụ đề trong hình. SRT nằm riêng ở accessibility-upload. Hai thumbnail AI đã kiểm ở 160×90: A “WHY RED?” là bản mặc định, B “WHO’S STEERING?” là phương án hai.
+Backend Muse đã phục hồi đường tạo video trong lần kiểm D008. Cùng tài khoản: bản cũ gặp 502, bản sửa đã tải và giải mã đủ 240 khung của clip mới 10 giây ở 720p24. D008 toàn tập hiện vẫn là full-v1 08:50.
 
-D001–D006 đã đăng. D007 đã dựng toàn tập và đang chờ chủ kênh duyệt.
+D001–D006 đã đăng. Theo chủ kênh, D007 đã chuyển khỏi công khai và chờ đăng lúc 23:00 ngày 22/11/2026, giờ Việt Nam.
 
 ## Tiếp tục từ đây
 
-Phiên kế tiếp bắt đầu D008 · Why Are There Lakes on the Seafloor? Đọc đề cương D008 và quy trình dựng Abyss Fieldnotes. Việc đầu tiên là chọn một hồ nước muối sâu có tư liệu NOAA, đối chiếu nguồn về độ mặn, khối lượng riêng và sinh vật ở rìa tại đúng địa điểm, rồi viết đoạn mở en-US theo góc nhìn của ROV.
+Phiên sau dựng lại D008 từ bản mở và phương án nhạc đã duyệt. Đối chiếu cảnh cần Muse trong storyboard, kiểm chất lượng cảnh mới rồi xuất bản dài mới cạnh full-v1.
 
 Khi bàn giao, sổ của kênh ghi 0 tác vụ đang chạy.
 
@@ -35,14 +35,47 @@ Khi bàn giao, sổ của kênh ghi 0 tác vụ đang chạy.
 - Bảng báo cáo dùng chung file OAuth đã nhập. Chọn tài khoản và kênh trên Google rồi theo dõi theo mã kênh. Có thể bật vidIQ MCP chỉ đọc từng kênh.
 - Mở Quản lý kênh YouTube ngay từ màn hình chính để xem số liệu. Tab Kết nối giữ phần thiết lập Google và vidIQ. File OAuth đã lưu, chủ kênh xác nhận Google để đọc Analytics.
 - D007 dùng hai thumbnail AI nguyên bản. A “WHY RED?” là bản mặc định, B “WHO’S STEERING?” dùng để so sánh. Khi mở MP4 tại thư mục bằng MPC-HC, dùng chữ đã có trong khung hình. Tệp SRT để đăng nằm riêng trong accessibility-upload.
+- Chủ kênh đánh giá đoạn mở D008 khá ổn và yêu cầu bổ sung music nền có nhịp vào ra theo nội dung, lời đọc và kịch bản. Đang nghe thử bản B.
+- Chủ kênh duyệt màu nhạc của mẫu B D008 và giao dựng toàn tập. Kiểm lịch sau D008 bằng video viral thực tế và so thumbnail đối thủ.
+- Chủ kênh xác nhận Muse web vẫn tạo tốt, giao sửa backend và kiểm một clip thật. Để việc render lại D008 sang phiên sau.
 
 ## Các tập tiếp theo
 
-- **D008 · Why Are There Lakes on the Seafloor?.** C0 · Đã có đề cương. Bước kế tiếp là xác minh nguồn cho kịch bản.
+- **D009 · Where Does a Stubby Squid Go When It Hides?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D010 · Can You Find the Second Anglerfish?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D011 · Who Lit Up This Deep-Sea Jelly?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D012 · Watch a Giant Isopod Come In for a Landing.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể.
+- **D013 · Which End of This Gulper Eel Is the Mouth?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D014 · What Feeds a Tubeworm With No Mouth?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D015 · How Far Can a Goblin Shark Move Its Bite?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D016 · Can You Read a Humboldt Squid's Skin?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể.
+- **D017 · Why Does This Squid Hold Its Arms Like Elbows?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D018 · How Close Is an Anglerfish's Light to Its Teeth?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D019 · How Does a Dumbo Octopus Steer With Its Fins?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D020 · Why Does the Giant Phantom Jelly Trail Four Ribbons?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D021 · When Does a Red Animal Disappear in the Ocean?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể.
+- **D022 · Why Would One Fish Chase a Light and Another Hide Behind It?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể.
+- **D023 · What Could a Tag Tell Us After This Shark Leaves the Sub?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D024 · Why Doesn't a Trench Snailfish Collapse?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D025 · How Did Researchers Know This Octopus Stayed for 53 Months?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D026 · Who Gets a Whale Before It Reaches the Seafloor?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D027 · Can You Identify a Ghost Shark From Its Face?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề.
+- **D028 · Why Do a Frilled Shark's Teeth Point Backward?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể.
+- **D029 · Who Rides the Ocean's Night Shift?.** Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính.
+- **D030 · How Did a Camera Finally Meet a Living Giant Squid?.** Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể.
 
 ## Tệp để tiếp tục
 
 - [Quy trình dựng của kênh](<RENDER.md>)
+- [D008 · So sánh nhạc A/B](<../../episodes/D008/music-v1/delivery/review.html>)
+- [D008 · Khảo sát cách dựng nhạc đa niche](<../../episodes/D008/music-v1/research-vi.html>)
+- [D008 · Kiểm nhạc trên MP4](<../../episodes/D008/music-v1/qa/master.json>)
+- [D008 · Đo bắt phách và co giãn](<../../episodes/D008/music-v1/qa/retiming-benchmark.json>)
+- [Phòng xem D008](<../../episodes/D008/opening-v1/delivery/review.html>)
+- [Nguồn phim và ảnh D008](<../../episodes/D008/opening-v1/delivery/credits.json>)
+- [Kiểm hình và điểm cắt D008](<../../episodes/D008/opening-v1/qa/editorial.json>)
+- [Phát đến cuối D008](<../../episodes/D008/opening-v1/qa/player.json>)
+- [Đối chiếu hai biên nhận Muse D008](<../../episodes/D008/opening-v1/qa/muse-reconciliation.json>)
 - [Đề cương D008 cho phiên kế tiếp](<../../episodes/D008/BRIEF.md>)
 - [D007 · Đối chiếu hai thumbnail AI trên điện thoại](<../../episodes/D007/full-v1/qa/thumbnail-mobile-160.jpg>)
 - [D007 · Kiểm khung hình từ tệp và bản tải](<../../episodes/D007/full-v1/qa/native-caption-frames.json>)
@@ -118,8 +151,20 @@ Khi bàn giao, sổ của kênh ghi 0 tác vụ đang chạy.
 - [Kiểm quản lý nhiều kênh và vidIQ MCP](<evidence/youtube-multichannel-vidiq-2026-11-21.json>)
 - [Kiểm màn hình quản lý và thống kê YouTube](<evidence/youtube-manager-ui-2026-11-21.json>)
 - [Kiểm phụ đề D007 trong MPC-HC](<../../episodes/D007/full-v1/qa/native-captions-after.json>)
-- [MP4 toàn tập](<../../episodes/D007/full-v1/delivery/D007.mp4>)
-- [Biên bản kiểm bản xuất](<../../episodes/D007/full-v1/qa/master.json>)
-- [Danh sách và mã kiểm của gói đăng](<../../episodes/D007/full-v1/delivery/manifest.json>)
+- [Phòng duyệt D008 toàn tập](<../../episodes/D008/full-v1/delivery/review.html>)
+- [Thumbnail A D008](<../../episodes/D008/full-v1/delivery/thumbnail-A.jpg>)
+- [Thumbnail B D008](<../../episodes/D008/full-v1/delivery/thumbnail-B.jpg>)
+- [Tựa D008](<../../episodes/D008/full-v1/delivery/title-en.txt>)
+- [Mô tả D008](<../../episodes/D008/full-v1/delivery/description-en.txt>)
+- [D008 · kiểm đồng bộ](<../../episodes/D008/full-v1/qa/synchrony.json>)
+- [D008 · phát toàn tập](<../../episodes/D008/full-v1/qa/player.json>)
+- [Rà soát 22 kịch bản và đối thủ](<../../episodes/D008/full-v1/slate-review.html>)
+- [D009 · kịch bản đầu hàng chờ](<../../episodes/D009/script-v1/script-en-US.txt>)
+- [D009 · thumbnail đề xuất](<../../episodes/D009/script-v1/thumbnail-A.jpg>)
+- [D008 · Biên nhận và kiểm backend Muse](<../../episodes/D008/backend-retest/verification.json>)
+- [D008 · Clip kiểm Muse sau sửa](<../../episodes/D008/backend-retest/repaired.mp4>)
+- [MP4 toàn tập](<../../episodes/D008/full-v1/delivery/D008.mp4>)
+- [Biên bản kiểm bản xuất](<../../episodes/D008/full-v1/qa/master.json>)
+- [Danh sách và mã kiểm của gói đăng](<../../episodes/D008/full-v1/delivery/manifest.json>)
 
 [Danh mục kênh và chuẩn gói YouTube](../README.md) · [Dữ liệu bàn giao](checkpoint.json) · [Lịch sử của kênh](history/)

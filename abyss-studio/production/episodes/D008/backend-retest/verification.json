@@ -1,0 +1,30 @@
+{
+  "at": "2026-11-22T16:01:39+00:00",
+  "before_result": "gateway dial: websocket: bad handshake (502 Bad Gateway)",
+  "after_result": "completed",
+  "clip": "production/episodes/D008/backend-retest/repaired.mp4",
+  "sha256": "956e6a7ccc9b20cb076319ab0ac8c0284b0eeb53a2e514a9c4fc90b112be10b3",
+  "bytes": 11229784,
+  "decoded": {
+    "codec_name": "h264",
+    "width": 1280,
+    "height": 720,
+    "avg_frame_rate": "24/1",
+    "duration": "10.000000",
+    "nb_read_frames": "240"
+  },
+  "complete_decode": true,
+  "studio_media_proxy_hash_matches": true,
+  "visual_check": "A moving ROV-style view across a cluster of mussels; vehicle light and camera position change.",
+  "frame_mean_difference_0_to_255": [
+    57.64,
+    56.57
+  ],
+  "technical_sample_only": true,
+  "full_episode_sha256": "9d43beecc64b7f812b3d8092d7746227a1045698fa96297effb2d81ed84c0fa2",
+  "episode_rerendered": false,
+  "tests": "go test ./... passed",
+  "binary": "muse2api-gateway-recovery.exe",
+  "change": "After repeated HTTP 502 rejects before the WebSocket upgrade, re-read the same account assignment. An unchanged, assigned UNKNOWN VM receives at most one normal wake in that recovery path, then fresh admission before generation.",
+  "limits": "One successful end-to-end generation on this account after the change. Remote infrastructure cause was not independently observed."
+}

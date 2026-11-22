@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T12:37:10+00:00",
-  "active_episode": "D007",
+  "updated_at": "2026-11-22T16:01:39+00:00",
+  "active_episode": "D008",
   "format": {
     "language": "en-US",
     "min_minutes": 8,
@@ -2106,40 +2106,132 @@
     {
       "id": "D008",
       "title": "Why Are There Lakes on the Seafloor?",
-      "status": "research_needed",
-      "stage": "C0_brief",
+      "status": "full_review_pending",
+      "stage": "C7_qc",
       "checks": {
         "C0_brief": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/BRIEF.md",
+              "sha256": "84532ec687ffa08a263289f9046b2ea6bb264f98b76967cb143a26268f747e93",
+              "bytes": 2236
+            }
+          ],
+          "reviewed_at": "2026-11-22T13:08:07+00:00"
         },
         "C1_facts": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/full-v1/facts.json",
+              "sha256": "3fc9dbd4a38169f2e2b20a9d41e71b11369a3644878186997f83c7eea7f4567c"
+            }
+          ],
+          "note": "Opening claims verified. Full episode research remains open.",
+          "reviewed_at": "2026-11-22T13:34:47.986154+00:00"
         },
         "C2_script": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/full-v1/story.json",
+              "sha256": "84a95a9908771fa98b80432a979405f10b1cab04a5fed659b3b7005cf871376f"
+            },
+            {
+              "path": "production/episodes/D008/opening-v1/story.json",
+              "sha256": "5c4ce38ee8ea9ca67ad07c2551bbb15835ec8b4ab584910e0b4d607b1e1c6b0d"
+            }
+          ],
+          "reviewed_at": "2026-11-22T13:34:47.986154+00:00"
         },
         "C3_storyboard": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/full-v1/storyboard.json",
+              "sha256": "29a4f577d7ff7d763c06cc85aa4cf3685cf2a5399d7aaf0371ff7ba29b75f0a9"
+            },
+            {
+              "path": "production/episodes/D008/full-v1/asset-manifest.json",
+              "sha256": "b31cb0e17a9a699c43957b51d39a7fc045b91a71b2ed3a1abdc200c4e820bf54"
+            }
+          ],
+          "reviewed_at": "2026-11-22T13:34:47.986154+00:00"
         },
         "C4_preflight": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/full-v1/qa/preflight-frames.json",
+              "sha256": "a9d922f984c239ac912b6d88e4f5712c506577b7bf153c7e3f016756915a6b0f",
+              "bytes": 2111
+            },
+            {
+              "path": "production/episodes/D008/full-v1/muse/preflight.json",
+              "sha256": "b82fe807bab4fa9221a90b85d7248e547887ae4fd8f1a824f4bfe449a174b8ef",
+              "bytes": 143
+            }
+          ],
+          "reviewed_at": "2026-11-22T14:25:33+00:00"
         },
         "C5_assets": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/full-v1/muse/bed.json",
+              "sha256": "43e6a18f353029bd628762ac5f367a42ca9f42c8664e89f11ecce9bb4a6edd98",
+              "bytes": 845
+            },
+            {
+              "path": "production/episodes/D008/full-v1/delivery/rights-and-sources.json",
+              "sha256": "ce8c99a891bc2939764a43f65fc832eaf83701affb85b5d694b6791ee7cb4bff",
+              "bytes": 5129
+            }
+          ],
+          "reviewed_at": "2026-11-22T14:25:33+00:00"
         },
         "C6_edit": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/full-v1/qa/master.json",
+              "sha256": "57fbccee898c5f311e9fe2e8a8c269fd7aa95c01afef85b08a930b9c7b04ca18",
+              "bytes": 733
+            },
+            {
+              "path": "production/episodes/D008/full-v1/qa/synchrony.json",
+              "sha256": "8107edce52a83703150b3f71447d5da88f06abb877fff81900d55525a494a3e9",
+              "bytes": 2963
+            },
+            {
+              "path": "production/episodes/D008/full-v1/qa/music.json",
+              "sha256": "d9c92935051f0b45bad55faff5fe93a88542acb93482d2ab2321e4f398a50b42",
+              "bytes": 102964
+            }
+          ],
+          "reviewed_at": "2026-11-22T14:25:33+00:00"
         },
         "C7_qc": {
-          "status": "pending",
-          "evidence": []
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D008/full-v1/qa/master.json",
+              "sha256": "57fbccee898c5f311e9fe2e8a8c269fd7aa95c01afef85b08a930b9c7b04ca18",
+              "bytes": 733
+            },
+            {
+              "path": "production/episodes/D008/full-v1/qa/editorial.json",
+              "sha256": "59461157968bf019e95ddb6731870a64b3936c0db3f4855e0686a548683ee4cb",
+              "bytes": 1087
+            },
+            {
+              "path": "production/episodes/D008/full-v1/qa/player.json",
+              "sha256": "7de2f67357199dbeba383b95a6b2187fe436b52980019dc5b96f0c508c88be89",
+              "bytes": 1873
+            }
+          ],
+          "reviewed_at": "2026-11-22T14:25:33+00:00"
         },
         "C8_delivery": {
           "status": "pending",
@@ -2150,6 +2242,74 @@
         "status": "not_published",
         "url": null,
         "published_at": null
+      },
+      "active_jobs": [],
+      "hook_preview": {
+        "version": "music-v1",
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D008/music-v1/delivery/D008-music-test.mp4",
+        "duration_s": 57.875,
+        "caption_kind": "Burned-in English with separate en-US SRT",
+        "human_listening": "pending_owner",
+        "owner_acceptance": "accepted_opening",
+        "qa": {
+          "path": "production/episodes/D008/music-v1/qa/master.json",
+          "sha256": "bbdac7c79ec67902d7a084969f085c71162372d8fe36cb9172f5cd8d777bfc58",
+          "bytes": 3545
+        }
+      },
+      "review_edit": {
+        "kind": "full_episode",
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D008/full-v1/delivery/D008.mp4",
+        "duration_s": 530.2916666666667,
+        "thumbnail": "production/episodes/D008/full-v1/delivery/thumbnail-A.jpg",
+        "not_release_cleared": true
+      },
+      "active_build": {
+        "version": "full-v1",
+        "kind": "full_episode",
+        "scope": "full_episode",
+        "status": "full_ready_for_owner_review",
+        "full_episode_available": true,
+        "review_file": "production/episodes/D008/full-v1/delivery/D008.mp4",
+        "duration_s": 530.2916666666667,
+        "release_language": "en-US",
+        "review_page": "production/episodes/D008/full-v1/delivery/review.html",
+        "owner_acceptance": "pending_full",
+        "opening_acceptance": "accepted_opening_music_B",
+        "human_listening": "pending_owner",
+        "technical_qc": {
+          "path": "production/episodes/D008/full-v1/qa/master.json",
+          "sha256": "57fbccee898c5f311e9fe2e8a8c269fd7aa95c01afef85b08a930b9c7b04ca18",
+          "bytes": 733
+        },
+        "delivery_manifest": {
+          "path": "production/episodes/D008/full-v1/delivery/manifest.json",
+          "sha256": "3423b1df43951daad95dcac8c2e486ab2810bfbdcc4205cf08f1132d31ac4f2d",
+          "bytes": 2160
+        },
+        "upload_package": {
+          "path": "production/episodes/D008/full-v1/delivery/manifest.json",
+          "sha256": "3423b1df43951daad95dcac8c2e486ab2810bfbdcc4205cf08f1132d31ac4f2d",
+          "bytes": 2160
+        },
+        "thumbnails": [
+          "production/episodes/D008/full-v1/delivery/thumbnail-A.jpg",
+          "production/episodes/D008/full-v1/delivery/thumbnail-B.jpg"
+        ],
+        "next_action_vi": "Phiên sau dựng lại D008 từ bản mở và phương án nhạc đã duyệt. Đối chiếu cảnh cần Muse trong storyboard, kiểm chất lượng cảnh mới rồi xuất bản dài mới cạnh full-v1."
+      },
+      "full_production": {
+        "version": "full-v1",
+        "status": "rendered_waiting_for_owner",
+        "owner_authorized": true,
+        "folder": "production/episodes/D008/full-v1"
+      },
+      "backend_retest": {
+        "report": "production/episodes/D008/backend-retest/verification.json",
+        "sample": "production/episodes/D008/backend-retest/repaired.mp4",
+        "next_action_vi": "Phiên sau dựng lại D008 từ bản mở và phương án nhạc đã duyệt. Đối chiếu cảnh cần Muse trong storyboard, kiểm chất lượng cảnh mới rồi xuất bản dài mới cạnh full-v1."
       }
     },
     {

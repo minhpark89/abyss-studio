@@ -27,13 +27,14 @@ const (
 
 // Session is a bootstrapped gateway admission (VM + auth token).
 type Session struct {
-	VMID         string
-	Endpoint     string
-	AuthToken    string
-	Notary       string
-	WSURL        string
-	Cookies      map[string]string
-	CookieExpiry map[string]int64
+	InventoryUnknown bool
+	VMID             string
+	Endpoint         string
+	AuthToken        string
+	Notary           string
+	WSURL            string
+	Cookies          map[string]string
+	CookieExpiry     map[string]int64
 }
 
 // SessionOptions carries the HTTP bootstrap inputs.
@@ -53,6 +54,11 @@ type SessionOptions struct {
 // Bootstrap resolves the account VM, wakes it when needed, obtains the hatch
 // auth token (and optional noise notary token) and builds the wss URL.
 func Bootstrap(ctx context.Context, opts SessionOptions) (*Session, error) {
+	return bootstrap(ctx, opts, "")
+}
+
+// failedVM is set only after an explicitly rejected upgrade and before sending any RPC.
+func bootstrap(ctx context.Context, opts SessionOptions, failedVM string) (*Session, error) {
 	if opts.BaseURL == nil {
 		return nil, errors.New("missing base url")
 	}
@@ -93,7 +99,9 @@ func Bootstrap(ctx context.Context, opts SessionOptions) (*Session, error) {
 	// The current web client connects independently of that observation. Let the
 	// authenticated token endpoint and Noise handshake decide availability; do
 	// not strand a working VM in the RUNNING poll solely on inventory metadata.
-	if !strings.EqualFold(state, "RUNNING") && !strings.EqualFold(state, "UNKNOWN") {
+	recoverUnknown := failedVM == vmID && strings.EqualFold(state, "UNKNOWN") &&
+		strings.EqualFold(asString(info["status"]), "assigned") && strings.Trim(vmID, "0-") != ""
+	if recoverUnknown || (!strings.EqualFold(state, "RUNNING") && !strings.EqualFold(state, "UNKNOWN")) {
 		if err := opts.wakeVM(ctx, vmID); err != nil {
 			return nil, err
 		}
@@ -108,7 +116,7 @@ func Bootstrap(ctx context.Context, opts SessionOptions) (*Session, error) {
 					endpoint = ep
 				}
 				state = asString(info["vm_state"])
-				if strings.EqualFold(state, "RUNNING") {
+				if strings.EqualFold(state, "RUNNING") || (recoverUnknown && strings.EqualFold(state, "UNKNOWN")) {
 					break
 				}
 			}
@@ -171,7 +179,7 @@ func Bootstrap(ctx context.Context, opts SessionOptions) (*Session, error) {
 	if wsURL == "" {
 		wsURL = "wss://" + lbHost + wsPath + "?" + params.Encode()
 	}
-	return &Session{VMID: vmID, Endpoint: endpoint, AuthToken: authToken, Notary: notary, WSURL: wsURL, Cookies: opts.Cookies, CookieExpiry: opts.CookieExpiry}, nil
+	return &Session{VMID: vmID, InventoryUnknown: strings.EqualFold(state, "UNKNOWN"), Endpoint: endpoint, AuthToken: authToken, Notary: notary, WSURL: wsURL, Cookies: opts.Cookies, CookieExpiry: opts.CookieExpiry}, nil
 }
 
 func (o *SessionOptions) requestJSON(ctx context.Context, method, path string, body any) (map[string]any, error) {

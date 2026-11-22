@@ -12,6 +12,8 @@ import (
 	"github.com/gorilla/websocket"
 )
 
+var errGatewayUnavailable = errors.New("gateway upgrade unavailable")
+
 // Only retry an explicitly rejected WebSocket upgrade, before a connection
 // exists. A connected session, generation request, or uncertain send is never replayed here.
 func openGatewaySocket(ctx context.Context, endpoint string, dialer *websocket.Dialer, delays []time.Duration) (*websocket.Conn, error) {
@@ -27,8 +29,14 @@ func openGatewaySocket(ctx context.Context, endpoint string, dialer *websocket.D
 			_ = response.Body.Close()
 		}
 		failure := fmt.Errorf("gateway dial: %w (%s)", err, response.Status)
-		if !errors.Is(err, websocket.ErrBadHandshake) || response.StatusCode != http.StatusBadGateway || attempt >= len(delays) {
+		if !errors.Is(err, websocket.ErrBadHandshake) || response.StatusCode != http.StatusBadGateway {
 			return nil, failure
+		}
+		if attempt >= len(delays) {
+			if response.Header.Get("Retry-After") != "" {
+				return nil, failure
+			}
+			return nil, fmt.Errorf("%w: %w", errGatewayUnavailable, failure)
 		}
 		delay := delays[attempt]
 		if value := strings.TrimSpace(response.Header.Get("Retry-After")); value != "" {

@@ -1,10 +1,10 @@
 # Bàn giao sản xuất trên PC mới
 
-## D007 · This Deep-Sea Hunter Is a Colony
+## D008 · Why Are There Lakes on the Seafloor?
 
-D007 toàn tập 09:16 en-US chờ chủ kênh duyệt. Đã mở lại MP4 trong MPC-HC và xác nhận chỉ còn phụ đề trong hình. SRT nằm riêng ở accessibility-upload. Hai thumbnail AI đã kiểm ở 160×90: A “WHY RED?” là bản mặc định, B “WHO’S STEERING?” là phương án hai.
+Trên máy dựng, mở workspace `E:\YOUTUBE` và đọc checkpoint Abyss Fieldnotes. Dựng lại D008 từ đoạn mở và nhạc B đã duyệt, đối chiếu các cảnh cần Muse trong storyboard, kiểm bản mã hóa và lưu bản mới cạnh `full-v1`. [Checkpoint](channels/abyss-fieldnotes/CHECKPOINT.md) · [Quy trình dựng](channels/abyss-fieldnotes/RENDER.md)
 
-Phiên kế tiếp bắt đầu D008 · Why Are There Lakes on the Seafloor? Đọc đề cương D008 và quy trình dựng Abyss Fieldnotes. Việc đầu tiên là chọn một hồ nước muối sâu có tư liệu NOAA, đối chiếu nguồn về độ mặn, khối lượng riêng và sinh vật ở rìa tại đúng địa điểm, rồi viết đoạn mở en-US theo góc nhìn của ROV. [Checkpoint](channels/abyss-fieldnotes/CHECKPOINT.md)
+Tệp dựng và media D008 nằm trong `E:\YOUTUBE\abyss-studio\production\episodes\D008`. Bản kiểm backend dài 10 giây đã giải mã đủ 240 khung. [Biên bản](episodes/D008/backend-retest/verification.json)
 
 ## SB09 · The Stolen Label
 

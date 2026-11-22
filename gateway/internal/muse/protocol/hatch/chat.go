@@ -158,22 +158,32 @@ func (c *Client) connect(ctx context.Context, credentials map[string]string) (*C
 		c.registered = false
 		c.connKey = ""
 	}
-	session, err := Bootstrap(ctx, SessionOptions{
+	opts := SessionOptions{
 		BaseURL: c.site,
 		Cookies: credentials,
 		Client:  c.httpClient,
 		WSURL:   c.wsURL,
-	})
+	}
+	session, err := Bootstrap(ctx, opts)
 	if err != nil {
 		return nil, err
 	}
 	// Bootstrap can rotate hatch_sess/device cookies. Fingerprint the post-
 	// bootstrap set so the next turn does not reconnect on every request.
-	key = credentialFingerprint(session.Cookies)
 	conn, err := DialWithDialer(ctx, session.WSURL, c.dialer)
+	if errors.Is(err, errGatewayUnavailable) && session.InventoryUnknown {
+		// A fresh inventory request must confirm ownership before a wake.
+		// Re-acquire admission after that single wake, before submitting chat or media.
+		session, err = bootstrap(ctx, opts, session.VMID)
+		if err != nil {
+			return nil, fmt.Errorf("gateway recovery: %w", err)
+		}
+		conn, err = DialWithDialer(ctx, session.WSURL, c.dialer)
+	}
 	if err != nil {
 		return nil, err
 	}
+	key = credentialFingerprint(session.Cookies)
 	c.conn = conn
 	c.session = session
 	c.registered = false

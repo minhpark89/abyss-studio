@@ -1,0 +1,38 @@
+{
+  "episode": "D008",
+  "scope": "full_episode",
+  "file": "D008.mp4",
+  "sha256": "9d43beecc64b7f812b3d8092d7746227a1045698fa96297effb2d81ed84c0fa2",
+  "bytes": 284308192,
+  "duration_s": 530.2916666666667,
+  "frames": 12727,
+  "fps": "24/1",
+  "size": [
+    1920,
+    1080
+  ],
+  "audio_duration_s": 530.291,
+  "video": "h264",
+  "audio": "aac",
+  "complete_decode": true,
+  "faststart": true,
+  "lufs": -16.42,
+  "dbtp": -1.59,
+  "language": {
+    "market": "US",
+    "language": "en-US",
+    "streams": {
+      "D008.mp4": [
+        [
+          "audio",
+          "eng"
+        ]
+      ]
+    },
+    "sidecars": [
+      "D008-en-US.srt"
+    ]
+  },
+  "caption_cues": 193,
+  "scene_count": 73
+}

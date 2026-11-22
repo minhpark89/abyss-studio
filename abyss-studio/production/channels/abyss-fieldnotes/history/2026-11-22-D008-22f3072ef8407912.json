@@ -1,0 +1,254 @@
+{
+  "slug": "abyss-fieldnotes",
+  "name": "Abyss Fieldnotes",
+  "prefix": "D",
+  "date": "2026-11-22",
+  "episode": "D008",
+  "title": "Why Are There Lakes on the Seafloor?",
+  "language": "en-US",
+  "market": "US",
+  "status": "Backend Muse đã phục hồi đường tạo video trong lần kiểm D008. Cùng tài khoản: bản cũ gặp 502, bản sửa đã tải và giải mã đủ 240 khung của clip mới 10 giây ở 720p24. D008 toàn tập hiện vẫn là full-v1 08:50.",
+  "publication": "D001–D006 đã đăng. Theo chủ kênh, D007 đã chuyển khỏi công khai và chờ đăng lúc 23:00 ngày 22/11/2026, giờ Việt Nam.",
+  "next": "Phiên sau dựng lại D008 từ bản mở và phương án nhạc đã duyệt. Đối chiếu cảnh cần Muse trong storyboard, kiểm chất lượng cảnh mới rồi xuất bản dài mới cạnh full-v1.",
+  "jobs": [],
+  "decisions": [
+    "Mục tiêu sản xuất một video mỗi ngày, dài 8–10 phút cho khán giả Mỹ. Lịch đăng do chủ kênh quyết định.",
+    "Mỗi tập trả lời một câu hỏi về biển sâu. Kết hợp cảnh Muse chuyển động thật, hình giải thích dựng bằng mã và tư liệu có nguồn. Chữ và phụ đề trong gói đăng dùng tiếng Anh Mỹ.",
+    "D004 dài 8 phút 59 giây. Hai thumbnail cho cùng một tựa là “SEE WITH SOUND?” và “WHY THE BUZZ?”. Bản dựng trước và hồ sơ D003 vẫn dùng để tra lịch sử.",
+    "Chủ kênh yêu cầu dựng mẫu mở đầu D005 để duyệt trước khi giao toàn tập.",
+    "Từ D006, cho hook dài và cuốn hơn một chút: thêm một nhịp quan sát hoặc dự đoán có hình ảnh trước lần trả lời đầu tiên. D005 dùng đúng đoạn mở đã duyệt.",
+    "Lấy D003 AFTER THE FALL làm tham chiếu thumbnail: một chủ thể đọc được ở kích cỡ điện thoại, một chi tiết khơi câu hỏi, chữ rất ngắn. Ảnh Studio ghi 167 lượt xem, chưa có CTR hay nguồn truy cập.",
+    "Chủ kênh đã duyệt mẫu mở D005 và giao dựng toàn tập ngày 20/11/2026. Bản dài giữ đủ 1.455 khung hình của mẫu.",
+    "Từ D006, mỗi phần nội dung có ít nhất một thẻ ảnh tư liệu bám đúng lời kể. Dùng bố cục ảnh lớn viền giấy sáng như mẫu Daikoku, chú thích en-US và credit nguồn/quyền. Kiểm từng thẻ trên MP4 ở kích thước điện thoại.",
+    "Chủ kênh yêu cầu thumbnail D005 rùng rợn hơn. Bản A “ARE THOSE TEETH?” dùng cấu tạo mặt trong tay mực. Bản B “OUT FOR BLOOD?” dùng màn da cong và mắt. Cả hai dùng bản vẽ khoa học năm 1910.",
+    "D006 chỉ dựng khoảng ba phút mở đầu để chủ kênh kiểm.",
+    "Chủ kênh đồng ý bố cục D006, yêu cầu dựng cá mập sát thực tế hơn và làm toàn tập.",
+    "Chủ kênh đã duyệt D006 toàn tập 09:18 sau khi sửa mô hình cá mập Greenland.",
+    "Theo góp ý của chủ kênh, D006 có hai thumbnail mới: A “ALIVE IN 1776?” làm bản mặc định và B “ONE TINY CLUE” để so sánh. Chưa chạy thử A/B.",
+    "Sau mỗi mốc công việc, cập nhật bảng kênh và lưu checkpoint. [Mở bảng theo dõi và sao chép nội dung D006](http://127.0.0.1:4320/fieldnotes?episode=D006).",
+    "Chủ kênh tự nhập JSON OAuth Desktop app và cấp quyền cho Abyss Fieldnotes. Task Windows phân tích lúc 08:00 giờ Việt Nam. [Báo cáo hằng ngày](http://127.0.0.1:4320/fieldnotes#youtube).",
+    "File OAuth Desktop app đã lưu trên PC. Chủ kênh mở [Kết nối Google](http://127.0.0.1:4320/fieldnotes#yt-setup) và bấm Cấp quyền Google. Nếu đã đóng cửa sổ Google, chọn Mở lại Google hoặc Hủy chờ.",
+    "Bảng báo cáo dùng chung file OAuth đã nhập. Chọn tài khoản và kênh trên Google rồi theo dõi theo mã kênh. Có thể bật vidIQ MCP chỉ đọc từng kênh.",
+    "Mở Quản lý kênh YouTube ngay từ màn hình chính để xem số liệu. Tab Kết nối giữ phần thiết lập Google và vidIQ. File OAuth đã lưu, chủ kênh xác nhận Google để đọc Analytics.",
+    "D007 dùng hai thumbnail AI nguyên bản. A “WHY RED?” là bản mặc định, B “WHO’S STEERING?” dùng để so sánh. Khi mở MP4 tại thư mục bằng MPC-HC, dùng chữ đã có trong khung hình. Tệp SRT để đăng nằm riêng trong accessibility-upload.",
+    "Chủ kênh đánh giá đoạn mở D008 khá ổn và yêu cầu bổ sung music nền có nhịp vào ra theo nội dung, lời đọc và kịch bản. Đang nghe thử bản B.",
+    "Chủ kênh duyệt màu nhạc của mẫu B D008 và giao dựng toàn tập. Kiểm lịch sau D008 bằng video viral thực tế và so thumbnail đối thủ.",
+    "Chủ kênh xác nhận Muse web vẫn tạo tốt, giao sửa backend và kiểm một clip thật. Để việc render lại D008 sang phiên sau."
+  ],
+  "queue": [
+    {
+      "episode": "D009",
+      "title": "Where Does a Stubby Squid Go When It Hides?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D010",
+      "title": "Can You Find the Second Anglerfish?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D011",
+      "title": "Who Lit Up This Deep-Sea Jelly?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D012",
+      "title": "Watch a Giant Isopod Come In for a Landing",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể."
+    },
+    {
+      "episode": "D013",
+      "title": "Which End of This Gulper Eel Is the Mouth?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D014",
+      "title": "What Feeds a Tubeworm With No Mouth?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D015",
+      "title": "How Far Can a Goblin Shark Move Its Bite?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D016",
+      "title": "Can You Read a Humboldt Squid's Skin?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể."
+    },
+    {
+      "episode": "D017",
+      "title": "Why Does This Squid Hold Its Arms Like Elbows?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D018",
+      "title": "How Close Is an Anglerfish's Light to Its Teeth?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D019",
+      "title": "How Does a Dumbo Octopus Steer With Its Fins?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D020",
+      "title": "Why Does the Giant Phantom Jelly Trail Four Ribbons?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D021",
+      "title": "When Does a Red Animal Disappear in the Ocean?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể."
+    },
+    {
+      "episode": "D022",
+      "title": "Why Would One Fish Chase a Light and Another Hide Behind It?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể."
+    },
+    {
+      "episode": "D023",
+      "title": "What Could a Tag Tell Us After This Shark Leaves the Sub?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D024",
+      "title": "Why Doesn't a Trench Snailfish Collapse?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D025",
+      "title": "How Did Researchers Know This Octopus Stayed for 53 Months?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D026",
+      "title": "Who Gets a Whale Before It Reaches the Seafloor?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D027",
+      "title": "Can You Identify a Ghost Shark From Its Face?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi chủ đề."
+    },
+    {
+      "episode": "D028",
+      "title": "Why Do a Frilled Shark's Teeth Point Backward?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể."
+    },
+    {
+      "episode": "D029",
+      "title": "Who Rides the Ocean's Night Shift?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Giữ câu hỏi chính."
+    },
+    {
+      "episode": "D030",
+      "title": "How Did a Camera Finally Meet a Living Giant Squid?",
+      "status": "Có kịch bản en-US và video đối thủ đã kiểm. Đổi góc kể."
+    }
+  ],
+  "master": {
+    "kind": "full",
+    "file": "production/episodes/D008/full-v1/delivery/D008.mp4",
+    "report": "production/episodes/D008/full-v1/qa/master.json"
+  },
+  "upload_manifest": "production/episodes/D008/full-v1/delivery/manifest.json",
+  "links": {
+    "D008 · So sánh nhạc A/B": "production/episodes/D008/music-v1/delivery/review.html",
+    "D008 · Khảo sát cách dựng nhạc đa niche": "production/episodes/D008/music-v1/research-vi.html",
+    "D008 · Kiểm nhạc trên MP4": "production/episodes/D008/music-v1/qa/master.json",
+    "D008 · Đo bắt phách và co giãn": "production/episodes/D008/music-v1/qa/retiming-benchmark.json",
+    "Phòng xem D008": "production/episodes/D008/opening-v1/delivery/review.html",
+    "Nguồn phim và ảnh D008": "production/episodes/D008/opening-v1/delivery/credits.json",
+    "Kiểm hình và điểm cắt D008": "production/episodes/D008/opening-v1/qa/editorial.json",
+    "Phát đến cuối D008": "production/episodes/D008/opening-v1/qa/player.json",
+    "Đối chiếu hai biên nhận Muse D008": "production/episodes/D008/opening-v1/qa/muse-reconciliation.json",
+    "Đề cương D008 cho phiên kế tiếp": "production/episodes/D008/BRIEF.md",
+    "D007 · Đối chiếu hai thumbnail AI trên điện thoại": "production/episodes/D007/full-v1/qa/thumbnail-mobile-160.jpg",
+    "D007 · Kiểm khung hình từ tệp và bản tải": "production/episodes/D007/full-v1/qa/native-caption-frames.json",
+    "Phòng xem toàn tập D007": "production/episodes/D007/full-v1/delivery/review.html",
+    "Tựa D007": "production/episodes/D007/full-v1/delivery/title-en.txt",
+    "Mô tả và nguồn D007": "production/episodes/D007/full-v1/delivery/description-en.txt",
+    "Phụ đề Anh Mỹ toàn tập D007": "production/episodes/D007/full-v1/delivery/accessibility-upload/D007-en-US.srt",
+    "Thumbnail A D007": "production/episodes/D007/full-v1/delivery/thumbnail-A.jpg",
+    "Thumbnail B D007": "production/episodes/D007/full-v1/delivery/thumbnail-B.jpg",
+    "Kiểm phát cả tập D007": "production/episodes/D007/full-v1/qa/player.json",
+    "Phòng xem D007": "production/episodes/D007/opening-v1/delivery/review.html",
+    "Phụ đề D007": "production/episodes/D007/opening-v1/delivery/D007-en-US.srt",
+    "Hình và âm trên MP4 D007": "production/episodes/D007/opening-v1/qa/editorial.json",
+    "Phát đến cuối D007": "production/episodes/D007/opening-v1/qa/player.json",
+    "Nguồn D007": "production/episodes/D007/opening-v1/delivery/credits.json",
+    "Xác nhận D006 đã đăng": "production/channels/abyss-fieldnotes/evidence/publication-d006-2026-11-22.json",
+    "Bàn giao phiên quản lý YouTube và cách chẩn đoán lỗi": "production/channels/abyss-fieldnotes/YOUTUBE_MANAGER_HANDOFF.md",
+    "Xem D006 toàn tập và tải bộ đăng": "production/episodes/D006/full-v1/delivery/review.html",
+    "So sánh cá mập trước và sau trên MP4": "production/episodes/D006/full-v1/qa/shark-comparison.jpg",
+    "Nguồn ảnh, quyền và dữ kiện D006": "production/episodes/D006/full-v1/delivery/rights-and-sources.json",
+    "Kiểm phát D006 toàn tập": "production/episodes/D006/full-v1/qa/player.json",
+    "Ảnh tư liệu D006 sau mã hóa": "production/episodes/D006/full-v1/qa/encoded-photo-cards.jpg",
+    "Phòng xem đoạn mở D006": "production/episodes/D006/opening-v1/delivery/review.html",
+    "Thẻ ảnh tư liệu, nguồn và quyền D006": "production/episodes/D006/opening-v1/delivery/credits.json",
+    "Phụ đề D006": "production/episodes/D006/opening-v1/delivery/D006-en-US.srt",
+    "Kiểm hình D006 sau mã hóa": "production/episodes/D006/opening-v1/qa/editorial.json",
+    "Kiểm phát toàn mẫu D006": "production/episodes/D006/opening-v1/qa/player.json",
+    "Biên bản bộ duyệt D006": "production/episodes/D006/opening-v1/qa/opening-manifest.json",
+    "Mở hướng dẫn và toàn bộ gói đăng D004": "production/episodes/D004/full-v3/upload-ab/delivery/upload.html",
+    "Tựa đăng D004": "production/episodes/D004/full-v3/upload-ab/delivery/title-en.txt",
+    "Phòng xem D004": "production/episodes/D004/full-v3/delivery/review.html",
+    "Bản ghi nguồn và quyền sử dụng của D004": "production/episodes/D004/full-v3/upload-ab/delivery/rights-and-sources.json",
+    "Thứ tự sản xuất D001–D030": "production/content-plan.json",
+    "Đề cương D005": "production/episodes/D005/BRIEF.md",
+    "Kịch bản mẫu D005": "production/episodes/D005/hook-v1/script-en.txt",
+    "Nguồn kiểm chứng D005": "production/episodes/D005/hook-v1/facts.json",
+    "Đối chiếu các tác vụ Muse D005": "production/episodes/D005/hook-v1/muse/verification.json",
+    "Phòng xem mẫu mở đầu D005": "production/episodes/D005/hook-v1/delivery/review.html",
+    "Phụ đề tiếng Anh D005": "production/episodes/D005/hook-v1/delivery/D005-en-US.srt",
+    "Mốc kiểm cảnh và âm thanh": "production/episodes/D005/hook-v1/qa/review.json",
+    "Tệp bàn giao và SHA-256 của mẫu": "production/episodes/D005/hook-v1/qa/opening-manifest.json",
+    "Bằng chứng công khai D001–D004 và số view trong ảnh": "production/channels/abyss-fieldnotes/evidence/publication-2026-11-20.json",
+    "Ảnh YouTube Studio do chủ kênh cung cấp": "production/channels/abyss-fieldnotes/evidence/studio-content-2026-11-20.png",
+    "Dàn cảnh toàn tập D005": "production/episodes/D005/full-v1/storyboard.json",
+    "Quy chuẩn hook từ D006 và nhịp kể": "production/HUMAN_STORYTELLING.md",
+    "Đối chiếu phong cách thumbnail D003": "production/THUMBNAIL_PLAYBOOK.md",
+    "So thumbnail ở 320×180 và 160×90": "production/episodes/D005/full-v1/qa/thumbnail-mobile.jpg",
+    "Biên nhận bốn cảnh Muse mới D005": "production/episodes/D005/full-v1/qa/muse-verified.json",
+    "Phòng xem và bộ đăng D005 toàn tập": "production/episodes/D005/full-v1/delivery/review.html",
+    "Phụ đề tiếng Anh toàn tập": "production/episodes/D005/full-v1/delivery/D005-en-US.srt",
+    "Thumbnail A đề xuất": "production/episodes/D005/full-v1/delivery/thumbnail-A.jpg",
+    "Thumbnail B": "production/episodes/D005/full-v1/delivery/thumbnail-B.jpg",
+    "Tựa": "production/episodes/D005/full-v1/delivery/title-en.txt",
+    "Mô tả và chương": "production/episodes/D005/full-v1/delivery/description-en.txt",
+    "Quyền và nguồn tư liệu D005": "production/episodes/D005/full-v1/delivery/rights-and-sources.json",
+    "Kết quả xem lại bản mã hóa": "production/episodes/D005/full-v1/qa/editorial-review.json",
+    "Kết quả phát từ đầu đến cuối": "production/episodes/D005/full-v1/qa/player.json",
+    "Quy chuẩn thẻ ảnh tư liệu cho từng phần từ D006": "production/channels/abyss-fieldnotes/RENDER.md",
+    "Mẫu thẻ tư liệu Daikoku của chủ kênh": "production/channels/abyss-fieldnotes/evidence/owner-reference-archive-card-daikoku-2026-11-20.png",
+    "Nguồn hai bản vẽ cho thumbnail D005": "production/episodes/D005/full-v1/thumbnail-v2/archival-sources.json",
+    "Lời hứa và bản đề xuất của hai thumbnail": "production/episodes/D005/full-v1/delivery/thumbnail-test.json",
+    "Đối chiếu biên nhận Muse cho thử nghiệm thumbnail": "production/episodes/D005/full-v1/thumbnail-v2/muse-reconciliation.json",
+    "Ý kiến duyệt D006 toàn tập": "production/episodes/D006/full-v1/qa/owner-approval.json",
+    "Thumbnail D006 A · ALIVE IN 1776?": "production/episodes/D006/full-v1/delivery/thumbnail-A.jpg",
+    "Thumbnail D006 B · ONE TINY CLUE": "production/episodes/D006/full-v1/delivery/thumbnail-B.jpg",
+    "Đối chiếu hai thumbnail D006 ở cỡ điện thoại": "production/episodes/D006/full-v1/qa/thumbnail-mobile.jpg",
+    "Xác nhận D005 trên feed kênh": "production/channels/abyss-fieldnotes/evidence/publication-2026-11-21.json",
+    "Title đăng D006": "production/episodes/D006/full-v1/delivery/title-en.txt",
+    "Description và credit D006": "production/episodes/D006/full-v1/delivery/description-en.txt",
+    "Kiểm cổng theo dõi và bộ đăng D006": "production/channels/abyss-fieldnotes/evidence/posting-board-2026-11-21.json",
+    "Kiểm nút hiện MP4, kết nối YouTube và lịch hằng ngày": "production/channels/abyss-fieldnotes/evidence/youtube-api-and-render-files-2026-11-21.json",
+    "Kiểm khôi phục khi đóng cửa sổ Google": "production/channels/abyss-fieldnotes/evidence/oauth-wait-recovery-2026-11-21.json",
+    "Kiểm quản lý nhiều kênh và vidIQ MCP": "production/channels/abyss-fieldnotes/evidence/youtube-multichannel-vidiq-2026-11-21.json",
+    "Kiểm màn hình quản lý và thống kê YouTube": "production/channels/abyss-fieldnotes/evidence/youtube-manager-ui-2026-11-21.json",
+    "Kiểm phụ đề D007 trong MPC-HC": "production/episodes/D007/full-v1/qa/native-captions-after.json",
+    "Phòng duyệt D008 toàn tập": "production/episodes/D008/full-v1/delivery/review.html",
+    "Thumbnail A D008": "production/episodes/D008/full-v1/delivery/thumbnail-A.jpg",
+    "Thumbnail B D008": "production/episodes/D008/full-v1/delivery/thumbnail-B.jpg",
+    "Tựa D008": "production/episodes/D008/full-v1/delivery/title-en.txt",
+    "Mô tả D008": "production/episodes/D008/full-v1/delivery/description-en.txt",
+    "D008 · kiểm đồng bộ": "production/episodes/D008/full-v1/qa/synchrony.json",
+    "D008 · phát toàn tập": "production/episodes/D008/full-v1/qa/player.json",
+    "Rà soát 22 kịch bản và đối thủ": "production/episodes/D008/full-v1/slate-review.html",
+    "D009 · kịch bản đầu hàng chờ": "production/episodes/D009/script-v1/script-en-US.txt",
+    "D009 · thumbnail đề xuất": "production/episodes/D009/script-v1/thumbnail-A.jpg",
+    "D008 · Biên nhận và kiểm backend Muse": "production/episodes/D008/backend-retest/verification.json",
+    "D008 · Clip kiểm Muse sau sửa": "production/episodes/D008/backend-retest/repaired.mp4"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "episode": "D008",
+  "title": "Why Are There Lakes on the Seafloor?",
+  "language": "en-US",
+  "market": "US",
+  "version": "full-v1",
+  "status": "local_owner_review",
+  "master_qa": "57fbccee898c5f311e9fe2e8a8c269fd7aa95c01afef85b08a930b9c7b04ca18",
+  "files": [
+    {
+      "path": "accessibility-upload/D008-en-US.srt",
+      "sha256": "8cc1b40ebdf446b3f87eb97da5e88a3e45b0ec371bff59ad5413e18263394d75",
+      "bytes": 14642
+    },
+    {
+      "path": "chapters.txt",
+      "sha256": "32055448cae9ae508c6c3f2e483a3803509e354ed630523c8d81c3f17392ed82",
+      "bytes": 210
+    },
+    {
+      "path": "D008.mp4",
+      "sha256": "9d43beecc64b7f812b3d8092d7746227a1045698fa96297effb2d81ed84c0fa2",
+      "bytes": 284308192
+    },
+    {
+      "path": "description-en.txt",
+      "sha256": "2f335c0dce8ea47997943187ae96503b4a54250e5a8f4b6cd427de724bdef766",
+      "bytes": 1456
+    },
+    {
+      "path": "metadata.json",
+      "sha256": "542f9b8461bb08037edef079687941c303234fd857aa6cc00bba84718ef57bbe",
+      "bytes": 218
+    },
+    {
+      "path": "poster.jpg",
+      "sha256": "c8af8cedd28aa9558f84edcabbf1ae8201ce75d11bdd7c5ffd253fc5b34ae695",
+      "bytes": 84117
+    },
+    {
+      "path": "review.html",
+      "sha256": "a8feebeed40522453e5747dd848b028bfc3c2998a935fc78a5ff35bae342f3d4",
+      "bytes": 2108
+    },
+    {
+      "path": "rights-and-sources.json",
+      "sha256": "ce8c99a891bc2939764a43f65fc832eaf83701affb85b5d694b6791ee7cb4bff",
+      "bytes": 5129
+    },
+    {
+      "path": "thumbnail-A.jpg",
+      "sha256": "1681803b1812731a58bbba93e798efa41f7979bdfc62b8d6bc7e26b75b803b8f",
+      "bytes": 254880
+    },
+    {
+      "path": "thumbnail-B.jpg",
+      "sha256": "465f22370fc0955452a3905b4aaebc9f06e354d11769c32173dd6effad10972d",
+      "bytes": 225135
+    },
+    {
+      "path": "title-en.txt",
+      "sha256": "7b1e09db850430412e6ac257579b6b071cb530d668dabd13e0dcac7f3858a0cf",
+      "bytes": 38
+    },
+    {
+      "path": "YOUTUBE_UPLOAD.md",
+      "sha256": "13ce65db2a6c650aa69857c5fdd74283acc0fd9ce34ac93217d695ccab4bbb3a",
+      "bytes": 307
+    }
+  ]
+}
