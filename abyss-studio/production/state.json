@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T07:26:31+00:00",
+  "updated_at": "2026-11-22T12:37:10+00:00",
   "active_episode": "D007",
   "format": {
     "language": "en-US",
@@ -1055,6 +1055,16 @@
         "version": "revision-v9",
         "scope": "Muse-led cinematic film; concise essential mechanism diagrams; model-generated branded thumbnails.",
         "review_file": "production/episodes/D002/revision-v9/delivery/D002-v9-captioned.mp4",
+        "thumbnails": [
+          {
+            "path": "production/episodes/D002/revision-v9/thumbnails/D002-thumbnail-A.jpg",
+            "sha256": "86dedd73cd8b3480e338a4c375e7c58a2201f8fd23315c9355c7d0e50dbd29f3"
+          },
+          {
+            "path": "production/episodes/D002/revision-v9/thumbnails/D002-thumbnail-B.jpg",
+            "sha256": "196fce05fd6003f56adeca18ff1ba1d7f45dc804b0987d410ed2c7645ea8acc8"
+          }
+        ],
         "owner_acceptance": "accepted_for_current_episode_with_2d_deferred",
         "next_action_vi": "D002 v9 giữ nguyên để anh tự đăng bằng bộ title/description đã chuẩn bị. Tối ưu 2D từ tập sau; phiên mới tiếp tục D003 C1_facts.",
         "upload_package": {
@@ -1254,6 +1264,18 @@
         "scope": "Complete the entire 589.366667-second en-US episode for owner review, with photorealistic moving Muse scenes and code-drawn explanations.",
         "review_page": "production/episodes/D003/hybrid-full-v4/delivery/review.html",
         "review_file": "production/episodes/D003/hybrid-full-v4/delivery/D003-final-captioned.mp4",
+        "thumbnails": [
+          {
+            "path": "production/episodes/D003/hybrid-full-v4/thumbnails/D003-thumbnail-A.jpg",
+            "sha256": "4dc46ad98b9eacc0c701827378a1f7e2978344d1cd41b2d8fe808e0f27825c46",
+            "bytes": 322978
+          },
+          {
+            "path": "production/episodes/D003/hybrid-full-v4/thumbnails/D003-thumbnail-B.jpg",
+            "sha256": "e0f38f38d5854c5ee34e0d74602bc2e92ddb565d6418196362e82cdb31ba8942",
+            "bytes": 300024
+          }
+        ],
         "owner_acceptance": "pending",
         "next_action_vi": "Chủ kênh xem/nghe toàn tập D003 v4 và ghi phản hồi theo timestamp; sửa đúng đoạn khi có phản hồi.",
         "upload_package": {
@@ -1443,6 +1465,18 @@
         "audience_market": "US",
         "review_page": "production/episodes/D004/full-v3/delivery/review.html",
         "review_file": "production/episodes/D004/full-v3/delivery/D004.mp4",
+        "thumbnails": [
+          {
+            "path": "production/episodes/D004/full-v3/upload-ab/delivery/thumbnail-A.jpg",
+            "sha256": "a4cbcd12d484868965b61ccebf2221308e69109104e15ca9f4bfa19215152b64",
+            "bytes": 308565
+          },
+          {
+            "path": "production/episodes/D004/full-v3/upload-ab/delivery/thumbnail-B.jpg",
+            "sha256": "d04b2721be5e2c39bdd4e22a4e9ed47c25621649d8dcd92ca3075a47bfc49fd0",
+            "bytes": 263948
+          }
+        ],
         "owner_acceptance": "pending_full_v3",
         "next_action_vi": "Chủ kênh tự đăng D004 từ gói US và ghi nhận thử thumbnail sau khi có dữ liệu YouTube.",
         "upload_package": {
@@ -1628,6 +1662,18 @@
         "audience_market": "US",
         "review_page": "production/episodes/D005/full-v1/delivery/review.html",
         "review_file": "production/episodes/D005/full-v1/delivery/D005.mp4",
+        "thumbnails": [
+          {
+            "path": "production/episodes/D005/full-v1/delivery/thumbnail-A.jpg",
+            "sha256": "b12d294666f99ac9fcb27ea5c953e635802c9736a086deee589aa3bc44c9ff87",
+            "bytes": 299039
+          },
+          {
+            "path": "production/episodes/D005/full-v1/delivery/thumbnail-B.jpg",
+            "sha256": "449a9f9bc6b5c3fd3f0467f09b9ed03f806468774bffb8d50377c171a48e793d",
+            "bytes": 254257
+          }
+        ],
         "owner_acceptance": "pending_full",
         "next_action_vi": "Theo dõi hiệu suất D005 trong mục Đăng & hiệu suất.",
         "upload_package": {
@@ -1830,6 +1876,10 @@
         "audience_market": "US",
         "review_page": "production/episodes/D006/full-v1/delivery/review.html",
         "review_file": "production/episodes/D006/full-v1/delivery/D006.mp4",
+        "thumbnails": [
+          "production/episodes/D006/full-v1/delivery/thumbnail-A.jpg",
+          "production/episodes/D006/full-v1/delivery/thumbnail-B.jpg"
+        ],
         "owner_acceptance": "accepted",
         "next_action_vi": "Gói D006 đã sẵn sàng để chủ kênh tự đăng.",
         "upload_package": "production/episodes/D006/full-v1/delivery",
@@ -1948,7 +1998,7 @@
             },
             {
               "path": "production/episodes/D007/full-v1/delivery/rights-and-sources.json",
-              "sha256": "7b9955d3bb573d19b054a7c113090bcf3c5828d62225ada635d08c3d2e200a2f"
+              "sha256": "1d62d4194767c3e73c0aff6f6a428ad6d60b5605dba186e733f800fa9c76a56f"
             }
           ]
         },
@@ -1979,6 +2029,18 @@
             {
               "path": "production/episodes/D007/full-v1/qa/editorial.json",
               "sha256": "f96465a3a37f5fc4860cdd3a320281efb2c604c1782e7925fec9c87dfd6fe828"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/qa/native-captions-before.json",
+              "sha256": "d0776750222837d8a2b9abe2e794df79e256da77af0084ff78c8f9ed0033945c"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/qa/native-captions-after.json",
+              "sha256": "0417bca14643bc30c145afba054d27e98b940fe2060e68679092b1c1ba4d4cd7"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/qa/native-caption-frames.json",
+              "sha256": "aeb72c134cdc1e24af321db61b4235d9b28845f222e73143e697e180eaa9268d"
             }
           ]
         },
@@ -2007,17 +2069,21 @@
         "release_language": "en-US",
         "review_page": "production/episodes/D007/full-v1/delivery/review.html",
         "review_file": "production/episodes/D007/full-v1/delivery/D007.mp4",
+        "thumbnails": [
+          "production/episodes/D007/full-v1/delivery/thumbnail-A.jpg",
+          "production/episodes/D007/full-v1/delivery/thumbnail-B.jpg"
+        ],
         "owner_acceptance": "pending_full",
-        "next_action_vi": "Chủ kênh xem D007 09:16 và duyệt bản dài trước khi tự đăng. Tập kế tiếp là D008.",
+        "next_action_vi": "Phiên kế tiếp bắt đầu D008 · Why Are There Lakes on the Seafloor? Đọc đề cương D008 và quy trình dựng Abyss Fieldnotes. Việc đầu tiên là chọn một hồ nước muối sâu có tư liệu NOAA, đối chiếu nguồn về độ mặn, khối lượng riêng và sinh vật ở rìa tại đúng địa điểm, rồi viết đoạn mở en-US theo góc nhìn của ROV. D007 đang chờ chủ kênh duyệt.",
         "upload_package": {
           "path": "production/episodes/D007/full-v1/delivery/manifest.json",
-          "sha256": "cd981442ee6b6b4802b2570a58ece3c05cb78eb1e911971bd9e88c0bc087e309",
-          "bytes": 2134
+          "sha256": "09b6d273366bd1926956a2f210ac2c885fcdf8d9bfe1e5efe12e09130f1d8ac8",
+          "bytes": 2156
         },
         "delivery_manifest": {
           "path": "production/episodes/D007/full-v1/delivery/manifest.json",
-          "sha256": "cd981442ee6b6b4802b2570a58ece3c05cb78eb1e911971bd9e88c0bc087e309",
-          "bytes": 2134
+          "sha256": "09b6d273366bd1926956a2f210ac2c885fcdf8d9bfe1e5efe12e09130f1d8ac8",
+          "bytes": 2156
         },
         "human_listening": "pending_owner"
       },

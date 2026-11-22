@@ -4,13 +4,13 @@ Cập nhật ngày 2026-11-22. Thị trường US. Ngôn ngữ bản giao en-US.
 
 ## D007 · This Deep-Sea Hunter Is a Colony
 
-D007 toàn tập 09:16 en-US chờ chủ kênh duyệt. Giữ 1.766 khung mở đã duyệt; thêm 5 cảnh Muse từ thư viện. Ba yêu cầu Muse mới trả 502 và đã xác nhận thất bại.
+D007 toàn tập 09:16 en-US chờ chủ kênh duyệt. Đã mở lại MP4 trong MPC-HC và xác nhận chỉ còn phụ đề trong hình. SRT nằm riêng ở accessibility-upload. Hai thumbnail AI đã kiểm ở 160×90: A “WHY RED?” là bản mặc định, B “WHO’S STEERING?” là phương án hai.
 
 D001–D006 đã đăng. D007 đã dựng toàn tập và đang chờ chủ kênh duyệt.
 
 ## Tiếp tục từ đây
 
-Chủ kênh xem D007 09:16 và duyệt bản dài trước khi tự đăng. Tập kế tiếp là D008.
+Phiên kế tiếp bắt đầu D008 · Why Are There Lakes on the Seafloor? Đọc đề cương D008 và quy trình dựng Abyss Fieldnotes. Việc đầu tiên là chọn một hồ nước muối sâu có tư liệu NOAA, đối chiếu nguồn về độ mặn, khối lượng riêng và sinh vật ở rìa tại đúng địa điểm, rồi viết đoạn mở en-US theo góc nhìn của ROV.
 
 Khi bàn giao, sổ của kênh ghi 0 tác vụ đang chạy.
 
@@ -34,18 +34,22 @@ Khi bàn giao, sổ của kênh ghi 0 tác vụ đang chạy.
 - File OAuth Desktop app đã lưu trên PC. Chủ kênh mở [Kết nối Google](http://127.0.0.1:4320/fieldnotes#yt-setup) và bấm Cấp quyền Google. Nếu đã đóng cửa sổ Google, chọn Mở lại Google hoặc Hủy chờ.
 - Bảng báo cáo dùng chung file OAuth đã nhập. Chọn tài khoản và kênh trên Google rồi theo dõi theo mã kênh. Có thể bật vidIQ MCP chỉ đọc từng kênh.
 - Mở Quản lý kênh YouTube ngay từ màn hình chính để xem số liệu. Tab Kết nối giữ phần thiết lập Google và vidIQ. File OAuth đã lưu, chủ kênh xác nhận Google để đọc Analytics.
+- D007 dùng hai thumbnail AI nguyên bản. A “WHY RED?” là bản mặc định, B “WHO’S STEERING?” dùng để so sánh. Khi mở MP4 tại thư mục bằng MPC-HC, dùng chữ đã có trong khung hình. Tệp SRT để đăng nằm riêng trong accessibility-upload.
 
 ## Các tập tiếp theo
 
-- **D008 · Why Are There Lakes on the Seafloor?.** Đã có đề cương.
+- **D008 · Why Are There Lakes on the Seafloor?.** C0 · Đã có đề cương. Bước kế tiếp là xác minh nguồn cho kịch bản.
 
 ## Tệp để tiếp tục
 
 - [Quy trình dựng của kênh](<RENDER.md>)
+- [Đề cương D008 cho phiên kế tiếp](<../../episodes/D008/BRIEF.md>)
+- [D007 · Đối chiếu hai thumbnail AI trên điện thoại](<../../episodes/D007/full-v1/qa/thumbnail-mobile-160.jpg>)
+- [D007 · Kiểm khung hình từ tệp và bản tải](<../../episodes/D007/full-v1/qa/native-caption-frames.json>)
 - [Phòng xem toàn tập D007](<../../episodes/D007/full-v1/delivery/review.html>)
 - [Tựa D007](<../../episodes/D007/full-v1/delivery/title-en.txt>)
 - [Mô tả và nguồn D007](<../../episodes/D007/full-v1/delivery/description-en.txt>)
-- [Phụ đề Anh Mỹ toàn tập D007](<../../episodes/D007/full-v1/delivery/D007-en-US.srt>)
+- [Phụ đề Anh Mỹ toàn tập D007](<../../episodes/D007/full-v1/delivery/accessibility-upload/D007-en-US.srt>)
 - [Thumbnail A D007](<../../episodes/D007/full-v1/delivery/thumbnail-A.jpg>)
 - [Thumbnail B D007](<../../episodes/D007/full-v1/delivery/thumbnail-B.jpg>)
 - [Kiểm phát cả tập D007](<../../episodes/D007/full-v1/qa/player.json>)
@@ -102,7 +106,6 @@ Khi bàn giao, sổ của kênh ghi 0 tác vụ đang chạy.
 - [Lời hứa và bản đề xuất của hai thumbnail](<../../episodes/D005/full-v1/delivery/thumbnail-test.json>)
 - [Đối chiếu biên nhận Muse cho thử nghiệm thumbnail](<../../episodes/D005/full-v1/thumbnail-v2/muse-reconciliation.json>)
 - [Ý kiến duyệt D006 toàn tập](<../../episodes/D006/full-v1/qa/owner-approval.json>)
-- [Đề cương D007 cho phiên tới](<../../episodes/D007/BRIEF.md>)
 - [Thumbnail D006 A · ALIVE IN 1776?](<../../episodes/D006/full-v1/delivery/thumbnail-A.jpg>)
 - [Thumbnail D006 B · ONE TINY CLUE](<../../episodes/D006/full-v1/delivery/thumbnail-B.jpg>)
 - [Đối chiếu hai thumbnail D006 ở cỡ điện thoại](<../../episodes/D006/full-v1/qa/thumbnail-mobile.jpg>)
@@ -114,6 +117,7 @@ Khi bàn giao, sổ của kênh ghi 0 tác vụ đang chạy.
 - [Kiểm khôi phục khi đóng cửa sổ Google](<evidence/oauth-wait-recovery-2026-11-21.json>)
 - [Kiểm quản lý nhiều kênh và vidIQ MCP](<evidence/youtube-multichannel-vidiq-2026-11-21.json>)
 - [Kiểm màn hình quản lý và thống kê YouTube](<evidence/youtube-manager-ui-2026-11-21.json>)
+- [Kiểm phụ đề D007 trong MPC-HC](<../../episodes/D007/full-v1/qa/native-captions-after.json>)
 - [MP4 toàn tập](<../../episodes/D007/full-v1/delivery/D007.mp4>)
 - [Biên bản kiểm bản xuất](<../../episodes/D007/full-v1/qa/master.json>)
 - [Danh sách và mã kiểm của gói đăng](<../../episodes/D007/full-v1/delivery/manifest.json>)

@@ -121,5 +121,11 @@
     }
   },
   "models": "Original illustrative geometry, scale and light are schematic",
-  "audio": "Original score and Kokoro-82M am_michael US English narration"
+  "audio": "Original score and Kokoro-82M am_michael US English narration",
+  "thumbnails": {
+    "method": "Original AI-generated documentary illustrations",
+    "generator": "OpenAI ImageGen",
+    "A": "Erenna lure and lanternfish",
+    "B": "Colony of swimming bells"
+  }
 }

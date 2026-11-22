@@ -1,0 +1,8 @@
+{
+  "player": "MPC-HC64",
+  "source": "delivery/D007.mp4",
+  "subtitle_track_response": "[Local] D007-en-US.srt\tEnglish|0",
+  "sidecars_beside_movie": [
+    "D007-en-US.srt"
+  ]
+}

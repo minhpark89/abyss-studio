@@ -6,14 +6,14 @@
   "version": "full-v1",
   "files": [
     {
+      "path": "accessibility-upload/D007-en-US.srt",
+      "sha256": "63442eacd9128717f9cb1fbab7584b0e8de45d273f2457e234c2e02f0b1a5ed7",
+      "bytes": 15284
+    },
+    {
       "path": "chapters.txt",
       "sha256": "b5c1615e78a1dc372cb10d0f487eb9c1179d102e0d40294afcb9e985ad01669e",
       "bytes": 197
-    },
-    {
-      "path": "D007-en-US.srt",
-      "sha256": "63442eacd9128717f9cb1fbab7584b0e8de45d273f2457e234c2e02f0b1a5ed7",
-      "bytes": 15284
     },
     {
       "path": "D007.mp4",
@@ -37,23 +37,23 @@
     },
     {
       "path": "review.html",
-      "sha256": "a95e05789160f2d5a0890d414167d36224051bb9186468921795c28aa5324320",
-      "bytes": 1853
+      "sha256": "e7ffeb0c1360a0ad8a5e687fba578b0c266b67dcd988ed8aab287bfaad317b52",
+      "bytes": 2268
     },
     {
       "path": "rights-and-sources.json",
-      "sha256": "7b9955d3bb573d19b054a7c113090bcf3c5828d62225ada635d08c3d2e200a2f",
-      "bytes": 5446
+      "sha256": "1d62d4194767c3e73c0aff6f6a428ad6d60b5605dba186e733f800fa9c76a56f",
+      "bytes": 5652
     },
     {
       "path": "thumbnail-A.jpg",
-      "sha256": "67448f037e97110a54e3ff98d683f790b2acb8ce99a5402cc8e0ea303e210f85",
-      "bytes": 108877
+      "sha256": "249c0f35a86015eeab11549bad5a594447fee79e36cfec1bb7ffae7834bff3c5",
+      "bytes": 190665
     },
     {
       "path": "thumbnail-B.jpg",
-      "sha256": "f21d100a21f67bac69131604f735ea1a75d2e1e245908b34f443842aa8dea113",
-      "bytes": 74788
+      "sha256": "5b9be43e6854604e307de920893c80904104359cd4ec07f9b7575bad5e9d7900",
+      "bytes": 215956
     },
     {
       "path": "title-en.txt",
@@ -62,8 +62,8 @@
     },
     {
       "path": "YOUTUBE_UPLOAD.md",
-      "sha256": "ec1f05f6c4b125fa1d1c399ba4905757dfa3183107dc54f78647432f1b9feac2",
-      "bytes": 330
+      "sha256": "cf154685d6b39dfe1ca0813486019b94a7dbe4ff2d32bdbc25ca8aece527cb19",
+      "bytes": 503
     }
   ],
   "master_qa": "86d09e7e26b19bf5aabd7561c7b7872fef72289494807527257992ceb5f19281",

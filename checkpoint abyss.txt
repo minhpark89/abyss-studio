@@ -1,6 +1,7 @@
 Abyss Fieldnotes · 22/11/2026
 
-D001–D006 đã đăng. D007 toàn tập 09:16 chờ duyệt.
+D001–D006 đã đăng. D007 toàn tập 09:16 đã sửa phụ đề, thay hai thumbnail AI và đang chờ chủ kênh duyệt.
+Phiên tiếp theo: D008 · Why Are There Lakes on the Seafloor? Bắt đầu ở abyss-studio/production/episodes/D008/BRIEF.md.
 Xem: http://127.0.0.1:4320/production/episodes/D007/full-v1/delivery/review.html
 Checkpoint: abyss-studio/production/channels/abyss-fieldnotes/CHECKPOINT.md
 

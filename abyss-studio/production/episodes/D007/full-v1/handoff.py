@@ -14,8 +14,9 @@ d=b/'delivery';qa=read(b/'qa/master.json');master=ref(d/'D007.mp4');player=read(
 assert master['sha256']==qa['sha256']==player['sha256']==sync['sha256'] and qa['complete_decode'] and player['ended'] and not player['error'] and not player['page_errors'] and sync['opening_frames_identical']==1766
 assert (b/'qa/editorial.json').is_file()
 files=[]
-for p in sorted(d.iterdir()):
-    if p.is_file() and p.name!='manifest.json':files.append(dict(ref(p),path=p.name))
+for p in sorted(d.rglob('*')):
+    if p.is_file() and p != d/'manifest.json':
+        files.append(dict(ref(p), path=p.relative_to(d).as_posix()))
 put(d/'manifest.json',dict(episode='D007',language='en-US',market='US',title='This Deep-Sea Hunter Is a Colony',version='full-v1',files=files,master_qa=ref(b/'qa/master.json')['sha256'],status='local_owner_review'))
 next_action='Chủ kênh xem D007 09:16 và duyệt bản dài trước khi tự đăng. Tập kế tiếp là D008.'
 s=read(prod/'state.json');ep=next(e for e in s['episodes'] if e['id']=='D007')
@@ -24,10 +25,11 @@ for k,paths in [('C3_storyboard',['storyboard.json','web/score.json']),('C4_pref
     ep['checks'][k].update(status='in_progress' if k=='C7_qc' else 'passed',reviewed_at=now,evidence=[ref(b/p) for p in paths])
 ep['full_production'].update(status='rendered_waiting_for_owner')
 ep['active_build']=dict(version='full-v1',kind='full_episode',status='full_ready_for_owner_review',scope='full_episode',full_episode_available=True,review_file=master['path'],duration_s=qa['duration_s'],review_page=rel(d/'review.html'),release_language='en-US',owner_acceptance='pending_full',opening_acceptance='accepted_opening',human_listening='pending_owner',technical_qc=ref(b/'qa/master.json'),delivery_manifest=ref(d/'manifest.json'),upload_package=ref(d/'manifest.json'),next_action_vi=next_action)
+ep['active_build']['thumbnails'] = [rel(d / name) for name in ('thumbnail-A.jpg', 'thumbnail-B.jpg')]
 ep['review_edit']=dict(kind='full_episode',status='available_for_joint_review',file=master['path'],duration_s=qa['duration_s'],thumbnail=rel(d/'thumbnail-A.jpg'),not_release_cleared=True)
 s.update(active_episode='D007',updated_at=now);put(prod/'state.json',s)
 c=read(channel/'checkpoint.json');c.update(date='2026-11-22',episode='D007',title=ep['title'],status='D007 toàn tập 09:16 en-US chờ chủ kênh duyệt. Giữ 1.766 khung mở đã duyệt; thêm 5 cảnh Muse từ thư viện. Ba yêu cầu Muse mới trả 502 và đã xác nhận thất bại.',publication='D001–D006 đã đăng. D007 đã dựng toàn tập và đang chờ chủ kênh duyệt.',next=next_action,jobs=[],queue=[dict(episode='D008',title=next(e['title'] for e in s['episodes'] if e['id']=='D008'),status='Đã có đề cương.')],master=dict(kind='full',file=master['path'],report=rel(b/'qa/master.json')),upload_manifest=rel(d/'manifest.json'))
-c['links']={'Phòng xem toàn tập D007':rel(d/'review.html'),'Tựa D007':rel(d/'title-en.txt'),'Mô tả và nguồn D007':rel(d/'description-en.txt'),'Phụ đề Anh Mỹ toàn tập D007':rel(d/'D007-en-US.srt'),'Thumbnail A D007':rel(d/'thumbnail-A.jpg'),'Thumbnail B D007':rel(d/'thumbnail-B.jpg'),'Kiểm phát cả tập D007':rel(b/'qa/player.json'),**c['links']}
+c['links']={**c['links'],'Phòng xem toàn tập D007':rel(d/'review.html'),'Tựa D007':rel(d/'title-en.txt'),'Mô tả và nguồn D007':rel(d/'description-en.txt'),'Phụ đề Anh Mỹ toàn tập D007':rel(d/'accessibility-upload/D007-en-US.srt'),'Thumbnail A D007':rel(d/'thumbnail-A.jpg'),'Thumbnail B D007':rel(d/'thumbnail-B.jpg'),'Kiểm phát cả tập D007':rel(b/'qa/player.json')}
 put(channel/'checkpoint.json',c)
 note='## Abyss Fieldnotes · D007 toàn tập 09:16\n\n[Xem bản dài](episodes/D007/full-v1/delivery/review.html). '+c['status']+' '+next_action+'\n\n'
 p=prod/'SESSION_HANDOFF.md';old=p.read_text('utf-8-sig')

@@ -1,0 +1,4 @@
+# Production manifests store SHA-256 hashes of the original file bytes.
+abyss-studio/production/episodes/D007/** -text
+abyss-studio/production/channels/abyss-fieldnotes/checkpoint.json -text
+abyss-studio/production/channels/abyss-fieldnotes/history/*.json -text

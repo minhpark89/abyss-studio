@@ -2,9 +2,9 @@
 
 ## D007 · This Deep-Sea Hunter Is a Colony
 
-D007 toàn tập 09:16 en-US chờ chủ kênh duyệt. Giữ 1.766 khung mở đã duyệt; thêm 5 cảnh Muse từ thư viện. Ba yêu cầu Muse mới trả 502 và đã xác nhận thất bại.
+D007 toàn tập 09:16 en-US chờ chủ kênh duyệt. Đã mở lại MP4 trong MPC-HC và xác nhận chỉ còn phụ đề trong hình. SRT nằm riêng ở accessibility-upload. Hai thumbnail AI đã kiểm ở 160×90: A “WHY RED?” là bản mặc định, B “WHO’S STEERING?” là phương án hai.
 
-Chủ kênh xem D007 09:16 và duyệt bản dài trước khi tự đăng. Tập kế tiếp là D008. [Checkpoint](channels/abyss-fieldnotes/CHECKPOINT.md)
+Phiên kế tiếp bắt đầu D008 · Why Are There Lakes on the Seafloor? Đọc đề cương D008 và quy trình dựng Abyss Fieldnotes. Việc đầu tiên là chọn một hồ nước muối sâu có tư liệu NOAA, đối chiếu nguồn về độ mặn, khối lượng riêng và sinh vật ở rìa tại đúng địa điểm, rồi viết đoạn mở en-US theo góc nhìn của ROV. [Checkpoint](channels/abyss-fieldnotes/CHECKPOINT.md)
 
 ## SB09 · The Stolen Label
 

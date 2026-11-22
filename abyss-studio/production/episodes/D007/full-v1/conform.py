@@ -26,7 +26,9 @@ for line,seg in zip(board,align,strict=True):
 for c,n in zip(caps,caps[1:]):c['b']=min(c['b'],n['a']-.012)
 save('web/score.json',dict(fps=24,duration=timing['duration'],frames=timing['frames'],cuts=cuts,captions=caps,events={}))
 allcaps=opening['captions']+[dict(a=offset+c['a'],b=offset+c['b'],text=c['text']) for c in caps]
-(b/'delivery/D007-en-US.srt').write_text(''.join(f"{i+1}\n{srt_time(c['a'])} --> {srt_time(c['b'])}\n{c['text']}\n\n" for i,c in enumerate(allcaps)),'utf8')
+caption_dir = b/'delivery/accessibility-upload'
+caption_dir.mkdir(parents=True, exist_ok=True)
+(caption_dir/'D007-en-US.srt').write_text(''.join(f"{i+1}\n{srt_time(c['a'])} --> {srt_time(c['b'])}\n{c['text']}\n\n" for i,c in enumerate(allcaps)),'utf8')
 save('qa/full-score.json',dict(fps=24,frames=opening['frames']+timing['frames'],duration=offset+timing['duration'],cuts=opening['cuts']+[dict(c,at=c['at']+offset) for c in cuts],captions=allcaps))
 save('qa/chapters.json',chapter)
 voice,rate=sf.read(b/'voice.wav',dtype='float32')
