@@ -1,0 +1,12 @@
+# Repo nào tham gia dựng Check Ball
+
+| Repo | Quyết định cho SB05 | Cách đối chiếu |
+|---|---|---|
+| wind-comic | Chạy trực tiếp `scoreLipAudioAlignment` của bản ghim trên độ mở miệng đo từ MP4 và đường năng lượng âm thanh. Ghi riêng các câu thiếu landmark. | `QA.json → alignment → before/after → wind_comic`. Góc nghiêng và chuyển đầu dễ làm điểm này thấp. Quyết định sửa dùng thêm SyncNet, âm thoại khóa và hình cận. [Mã nguồn](https://github.com/ChrisChen667788/wind-comic/blob/fb05115096df313659d9927f362a024b740cd365/lib/lipsync-align.ts) |
+| DramaClaw | Áp dụng cách liên kết kịch bản, nhân vật, shot và asset vào brief và trace của từng tập. Muse tiếp tục nhận việc qua API cục bộ. Thử nghiệm này dùng thiết kế dữ liệu của DramaClaw. | Mỗi cảnh trong trace có mã take, khoảng frame, tiếng sử dụng và hash của góc dựng. Docker và Xia Director chưa chạy trong xưởng. [Tài liệu dự án](https://github.com/dramaclaw/dramaclaw/tree/d00aad53ef4d88b94ee19a8dcaaa9d651b075a38) |
+| ai-cinematic-pipeline | Áp dụng cách dùng ảnh nhìn thẳng và góc nghiêng để mô tả vai, trục nhìn và vị trí vai người đối diện. Marcus, Eli, Tess và Dee có ảnh neo riêng. | Đọc `brief.json` và bảng kiểm các góc trên MP4. Đây là bộ chỉ dẫn đạo diễn. [Hướng dẫn góc nhân vật](https://github.com/chusday97/ai-cinematic-pipeline/tree/1bc4032fac57c17b053b25cc99235bd4d7ed1399/skills/character_three_views) |
+| SyncNet | Chạy model độc lập với model tạo môi. So cùng một khoảng hình với nhiều vị trí soundtrack và lưu độ tin cậy từng câu. | Bước tìm 40 ms, cửa sổ tìm ±400 ms. Kết quả sát biên ở bản cũ chỉ cho biết mô hình chọn biên trong khoảng đã dò. [Mã nguồn](https://github.com/joonson/syncnet_python/tree/907c0b579c2e2d83f0eae1b2ac9e720cde4e5623) |
+
+HyperFrames giữ timeline chỉnh sửa được, gồm góc quay sạch, lớp chữ và mix độc lập. FFmpeg ghép bản H.264/AAC để giữ đồng hồ 24 fps. Revideo là phương án dự phòng. Các mục về 2D và các backend từng khảo sát nằm ở `studio_catalog` trong registry, để khi chạy ngách drama chỉ bật những công cụ phù hợp.
+
+Các take STEP, TESSLINE và REPLY đã có đoạn phát âm trong âm thanh Muse. Khi sửa hình đi trước tiếng, điểm cắt được kiểm cả trên âm gốc của take, thoại lồng, khuôn miệng đã mã hóa và phụ đề. Giữ giọng của bản thử 3 cho phép chủ kênh so trực tiếp hai bản. Trong thử nghiệm cục bộ này, Wav2Lip tạo chuyển động môi và GFPGAN phục hồi chi tiết vùng miệng ở góc cận. Sổ nguồn ghi hash model.

@@ -1,0 +1,15 @@
+{
+  "package": "three",
+  "version": "0.181.1",
+  "source": "https://github.com/mrdoob/three.js/tree/r181",
+  "files": [
+    {
+      "file": "three.module.js",
+      "sha256": "be4bc1b167ec03700b92288c3706627390826da837e9a17805613f7442b8bf55"
+    },
+    {
+      "file": "three.core.js",
+      "sha256": "03fb6e9fa08628385a9096948593251ae473239c7039496d7c280cba73d84631"
+    }
+  ]
+}

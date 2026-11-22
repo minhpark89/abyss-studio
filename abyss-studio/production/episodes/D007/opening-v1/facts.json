@@ -1,0 +1,64 @@
+{
+  "scope": "D007 opening only",
+  "checked": "2026-11-22",
+  "claims": [
+    {
+      "id": "structure",
+      "segments": [
+        "guess",
+        "answer",
+        "close"
+      ],
+      "statement": "A physonect is a colony of attached specialist zooids. Swimming bells and feeding structures occupy different regions.",
+      "source": "https://www.mbari.org/animal/angler-siphonophore/",
+      "location": "About the angler siphonophore; caption to the full-colony image",
+      "kind": "observation",
+      "caveat": "General physonect diagram. No species identification for the NOAA specimen beyond physonect."
+    },
+    {
+      "id": "propulsion",
+      "segments": [
+        "jets",
+        "close"
+      ],
+      "statement": "Muscular swimming bells pulse, expelling water and imparting thrust to the colony.",
+      "source": "https://doi.org/10.1242/jeb.245955",
+      "location": "Abstract, in situ video of five species",
+      "kind": "observation",
+      "caveat": "Water rings indicate flow direction. Timing and size are illustrative."
+    },
+    {
+      "id": "clonal",
+      "segments": [
+        "answer"
+      ],
+      "statement": "Swimming individuals are clonal medusae attached to a colony.",
+      "source": "https://doi.org/10.1038/ncomms9158",
+      "location": "Abstract, Nanomia bijuga",
+      "kind": "observation",
+      "caveat": "The narration does not generalize the exact distribution of thrust between older and younger zooids."
+    },
+    {
+      "id": "feeding",
+      "segments": [
+        "net",
+        "close"
+      ],
+      "statement": "Tentacles armed with stinging cells capture prey, and a feeding polyp ingests it.",
+      "source": "https://www.mbari.org/animal/angler-siphonophore/",
+      "location": "Feeding and anatomy paragraphs; tentacles gallery",
+      "kind": "observation",
+      "caveat": "The animation identifies structures without showing a recorded feeding event."
+    },
+    {
+      "id": "field",
+      "segments": [
+        "field"
+      ],
+      "statement": "NOAA expedition photographed a physonect near Puerto Rico in April 2015.",
+      "source": "https://commons.wikimedia.org/wiki/File:Physonect_siphonophore_Puerto_Rico_April_2015.png",
+      "location": "Image description and original expedition credit",
+      "kind": "observation"
+    }
+  ]
+}

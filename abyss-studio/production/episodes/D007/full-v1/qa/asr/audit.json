@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-11-22T07:25:47.876522+00:00",
+  "input": "production/episodes/D007/full-v1/delivery/D007.mp4",
+  "engine": "faster-whisper small",
+  "device": "cuda",
+  "elapsed_s": 27.06,
+  "duration_s": 555.584,
+  "recognized_segments": 110,
+  "scope": "Independent automated recognition of actual audio; does not establish human listening, emotional delivery or owner English comprehension.",
+  "expected_tokens": 1342,
+  "recognized_tokens": 1348,
+  "lexical_similarity": 0.9903345724907063,
+  "differences": [
+    {
+      "operation": "replace",
+      "expected": "siphonophore",
+      "heard": "safonaphore"
+    },
+    {
+      "operation": "replace",
+      "expected": "zooids",
+      "heard": "zoe voids"
+    },
+    {
+      "operation": "replace",
+      "expected": "zooid",
+      "heard": "zooloi"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "heard": "the"
+    },
+    {
+      "operation": "replace",
+      "expected": "siphonophore",
+      "heard": "safonaphore"
+    },
+    {
+      "operation": "replace",
+      "expected": "researchers",
+      "heard": "researcher"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "heard": "it"
+    },
+    {
+      "operation": "replace",
+      "expected": "midwater",
+      "heard": "mid water"
+    },
+    {
+      "operation": "replace",
+      "expected": "erenna sirena",
+      "heard": "irena serena"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "heard": "length"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "heard": "the"
+    },
+    {
+      "operation": "replace",
+      "expected": "individuals",
+      "heard": "individual"
+    },
+    {
+      "operation": "replace",
+      "expected": "and",
+      "heard": "in"
+    }
+  ],
+  "note": "Numbers, hyphens and named entities may be normalized differently; inspect differences, do not infer every difference is a spoken error."
+}

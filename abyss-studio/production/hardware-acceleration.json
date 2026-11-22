@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated_on": "2026-11-15",
+  "encoder": "h264_nvenc",
+  "gpu_index": 0,
+  "gpu_name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "ffmpeg": "tools/ffmpeg-nvenc/ffmpeg.exe",
+  "ffmpeg_version": "8.0.1-essentials_build-www.gyan.dev",
+  "preset": "p5",
+  "quality": 18,
+  "cpu_threads": 2,
+  "browser_args": ["--use-gl=angle", "--use-angle=d3d11", "--force_high_performance_gpu", "--enable-gpu-rasterization", "--enable-accelerated-2d-canvas", "--disable-background-timer-throttling", "--disable-renderer-backgrounding"],
+  "require_nvidia_browser": true,
+  "silent_software_fallback": false,
+  "scope": "GPU drawing/compositing and NVENC encoding; JavaScript, JPEG readback, some filters and audio still use CPU"
+}

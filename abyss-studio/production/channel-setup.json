@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "status": "initial_setup_verified_feature_verification_pending",
+  "channel_kind": "new",
+  "channel_id": "UC0HHGW2X_MPmuB8CQ_HzV_Q",
+  "channel_url": "https://www.youtube.com/channel/UC0HHGW2X_MPmuB8CQ_HzV_Q",
+  "channel_name": "Abyss Fieldnotes",
+  "handle": "@AbyssFieldnotesOcean",
+  "requested_handle": "@AbyssFieldnotes",
+  "fallback_handles": [
+    "@AbyssFieldnotesOcean",
+    "@WatchAbyssFieldnotes"
+  ],
+  "handle_availability": "confirmed_created",
+  "profile_key": "youtube-channel-01",
+  "connection_file": "data/youtube-channel-connection.json",
+  "binding_confirmed_at": "2026-11-13T09:38:15.402Z",
+  "working_brand": "Abyss Fieldnotes",
+  "brand_guide": "branding/BRAND_GUIDE.md",
+  "asset_manifest": "branding/asset-manifest.json",
+  "production": {
+    "language": "en-US",
+    "release_language_policy": {
+      "audience_market": "US",
+      "narration_language": "en-US",
+      "on_screen_language": "en-US",
+      "caption_languages": ["en-US"],
+      "vietnamese_in_video_or_release_package": false,
+      "text_motion": "Slide titles and callouts into position on their spoken cue, hold them still for reading, and keep main titles fully opaque.",
+      "verification": "scripts/check-release-language.py plus visual review of encoded title and caption frames"
+    },
+    "duration_minutes": [
+      8,
+      10
+    ],
+    "target_videos_per_day": 1,
+    "start_date": null
+  },
+  "draft_defaults": {
+    "upload_visibility": "private",
+    "video_language": "English (United States)",
+    "category": "Education",
+    "audience": "review_each_video",
+    "country_region": "VN",
+    "title_description_language": "English (United States)"
+  },
+  "setup_checks": {
+    "login": "verified",
+    "channel_binding": "verified",
+    "existing_channel_review": "not_applicable_new_channel_requested",
+    "profile_assets": "local_files_verified",
+    "public_profile_apply": "verified_after_reload_and_public_visual_review",
+    "upload_defaults": "verified_after_reload",
+    "feature_eligibility": "intermediate_enabled_verified_2026-11-15_advanced_not_enabled",
+    "country_region": "Vietnam_owner_confirmed_and_saved",
+    "public_contact_links": "optional_owner_information_not_provided",
+    "voice_production_rights": "Kokoro official model/code Apache-2.0 documented",
+    "first_private_upload": "D001_svKwkelaZKY_verified"
+  },
+  "permissions": {
+    "local_production": "authorized",
+    "read_studio_after_login": "authorized",
+    "public_profile_publish": "authorized_unified_avatar_banner_thumbnail_request_2026-11-15",
+    "video_upload": "authorized_private_draft_2026-11-15",
+    "video_publish": "authorized_D001_this_afternoon_2026-11-15",
+    "mechanical_banner_resize": "authorized",
+    "mechanical_banner_resize_basis": "User reviewed the artwork and instructed execution of initial setup after the explicit FFmpeg resizing question, 2026-11-13.",
+    "analytics_read": "authorized_by_user_request_to_track_results_2026-11-15",
+    "video_schedule": "authorized_D001_this_afternoon_2026-11-15"
+  },
+  "evidence": [
+    {
+      "path": "branding/asset-manifest.json",
+      "sha256": "e6d60773ace6f8c782452fe0212319494730792037bd84862e7d7562d9b1850b"
+    },
+    {
+      "path": "branding/youtube-profile-receipt.json",
+      "sha256": "4c6078cbaf44dcb647912b72e4ff44ca49f3186a1e32a0445bc46af912b50959"
+    },
+    {
+      "path": "branding/youtube-settings-receipt.json",
+      "sha256": "7d4baf099dfb7ecfb37c5ad007f66eaaa39973b58642808faac8dbae598faad8"
+    }
+  ],
+  "notes": [
+    "Opening the login browser does not mean authenticated or bound to the intended channel.",
+    "The long-form daily worker remains to be implemented and validated in D001."
+  ],
+  "updated_at": "2026-11-15T04:09:47.450076+00:00",
+  "final_export_visual_review": "passed",
+  "applied_settings": {
+    "visibility": "Private",
+    "description": "Abyss Fieldnotes explores the creatures, adaptations, and science of the deep ocean through clear visual stories.\n\n#DeepSea #MarineBiology #OceanScience",
+    "tags": [
+      "deep sea",
+      "marine biology",
+      "ocean science",
+      "ocean documentary",
+      "deep sea creatures",
+      "Abyss Fieldnotes"
+    ],
+    "videoLanguage": "English (United States)",
+    "titleAndDescriptionLanguage": "English (United States)",
+    "category": "Education",
+    "license": "Standard YouTube License",
+    "comments": "On",
+    "moderation": "Basic",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "channel_keywords": [
+      "Abyss Fieldnotes",
+      "deep sea",
+      "deep ocean",
+      "ocean creatures",
+      "marine biology",
+      "ocean science",
+      "deep sea documentary",
+      "ocean documentary",
+      "sea creatures",
+      "bioluminescence",
+      "giant squid",
+      "colossal squid",
+      "deep sea exploration",
+      "animal adaptations",
+      "ocean mysteries"
+    ],
+    "audience": "review_each_video"
+  },
+  "settings_receipt": "branding/youtube-settings-receipt.json",
+  "profile_receipt": "branding/youtube-profile-receipt.json",
+  "existing_channel_modified": false,
+  "pending_owner_actions": [
+    "Complete YouTube feature verification to enable custom thumbnails; current UI reports Intermediate features Eligible, not Enabled."
+  ]
+}

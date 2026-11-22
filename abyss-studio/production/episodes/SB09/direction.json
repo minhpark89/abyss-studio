@@ -1,0 +1,172 @@
+{
+  "production": {
+    "project_key": "second-bell/SB09/the-stolen-label",
+    "project_title": "SB09 | The Stolen Label"
+  },
+  "source_duration_seconds": 10,
+  "roles": {
+    "conflict": {
+      "shot": "T01",
+      "on_screen": "Gavin deliberately knocks down Alma's portfolio and humiliates her."
+    },
+    "proof": {
+      "shot": "T16",
+      "on_screen": "Nina's navy cuff follows her hand to the blue lapel. She opens it herself and a stitched gold crane appears."
+    },
+    "cost": {
+      "shot": "T20",
+      "on_screen": "Gavin slides the contract toward Nina, offering her ten percent to leave Alma unpaid."
+    },
+    "choice": {
+      "shot": "T23",
+      "on_screen": "In Alma's presence Nina fires him and points to the bench for his badge."
+    },
+    "visible_consequence": {
+      "shot": "T25",
+      "on_screen": "Alma receives the navy folder holding the entire order from the commissioner."
+    }
+  },
+  "beats": {
+    "B01": {
+      "mood": "Humiliation and anger",
+      "camera_movement": "Keep both bodies in the opening frame. Lower the camera with the scattered page, then find both faces."
+    },
+    "B02": {
+      "mood": "Alarm and calculation",
+      "camera_movement": "Hold the relationship through his threat. The first insert is his burgundy cuff and a black clip, not an anonymous hand."
+    },
+    "B03": {
+      "mood": "Disbelief becoming suspense",
+      "camera_movement": "OTS follows the person asking for an answer. Let the coat and receiving face occupy one space."
+    },
+    "B04": {
+      "mood": "Defiance, discovery and recognition",
+      "camera_movement": "Hold the closed lapel before Nina opens it. Only one unveiling. Return to the face of the person who actually saw it."
+    },
+    "B05": {
+      "mood": "Anger rising to disgust",
+      "camera_movement": "Use two-shots to hold the reaction to each escalation. Keep the navy folder shut."
+    },
+    "B06": {
+      "mood": "Consequences, vindication, release",
+      "camera_movement": "See badge leave the burgundy jacket, folder transfer to copper cuffs, then the returned line and Alma's face."
+    }
+  },
+  "shots": {
+    "T01": {
+      "duration_seconds": 10
+    },
+    "T02": {
+      "duration_seconds": 10
+    },
+    "T03": {
+      "duration_seconds": 10
+    },
+    "T04": {
+      "duration_seconds": 10
+    },
+    "T05": {
+      "duration_seconds": 10
+    },
+    "T06": {
+      "duration_seconds": 10
+    },
+    "T07": {
+      "duration_seconds": 10
+    },
+    "T08": {
+      "duration_seconds": 10
+    },
+    "T09": {
+      "duration_seconds": 10
+    },
+    "T10": {
+      "duration_seconds": 10
+    },
+    "T11": {
+      "duration_seconds": 10
+    },
+    "T12": {
+      "duration_seconds": 10
+    },
+    "T13": {
+      "duration_seconds": 10
+    },
+    "T14": {
+      "duration_seconds": 10
+    },
+    "T15": {
+      "duration_seconds": 10
+    },
+    "T16": {
+      "duration_seconds": 10
+    },
+    "T17": {
+      "duration_seconds": 10
+    },
+    "T18": {
+      "duration_seconds": 10
+    },
+    "T19": {
+      "duration_seconds": 10
+    },
+    "T20": {
+      "duration_seconds": 10
+    },
+    "T21": {
+      "duration_seconds": 10
+    },
+    "T22": {
+      "duration_seconds": 10
+    },
+    "T23": {
+      "duration_seconds": 10
+    },
+    "T24": {
+      "duration_seconds": 10
+    },
+    "T25": {
+      "duration_seconds": 10
+    },
+    "T26": {
+      "duration_seconds": 10
+    },
+    "T27": {
+      "duration_seconds": 10
+    }
+  },
+  "joins": [
+    {
+      "shots": [
+        "T01",
+        "T02"
+      ],
+      "inspect": "Sketches already on the floor at the second angle."
+    },
+    {
+      "shots": [
+        "T04",
+        "T05",
+        "T07"
+      ],
+      "inspect": "Cream label removed once before black tag is attached. No repeated rip."
+    },
+    {
+      "shots": [
+        "T15",
+        "T16",
+        "T17"
+      ],
+      "inspect": "Prediction precedes opening; gold on pale lining only after the opening. No repeated reveal."
+    },
+    {
+      "shots": [
+        "T23",
+        "T24",
+        "T25",
+        "T26"
+      ],
+      "inspect": "Nina demands badge; Gavin lays it down; Nina transfers folder; only then does Alma deliver callback."
+    }
+  ]
+}

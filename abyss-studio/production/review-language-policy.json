@@ -1,0 +1,10 @@
+{
+  "updated_at": "2026-11-15",
+  "basis": "Owner rejected Vietnamese captions as the primary D002 video review; channel audience remains en-US.",
+  "primary_review_audio_language": "en-US",
+  "primary_review_caption_language": "en",
+  "primary_player": "review.html",
+  "vietnamese_translation": "Optional separate reading/review aid only; never default on the main video review.",
+  "upload_default_language": "en-US",
+  "preserve_sealed_historical_deliveries": true
+}

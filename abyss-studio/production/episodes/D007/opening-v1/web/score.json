@@ -1,0 +1,179 @@
+{
+  "fps": 24,
+  "frames": 1766,
+  "duration": 73.58333333333333,
+  "cuts": [
+    {
+      "mode": "encounter",
+      "at": 0.0
+    },
+    {
+      "mode": "field",
+      "at": 10.541666666666666
+    },
+    {
+      "mode": "guess",
+      "at": 20.125
+    },
+    {
+      "mode": "answer",
+      "at": 31.166666666666668
+    },
+    {
+      "mode": "jets",
+      "at": 39.708333333333336
+    },
+    {
+      "mode": "carry",
+      "at": 44.875
+    },
+    {
+      "mode": "net",
+      "at": 49.708333333333336
+    },
+    {
+      "mode": "mouth",
+      "at": 56.833333333333336
+    },
+    {
+      "mode": "close",
+      "at": 61.041666666666664
+    },
+    {
+      "mode": "return",
+      "at": 67.33333333333333
+    }
+  ],
+  "captions": [
+    {
+      "a": 0.641,
+      "b": 2.273,
+      "text": "One hunter, or a colony?"
+    },
+    {
+      "a": 3.065,
+      "b": 5.098,
+      "text": "Trace that pale line through the water."
+    },
+    {
+      "a": 5.929,
+      "b": 8.061,
+      "text": "Where would you say one animal ends and"
+    },
+    {
+      "a": 8.073,
+      "b": 9.123999999999999,
+      "text": "the next begins?"
+    },
+    {
+      "a": 10.645,
+      "b": 13.656999999999998,
+      "text": "Look at this photograph from a dive off Puerto Rico."
+    },
+    {
+      "a": 14.506999999999998,
+      "b": 15.498,
+      "text": "Start at the tip."
+    },
+    {
+      "a": 16.288,
+      "b": 18.82,
+      "text": "Follow the row of clear bells down to the bend."
+    },
+    {
+      "a": 20.240000000000002,
+      "b": 22.031000000000002,
+      "text": "See how the pattern changes there?"
+    },
+    {
+      "a": 22.902,
+      "b": 24.933,
+      "text": "If these were just links in a chain,"
+    },
+    {
+      "a": 25.203,
+      "b": 27.735000000000003,
+      "text": "you'd expect the next link to do the same thing."
+    },
+    {
+      "a": 29.126,
+      "b": 30.337000000000003,
+      "text": "Here's the surprise."
+    },
+    {
+      "a": 31.189,
+      "b": 33.422000000000004,
+      "text": "A siphonophore grows as a colony."
+    },
+    {
+      "a": 34.253,
+      "b": 36.92700000000001,
+      "text": "The repeating parts are animals called zooids,"
+    },
+    {
+      "a": 37.157000000000004,
+      "b": 38.509,
+      "text": "and they stay attached."
+    },
+    {
+      "a": 39.77,
+      "b": 41.401,
+      "text": "Watch a swimming bell squeeze."
+    },
+    {
+      "a": 42.252,
+      "b": 44.022000000000006,
+      "text": "Water shoots out of the opening."
+    },
+    {
+      "a": 44.813,
+      "b": 47.202,
+      "text": "The push moves the bell and carries its"
+    },
+    {
+      "a": 47.214,
+      "b": 48.545,
+      "text": "neighbors along with it."
+    },
+    {
+      "a": 49.816,
+      "b": 53.21000000000001,
+      "text": "Farther down the stem, a tentacle trails in the water."
+    },
+    {
+      "a": 54.081,
+      "b": 55.99400000000001,
+      "text": "Its stinging cells can catch prey."
+    },
+    {
+      "a": 56.845000000000006,
+      "b": 59.819,
+      "text": "A feeding zooid has the mouth that takes the meal in."
+    },
+    {
+      "a": 61.150999999999996,
+      "b": 62.803,
+      "text": "So where does one hunter end?"
+    },
+    {
+      "a": 63.675,
+      "b": 66.569,
+      "text": "You can pick out the individual swimmers and feeders."
+    },
+    {
+      "a": 67.401,
+      "b": 69.755,
+      "text": "But follow a meal or a single stroke,"
+    },
+    {
+      "a": 70.005,
+      "b": 72.319,
+      "text": "and you're watching the whole colony at work."
+    }
+  ],
+  "events": {
+    "question": 0.641,
+    "tip": 15.047999999999998,
+    "row": 16.749
+  }
+}

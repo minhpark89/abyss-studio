@@ -1,0 +1,211 @@
+{
+  "cn": [
+    {
+      "name": "Hao0321/ai-short-drama",
+      "commit": "a1a00d3949fedd74edb6830a79d189a2c76920db",
+      "license": "MIT",
+      "parent_repository": null,
+      "files": {
+        "scripts/production_pack.schema.json": {
+          "sha256": "88673de0f6ff7ac8bd4ec40f271f863dce0df01bef3e064435d55d8cd8f83d7b",
+          "git_blob": "04ca57156ca4b6ba271e25ddee0165c8acbf07cb"
+        },
+        "scripts/studio_plan.schema.json": {
+          "sha256": "6195067fef2fa77adcbd49574b517a07bf75f2a19e49cc12b2abb960468a0025",
+          "git_blob": "56a85246a792fa52ee44c08b0e91496c29da5c8f"
+        },
+        "references/studio-workflow.md": {
+          "sha256": "6b9055ad05e5305c1b15f890eb9e6e21990d6bb08c06ac6c122f5a67588490b5",
+          "git_blob": "2299d6a8a50befa06a0eef0a53353299443dca95"
+        },
+        "LICENSE": {
+          "sha256": "27ac9497e911d8a8d1474077c7c77f44efad3afe4d25178a4b54f62eb1c10ae7",
+          "git_blob": "b8765d25c80adc5ffdba7532b8a997c0e60b60ed"
+        }
+      },
+      "component": "scripts/studio_plan.schema.json"
+    },
+    {
+      "name": "HBAI-Ltd/Toonflow-app",
+      "commit": "eecf51547af47eb504822186bd3f2dee369125ff",
+      "license": "MIT",
+      "parent_repository": null,
+      "files": {
+        "packages/skills/workflow/references/assets.md": {
+          "sha256": "b3ada4541073f0bf86cf79f1398f3f0f00d9e47c711d9c2f98fbe29139dba19a",
+          "git_blob": "6945d0f2af73e6a70ef11590f33990619800f8a1"
+        },
+        "LICENSE": {
+          "sha256": "e301150b3205cbb097e30c30e488f5a9ac9a70cbcfe819b8d486367812a53ef7",
+          "git_blob": "dd6492ccf3ecc63016d608be3210a5cb599d8f94"
+        },
+        "apps/web/src/pages/workspace/canvasFile.ts": {
+          "sha256": "6ff03b6e57e56c2c6d5bab65aebca21e0f018d418568253f3fcc2d27df5c4219",
+          "git_blob": "6d63cfb1955f9d70202c651c36e47f2868f49734"
+        }
+      },
+      "component": "apps/web/src/pages/workspace/canvasFile.ts"
+    },
+    {
+      "name": "Echo-Note/localminidrama",
+      "commit": "4479e516f36f360dc98d9e2db3a46d0d296c422b",
+      "license": "MIT",
+      "parent_repository": "xuanyustudio/LocalMiniDrama",
+      "files": {
+        "backend-node/migrations/15_storyboard_angle_structured.sql": {
+          "sha256": "99a6f07af87c1a40000fc16173fe2824617a9757be394d805f15611ddd852716",
+          "git_blob": "d1d2cf2c7219be3fa0e4912aa4dd41d081956f42"
+        },
+        "backend-node/src/services/framePromptService.js": {
+          "sha256": "400c746283cfda21f6f70aff0eb930b200dc405652af7655114a749840888716",
+          "git_blob": "6edc8374d36d52d07a8958e66d03153348b2d375"
+        },
+        "LICENSE": {
+          "sha256": "e2dc66d5ee347c1dded6cf5798005b54dfe41436888a5f4438950adb39c3c205",
+          "git_blob": "a9b06770e8db75f157db3e389add3ad1f6fe8cf9"
+        }
+      },
+      "component": "backend-node/migrations/15_storyboard_angle_structured.sql"
+    },
+    {
+      "name": "xuanyustudio/LocalMiniDrama",
+      "commit": "fa5f199b4dd953a7444bcdf19b77c46b697f5052",
+      "license": "MIT",
+      "parent_repository": null,
+      "files": {
+        "backend-node/src/services/storyboardFrameBinding.js": {
+          "sha256": "76664cbad48036f31a1655359578a0f15759de37fd019cb545ffd9b8c8e75e4f",
+          "git_blob": "1a2510b5ef595df6b0ad1d78a949d081c95e2d3f"
+        },
+        "backend-node/src/routes/storyboards_tail_link.js": {
+          "sha256": "6f8aefa77416a5bc4b24ce915062a116352525a9b057997292e9accd26761b16",
+          "git_blob": "ba247f3776962e9ac427c8a36e309040c28bc70e"
+        },
+        "LICENSE": {
+          "sha256": "e2dc66d5ee347c1dded6cf5798005b54dfe41436888a5f4438950adb39c3c205",
+          "git_blob": "a9b06770e8db75f157db3e389add3ad1f6fe8cf9"
+        }
+      },
+      "component": "backend-node/src/services/storyboardFrameBinding.js"
+    },
+    {
+      "name": "HKUDS/VideoAgent",
+      "commit": "f207987e3cffb554aaa6ffdbe733efb30f4b51ed",
+      "license": "MIT",
+      "parent_repository": null,
+      "files": {
+        "readme.md": {
+          "sha256": "cea331dc7e48e5b6deca83e95d9c26ae32d53ae2003bf573b39dd3513aec8d2e",
+          "git_blob": "23952dbd489edaabbaf451088dd40f77453863ba"
+        },
+        "environment/agents/multi.py": {
+          "sha256": "5df80e5f998e03901cd350c6e53a71ad298e7f3b6814bc34c1e5b56d4f3a7fd1",
+          "git_blob": "ef7fd7b91ffcb823a35633b17e924024201479ce"
+        },
+        "LICENSE": {
+          "sha256": "68c9fc511bb10d1488522aa139d1e91289b76ab998fc8ca815e93a85c4ea4850",
+          "git_blob": "b3ba37ce442298d5bdec96e2e52a8a812a25f123"
+        }
+      },
+      "component": "environment/agents/multi.py"
+    }
+  ],
+  "us": [
+    {
+      "name": "OpenMontageInc/OpenMontage",
+      "commit": "2e003e65fa99a0f329478a2c1cdcf26bc481933a",
+      "license": "AGPL-3.0",
+      "parent_repository": null,
+      "files": {
+        "pipeline_defs/cinematic.yaml": {
+          "sha256": "1d4258ef7383df18b4be15f3a7b8c114c7bba11b6e538607f69b8da70af42f57",
+          "git_blob": "d5c741306e1cf375c908edb6891374c8ad8f6053"
+        },
+        "tools/tool_registry.py": {
+          "sha256": "45283636f6f2e8f279506992738d8091129663401f2a1b3eb8cf20e4df07dcd9",
+          "git_blob": "3ebd82fe49b028271a3665e89d5d206cb5a04a6f"
+        },
+        "LICENSE": {
+          "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+          "git_blob": "be3f7b28e564e7dd05eaf59d64adba1a4065ac0e"
+        }
+      }
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "commit": "075b548c2405a07b77129eb448b0b504fc60dea3",
+      "license": "Apache-2.0",
+      "parent_repository": null,
+      "files": {
+        "references/shots/transition/transition-hidden-cut.md": {
+          "sha256": "82ac434c10ded1c51b648f0c4171bc565039b476154470789b7499c179ed5290",
+          "git_blob": "db3929f696d39a252edd9f9048bc6ec4b2c0c8fc"
+        },
+        "references/shots/rhythm/beat-cut-moves.md": {
+          "sha256": "c22660a8512b01548dd80642ac9543bffecba383683c90166b75c7f5b135d81e",
+          "git_blob": "f982bd02a62ba4354e09965f3b87ba0fb89e75ad"
+        },
+        "LICENSE": {
+          "sha256": "b2ce9877a55547ada9b870150664d1468ff777e67cc9888806a73927d31c5771",
+          "git_blob": "71ffb8bd20fc152507c1b3dd48f2890bef493ca6"
+        }
+      }
+    },
+    {
+      "name": "poseljacob/agentic-video-editor",
+      "commit": "47248b577046b0563e57e78edad86a3106c6faab",
+      "license": "MIT",
+      "parent_repository": null,
+      "files": {
+        ".claude/policies/ffmpeg-overlay-pts-timing.md": {
+          "sha256": "1f3dee1e7fd9cea9ae83c28bc09db87e1f0e9d465fe5164c023426145652927d",
+          "git_blob": "d93b9ab98aa93a54d892cf553900dd31c5a85833"
+        },
+        "src/models/schemas.py": {
+          "sha256": "df04baeade97d5725a364cca7f4f1e5c99580d211e616e4e4fa3f50a3f938042",
+          "git_blob": "ffef7a3d7c737574218467bbddbfbbe74360b372"
+        },
+        "LICENSE": {
+          "sha256": "9e50ce94e8f293d667e141fa22b7009c0fae49a9c047ae654945cac1675c3223",
+          "git_blob": "e95f46b115733ee9a95afe9e8b54301fff696026"
+        }
+      }
+    },
+    {
+      "name": "SamurAIGPT/Generative-Media-Skills",
+      "commit": "66b55e2a27ee554667ec255782922bae72882cc8",
+      "license": "MIT",
+      "parent_repository": null,
+      "files": {
+        "library/motion/character-story-video/SKILL.md": {
+          "sha256": "9e24b4e2dac24c38dff77870b13772b99ac605f6762da96309d3e9111b1075f4",
+          "git_blob": "919dc0d537b9357d5e2b2907bfaf735418975e55"
+        },
+        "library/motion/one-shot-video/SKILL.md": {
+          "sha256": "63c2af5d2bd180160fef8d2ec584c36fe2bd028be6464c307dcbc124f8cedeae",
+          "git_blob": "47684a3e09c6b4333b151196d3e7db3cdba81033"
+        },
+        "LICENSE": {
+          "sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+          "git_blob": "14fac913ccf80234b1848540089a3bbcb6e5283d"
+        }
+      }
+    },
+    {
+      "name": "pexoai/pexo-skills",
+      "commit": "f724267e45a065b6be445ea6f07312e62d3207cd",
+      "license": "MIT",
+      "parent_repository": null,
+      "files": {
+        "skills/videoagent-director/references/storyboard_guide.md": {
+          "sha256": "55712830814c915db83606adfafdaa19363430727f9035dcebe80b98e509cf27",
+          "git_blob": "098965f6da59db1a11b53fe5defa09a28997d670"
+        },
+        "LICENSE": {
+          "sha256": "71c27a5008c3add948f45a851f52ce086f7b1c3e9f102244a0c6831b90ef75ae",
+          "git_blob": "4e5ca7ca310a17ac37c56dc0214a68cc225e8600"
+        }
+      }
+    }
+  ]
+}

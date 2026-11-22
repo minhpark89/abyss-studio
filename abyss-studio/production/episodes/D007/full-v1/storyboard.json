@@ -1,0 +1,360 @@
+[
+  {
+    "id": "trace",
+    "title": "Follow the stem",
+    "cuts": [
+      {
+        "visual": "field",
+        "trigger": ""
+      },
+      {
+        "visual": "school",
+        "trigger": "A school of fish"
+      },
+      {
+        "visual": "wide",
+        "trigger": "When the school splits"
+      }
+    ]
+  },
+  {
+    "id": "bud",
+    "title": "How a colony grows",
+    "cuts": [
+      {
+        "visual": "bud",
+        "trigger": ""
+      },
+      {
+        "visual": "family",
+        "trigger": "Imagine drawing"
+      }
+    ]
+  },
+  {
+    "id": "shared",
+    "title": "A job with no mouth",
+    "cuts": [
+      {
+        "visual": "jets",
+        "trigger": ""
+      },
+      {
+        "visual": "mouth",
+        "trigger": "Farther along"
+      }
+    ]
+  },
+  {
+    "id": "turn",
+    "title": "Which bell steers?",
+    "cuts": [
+      {
+        "visual": "wide",
+        "trigger": ""
+      },
+      {
+        "visual": "swim",
+        "trigger": "Would you fire"
+      },
+      {
+        "visual": "turn",
+        "trigger": "A study"
+      }
+    ]
+  },
+  {
+    "id": "study",
+    "title": "Watching the jets",
+    "cuts": [
+      {
+        "visual": "study",
+        "trigger": ""
+      },
+      {
+        "visual": "young",
+        "trigger": "The youngest"
+      },
+      {
+        "visual": "old",
+        "trigger": "Age changes"
+      }
+    ]
+  },
+  {
+    "id": "lever",
+    "title": "Location changes the turn",
+    "cuts": [
+      {
+        "visual": "lever",
+        "trigger": ""
+      },
+      {
+        "visual": "leverarm",
+        "trigger": "Your hand supplies"
+      },
+      {
+        "visual": "turn",
+        "trigger": "In the water"
+      }
+    ]
+  },
+  {
+    "id": "thrust",
+    "title": "Two jobs in one row",
+    "cuts": [
+      {
+        "visual": "young",
+        "trigger": ""
+      },
+      {
+        "visual": "old",
+        "trigger": "Older bells"
+      },
+      {
+        "visual": "drive",
+        "trigger": "First the nose"
+      }
+    ]
+  },
+  {
+    "id": "wave",
+    "title": "A ripple down one side",
+    "cuts": [
+      {
+        "visual": "phase",
+        "trigger": ""
+      },
+      {
+        "visual": "phase2",
+        "trigger": "Across the two sides"
+      }
+    ]
+  },
+  {
+    "id": "switch",
+    "title": "A different problem",
+    "cuts": [
+      {
+        "visual": "curtain",
+        "trigger": ""
+      },
+      {
+        "visual": "net",
+        "trigger": "Moving a feeding apparatus"
+      }
+    ]
+  },
+  {
+    "id": "dark",
+    "title": "A point in the dark",
+    "cuts": [
+      {
+        "visual": "fishview",
+        "trigger": ""
+      },
+      {
+        "visual": "night",
+        "trigger": "What remains visible"
+      }
+    ]
+  },
+  {
+    "id": "erenna",
+    "title": "The angler siphonophore",
+    "cuts": [
+      {
+        "visual": "erenna",
+        "trigger": ""
+      },
+      {
+        "visual": "branch",
+        "trigger": "Here we're following"
+      },
+      {
+        "visual": "lure",
+        "trigger": "The whole colony"
+      }
+    ]
+  },
+  {
+    "id": "lure",
+    "title": "At the end of a branch",
+    "cuts": [
+      {
+        "visual": "branch",
+        "trigger": ""
+      },
+      {
+        "visual": "luretip",
+        "trigger": "At the end"
+      },
+      {
+        "visual": "lure",
+        "trigger": "A fish approaching"
+      }
+    ]
+  },
+  {
+    "id": "color",
+    "title": "Making a red signal",
+    "cuts": [
+      {
+        "visual": "photon",
+        "trigger": ""
+      },
+      {
+        "visual": "red",
+        "trigger": "It absorbs light"
+      }
+    ]
+  },
+  {
+    "id": "fish",
+    "title": "A fish's view",
+    "cuts": [
+      {
+        "visual": "fish",
+        "trigger": ""
+      },
+      {
+        "visual": "lure",
+        "trigger": "Scientists have suggested"
+      },
+      {
+        "visual": "night",
+        "trigger": "We can describe"
+      }
+    ]
+  },
+  {
+    "id": "reach",
+    "title": "Close enough to sting",
+    "cuts": [
+      {
+        "visual": "lure",
+        "trigger": ""
+      },
+      {
+        "visual": "mouth",
+        "trigger": "A fish found"
+      },
+      {
+        "visual": "net",
+        "trigger": "The tentacle puts"
+      }
+    ]
+  },
+  {
+    "id": "observed",
+    "title": "Evidence inside the hunter",
+    "cuts": [
+      {
+        "visual": "jets",
+        "trigger": ""
+      },
+      {
+        "visual": "net",
+        "trigger": "a loose tentacle"
+      },
+      {
+        "visual": "wide",
+        "trigger": "The arrangement"
+      }
+    ]
+  },
+  {
+    "id": "vehicle",
+    "title": "Meeting it in place",
+    "cuts": [
+      {
+        "visual": "rov",
+        "trigger": ""
+      },
+      {
+        "visual": "vehicle",
+        "trigger": "The people watching"
+      },
+      {
+        "visual": "curtainModel",
+        "trigger": "They can record"
+      }
+    ]
+  },
+  {
+    "id": "scale",
+    "title": "A wider frame",
+    "cuts": [
+      {
+        "visual": "jets",
+        "trigger": ""
+      },
+      {
+        "visual": "wide",
+        "trigger": "Pull all the way back"
+      },
+      {
+        "visual": "track",
+        "trigger": "First locate"
+      }
+    ]
+  },
+  {
+    "id": "lamp",
+    "title": "What the lamp reveals",
+    "cuts": [
+      {
+        "visual": "lamp",
+        "trigger": ""
+      },
+      {
+        "visual": "night",
+        "trigger": "A lure making"
+      },
+      {
+        "visual": "lure",
+        "trigger": "An illuminated portrait"
+      }
+    ]
+  },
+  {
+    "id": "return",
+    "title": "Read the photograph again",
+    "cuts": [
+      {
+        "visual": "field",
+        "trigger": ""
+      },
+      {
+        "visual": "fielddetail",
+        "trigger": "There's a region"
+      },
+      {
+        "visual": "wide",
+        "trigger": "You can recognize"
+      }
+    ]
+  },
+  {
+    "id": "answer",
+    "title": "One hunter",
+    "cuts": [
+      {
+        "visual": "family",
+        "trigger": ""
+      },
+      {
+        "visual": "drive",
+        "trigger": "Follow a turn"
+      },
+      {
+        "visual": "mouth",
+        "trigger": "Follow a meal"
+      },
+      {
+        "visual": "depart",
+        "trigger": "Count the workers"
+      }
+    ]
+  }
+]

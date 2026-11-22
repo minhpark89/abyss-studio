@@ -1,0 +1,12 @@
+{
+  "source": "T04",
+  "source_sha256": "fdda29373a14eaf10c6c7b4ced6298a74c37f356ede1b53d7fa53871939d01c0",
+  "frame": 32,
+  "crop": [
+    452,
+    200,
+    720,
+    405
+  ],
+  "sha256": "29e159026c977cf667d65d71d5853e0055596bfadd6f528f7c9af09c56c627f5"
+}

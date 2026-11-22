@@ -1,0 +1,11 @@
+{
+  "shot": "T05",
+  "take": "T05",
+  "receipt_id": "95141b94-025e-5258-9cdc-e26be7a78efe",
+  "task_id": "task_946f5cc9c2fa301fc52c",
+  "status": "completed",
+  "media_sha256": "7dfc109eeab142878c20582639125fa67eb9fff90ec89dfb543c7c5b65dbcfbb",
+  "bytes": 2715046,
+  "reference_sha256": "b6ace341033eb43e2e8a09fbb87dee9dc041e731675f25cf50ced6ac7f13ba5a",
+  "prompt_sha256": "a20c3735aa826c2fced27634fab27838c5d6a77307a69ee90ca31d1c961cb609"
+}

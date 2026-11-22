@@ -1,0 +1,24 @@
+{
+  "edit_sha256": "c0a2070b527b8cfd0a3917526c4ef8ec82a8afc5c7cdd37374e9e604552e1203",
+  "observation_origin": "SB08/qa/story-diagnosis.json and sb07-broken-actions.jpg; one bag in the order visible to the viewer.",
+  "events": [
+    {
+      "source": "takes/C19.mp4",
+      "frame": 53,
+      "changes": {
+        "bag": "on_cart"
+      },
+      "observation": "Full bag crosses to the cart in the selected pic.",
+      "evidence": "SB08/qa/sb07-broken-actions.jpg"
+    },
+    {
+      "source": "takes/C17.mp4",
+      "frame": 177,
+      "requires": {
+        "bag": "at_counter"
+      },
+      "observation": "After the filled bag reaches the cart, Ruth is shown putting the last item into the bag at the counter.",
+      "evidence": "SB08/qa/sb07-broken-actions.jpg"
+    }
+  ]
+}

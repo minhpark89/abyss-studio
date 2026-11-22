@@ -1,0 +1,1407 @@
+{
+  "fps": 24,
+  "frames": 13334,
+  "duration": 555.5833333333334,
+  "cuts": [
+    {
+      "mode": "encounter",
+      "at": 0.0
+    },
+    {
+      "mode": "field",
+      "at": 10.541666666666666
+    },
+    {
+      "mode": "guess",
+      "at": 20.125
+    },
+    {
+      "mode": "answer",
+      "at": 31.166666666666668
+    },
+    {
+      "mode": "jets",
+      "at": 39.708333333333336
+    },
+    {
+      "mode": "carry",
+      "at": 44.875
+    },
+    {
+      "mode": "net",
+      "at": 49.708333333333336
+    },
+    {
+      "mode": "mouth",
+      "at": 56.833333333333336
+    },
+    {
+      "mode": "close",
+      "at": 61.041666666666664
+    },
+    {
+      "mode": "return",
+      "at": 67.33333333333333
+    },
+    {
+      "mode": "trace0",
+      "source": "field",
+      "at": 73.58333333333333,
+      "title": "Follow the stem"
+    },
+    {
+      "mode": "trace1",
+      "source": "school",
+      "at": 86.625,
+      "title": "Follow the stem"
+    },
+    {
+      "mode": "trace2",
+      "source": "wide",
+      "at": 89.625,
+      "title": "Follow the stem"
+    },
+    {
+      "mode": "bud0",
+      "source": "bud",
+      "at": 95.45833333333333,
+      "title": "How a colony grows"
+    },
+    {
+      "mode": "bud1",
+      "source": "family",
+      "at": 107.16666666666666,
+      "title": "How a colony grows"
+    },
+    {
+      "mode": "shared0",
+      "source": "jets",
+      "at": 119.04166666666666,
+      "title": "A job with no mouth"
+    },
+    {
+      "mode": "shared1",
+      "source": "mouth",
+      "at": 132.79166666666666,
+      "title": "A job with no mouth"
+    },
+    {
+      "mode": "turn0",
+      "source": "wide",
+      "at": 139.0,
+      "title": "Which bell steers?"
+    },
+    {
+      "mode": "turn1",
+      "source": "swim",
+      "at": 149.41666666666666,
+      "title": "Which bell steers?"
+    },
+    {
+      "mode": "turn2",
+      "source": "turn",
+      "at": 152.45833333333331,
+      "title": "Which bell steers?"
+    },
+    {
+      "mode": "study0",
+      "source": "study",
+      "at": 160.125,
+      "title": "Watching the jets"
+    },
+    {
+      "mode": "study1",
+      "source": "young",
+      "at": 168.20833333333331,
+      "title": "Watching the jets"
+    },
+    {
+      "mode": "study2",
+      "source": "old",
+      "at": 174.25,
+      "title": "Watching the jets"
+    },
+    {
+      "mode": "lever0",
+      "source": "lever",
+      "at": 181.95833333333331,
+      "title": "Location changes the turn"
+    },
+    {
+      "mode": "lever1",
+      "source": "leverarm",
+      "at": 190.125,
+      "title": "Location changes the turn"
+    },
+    {
+      "mode": "lever2",
+      "source": "turn",
+      "at": 196.16666666666666,
+      "title": "Location changes the turn"
+    },
+    {
+      "mode": "thrust0",
+      "source": "young",
+      "at": 205.5,
+      "title": "Two jobs in one row"
+    },
+    {
+      "mode": "thrust1",
+      "source": "old",
+      "at": 212.33333333333331,
+      "title": "Two jobs in one row"
+    },
+    {
+      "mode": "thrust2",
+      "source": "drive",
+      "at": 221.08333333333331,
+      "title": "Two jobs in one row"
+    },
+    {
+      "mode": "wave0",
+      "source": "phase",
+      "at": 229.16666666666669,
+      "title": "A ripple down one side"
+    },
+    {
+      "mode": "wave1",
+      "source": "phase2",
+      "at": 243.25,
+      "title": "A ripple down one side"
+    },
+    {
+      "mode": "switch0",
+      "source": "curtain",
+      "at": 254.25,
+      "title": "A different problem"
+    },
+    {
+      "mode": "switch1",
+      "source": "net",
+      "at": 263.5,
+      "title": "A different problem"
+    },
+    {
+      "mode": "dark0",
+      "source": "fishview",
+      "at": 274.2916666666667,
+      "title": "A point in the dark"
+    },
+    {
+      "mode": "dark1",
+      "source": "night",
+      "at": 283.9583333333333,
+      "title": "A point in the dark"
+    },
+    {
+      "mode": "erenna0",
+      "source": "erenna",
+      "at": 295.9583333333333,
+      "title": "The angler siphonophore"
+    },
+    {
+      "mode": "erenna1",
+      "source": "branch",
+      "at": 306.1666666666667,
+      "title": "The angler siphonophore"
+    },
+    {
+      "mode": "erenna2",
+      "source": "lure",
+      "at": 314.6666666666667,
+      "title": "The angler siphonophore"
+    },
+    {
+      "mode": "lure0",
+      "source": "branch",
+      "at": 321.2916666666667,
+      "title": "At the end of a branch"
+    },
+    {
+      "mode": "lure1",
+      "source": "luretip",
+      "at": 327.4583333333333,
+      "title": "At the end of a branch"
+    },
+    {
+      "mode": "lure2",
+      "source": "lure",
+      "at": 330.4583333333333,
+      "title": "At the end of a branch"
+    },
+    {
+      "mode": "color0",
+      "source": "photon",
+      "at": 343.625,
+      "title": "Making a red signal"
+    },
+    {
+      "mode": "color1",
+      "source": "red",
+      "at": 353.7083333333333,
+      "title": "Making a red signal"
+    },
+    {
+      "mode": "fish0",
+      "source": "fish",
+      "at": 367.3333333333333,
+      "title": "A fish's view"
+    },
+    {
+      "mode": "fish1",
+      "source": "lure",
+      "at": 379.125,
+      "title": "A fish's view"
+    },
+    {
+      "mode": "fish2",
+      "source": "night",
+      "at": 385.5833333333333,
+      "title": "A fish's view"
+    },
+    {
+      "mode": "reach0",
+      "source": "lure",
+      "at": 392.375,
+      "title": "Close enough to sting"
+    },
+    {
+      "mode": "reach1",
+      "source": "mouth",
+      "at": 399.7083333333333,
+      "title": "Close enough to sting"
+    },
+    {
+      "mode": "reach2",
+      "source": "net",
+      "at": 408.75,
+      "title": "Close enough to sting"
+    },
+    {
+      "mode": "observed0",
+      "source": "jets",
+      "at": 414.9583333333333,
+      "title": "Evidence inside the hunter"
+    },
+    {
+      "mode": "observed1",
+      "source": "net",
+      "at": 426.04166666666663,
+      "title": "Evidence inside the hunter"
+    },
+    {
+      "mode": "observed2",
+      "source": "wide",
+      "at": 433.41666666666663,
+      "title": "Evidence inside the hunter"
+    },
+    {
+      "mode": "vehicle0",
+      "source": "rov",
+      "at": 436.7083333333333,
+      "title": "Meeting it in place"
+    },
+    {
+      "mode": "vehicle1",
+      "source": "vehicle",
+      "at": 445.0833333333333,
+      "title": "Meeting it in place"
+    },
+    {
+      "mode": "vehicle2",
+      "source": "curtainModel",
+      "at": 452.75,
+      "title": "Meeting it in place"
+    },
+    {
+      "mode": "scale0",
+      "source": "jets",
+      "at": 458.29166666666663,
+      "title": "A wider frame"
+    },
+    {
+      "mode": "scale1",
+      "source": "wide",
+      "at": 463.375,
+      "title": "A wider frame"
+    },
+    {
+      "mode": "scale2",
+      "source": "track",
+      "at": 471.16666666666663,
+      "title": "A wider frame"
+    },
+    {
+      "mode": "lamp0",
+      "source": "lamp",
+      "at": 482.5,
+      "title": "What the lamp reveals"
+    },
+    {
+      "mode": "lamp1",
+      "source": "night",
+      "at": 493.625,
+      "title": "What the lamp reveals"
+    },
+    {
+      "mode": "lamp2",
+      "source": "lure",
+      "at": 497.91666666666663,
+      "title": "What the lamp reveals"
+    },
+    {
+      "mode": "return0",
+      "source": "field",
+      "at": 507.375,
+      "title": "Read the photograph again"
+    },
+    {
+      "mode": "return1",
+      "source": "fielddetail",
+      "at": 515.25,
+      "title": "Read the photograph again"
+    },
+    {
+      "mode": "return2",
+      "source": "wide",
+      "at": 521.7916666666666,
+      "title": "Read the photograph again"
+    },
+    {
+      "mode": "answer0",
+      "source": "family",
+      "at": 530.0,
+      "title": "One hunter"
+    },
+    {
+      "mode": "answer1",
+      "source": "drive",
+      "at": 538.625,
+      "title": "One hunter"
+    },
+    {
+      "mode": "answer2",
+      "source": "mouth",
+      "at": 543.9166666666666,
+      "title": "One hunter"
+    },
+    {
+      "mode": "answer3",
+      "source": "depart",
+      "at": 549.4583333333334,
+      "title": "One hunter"
+    }
+  ],
+  "captions": [
+    {
+      "a": 0.641,
+      "b": 2.273,
+      "text": "One hunter, or a colony?"
+    },
+    {
+      "a": 3.065,
+      "b": 5.098,
+      "text": "Trace that pale line through the water."
+    },
+    {
+      "a": 5.929,
+      "b": 8.061,
+      "text": "Where would you say one animal ends and"
+    },
+    {
+      "a": 8.073,
+      "b": 9.123999999999999,
+      "text": "the next begins?"
+    },
+    {
+      "a": 10.645,
+      "b": 13.656999999999998,
+      "text": "Look at this photograph from a dive off Puerto Rico."
+    },
+    {
+      "a": 14.506999999999998,
+      "b": 15.498,
+      "text": "Start at the tip."
+    },
+    {
+      "a": 16.288,
+      "b": 18.82,
+      "text": "Follow the row of clear bells down to the bend."
+    },
+    {
+      "a": 20.240000000000002,
+      "b": 22.031000000000002,
+      "text": "See how the pattern changes there?"
+    },
+    {
+      "a": 22.902,
+      "b": 24.933,
+      "text": "If these were just links in a chain,"
+    },
+    {
+      "a": 25.203,
+      "b": 27.735000000000003,
+      "text": "you'd expect the next link to do the same thing."
+    },
+    {
+      "a": 29.126,
+      "b": 30.337000000000003,
+      "text": "Here's the surprise."
+    },
+    {
+      "a": 31.189,
+      "b": 33.422000000000004,
+      "text": "A siphonophore grows as a colony."
+    },
+    {
+      "a": 34.253,
+      "b": 36.92700000000001,
+      "text": "The repeating parts are animals called zooids,"
+    },
+    {
+      "a": 37.157000000000004,
+      "b": 38.509,
+      "text": "and they stay attached."
+    },
+    {
+      "a": 39.77,
+      "b": 41.401,
+      "text": "Watch a swimming bell squeeze."
+    },
+    {
+      "a": 42.252,
+      "b": 44.022000000000006,
+      "text": "Water shoots out of the opening."
+    },
+    {
+      "a": 44.813,
+      "b": 47.202,
+      "text": "The push moves the bell and carries its"
+    },
+    {
+      "a": 47.214,
+      "b": 48.545,
+      "text": "neighbors along with it."
+    },
+    {
+      "a": 49.816,
+      "b": 53.21000000000001,
+      "text": "Farther down the stem, a tentacle trails in the water."
+    },
+    {
+      "a": 54.081,
+      "b": 55.99400000000001,
+      "text": "Its stinging cells can catch prey."
+    },
+    {
+      "a": 56.845000000000006,
+      "b": 59.819,
+      "text": "A feeding zooid has the mouth that takes the meal in."
+    },
+    {
+      "a": 61.150999999999996,
+      "b": 62.803,
+      "text": "So where does one hunter end?"
+    },
+    {
+      "a": 63.675,
+      "b": 66.569,
+      "text": "You can pick out the individual swimmers and feeders."
+    },
+    {
+      "a": 67.401,
+      "b": 69.755,
+      "text": "But follow a meal or a single stroke,"
+    },
+    {
+      "a": 70.005,
+      "b": 72.319,
+      "text": "and you're watching the whole colony at work."
+    },
+    {
+      "a": 74.10333333333332,
+      "b": 76.27333333333333,
+      "text": "Take that curve in the photograph and"
+    },
+    {
+      "a": 76.28533333333333,
+      "b": 77.63733333333333,
+      "text": "straighten it in your mind."
+    },
+    {
+      "a": 78.48833333333333,
+      "b": 81.14033333333333,
+      "text": "You could travel from the clear end to the pink end"
+    },
+    {
+      "a": 81.43033333333332,
+      "b": 83.56233333333333,
+      "text": "without ever crossing open water."
+    },
+    {
+      "a": 84.43333333333332,
+      "b": 85.84433333333332,
+      "text": "That connection matters."
+    },
+    {
+      "a": 86.69533333333332,
+      "b": 88.86733333333333,
+      "text": "A school of fish can make one shape, too."
+    },
+    {
+      "a": 89.69833333333332,
+      "b": 92.54933333333332,
+      "text": "When the school splits, each fish takes its own"
+    },
+    {
+      "a": 92.56133333333332,
+      "b": 94.27233333333334,
+      "text": "engine and its own mouth with it."
+    },
+    {
+      "a": 95.52333333333333,
+      "b": 97.31433333333334,
+      "text": "A siphonophore starts small,"
+    },
+    {
+      "a": 97.50433333333334,
+      "b": 99.31533333333333,
+      "text": "from a single fertilized egg."
+    },
+    {
+      "a": 100.18533333333333,
+      "b": 103.13433333333333,
+      "text": "As it grows, new individuals bud from tissue"
+    },
+    {
+      "a": 103.14633333333333,
+      "b": 104.25733333333332,
+      "text": "that's already there."
+    },
+    {
+      "a": 105.10733333333333,
+      "b": 106.37833333333333,
+      "text": "They keep the connection."
+    },
+    {
+      "a": 107.22833333333332,
+      "b": 110.52033333333333,
+      "text": "Imagine drawing its family tree on transparent paper,"
+    },
+    {
+      "a": 110.83033333333333,
+      "b": 113.36133333333333,
+      "text": "then laying the drawing over the living animal."
+    },
+    {
+      "a": 114.23133333333332,
+      "b": 116.62033333333332,
+      "text": "In places, the family tree would still"
+    },
+    {
+      "a": 116.63233333333332,
+      "b": 117.92333333333333,
+      "text": "be physically joined."
+    },
+    {
+      "a": 119.13333333333333,
+      "b": 121.94333333333333,
+      "text": "In the swimming region, one of those individuals"
+    },
+    {
+      "a": 121.95533333333333,
+      "b": 122.98533333333333,
+      "text": "becomes a bell."
+    },
+    {
+      "a": 123.83633333333333,
+      "b": 125.88533333333334,
+      "text": "It can change shape, push water,"
+    },
+    {
+      "a": 125.89733333333334,
+      "b": 127.28733333333334,
+      "text": "and help move its neighbors."
+    },
+    {
+      "a": 128.13833333333332,
+      "b": 130.62733333333333,
+      "text": "Look for a mouth on that swimmer and you'll be"
+    },
+    {
+      "a": 130.63933333333333,
+      "b": 132.03033333333332,
+      "text": "looking in the wrong place."
+    },
+    {
+      "a": 132.88033333333334,
+      "b": 133.83133333333333,
+      "text": "Farther along,"
+    },
+    {
+      "a": 134.16133333333335,
+      "b": 136.51033333333334,
+      "text": "a feeding individual can take in a meal that a"
+    },
+    {
+      "a": 136.52233333333334,
+      "b": 137.75333333333333,
+      "text": "swimmer never could."
+    },
+    {
+      "a": 139.08333333333331,
+      "b": 140.73433333333332,
+      "text": "Now try to steer the colony."
+    },
+    {
+      "a": 141.54433333333333,
+      "b": 143.63333333333333,
+      "text": "You have several jets pointing away from"
+    },
+    {
+      "a": 143.64533333333333,
+      "b": 144.6963333333333,
+      "text": "a slender body."
+    },
+    {
+      "a": 145.52633333333333,
+      "b": 147.55533333333335,
+      "text": "You want to turn left without rolling"
+    },
+    {
+      "a": 147.56733333333335,
+      "b": 148.67833333333334,
+      "text": "the whole thing over."
+    },
+    {
+      "a": 149.48833333333334,
+      "b": 151.69933333333333,
+      "text": "Would you fire the strongest bell first?"
+    },
+    {
+      "a": 152.55033333333333,
+      "b": 155.75933333333333,
+      "text": "A study of a siphonophore called Nanomia found a"
+    },
+    {
+      "a": 155.77133333333333,
+      "b": 158.90333333333334,
+      "text": "surprisingly good reason to start with the small ones."
+    },
+    {
+      "a": 160.19333333333333,
+      "b": 162.58433333333332,
+      "text": "This image comes from the researchers who"
+    },
+    {
+      "a": 162.59633333333332,
+      "b": 164.94833333333332,
+      "text": "investigated how Nanomia swims."
+    },
+    {
+      "a": 165.83933333333334,
+      "b": 167.49033333333333,
+      "text": "Look along the swimming region."
+    },
+    {
+      "a": 168.30133333333333,
+      "b": 170.31333333333333,
+      "text": "The youngest bells sit near the tip."
+    },
+    {
+      "a": 171.1243333333333,
+      "b": 173.35533333333333,
+      "text": "Farther back are larger, older bells."
+    },
+    {
+      "a": 174.34733333333332,
+      "b": 177.4393333333333,
+      "text": "Age changes more than how much water a bell can expel."
+    },
+    {
+      "a": 178.3503333333333,
+      "b": 180.8623333333333,
+      "text": "It changes where the push lands on the colony."
+    },
+    {
+      "a": 182.0333333333333,
+      "b": 184.5043333333333,
+      "text": "Picture a door that's standing a little open."
+    },
+    {
+      "a": 185.33533333333332,
+      "b": 186.80533333333332,
+      "text": "Press close to its hinge,"
+    },
+    {
+      "a": 187.11533333333333,
+      "b": 189.34633333333332,
+      "text": "then press just as gently at the handle."
+    },
+    {
+      "a": 190.19733333333332,
+      "b": 192.32833333333332,
+      "text": "Your hand supplies the same push,"
+    },
+    {
+      "a": 192.6583333333333,
+      "b": 195.40933333333334,
+      "text": "but the second push turns the door more easily."
+    },
+    {
+      "a": 196.2593333333333,
+      "b": 198.25033333333332,
+      "text": "In the water there's no fixed hinge."
+    },
+    {
+      "a": 199.10133333333334,
+      "b": 202.21033333333332,
+      "text": "The useful part of that comparison is the distance"
+    },
+    {
+      "a": 202.22233333333332,
+      "b": 204.2933333333333,
+      "text": "from the point you're turning around."
+    },
+    {
+      "a": 205.58333333333331,
+      "b": 207.9753333333333,
+      "text": "The young bells near the front have leverage."
+    },
+    {
+      "a": 208.86633333333333,
+      "b": 211.4783333333333,
+      "text": "Even a modest jet there can turn Nanomia."
+    },
+    {
+      "a": 212.42933333333332,
+      "b": 215.3023333333333,
+      "text": "Older bells closer to the base of the swimming region"
+    },
+    {
+      "a": 215.57233333333335,
+      "b": 217.66433333333333,
+      "text": "contribute more to forward thrust."
+    },
+    {
+      "a": 218.5743333333333,
+      "b": 220.30633333333333,
+      "text": "Now watch the diagram again."
+    },
+    {
+      "a": 221.1773333333333,
+      "b": 223.1683333333333,
+      "text": "First the nose changes direction."
+    },
+    {
+      "a": 224.0193333333333,
+      "b": 226.8513333333333,
+      "text": "Then the larger bells help carry the feeding region"
+    },
+    {
+      "a": 227.0023333333333,
+      "b": 228.07333333333332,
+      "text": "onto the new heading."
+    },
+    {
+      "a": 229.24333333333334,
+      "b": 231.7953333333333,
+      "text": "There's another trick inside a single stroke."
+    },
+    {
+      "a": 232.64533333333333,
+      "b": 235.3553333333333,
+      "text": "Researchers filmed several species swimming and"
+    },
+    {
+      "a": 235.3673333333333,
+      "b": 238.07833333333332,
+      "text": "compared neighboring bells frame by frame."
+    },
+    {
+      "a": 239.0093333333333,
+      "b": 241.3193333333333,
+      "text": "On one side, the pulses could follow one"
+    },
+    {
+      "a": 241.3313333333333,
+      "b": 242.4613333333333,
+      "text": "another in a wave."
+    },
+    {
+      "a": 243.31233333333336,
+      "b": 245.8213333333333,
+      "text": "Across the two sides, they didn't see the same"
+    },
+    {
+      "a": 245.83333333333331,
+      "b": 246.96433333333334,
+      "text": "lockstep timing."
+    },
+    {
+      "a": 247.81533333333334,
+      "b": 250.74433333333332,
+      "text": "A colony can travel together without every swimmer"
+    },
+    {
+      "a": 250.75633333333332,
+      "b": 253.0883333333333,
+      "text": "squeezing at the very same instant."
+    },
+    {
+      "a": 254.31833333333333,
+      "b": 256.9893333333333,
+      "text": "Keep your eye on the tentacles as the swimmer"
+    },
+    {
+      "a": 257.0013333333333,
+      "b": 258.0523333333333,
+      "text": "leaves the frame."
+    },
+    {
+      "a": 258.90333333333336,
+      "b": 261.59433333333334,
+      "text": "They trail behind, in water the colony has"
+    },
+    {
+      "a": 261.60633333333334,
+      "b": 262.6573333333333,
+      "text": "just passed through."
+    },
+    {
+      "a": 263.5683333333333,
+      "b": 266.57933333333335,
+      "text": "Moving a feeding apparatus into position is"
+    },
+    {
+      "a": 266.59133333333335,
+      "b": 267.90233333333333,
+      "text": "only half the problem."
+    },
+    {
+      "a": 268.85333333333335,
+      "b": 271.52433333333335,
+      "text": "Once it's there, how does something so delicate bring"
+    },
+    {
+      "a": 271.53633333333335,
+      "b": 273.1673333333333,
+      "text": "a fast fish within reach?"
+    },
+    {
+      "a": 274.37833333333333,
+      "b": 277.0493333333333,
+      "text": "Picture the view from a small fish in midwater."
+    },
+    {
+      "a": 277.8593333333333,
+      "b": 279.6493333333333,
+      "text": "The expedition lamps go out."
+    },
+    {
+      "a": 280.44033333333334,
+      "b": 283.1303333333333,
+      "text": "The great sweep of transparent tissue disappears."
+    },
+    {
+      "a": 284.0203333333333,
+      "b": 286.5493333333333,
+      "text": "What remains visible might be a moving point of"
+    },
+    {
+      "a": 286.5613333333333,
+      "b": 288.58933333333334,
+      "text": "light, with nothing around it to"
+    },
+    {
+      "a": 288.60133333333334,
+      "b": 289.9723333333333,
+      "text": "reveal what's holding it."
+    },
+    {
+      "a": 290.82233333333335,
+      "b": 292.65233333333333,
+      "text": "For one deep Pacific hunter,"
+    },
+    {
+      "a": 292.9223333333333,
+      "b": 294.7933333333333,
+      "text": "that difference is the opportunity."
+    },
+    {
+      "a": 296.0233333333333,
+      "b": 297.7343333333333,
+      "text": "Meet the angler siphonophore,"
+    },
+    {
+      "a": 297.90433333333334,
+      "b": 299.03433333333334,
+      "text": "Erenna sirena."
+    },
+    {
+      "a": 299.8453333333333,
+      "b": 302.95433333333335,
+      "text": "The clear animal photographed off Puerto Rico at the"
+    },
+    {
+      "a": 302.96633333333335,
+      "b": 305.39733333333334,
+      "text": "beginning was a different observation."
+    },
+    {
+      "a": 306.2273333333333,
+      "b": 308.85633333333334,
+      "text": "Here we're following a Pacific species that"
+    },
+    {
+      "a": 308.86833333333334,
+      "b": 312.2583333333333,
+      "text": "researchers found carrying tiny lures on the finest"
+    },
+    {
+      "a": 312.2703333333333,
+      "b": 313.8403333333333,
+      "text": "branches of its tentacles."
+    },
+    {
+      "a": 314.73133333333334,
+      "b": 316.1813333333333,
+      "text": "The whole colony swims."
+    },
+    {
+      "a": 316.99233333333336,
+      "b": 318.88033333333334,
+      "text": "The invitation to a fish comes from a"
+    },
+    {
+      "a": 318.89233333333334,
+      "b": 320.10333333333335,
+      "text": "much smaller piece."
+    },
+    {
+      "a": 321.3533333333333,
+      "b": 323.9063333333333,
+      "text": "Follow one tentacle in the enlarged view."
+    },
+    {
+      "a": 324.7973333333333,
+      "b": 326.68833333333333,
+      "text": "Now take a branch off that branch."
+    },
+    {
+      "a": 327.51933333333335,
+      "b": 329.6513333333333,
+      "text": "At the end is a lure that can twitch."
+    },
+    {
+      "a": 330.52233333333334,
+      "b": 333.5323333333333,
+      "text": "A fish approaching from the darkness would encounter"
+    },
+    {
+      "a": 333.5443333333333,
+      "b": 336.1953333333333,
+      "text": "that little moving target before it could work out"
+    },
+    {
+      "a": 336.2073333333333,
+      "b": 338.1793333333333,
+      "text": "the outline of the hunter behind it."
+    },
+    {
+      "a": 339.0693333333333,
+      "b": 341.4003333333333,
+      "text": "These few inches of screen stand in for a much"
+    },
+    {
+      "a": 341.4123333333333,
+      "b": 342.4823333333333,
+      "text": "smaller structure."
+    },
+    {
+      "a": 343.6933333333333,
+      "b": 345.92533333333336,
+      "text": "The color is a clue to how the lure works."
+    },
+    {
+      "a": 346.79633333333334,
+      "b": 348.56733333333335,
+      "text": "Living tissue produces light."
+    },
+    {
+      "a": 349.35833333333335,
+      "b": 351.60833333333335,
+      "text": "The researchers also found fluorescent"
+    },
+    {
+      "a": 351.62033333333335,
+      "b": 352.89133333333336,
+      "text": "material in the lure."
+    },
+    {
+      "a": 353.8023333333333,
+      "b": 356.0323333333333,
+      "text": "It absorbs light and gives some back at"
+    },
+    {
+      "a": 356.0443333333333,
+      "b": 357.19533333333334,
+      "text": "a different wavelength."
+    },
+    {
+      "a": 358.0063333333333,
+      "b": 361.03633333333335,
+      "text": "Put those processes together and the mature lure can"
+    },
+    {
+      "a": 361.04833333333335,
+      "b": 362.65933333333334,
+      "text": "send out a reddish signal."
+    },
+    {
+      "a": 363.4703333333333,
+      "b": 366.22333333333336,
+      "text": "The surrounding colony doesn't have to light up."
+    },
+    {
+      "a": 367.3933333333333,
+      "b": 368.70433333333335,
+      "text": "Here's a lanternfish,"
+    },
+    {
+      "a": 369.0543333333333,
+      "b": 372.20433333333335,
+      "text": "the kind of small midwater fish that puts the size of"
+    },
+    {
+      "a": 372.21633333333335,
+      "b": 373.7273333333334,
+      "text": "this meal in perspective."
+    },
+    {
+      "a": 374.67833333333334,
+      "b": 375.62833333333333,
+      "text": "Notice the eye."
+    },
+    {
+      "a": 376.45933333333335,
+      "b": 378.35033333333337,
+      "text": "Now imagine its view of the lure."
+    },
+    {
+      "a": 379.2203333333333,
+      "b": 382.39033333333333,
+      "text": "Scientists have suggested the twitching tip resembles"
+    },
+    {
+      "a": 382.40233333333333,
+      "b": 384.7943333333334,
+      "text": "a small crustacean a fish might eat."
+    },
+    {
+      "a": 385.64433333333335,
+      "b": 387.7563333333334,
+      "text": "We can describe the light and the motion."
+    },
+    {
+      "a": 388.58633333333336,
+      "b": 391.21833333333336,
+      "text": "What the fish takes them to mean is an inference."
+    },
+    {
+      "a": 392.44833333333327,
+      "b": 394.7803333333333,
+      "text": "That distinction changes how you watch a hunt."
+    },
+    {
+      "a": 395.6703333333333,
+      "b": 398.9033333333333,
+      "text": "A glowing tip in a frame is evidence for a glowing tip."
+    },
+    {
+      "a": 399.7733333333333,
+      "b": 402.2433333333333,
+      "text": "A fish found inside a feeding polyp is"
+    },
+    {
+      "a": 402.2553333333333,
+      "b": 403.3463333333333,
+      "text": "evidence for a meal."
+    },
+    {
+      "a": 404.1963333333333,
+      "b": 406.4663333333333,
+      "text": "The tempting story in between has to"
+    },
+    {
+      "a": 406.4783333333333,
+      "b": 407.9893333333333,
+      "text": "fit both observations."
+    },
+    {
+      "a": 408.8393333333333,
+      "b": 411.3493333333333,
+      "text": "The tentacle puts stinging cells within reach of a"
+    },
+    {
+      "a": 411.3613333333333,
+      "b": 413.7933333333333,
+      "text": "fish drawn toward the moving light."
+    },
+    {
+      "a": 415.0233333333333,
+      "b": 418.35633333333334,
+      "text": "Suppose you found only the bell end in a sample jar."
+    },
+    {
+      "a": 419.2073333333333,
+      "b": 421.4593333333333,
+      "text": "You could work out how the colony swam,"
+    },
+    {
+      "a": 421.77033333333327,
+      "b": 424.0623333333333,
+      "text": "and miss almost everything about what it ate."
+    },
+    {
+      "a": 424.9333333333333,
+      "b": 427.20533333333333,
+      "text": "Suppose you found only a loose tentacle."
+    },
+    {
+      "a": 427.9963333333333,
+      "b": 429.4873333333333,
+      "text": "You might see the bright tip,"
+    },
+    {
+      "a": 429.7773333333333,
+      "b": 432.6303333333333,
+      "text": "yet never know where it hung in relation to the mouth."
+    },
+    {
+      "a": 433.5013333333333,
+      "b": 435.5723333333333,
+      "text": "The arrangement itself is evidence."
+    },
+    {
+      "a": 436.80333333333334,
+      "b": 440.1553333333333,
+      "text": "This is where a remotely operated vehicle earns its"
+    },
+    {
+      "a": 440.1673333333333,
+      "b": 441.35833333333335,
+      "text": "place in the story."
+    },
+    {
+      "a": 442.26933333333335,
+      "b": 444.36033333333336,
+      "text": "A tether connects the vehicle to a ship."
+    },
+    {
+      "a": 445.1513333333333,
+      "b": 448.02433333333335,
+      "text": "The people watching the screens above can stop,"
+    },
+    {
+      "a": 448.2943333333333,
+      "b": 450.70533333333333,
+      "text": "turn, and look along a colony that's still"
+    },
+    {
+      "a": 450.71733333333333,
+      "b": 451.98833333333334,
+      "text": "suspended in water."
+    },
+    {
+      "a": 452.83933333333334,
+      "b": 456.1103333333333,
+      "text": "They can record which end is pulsing before deciding"
+    },
+    {
+      "a": 456.1223333333333,
+      "b": 457.1723333333333,
+      "text": "where to look next."
+    },
+    {
+      "a": 458.3633333333333,
+      "b": 461.3323333333333,
+      "text": "Start the camera too close and every ripple looks"
+    },
+    {
+      "a": 461.3443333333333,
+      "b": 462.65433333333334,
+      "text": "like a separate jelly."
+    },
+    {
+      "a": 463.4643333333333,
+      "b": 466.57533333333333,
+      "text": "Pull all the way back and the finest branches vanish."
+    },
+    {
+      "a": 467.4053333333333,
+      "b": 470.3363333333333,
+      "text": "The wide view supplies an address for the close view."
+    },
+    {
+      "a": 471.2263333333333,
+      "b": 472.9363333333333,
+      "text": "First locate the swimming end."
+    },
+    {
+      "a": 473.7863333333333,
+      "b": 475.33733333333333,
+      "text": "Then follow the shared stem."
+    },
+    {
+      "a": 476.2273333333333,
+      "b": 479.4163333333333,
+      "text": "Only then does a close pass by a tentacle tell you"
+    },
+    {
+      "a": 479.4283333333333,
+      "b": 481.35833333333335,
+      "text": "which part of the animal you're seeing."
+    },
+    {
+      "a": 482.56833333333327,
+      "b": 484.69833333333327,
+      "text": "The light used to see the colony changes"
+    },
+    {
+      "a": 484.71033333333327,
+      "b": 485.7613333333333,
+      "text": "the picture, too."
+    },
+    {
+      "a": 486.6923333333333,
+      "b": 489.6623333333333,
+      "text": "Expedition lamps reveal the outline of transparent"
+    },
+    {
+      "a": 489.6743333333333,
+      "b": 492.8273333333333,
+      "text": "tissue as it bends and reflects their light."
+    },
+    {
+      "a": 493.7173333333333,
+      "b": 495.40933333333334,
+      "text": "A lure making light of its own"
+    },
+    {
+      "a": 495.7393333333333,
+      "b": 497.1303333333333,
+      "text": "asks a different question."
+    },
+    {
+      "a": 498.0013333333333,
+      "b": 500.8313333333333,
+      "text": "An illuminated portrait and an observation of a"
+    },
+    {
+      "a": 500.8433333333333,
+      "b": 502.09433333333334,
+      "text": "glow in darkness"
+    },
+    {
+      "a": 502.4253333333333,
+      "b": 504.9553333333333,
+      "text": "can describe the same animal while showing"
+    },
+    {
+      "a": 504.9673333333333,
+      "b": 506.1573333333333,
+      "text": "quite different things."
+    },
+    {
+      "a": 507.44833333333327,
+      "b": 509.0583333333333,
+      "text": "Go back to Puerto Rico."
+    },
+    {
+      "a": 509.8693333333333,
+      "b": 511.6393333333333,
+      "text": "The photograph hasn't changed."
+    },
+    {
+      "a": 512.4293333333334,
+      "b": 514.5003333333333,
+      "text": "Try reading it from the tip this time."
+    },
+    {
+      "a": 515.3103333333333,
+      "b": 517.4603333333333,
+      "text": "There's a region built for pushing water,"
+    },
+    {
+      "a": 517.6703333333334,
+      "b": 521.0413333333333,
+      "text": "then a bend, then structures with a different outline."
+    },
+    {
+      "a": 521.8913333333334,
+      "b": 524.8203333333333,
+      "text": "You can recognize the division of labor without"
+    },
+    {
+      "a": 524.8323333333333,
+      "b": 527.4613333333333,
+      "text": "assigning this animal the red lures of"
+    },
+    {
+      "a": 527.4733333333334,
+      "b": 528.8033333333333,
+      "text": "its Pacific relative."
+    },
+    {
+      "a": 530.0733333333334,
+      "b": 532.3233333333334,
+      "text": "So is it one hunter or many animals?"
+    },
+    {
+      "a": 533.2343333333333,
+      "b": 536.2023333333333,
+      "text": "Follow the development and you find individuals"
+    },
+    {
+      "a": 536.2143333333333,
+      "b": 537.8453333333333,
+      "text": "budding from a common beginning."
+    },
+    {
+      "a": 538.6953333333333,
+      "b": 539.7053333333333,
+      "text": "Follow a turn,"
+    },
+    {
+      "a": 540.0353333333334,
+      "b": 543.1063333333334,
+      "text": "and one set of individuals steers while another drives."
+    },
+    {
+      "a": 543.9763333333333,
+      "b": 544.9863333333334,
+      "text": "Follow a meal,"
+    },
+    {
+      "a": 545.3163333333333,
+      "b": 547.6053333333333,
+      "text": "and the tentacle and the mouth belong to one"
+    },
+    {
+      "a": 547.6173333333334,
+      "b": 548.7273333333334,
+      "text": "connected system."
+    },
+    {
+      "a": 549.5373333333333,
+      "b": 551.5673333333333,
+      "text": "Count the workers and you get many."
+    },
+    {
+      "a": 552.3973333333333,
+      "b": 554.7283333333334,
+      "text": "Watch the hunt and you see one colony."
+    }
+  ]
+}

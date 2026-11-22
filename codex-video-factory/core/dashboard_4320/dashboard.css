@@ -1,0 +1,29 @@
+#panel-dashboard{--green:#8cddba;--amber:#efc475;--danger:#f1a49d}
+.pipe-head,.pipe-title,.pipe-box>header,#trace-dialog>header,.pipe-slot header{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.pipe-head{margin-bottom:25px}.pipe-head h1{margin:0}.pipe-head p,.pipe-legend,#pipe-message{font-size:12px;color:var(--muted)}
+#pipe-message:empty{display:none}#pipe-message{margin:0 0 14px;color:var(--green)}#pipe-message.error{color:var(--danger)}
+.pipe-title{margin-bottom:12px}.pipe-legend{display:flex;align-items:center;gap:7px;font:10px Consolas,monospace}.pipe-legend i{width:7px;height:7px;border-radius:50%;background:var(--green)}.pipe-legend i+i,.pipe-legend i:nth-of-type(2){background:var(--amber)}
+#pipe-slots{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px;margin-bottom:22px}
+.pipe-slot{padding:13px 12px 12px;border:1px solid var(--line);border-radius:9px;background:var(--card);min-width:0}
+.pipe-slot.ACTIVE{border-color:#43765f}.pipe-slot.TESTING{border-color:#947440}.pipe-slot header{justify-content:start;gap:8px;min-height:31px;margin-bottom:8px}.pipe-slot h3{font-size:13px}
+.pipe-glyph{display:grid;place-items:center;width:26px;height:26px;border-radius:6px;background:#22343d;color:#c2d5dc;font-size:19px;flex-shrink:0}
+.slot-repo{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:3px;margin-top:5px;font:11px/1.5 Consolas,monospace;overflow-wrap:anywhere}
+.slot-repo.ACTIVE,.repo-badge.ACTIVE,.match-good{color:var(--green)}.slot-repo.TESTING,.repo-badge.TESTING{color:var(--amber)}.slot-repo small{color:inherit;font-size:8px}
+.pipe-box{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card);margin-top:18px}
+.pipe-box>header{padding:15px 16px;flex-wrap:wrap}.pipe-box h2,.pipe-title h2{font-size:16px}.pipe-box h2 small{font:11px Consolas,monospace;margin-left:6px}
+#repo-filters{display:flex;gap:4px;flex-wrap:wrap}#repo-filters button,.repo-actions button,#trace-rows button{font-size:11px;padding:4px 8px;border-radius:5px}
+#repo-filters button[aria-pressed=true]{background:#234337;color:#c9f5de;border-color:#456852}
+.pipe-scroll{overflow:auto;max-height:330px;scrollbar-color:#425660 #121c22}.pipe-box:last-of-type .pipe-scroll{max-height:450px}
+.pipe-box table{white-space:normal;width:100%;font-size:12px}.pipe-box th{position:sticky;top:0;z-index:1;color:#b4c6ce;text-align:left;background:#101b21}
+.pipe-box td,.pipe-box th{padding:9px 12px;border-bottom:1px solid #27383e}.pipe-box th:first-child,.pipe-box td:first-child{padding-left:16px}.pipe-box tr:last-child td{border-bottom:0}.pipe-box tbody tr:hover{background:#1b2a30}
+#repo-rows td:first-child{width:20%;overflow-wrap:anywhere}#repo-rows td:nth-child(4){width:29%;color:#b7c8cf}.repo-badge{display:block;width:max-content;font:9px Consolas,monospace;padding:2px 5px;margin-top:4px;background:#233139;border-radius:3px}.repo-badge.ARCHIVED,.repo-badge.INBOX{color:#b1c0c6}.components{font:11px Consolas,monospace;overflow-wrap:anywhere}.repo-actions{display:flex;gap:4px;flex-wrap:wrap}.repo-actions button+button{margin:0}
+.match-bad{color:var(--danger)}.match,.room-link{white-space:nowrap}.duration{font-variant-numeric:tabular-nums}.pipe-box td small{max-width:42ch;font-size:11px}.room-link{margin:0}
+#trace-dialog{width:min(750px,92vw);max-height:78vh;overflow:auto;background:#152128;color:var(--text);border:1px solid #3a4d55;border-radius:10px;padding:20px}#trace-dialog::backdrop{background:#03090cba}#trace-dialog summary{color:var(--accent)}.trace-command{padding:10px 0;border-bottom:1px solid var(--line)}.trace-command pre{white-space:pre-wrap;overflow-wrap:anywhere;font:12px/1.55 Consolas,monospace;margin:6px 0}.trace-command strong{font-size:12px}
+body:has(#panel-dashboard:not([hidden])) .topbar>span:first-child{font-size:0}body:has(#panel-dashboard:not([hidden])) .topbar>span:first-child>*{display:none}body:has(#panel-dashboard:not([hidden])) .topbar>span:first-child:after{content:'Abyss Studio  /  Vận hành';font:12px 'Segoe UI',sans-serif}
+@media(max-width:1150px){#pipe-slots{gap:6px}.pipe-slot{padding:10px 8px}.pipe-slot header{align-items:flex-start}.repo-actions{min-width:94px}}
+@media(max-width:760px){#pipe-slots{grid-template-columns:repeat(6,minmax(145px,1fr));overflow:auto;padding-bottom:6px}.pipe-box table{min-width:705px}.pipe-head{margin-bottom:16px}.pipe-box>header{padding:12px}}
+
+
+.slot-repo{border-left:2px solid currentColor;padding-left:6px}
+
+.audio-tracks{display:block;overflow-wrap:anywhere;margin-top:4px}

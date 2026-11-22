@@ -1,0 +1,71 @@
+{
+  "episode": "D007",
+  "language": "en-US",
+  "market": "US",
+  "title": "This Deep-Sea Hunter Is a Colony",
+  "version": "full-v1",
+  "files": [
+    {
+      "path": "chapters.txt",
+      "sha256": "b5c1615e78a1dc372cb10d0f487eb9c1179d102e0d40294afcb9e985ad01669e",
+      "bytes": 197
+    },
+    {
+      "path": "D007-en-US.srt",
+      "sha256": "63442eacd9128717f9cb1fbab7584b0e8de45d273f2457e234c2e02f0b1a5ed7",
+      "bytes": 15284
+    },
+    {
+      "path": "D007.mp4",
+      "sha256": "f060182866b9e21ab8487c659e8c96aa420eebb8b530b0c9bcaecf5ee24f0ba1",
+      "bytes": 579927017
+    },
+    {
+      "path": "description-en.txt",
+      "sha256": "760e5c0866b2adb6a5571a665d9ff26673f6fefb2756067898439f13454a5841",
+      "bytes": 1533
+    },
+    {
+      "path": "metadata.json",
+      "sha256": "40a44de4036f5d82387d50f9ceeb01ceb1be3ed27cc0e14435280d4a8b5065b5",
+      "bytes": 230
+    },
+    {
+      "path": "poster.jpg",
+      "sha256": "8139b4e8c47149a2f7cba43e71307f217e5a2cdcc1b798f5c79b1a429cfe4a53",
+      "bytes": 73695
+    },
+    {
+      "path": "review.html",
+      "sha256": "a95e05789160f2d5a0890d414167d36224051bb9186468921795c28aa5324320",
+      "bytes": 1853
+    },
+    {
+      "path": "rights-and-sources.json",
+      "sha256": "7b9955d3bb573d19b054a7c113090bcf3c5828d62225ada635d08c3d2e200a2f",
+      "bytes": 5446
+    },
+    {
+      "path": "thumbnail-A.jpg",
+      "sha256": "67448f037e97110a54e3ff98d683f790b2acb8ce99a5402cc8e0ea303e210f85",
+      "bytes": 108877
+    },
+    {
+      "path": "thumbnail-B.jpg",
+      "sha256": "f21d100a21f67bac69131604f735ea1a75d2e1e245908b34f443842aa8dea113",
+      "bytes": 74788
+    },
+    {
+      "path": "title-en.txt",
+      "sha256": "510a9ce06465b853758b6839eba8a1fb0690cd5c8ed59f4a7fc568f9cca57943",
+      "bytes": 34
+    },
+    {
+      "path": "YOUTUBE_UPLOAD.md",
+      "sha256": "ec1f05f6c4b125fa1d1c399ba4905757dfa3183107dc54f78647432f1b9feac2",
+      "bytes": 330
+    }
+  ],
+  "master_qa": "86d09e7e26b19bf5aabd7561c7b7872fef72289494807527257992ceb5f19281",
+  "status": "local_owner_review"
+}

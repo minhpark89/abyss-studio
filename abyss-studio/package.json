@@ -1,0 +1,14 @@
+{
+  "name": "abyss-production-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node native-server.js",
+    "desktop": "electron desktop/main.cjs"
+  },
+  "dependencies": {
+    "electron": "45.0.0",
+    "playwright": "1.64.1"
+  }
+}

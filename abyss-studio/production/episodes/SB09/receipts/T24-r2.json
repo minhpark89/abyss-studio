@@ -1,0 +1,11 @@
+{
+  "shot": "T24",
+  "take": "T24-r2",
+  "receipt_id": "55b2bcd2-1a08-515b-8d3d-4e3fab40b803",
+  "task_id": "task_741f4022af07674ccf10",
+  "status": "completed",
+  "media_sha256": "1e39f200180bb5d27bed4d7c980cef5c11fada269ca557c0c21f74783420e319",
+  "bytes": 3217164,
+  "reference_sha256": "fd3b2494a922749d3ef5e2ecb25072b748a5f959c7a8d4476abbf07a1fe6d026",
+  "prompt_sha256": "cafff51076ea2591c034a226ecf855aae0bd36d3d84ceaee92115df9d5d5ca41"
+}

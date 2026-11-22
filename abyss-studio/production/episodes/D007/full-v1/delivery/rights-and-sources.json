@@ -1,0 +1,125 @@
+{
+  "photos": [
+    {
+      "asset": "Puerto Rico physonect field photograph",
+      "credit": "NOAA Office of Ocean Exploration and Research",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Physonect_siphonophore_Puerto_Rico_April_2015.png"
+    },
+    {
+      "asset": "Nanomia bijuga, frame from supplementary Movie 1 and Figure 1",
+      "credit": "Costello, Colin, Gemmell, Dabiri and Sutherland (2015); Figure 1 modified from their ref. 12",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.nature.com/articles/ncomms9158",
+      "presentation": "Film still and diagram placed side by side"
+    },
+    {
+      "asset": "Spotted lanternfish specimen",
+      "credit": "Julien Savoie",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/6235768722",
+      "presentation": "Full photograph resized and caption added"
+    },
+    {
+      "asset": "Deep Discoverer on deployment, NOAA OER",
+      "credit": "NOAA Ocean Exploration, Gulf of Mexico 2017",
+      "license": "Public domain",
+      "source": "https://oceanexplorer.noaa.gov/multimedia/okeanos-explorations-ex1711-dailyupdates-media-video-d2-d2/",
+      "presentation": "Frame from expedition film"
+    }
+  ],
+  "science": [
+    [
+      "bud,shared,answer",
+      "Zooids bud and specialize in connected colonies.",
+      "https://doi.org/10.1186/s13227-015-0018-2",
+      "Results and colony anatomy; common-origin explanation"
+    ],
+    [
+      "turn,study,lever,thrust",
+      "Nanomia bell age and position separate torque and thrust contributions.",
+      "https://doi.org/10.1038/ncomms9158",
+      "Abstract; figure 1. Door and hinge are an analogy."
+    ],
+    [
+      "wave",
+      "Metachronal waves within sides, no equivalent cross-side coupling in the filmed species.",
+      "https://doi.org/10.1242/jeb.245955",
+      "Abstract. Animation demonstrates sequence rather than measured jet speed."
+    ],
+    [
+      "erenna,lure,color,fish,reach,observed",
+      "Twitching luminescent lures, red fluorescent material, piscivory and proposed mimicry.",
+      "https://doi.org/10.1126/science.1110441",
+      "Abstract and MBARI gallery. A fish's perception is inferred."
+    ],
+    [
+      "dark,vehicle,scale,lamp,return",
+      "ROV observations and gallery descriptions of Erenna sirena.",
+      "https://www.mbari.org/animal/angler-siphonophore/",
+      "Species profile. Puerto Rico specimen is not assigned this identity."
+    ]
+  ],
+  "opening": {
+    "episode": "D007",
+    "scope": "Opening review",
+    "language": "en-US",
+    "field_photograph": {
+      "title": "Physonect siphonophore near Puerto Rico",
+      "expedition": "Exploring Puerto Rico\u2019s Seamounts, Trenches, and Troughs, April 2015",
+      "credit": "NOAA Office of Ocean Exploration and Research",
+      "rights": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Physonect_siphonophore_Puerto_Rico_April_2015.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Physonect_siphonophore_Puerto_Rico_April_2015.png",
+      "presentation": "Original aspect ratio. Detail enlargement, annotations and guide lines by Abyss Fieldnotes."
+    },
+    "reconstruction": {
+      "source": "Abyss Fieldnotes Muse library, D002 M08, native v5",
+      "sha256": "01e00538a5e1b40bbd2cedcd5f72fda71074d95efac4a69fdb38e8b8f7c128fb",
+      "usage": "Opening motion reconstruction only. Not used to identify the species or infer animal measurements."
+    },
+    "anatomy": {
+      "credit": "Original Three.js physonect illustration, Abyss Fieldnotes",
+      "references": [
+        "https://www.mbari.org/animal/angler-siphonophore/",
+        "https://doi.org/10.1242/jeb.245955",
+        "https://doi.org/10.1038/ncomms9158"
+      ]
+    },
+    "audio": {
+      "voice": "Kokoro-82M, am_michael, US English",
+      "sound": "Original editorial music and tones by Abyss Fieldnotes"
+    }
+  },
+  "motion": {
+    "swim": {
+      "path": "production/episodes/D002/revision-v7/muse-native-v7/clips/M08.mp4",
+      "frames": 240,
+      "sha256": "d88f9085c4935cb5a89de296584bfd5ad00d2bbfb909b102340450d503ecea46"
+    },
+    "curtain": {
+      "path": "production/episodes/D002/revision-v7/muse-native-v8/clips/M08.mp4",
+      "frames": 240,
+      "sha256": "29e332fcca1823ecc4b4059cbd2d724d81a364757417e23f9700d7289e594435"
+    },
+    "fishview": {
+      "path": "production/episodes/D002/revision-v7/muse-native-v5/clips/M01.mp4",
+      "frames": 240,
+      "sha256": "2a8dca2983f97f0f7a4ea64ca3b031b315626c1cfa1a29e940201fc7739675f8"
+    },
+    "vehicle": {
+      "path": "production/episodes/D002/revision-v7/muse-native-v7/clips/M05.mp4",
+      "frames": 240,
+      "sha256": "7d18fbef3677c7a075aa457834c0dc7f62fec6a36da1f0918642c524aaf18202"
+    },
+    "depart": {
+      "path": "production/episodes/D002/revision-v7/muse-native-v9/clips/M06.mp4",
+      "frames": 240,
+      "sha256": "37067cbc37c3076d09b5e747c6f99b490297e11bb50c71f682597994d0bf2f44"
+    }
+  },
+  "models": "Original illustrative geometry, scale and light are schematic",
+  "audio": "Original score and Kokoro-82M am_michael US English narration"
+}

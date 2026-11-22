@@ -1,0 +1,15 @@
+const fs = require('node:fs');
+const vm = require('node:vm');
+const path = require('node:path');
+const { createRequire } = require('node:module');
+const { pathToFileURL } = require('node:url');
+const factory = process.env.DRAMA_FACTORY || path.resolve(__dirname, '../codex-video-factory');
+const ts = createRequire(pathToFileURL(path.join(factory, 'package.json')))('typescript');
+const file = process.argv[2];
+const tree = ts.createSourceFile(file, fs.readFileSync(file, 'utf8'), ts.ScriptTarget.Latest, true);
+const fn = tree.statements.find(n => ts.isFunctionDeclaration(n) && n.name?.text === 'getCanvasAssetDirectories');
+if (!fn) throw new Error('Missing getCanvasAssetDirectories');
+const source = ts.transpile(fn.getText(tree).replace(/^export\s+/, ''), { target: ts.ScriptTarget.ES2021 });
+const catalog = JSON.parse(fs.readFileSync(0, 'utf8'));
+const unused = vm.runInNewContext(source + '\ngetCanvasAssetDirectories(nodes, retainedNodes)', catalog, {timeout: 2000});
+process.stdout.write(JSON.stringify(unused));

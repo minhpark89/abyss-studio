@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b171c"><link rel="icon" href="data:,">
+  <title>Abyss Fieldnotes · Đăng &amp; hiệu suất</title>
+  <link rel="stylesheet" href="/fieldnotes.css">
+</head>
+<body>
+<div id="posting-app" hidden>
+<header><div class="wrap bar"><a href="/#channels">← Abyss Studio</a><nav aria-label="Đi đến"><a href="?panel=youtube">Quản lý kênh YouTube</a><a href="#episodes">Tập phim</a><a href="#metrics">Hiệu suất theo tập</a><a href="#tasks">Công việc</a></nav></div></header>
+<main class="wrap">
+  <div class="section-head"><div><p class="kicker">ABYSS FIELDNOTES</p><h1>Đăng &amp; hiệu suất</h1><p id="summary">Đang đọc checkpoint của kênh…</p></div>
+  <div class="sync"><button id="refresh">Đồng bộ YouTube</button><small id="feed-at"></small></div></div>
+  <p id="connection" role="status"></p>
+  <div class="layout">
+    <section id="episodes" aria-label="Chọn tập"><h2>Tập phim</h2><div id="shelf"></div></section>
+    <section id="selected" class="card" aria-labelledby="release-title">
+      <div class="release-head"><div><p id="episode-meta" class="kicker"></p><h2 id="release-title">Đang tải…</h2><p id="release-status"></p></div><a id="art" hidden download><img id="poster" alt="Thumbnail mặc định của tập"></a></div>
+      <div id="media" class="actions"></div>
+      <div id="copy-kit" hidden>
+        <div class="label-row"><label for="post-title">Title · en-US</label><button data-copy="post-title">Chép title</button></div><input id="post-title" readonly>
+        <div class="label-row"><label for="post-description">Description · en-US</label><button data-copy="post-description">Chép description</button></div><textarea id="post-description" rows="6" readonly></textarea>
+      </div>
+      <p id="kit-message" role="status"></p>
+    </section>
+  </div>
+  <section id="metrics" class="card">
+    <div class="section-head"><h2>Hiệu suất <span id="metric-episode"></span></h2><a id="studio-link" href="https://studio.youtube.com/" target="_blank" rel="noopener">Mở YouTube Studio ↗</a></div>
+    <div class="metric-grid"><div><h3>Lượt xem đã ghi nhận</h3><div id="views"></div></div><div><h3>So sánh cùng mốc sau đăng</h3><label for="period">Mốc đo</label>
+      <select id="period"><option value="24h">24 giờ đầu</option><option value="48h">48 giờ đầu</option><option value="7d">7 ngày đầu</option></select><p id="insight"></p></div></div>
+    <div id="results"></div>
+    <details id="editor"><summary>Nhập hoặc sửa số liệu Studio</summary>
+      <form id="measure"><p id="edit-caption"></p><div class="fields">
+        <label>Lượt xem<input name="views" type="number" min="0" step="1"></label>
+        <label>Lượt hiển thị<input name="impressions" type="number" min="0" step="1"></label>
+        <label>CTR (%)<input name="ctr" type="number" min="0" max="100" step="any"></label>
+        <label>Thời lượng xem TB (giây)<input name="seconds" type="number" min="0" step="1"></label>
+        <label>Còn xem ở giây 30 (%)<input name="retention" type="number" min="0" max="100" step="any"></label>
+      </div><label>Ghi chú về title, thumbnail hoặc nguồn truy cập<input name="note" maxlength="500"></label>
+      <div class="actions"><button type="submit" class="primary">Lưu mốc đo</button><button type="button" id="reset">Đọc lại mốc đã lưu</button></div></form>
+    </details><p id="saved" role="status"></p>
+  </section>
+  <section id="tasks" class="card"><div class="section-head"><h2>Tiến độ kênh</h2><a href="/#channels">Bảng công việc ↗</a></div>
+    <p id="checkpoint"></p><p id="next"></p><div id="task-list"></div></section>
+</main></div>
+
+<div id="manager-app" hidden>
+  <header id="manager-bar"><nav class="yt-shell" aria-label="Điều hướng Studio"><a href="/#channels">← Abyss Studio</a><a href="/fieldnotes">Đăng &amp; hiệu suất theo tập</a></nav></header>
+  <main id="youtube" class="yt-shell">
+    <div class="yt-heading"><h1>Quản lý kênh YouTube</h1><button id="yt-sync" disabled>Đồng bộ số liệu</button></div>
+    <div class="yt-toolbar">
+      <label for="yt-channel">Kênh đang xem <select id="yt-channel" disabled></select></label>
+      <nav aria-label="Màn hình quản lý"><button type="button" id="yt-open-overview" aria-controls="yt-overview" aria-pressed="true">Tổng quan</button><button type="button" id="yt-open-settings" aria-controls="yt-settings" aria-pressed="false">Kết nối</button></nav>
+    </div>
+    <div class="yt-notice" id="yt-notice" hidden>
+      <div><strong id="yt-account"></strong><p id="yt-guidance"></p></div>
+      <button type="button" class="primary" id="yt-next" hidden></button>
+      <div id="yt-wait-actions" class="actions" hidden>
+        <button type="button" id="yt-retry">Mở lại Google</button><button type="button" id="yt-cancel">Hủy chờ</button>
+      </div>
+    </div>
+    <p id="yt-status" role="status"></p>
+    <section id="yt-overview" aria-label="Tổng quan số liệu">
+      <div class="yt-report-head"><p id="yt-period">Đang đọc báo cáo…</p>
+        <label>Ngày báo cáo <select id="yt-day"><option value="latest">Mới nhất</option></select></label></div>
+      <dl class="yt-kpis" id="yt-kpis" aria-label="Chỉ số kênh"></dl>
+      <div id="yt-data"></div>
+      <details id="yt-insights" class="yt-box" hidden><summary>Nhận xét từ số liệu</summary><ul id="yt-notes"></ul></details>
+      <p class="yt-footnote" id="yt-schedule"></p>
+    </section>
+    <section id="yt-settings" class="yt-box" aria-labelledby="yt-settings-heading" hidden>
+      <h2 id="yt-settings-heading">Kết nối kênh</h2><p id="yt-connection-info"></p>
+      <form id="yt-add"><label for="yt-email">Email Google quản lý kênh (tuỳ chọn)</label>
+        <div class="yt-form-row"><input type="email" id="yt-email" autocomplete="email" maxlength="254" placeholder="ban@gmail.com">
+        <button id="yt-connect" type="submit" disabled>Thêm kênh qua Google</button></div>
+      </form>
+      <details id="yt-setup"><summary>File OAuth và hướng dẫn thiết lập</summary>
+      <ol>
+        <li>Trong cùng một dự án Google Cloud, bật <a href="https://console.cloud.google.com/apis/library/youtube.googleapis.com" target="_blank" rel="noopener">YouTube Data API v3</a>, <a href="https://console.cloud.google.com/apis/library/youtubeanalytics.googleapis.com" target="_blank" rel="noopener">YouTube Analytics API</a> và <a href="https://console.cloud.google.com/apis/library/youtubereporting.googleapis.com" target="_blank" rel="noopener">YouTube Reporting API</a>.</li>
+        <li>Trong <a href="https://console.cloud.google.com/auth/overview" target="_blank" rel="noopener">Google Auth Platform</a>, điền Branding và chọn Audience. Với dự án External ở chế độ Testing, thêm từng email cần dùng vào Test users. Tại Data Access, thêm hai scope <code>youtube.readonly</code> và <code>yt-analytics.readonly</code>.</li>
+        <li>Ở <a href="https://console.cloud.google.com/auth/clients" target="_blank" rel="noopener">Clients</a>, chọn Create client → Desktop app. Tải JSON rồi nhập ở bên dưới.</li>
+        <li>Dùng một file JSON cho các kênh trên PC. Mỗi lần thêm kênh, chọn đúng kênh cá nhân hoặc kênh thương hiệu trên Google và xác nhận. Lần đồng bộ đầu sẽ đăng ký báo cáo Reach nếu kênh hỗ trợ.</li>
+      </ol>
+      <label>File JSON của Desktop app <input type="file" id="yt-client" accept=".json,application/json"></label>
+      <button id="yt-import">Lưu file OAuth</button>
+      <p class="muted">Khóa được mã hóa theo tài khoản Windows. Quản lý quyền đã cấp tại <a href="https://myaccount.google.com/connections" target="_blank" rel="noopener">Tài khoản Google</a>.</p>
+    </details>
+    <details id="vidiq-setup"><summary>vidIQ MCP cho kênh đang xem</summary>
+      <p id="vidiq-state"></p>
+      <p>Lấy <a href="https://app.vidiq.com/account/settings/mcp" target="_blank" rel="noopener">API key chỉ đọc của vidIQ</a>. Khi bật, mỗi ngày app sẽ yêu cầu thống kê tăng trưởng công khai 7 ngày của kênh một lần. Yêu cầu này dùng credit trong gói vidIQ.</p>
+      <label>API key vidIQ <input type="password" id="vidiq-key" autocomplete="off" maxlength="4096"></label>
+      <div class="actions"><button type="button" id="vidiq-enable">Bật thống kê vidIQ</button><button type="button" id="vidiq-remove" hidden>Tắt vidIQ cho kênh</button></div>
+    </details>
+      <button type="button" id="yt-disconnect" hidden>Ngắt kênh đang xem khỏi PC</button>
+    </section>
+  </main>
+</div>
+<script type="module">
+  const manager = new URLSearchParams(location.search).get('panel') === 'youtube';
+  const legacyReport = () => ['#youtube','#yt-setup'].includes(location.hash);
+  if (!manager && legacyReport()) {
+    location.replace('?panel=youtube' + location.hash);
+  } else {
+    document.getElementById(manager ? 'manager-app' : 'posting-app').hidden = false;
+    if (manager) {
+      document.title = 'Quản lý kênh YouTube · Abyss Studio';
+      import('/youtube-panel.js');
+    } else {
+      addEventListener('hashchange', () => { if (legacyReport()) location.replace('?panel=youtube' + location.hash); });
+      import('/fieldnotes.js');
+    }
+  }
+</script></body></html>

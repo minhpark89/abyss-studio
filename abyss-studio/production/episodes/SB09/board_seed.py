@@ -1,0 +1,19 @@
+﻿import json
+from pathlib import Path
+EP=Path(__file__).resolve().parent
+def save(n,v):(EP/n).write_text(json.dumps(v,indent=2,ensure_ascii=False)+"\n",encoding='utf8')
+CAST={
+"atelier":"Photorealistic contemporary American short drama. Bright well-exposed daylight from tall frosted windows on a pale cream costume atelier with honey oak workbench and one royal-blue wool show coat on a headless tan dress form. Clean soft side key, detailed midtones and crisp eyes. Color-accurate stable skin. Natural speed. A single unbroken live-action shot. Three principals only, sparse background empty of unidentified people. Keep speech synchronized and clear. No score, text overlays, caption, watermarks, slow motion, flash cuts or stylized fashion posing. Finish the action and spoken sentence by second seven, then hold the changed situation in normal time.",
+"A":"Alma Brooks, Black American woman age 44, warm deep brown complexion, oval face, natural tight black curls pulled into a low puff, small plain gold hoop earrings, crisp copper-rust long-sleeve shirt underneath a dark teal canvas bib apron with cross-back straps. Dark-brown hands and copper shirt cuffs. Measured clear American alto, grounded and quietly formidable.",
+"G":"Gavin Hale, white American man age 48, fair complexion, narrow angular clean-shaven face, brown hair swept back with silver at his temples. Burgundy wine two-button blazer, white open-neck shirt, black trousers and plain silver square lapel badge. Fast and cutting American baritone, pretends warmth in public.",
+"N":"Nina Park, Korean American woman age 55, warm light tan complexion, sleek straight black chin-length bob with a streak of silver, navy tailored blazer over ivory blouse, small silver stud earrings. Calm low American voice with exact diction. The head of the commissioning panel."}
+def shot(num,b,cast,frame,reason,line,action,ref=None):
+ d=dict(id='T%02d'%num,beat_id=b,scene='atelier',cast=list(cast),framing=frame,cut_reason=reason,beat=reason,line=line,action=action,story_order=num)
+ if ref:d["ref"]=ref
+ return d
+seeds=[
+shot(1,'B01','AG','two_shot_ots','Gavin knocks the maker down in public before she can claim her work.','Know your place.',"The shot OPENS on the physical insult, not a person entering. In a steady bright waist-up two-shot, Alma is LEFT and Gavin is RIGHT with the royal-blue coat behind them. Alma holds up a cream portfolio of costume drawings she has just prepared; Gavin immediately slaps the loose paper sketches from her hands DOWN to the floor, without hitting her. White pages tumble below frame. His hand comes back empty; Alma sees him do it and stays standing. Gavin looks right at Alma and says exactly once, cold and crisp, 'Know your place.' Start speaking within the first three seconds. Alma looks from the scattered drawings straight up at him. Both faces stay clearly visible on opposite sides of the frame. End on the two people and the cost of that deliberate insult. Hard clean reaction, no smiles, no other dialogue."),
+shot(8,'B02','N','close_up_180','Nina opens the final commissioning interview and establishes who controls the award.','The theater tour orders forty coats today. Who made this one?', "Stable eye-height medium shot by the cream fitting mirror and frosted window. Nina is the only person visible. She sets a closed slim navy contract folder on the oak workbench with an ordinary decisive soft tap. She looks just past the lens toward the designer on her left and asks exactly: 'The theater tour orders forty coats today. Who made this one?' One brisk fluid sentence. She looks at the royal-blue coat on a headless tan dress form at the edge of frame. Keep Nina's face front three-quarter clearly lit and visible throughout.")
+]
+if __name__=='__main__':
+ save("cast.json",CAST);save("shots.json",seeds)

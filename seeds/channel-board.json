@@ -1,0 +1,54 @@
+{
+  "schema": 2,
+  "channels": [
+    {
+      "id": "abyss",
+      "name": "Abyss Fieldnotes",
+      "niche": "Biển sâu",
+      "handle": "@AbyssFieldnotesOcean",
+      "color": "sea",
+      "version": 1
+    },
+    {
+      "id": "820d3751-0c51-5d9c-bd79-95d4bb969001",
+      "name": "Second Bell Pictures",
+      "niche": "Phim hư cấu Muse 20–30 phút · Người bị hiểu sai và cú đảo góc nhìn",
+      "handle": "",
+      "color": "iris",
+      "createdAt": "2026-11-18T09:22:33.832Z",
+      "updatedAt": "2026-11-18T09:22:33.832Z",
+      "version": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": "aa4f87ab-2179-53d1-93ba-665a5173444f",
+      "channelId": "abyss",
+      "title": "Dựng và kiểm mẫu mở đầu D007",
+      "niche": "Biển sâu",
+      "owner": "Abyss Studio",
+      "due": "",
+      "priority": "normal",
+      "stage": "done",
+      "notes": "01:14 · production/episodes/D007/opening-v1/delivery/D007-opening.mp4 · production/episodes/D007/opening-v1/qa/master.json · Chờ chủ kênh duyệt.",
+      "createdAt": "2026-11-22T06:12:17.485Z",
+      "updatedAt": "2026-11-22T06:12:17.485Z",
+      "version": 1
+    },
+    {
+      "id": "68fd6687-971f-55b8-b850-a13a7d3683a4",
+      "channelId": "abyss",
+      "title": "D007 · Dựng và kiểm toàn tập",
+      "niche": "Biển sâu",
+      "owner": "Abyss Studio",
+      "due": "",
+      "priority": "normal",
+      "stage": "done",
+      "notes": "09:16 · production/episodes/D007/full-v1/delivery/D007.mp4 · Chờ chủ kênh duyệt.",
+      "createdAt": "2026-11-22T07:26:32.368Z",
+      "updatedAt": "2026-11-22T07:26:32.368Z",
+      "version": 1
+    }
+  ],
+  "competitors": []
+}

@@ -1,0 +1,11 @@
+{
+  "shot": "T27",
+  "take": "T27-r3",
+  "receipt_id": "00a66f24-5c31-5bc6-bab4-7d624b303590",
+  "task_id": "task_59063f8c061122e3883b",
+  "status": "completed",
+  "media_sha256": "34307d5da916ec6f24f131d485b84d0d34b9776a1db039fc0cca6f3969969b18",
+  "bytes": 3697321,
+  "reference_sha256": "df6c376a8b618a018669060734bc8c0f2703cac31c590d8547353f8575971659",
+  "prompt_sha256": "dd7ea5ecc2daca63df092b19644ba0a911a76cdccee326caf22d9e17d8f9680f"
+}

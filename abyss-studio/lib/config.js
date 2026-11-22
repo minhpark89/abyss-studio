@@ -1,0 +1,15 @@
+import path from 'node:path';
+import {createRequire} from 'node:module';
+import {fileURLToPath, pathToFileURL} from 'node:url';
+import fs from 'node:fs';
+export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+export const research=process.env.VIRAL_RESEARCH_ROOT||'E:/DROPSHIP/SHARE LAPTOP/VIRAL RESEARCH';
+export const repo=path.join(research,'repo');
+export const requireResearch=createRequire(path.join(fs.existsSync(path.join(root,'node_modules/electron/package.json'))?root:repo,'package.json'));
+export const moduleResearch=name=>import(pathToFileURL(path.join(repo,'server',name)).href);
+const hardwareFile=path.join(root,'production/hardware-acceleration.json');
+const renderSettings=fs.existsSync(hardwareFile)?JSON.parse(fs.readFileSync(hardwareFile,'utf8')):{};
+export const ffmpeg=process.env.ABYSS_FFMPEG|| (renderSettings.ffmpeg?path.resolve(root,renderSettings.ffmpeg):path.join(repo,'bin','ffmpeg.exe'));
+export const ffprobe=process.env.FFPROBE_PATH || (fs.existsSync(path.join(repo,'bin','ffprobe.exe'))?path.join(repo,'bin','ffprobe.exe'):'ffprobe');
+export const data=path.join(root,'data');
+export const output=path.join(root,'output');

@@ -1,0 +1,1095 @@
+{
+  "adapter": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3050 Ti Laptop GPU (0x000025A0) Direct3D11 vs_5_0 ps_5_0, D3D11-32.0.15.9597)",
+  "cuts": [
+    {
+      "mode": "trace0",
+      "source": "field",
+      "at": 0,
+      "title": "Follow the stem"
+    },
+    {
+      "mode": "trace1",
+      "source": "school",
+      "at": 13.041666666666666,
+      "title": "Follow the stem"
+    },
+    {
+      "mode": "trace2",
+      "source": "wide",
+      "at": 16.041666666666668,
+      "title": "Follow the stem"
+    },
+    {
+      "mode": "bud0",
+      "source": "bud",
+      "at": 21.875,
+      "title": "How a colony grows"
+    },
+    {
+      "mode": "bud1",
+      "source": "family",
+      "at": 33.583333333333336,
+      "title": "How a colony grows"
+    },
+    {
+      "mode": "shared0",
+      "source": "jets",
+      "at": 45.458333333333336,
+      "title": "A job with no mouth"
+    },
+    {
+      "mode": "shared1",
+      "source": "mouth",
+      "at": 59.208333333333336,
+      "title": "A job with no mouth"
+    },
+    {
+      "mode": "turn0",
+      "source": "wide",
+      "at": 65.41666666666667,
+      "title": "Which bell steers?"
+    },
+    {
+      "mode": "turn1",
+      "source": "swim",
+      "at": 75.83333333333333,
+      "title": "Which bell steers?"
+    },
+    {
+      "mode": "turn2",
+      "source": "turn",
+      "at": 78.875,
+      "title": "Which bell steers?"
+    },
+    {
+      "mode": "study0",
+      "source": "study",
+      "at": 86.54166666666667,
+      "title": "Watching the jets"
+    },
+    {
+      "mode": "study1",
+      "source": "young",
+      "at": 94.625,
+      "title": "Watching the jets"
+    },
+    {
+      "mode": "study2",
+      "source": "old",
+      "at": 100.66666666666667,
+      "title": "Watching the jets"
+    },
+    {
+      "mode": "lever0",
+      "source": "lever",
+      "at": 108.375,
+      "title": "Location changes the turn"
+    },
+    {
+      "mode": "lever1",
+      "source": "leverarm",
+      "at": 116.54166666666667,
+      "title": "Location changes the turn"
+    },
+    {
+      "mode": "lever2",
+      "source": "turn",
+      "at": 122.58333333333333,
+      "title": "Location changes the turn"
+    },
+    {
+      "mode": "thrust0",
+      "source": "young",
+      "at": 131.91666666666666,
+      "title": "Two jobs in one row"
+    },
+    {
+      "mode": "thrust1",
+      "source": "old",
+      "at": 138.75,
+      "title": "Two jobs in one row"
+    },
+    {
+      "mode": "thrust2",
+      "source": "drive",
+      "at": 147.5,
+      "title": "Two jobs in one row"
+    },
+    {
+      "mode": "wave0",
+      "source": "phase",
+      "at": 155.58333333333334,
+      "title": "A ripple down one side"
+    },
+    {
+      "mode": "wave1",
+      "source": "phase2",
+      "at": 169.66666666666666,
+      "title": "A ripple down one side"
+    },
+    {
+      "mode": "switch0",
+      "source": "curtain",
+      "at": 180.66666666666666,
+      "title": "A different problem"
+    },
+    {
+      "mode": "switch1",
+      "source": "net",
+      "at": 189.91666666666666,
+      "title": "A different problem"
+    },
+    {
+      "mode": "dark0",
+      "source": "fishview",
+      "at": 200.70833333333334,
+      "title": "A point in the dark"
+    },
+    {
+      "mode": "dark1",
+      "source": "night",
+      "at": 210.375,
+      "title": "A point in the dark"
+    },
+    {
+      "mode": "erenna0",
+      "source": "erenna",
+      "at": 222.375,
+      "title": "The angler siphonophore"
+    },
+    {
+      "mode": "erenna1",
+      "source": "branch",
+      "at": 232.58333333333334,
+      "title": "The angler siphonophore"
+    },
+    {
+      "mode": "erenna2",
+      "source": "lure",
+      "at": 241.08333333333334,
+      "title": "The angler siphonophore"
+    },
+    {
+      "mode": "lure0",
+      "source": "branch",
+      "at": 247.70833333333334,
+      "title": "At the end of a branch"
+    },
+    {
+      "mode": "lure1",
+      "source": "luretip",
+      "at": 253.875,
+      "title": "At the end of a branch"
+    },
+    {
+      "mode": "lure2",
+      "source": "lure",
+      "at": 256.875,
+      "title": "At the end of a branch"
+    },
+    {
+      "mode": "color0",
+      "source": "photon",
+      "at": 270.0416666666667,
+      "title": "Making a red signal"
+    },
+    {
+      "mode": "color1",
+      "source": "red",
+      "at": 280.125,
+      "title": "Making a red signal"
+    },
+    {
+      "mode": "fish0",
+      "source": "fish",
+      "at": 293.75,
+      "title": "A fish's view"
+    },
+    {
+      "mode": "fish1",
+      "source": "lure",
+      "at": 305.5416666666667,
+      "title": "A fish's view"
+    },
+    {
+      "mode": "fish2",
+      "source": "night",
+      "at": 312,
+      "title": "A fish's view"
+    },
+    {
+      "mode": "reach0",
+      "source": "lure",
+      "at": 318.7916666666667,
+      "title": "Close enough to sting"
+    },
+    {
+      "mode": "reach1",
+      "source": "mouth",
+      "at": 326.125,
+      "title": "Close enough to sting"
+    },
+    {
+      "mode": "reach2",
+      "source": "net",
+      "at": 335.1666666666667,
+      "title": "Close enough to sting"
+    },
+    {
+      "mode": "observed0",
+      "source": "jets",
+      "at": 341.375,
+      "title": "Evidence inside the hunter"
+    },
+    {
+      "mode": "observed1",
+      "source": "net",
+      "at": 341.375,
+      "title": "Evidence inside the hunter"
+    },
+    {
+      "mode": "observed2",
+      "source": "wide",
+      "at": 359.8333333333333,
+      "title": "Evidence inside the hunter"
+    },
+    {
+      "mode": "vehicle0",
+      "source": "rov",
+      "at": 363.125,
+      "title": "Meeting it in place"
+    },
+    {
+      "mode": "vehicle1",
+      "source": "vehicle",
+      "at": 371.5,
+      "title": "Meeting it in place"
+    },
+    {
+      "mode": "vehicle2",
+      "source": "curtainModel",
+      "at": 379.1666666666667,
+      "title": "Meeting it in place"
+    },
+    {
+      "mode": "scale0",
+      "source": "jets",
+      "at": 384.7083333333333,
+      "title": "A wider frame"
+    },
+    {
+      "mode": "scale1",
+      "source": "wide",
+      "at": 389.7916666666667,
+      "title": "A wider frame"
+    },
+    {
+      "mode": "scale2",
+      "source": "track",
+      "at": 397.5833333333333,
+      "title": "A wider frame"
+    },
+    {
+      "mode": "lamp0",
+      "source": "lamp",
+      "at": 408.9166666666667,
+      "title": "What the lamp reveals"
+    },
+    {
+      "mode": "lamp1",
+      "source": "night",
+      "at": 420.0416666666667,
+      "title": "What the lamp reveals"
+    },
+    {
+      "mode": "lamp2",
+      "source": "lure",
+      "at": 424.3333333333333,
+      "title": "What the lamp reveals"
+    },
+    {
+      "mode": "return0",
+      "source": "field",
+      "at": 433.7916666666667,
+      "title": "Read the photograph again"
+    },
+    {
+      "mode": "return1",
+      "source": "fielddetail",
+      "at": 441.6666666666667,
+      "title": "Read the photograph again"
+    },
+    {
+      "mode": "return2",
+      "source": "wide",
+      "at": 448.2083333333333,
+      "title": "Read the photograph again"
+    },
+    {
+      "mode": "answer0",
+      "source": "family",
+      "at": 456.4166666666667,
+      "title": "One hunter"
+    },
+    {
+      "mode": "answer1",
+      "source": "drive",
+      "at": 465.0416666666667,
+      "title": "One hunter"
+    },
+    {
+      "mode": "answer2",
+      "source": "mouth",
+      "at": 470.3333333333333,
+      "title": "One hunter"
+    },
+    {
+      "mode": "answer3",
+      "source": "depart",
+      "at": 475.875,
+      "title": "One hunter"
+    }
+  ],
+  "frames": [
+    {
+      "t": 0,
+      "mode": "trace0",
+      "source": "field",
+      "kind": "archive"
+    },
+    {
+      "t": 0.3,
+      "mode": "trace0",
+      "source": "field",
+      "kind": "archive"
+    },
+    {
+      "t": 6.520833333333333,
+      "mode": "trace0",
+      "source": "field",
+      "kind": "archive"
+    },
+    {
+      "t": 9.5,
+      "mode": "trace0",
+      "source": "field",
+      "kind": "archive"
+    },
+    {
+      "t": 12,
+      "mode": "trace0",
+      "source": "field",
+      "kind": "archive"
+    },
+    {
+      "t": 13.341666666666667,
+      "mode": "trace1",
+      "source": "school",
+      "kind": "diagram"
+    },
+    {
+      "t": 14.541666666666668,
+      "mode": "trace1",
+      "source": "school",
+      "kind": "diagram"
+    },
+    {
+      "t": 16,
+      "mode": "trace1",
+      "source": "school",
+      "kind": "diagram"
+    },
+    {
+      "t": 16.34166666666667,
+      "mode": "trace2",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 18.958333333333336,
+      "mode": "trace2",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 22.175,
+      "mode": "bud0",
+      "source": "bud",
+      "kind": "diagram"
+    },
+    {
+      "t": 25,
+      "mode": "bud0",
+      "source": "bud",
+      "kind": "diagram"
+    },
+    {
+      "t": 27.729166666666668,
+      "mode": "bud0",
+      "source": "bud",
+      "kind": "diagram"
+    },
+    {
+      "t": 30,
+      "mode": "bud0",
+      "source": "bud",
+      "kind": "diagram"
+    },
+    {
+      "t": 33.88333333333333,
+      "mode": "bud1",
+      "source": "family",
+      "kind": "diagram"
+    },
+    {
+      "t": 37,
+      "mode": "bud1",
+      "source": "family",
+      "kind": "diagram"
+    },
+    {
+      "t": 39.520833333333336,
+      "mode": "bud1",
+      "source": "family",
+      "kind": "diagram"
+    },
+    {
+      "t": 45.75833333333333,
+      "mode": "shared0",
+      "source": "jets",
+      "kind": "diagram"
+    },
+    {
+      "t": 52.333333333333336,
+      "mode": "shared0",
+      "source": "jets",
+      "kind": "diagram"
+    },
+    {
+      "t": 59.50833333333333,
+      "mode": "shared1",
+      "source": "mouth",
+      "kind": "diagram"
+    },
+    {
+      "t": 62.3125,
+      "mode": "shared1",
+      "source": "mouth",
+      "kind": "diagram"
+    },
+    {
+      "t": 65.71666666666667,
+      "mode": "turn0",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 70.625,
+      "mode": "turn0",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 76.13333333333333,
+      "mode": "turn1",
+      "source": "swim",
+      "kind": "film"
+    },
+    {
+      "t": 77.35416666666666,
+      "mode": "turn1",
+      "source": "swim",
+      "kind": "film"
+    },
+    {
+      "t": 79.175,
+      "mode": "turn2",
+      "source": "turn",
+      "kind": "diagram"
+    },
+    {
+      "t": 82.70833333333334,
+      "mode": "turn2",
+      "source": "turn",
+      "kind": "diagram"
+    },
+    {
+      "t": 86.84166666666667,
+      "mode": "study0",
+      "source": "study",
+      "kind": "archive"
+    },
+    {
+      "t": 90.58333333333334,
+      "mode": "study0",
+      "source": "study",
+      "kind": "archive"
+    },
+    {
+      "t": 94.925,
+      "mode": "study1",
+      "source": "young",
+      "kind": "diagram"
+    },
+    {
+      "t": 97.64583333333334,
+      "mode": "study1",
+      "source": "young",
+      "kind": "diagram"
+    },
+    {
+      "t": 100.96666666666667,
+      "mode": "study2",
+      "source": "old",
+      "kind": "diagram"
+    },
+    {
+      "t": 104.52083333333334,
+      "mode": "study2",
+      "source": "old",
+      "kind": "diagram"
+    },
+    {
+      "t": 108.675,
+      "mode": "lever0",
+      "source": "lever",
+      "kind": "diagram"
+    },
+    {
+      "t": 112.45833333333334,
+      "mode": "lever0",
+      "source": "lever",
+      "kind": "diagram"
+    },
+    {
+      "t": 116.84166666666667,
+      "mode": "lever1",
+      "source": "leverarm",
+      "kind": "diagram"
+    },
+    {
+      "t": 119.5625,
+      "mode": "lever1",
+      "source": "leverarm",
+      "kind": "diagram"
+    },
+    {
+      "t": 122.88333333333333,
+      "mode": "lever2",
+      "source": "turn",
+      "kind": "diagram"
+    },
+    {
+      "t": 127.25,
+      "mode": "lever2",
+      "source": "turn",
+      "kind": "diagram"
+    },
+    {
+      "t": 132.21666666666667,
+      "mode": "thrust0",
+      "source": "young",
+      "kind": "diagram"
+    },
+    {
+      "t": 135.33333333333331,
+      "mode": "thrust0",
+      "source": "young",
+      "kind": "diagram"
+    },
+    {
+      "t": 139.05,
+      "mode": "thrust1",
+      "source": "old",
+      "kind": "diagram"
+    },
+    {
+      "t": 143.125,
+      "mode": "thrust1",
+      "source": "old",
+      "kind": "diagram"
+    },
+    {
+      "t": 147.8,
+      "mode": "thrust2",
+      "source": "drive",
+      "kind": "diagram"
+    },
+    {
+      "t": 151.54166666666669,
+      "mode": "thrust2",
+      "source": "drive",
+      "kind": "diagram"
+    },
+    {
+      "t": 155.88333333333335,
+      "mode": "wave0",
+      "source": "phase",
+      "kind": "diagram"
+    },
+    {
+      "t": 162.625,
+      "mode": "wave0",
+      "source": "phase",
+      "kind": "diagram"
+    },
+    {
+      "t": 169.96666666666667,
+      "mode": "wave1",
+      "source": "phase2",
+      "kind": "diagram"
+    },
+    {
+      "t": 175.16666666666666,
+      "mode": "wave1",
+      "source": "phase2",
+      "kind": "diagram"
+    },
+    {
+      "t": 180.96666666666667,
+      "mode": "switch0",
+      "source": "curtain",
+      "kind": "film"
+    },
+    {
+      "t": 185.29166666666666,
+      "mode": "switch0",
+      "source": "curtain",
+      "kind": "film"
+    },
+    {
+      "t": 190.21666666666667,
+      "mode": "switch1",
+      "source": "net",
+      "kind": "diagram"
+    },
+    {
+      "t": 195.3125,
+      "mode": "switch1",
+      "source": "net",
+      "kind": "diagram"
+    },
+    {
+      "t": 201.00833333333335,
+      "mode": "dark0",
+      "source": "fishview",
+      "kind": "film"
+    },
+    {
+      "t": 205.54166666666669,
+      "mode": "dark0",
+      "source": "fishview",
+      "kind": "film"
+    },
+    {
+      "t": 210.675,
+      "mode": "dark1",
+      "source": "night",
+      "kind": "diagram"
+    },
+    {
+      "t": 216.375,
+      "mode": "dark1",
+      "source": "night",
+      "kind": "diagram"
+    },
+    {
+      "t": 222.675,
+      "mode": "erenna0",
+      "source": "erenna",
+      "kind": "diagram"
+    },
+    {
+      "t": 227.47916666666669,
+      "mode": "erenna0",
+      "source": "erenna",
+      "kind": "diagram"
+    },
+    {
+      "t": 232.88333333333335,
+      "mode": "erenna1",
+      "source": "branch",
+      "kind": "diagram"
+    },
+    {
+      "t": 236.83333333333334,
+      "mode": "erenna1",
+      "source": "branch",
+      "kind": "diagram"
+    },
+    {
+      "t": 241.38333333333335,
+      "mode": "erenna2",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 244.39583333333334,
+      "mode": "erenna2",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 248.00833333333335,
+      "mode": "lure0",
+      "source": "branch",
+      "kind": "diagram"
+    },
+    {
+      "t": 250.79166666666669,
+      "mode": "lure0",
+      "source": "branch",
+      "kind": "diagram"
+    },
+    {
+      "t": 254.175,
+      "mode": "lure1",
+      "source": "luretip",
+      "kind": "diagram"
+    },
+    {
+      "t": 255.375,
+      "mode": "lure1",
+      "source": "luretip",
+      "kind": "diagram"
+    },
+    {
+      "t": 257.175,
+      "mode": "lure2",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 263.45833333333337,
+      "mode": "lure2",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 270.3416666666667,
+      "mode": "color0",
+      "source": "photon",
+      "kind": "diagram"
+    },
+    {
+      "t": 275.08333333333337,
+      "mode": "color0",
+      "source": "photon",
+      "kind": "diagram"
+    },
+    {
+      "t": 280.425,
+      "mode": "color1",
+      "source": "red",
+      "kind": "diagram"
+    },
+    {
+      "t": 286.9375,
+      "mode": "color1",
+      "source": "red",
+      "kind": "diagram"
+    },
+    {
+      "t": 294.05,
+      "mode": "fish0",
+      "source": "fish",
+      "kind": "archive"
+    },
+    {
+      "t": 299.64583333333337,
+      "mode": "fish0",
+      "source": "fish",
+      "kind": "archive"
+    },
+    {
+      "t": 305.8416666666667,
+      "mode": "fish1",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 308.77083333333337,
+      "mode": "fish1",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 312.3,
+      "mode": "fish2",
+      "source": "night",
+      "kind": "diagram"
+    },
+    {
+      "t": 315.39583333333337,
+      "mode": "fish2",
+      "source": "night",
+      "kind": "diagram"
+    },
+    {
+      "t": 319.0916666666667,
+      "mode": "reach0",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 322.45833333333337,
+      "mode": "reach0",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 326.425,
+      "mode": "reach1",
+      "source": "mouth",
+      "kind": "diagram"
+    },
+    {
+      "t": 330.64583333333337,
+      "mode": "reach1",
+      "source": "mouth",
+      "kind": "diagram"
+    },
+    {
+      "t": 335.4666666666667,
+      "mode": "reach2",
+      "source": "net",
+      "kind": "diagram"
+    },
+    {
+      "t": 338.27083333333337,
+      "mode": "reach2",
+      "source": "net",
+      "kind": "diagram"
+    },
+    {
+      "t": 341.375,
+      "mode": "observed1",
+      "source": "net",
+      "kind": "diagram"
+    },
+    {
+      "t": 341.675,
+      "mode": "observed1",
+      "source": "net",
+      "kind": "diagram"
+    },
+    {
+      "t": 350.60416666666663,
+      "mode": "observed1",
+      "source": "net",
+      "kind": "diagram"
+    },
+    {
+      "t": 360.1333333333333,
+      "mode": "observed2",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 361.47916666666663,
+      "mode": "observed2",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 363.425,
+      "mode": "vehicle0",
+      "source": "rov",
+      "kind": "archive"
+    },
+    {
+      "t": 367.3125,
+      "mode": "vehicle0",
+      "source": "rov",
+      "kind": "archive"
+    },
+    {
+      "t": 371.8,
+      "mode": "vehicle1",
+      "source": "vehicle",
+      "kind": "film"
+    },
+    {
+      "t": 375.33333333333337,
+      "mode": "vehicle1",
+      "source": "vehicle",
+      "kind": "film"
+    },
+    {
+      "t": 379.4666666666667,
+      "mode": "vehicle2",
+      "source": "curtainModel",
+      "kind": "diagram"
+    },
+    {
+      "t": 381.9375,
+      "mode": "vehicle2",
+      "source": "curtainModel",
+      "kind": "diagram"
+    },
+    {
+      "t": 385.0083333333333,
+      "mode": "scale0",
+      "source": "jets",
+      "kind": "diagram"
+    },
+    {
+      "t": 387.25,
+      "mode": "scale0",
+      "source": "jets",
+      "kind": "diagram"
+    },
+    {
+      "t": 390.0916666666667,
+      "mode": "scale1",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 393.6875,
+      "mode": "scale1",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 397.8833333333333,
+      "mode": "scale2",
+      "source": "track",
+      "kind": "diagram"
+    },
+    {
+      "t": 403.25,
+      "mode": "scale2",
+      "source": "track",
+      "kind": "diagram"
+    },
+    {
+      "t": 409.2166666666667,
+      "mode": "lamp0",
+      "source": "lamp",
+      "kind": "diagram"
+    },
+    {
+      "t": 414.4791666666667,
+      "mode": "lamp0",
+      "source": "lamp",
+      "kind": "diagram"
+    },
+    {
+      "t": 420.3416666666667,
+      "mode": "lamp1",
+      "source": "night",
+      "kind": "diagram"
+    },
+    {
+      "t": 422.1875,
+      "mode": "lamp1",
+      "source": "night",
+      "kind": "diagram"
+    },
+    {
+      "t": 424.6333333333333,
+      "mode": "lamp2",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 429.0625,
+      "mode": "lamp2",
+      "source": "lure",
+      "kind": "diagram"
+    },
+    {
+      "t": 434.0916666666667,
+      "mode": "return0",
+      "source": "field",
+      "kind": "archive"
+    },
+    {
+      "t": 437.7291666666667,
+      "mode": "return0",
+      "source": "field",
+      "kind": "archive"
+    },
+    {
+      "t": 441.9666666666667,
+      "mode": "return1",
+      "source": "fielddetail",
+      "kind": "archive"
+    },
+    {
+      "t": 444.9375,
+      "mode": "return1",
+      "source": "fielddetail",
+      "kind": "archive"
+    },
+    {
+      "t": 448.5083333333333,
+      "mode": "return2",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 452.3125,
+      "mode": "return2",
+      "source": "wide",
+      "kind": "diagram"
+    },
+    {
+      "t": 456.7166666666667,
+      "mode": "answer0",
+      "source": "family",
+      "kind": "diagram"
+    },
+    {
+      "t": 460.7291666666667,
+      "mode": "answer0",
+      "source": "family",
+      "kind": "diagram"
+    },
+    {
+      "t": 465.3416666666667,
+      "mode": "answer1",
+      "source": "drive",
+      "kind": "diagram"
+    },
+    {
+      "t": 467.6875,
+      "mode": "answer1",
+      "source": "drive",
+      "kind": "diagram"
+    },
+    {
+      "t": 470.6333333333333,
+      "mode": "answer2",
+      "source": "mouth",
+      "kind": "diagram"
+    },
+    {
+      "t": 473.10416666666663,
+      "mode": "answer2",
+      "source": "mouth",
+      "kind": "diagram"
+    },
+    {
+      "t": 476.175,
+      "mode": "answer3",
+      "source": "depart",
+      "kind": "film"
+    },
+    {
+      "t": 478.9375,
+      "mode": "answer3",
+      "source": "depart",
+      "kind": "film"
+    },
+    {
+      "t": 481.8,
+      "mode": "answer3",
+      "source": "depart",
+      "kind": "film"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

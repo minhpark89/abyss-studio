@@ -1,0 +1,38 @@
+{
+  "episode": "D007",
+  "scope": "full_episode",
+  "file": "D007.mp4",
+  "sha256": "f060182866b9e21ab8487c659e8c96aa420eebb8b530b0c9bcaecf5ee24f0ba1",
+  "bytes": 579927017,
+  "duration_s": 555.5833333333334,
+  "frames": 13334,
+  "fps": "24/1",
+  "size": [
+    1920,
+    1080
+  ],
+  "audio_duration_s": 555.583,
+  "video": "h264",
+  "audio": "aac",
+  "complete_decode": true,
+  "faststart": true,
+  "lufs": -16.35,
+  "dbtp": -1.57,
+  "language": {
+    "market": "US",
+    "language": "en-US",
+    "streams": {
+      "D007.mp4": [
+        [
+          "audio",
+          "eng"
+        ]
+      ]
+    },
+    "sidecars": [
+      "D007-en-US.srt"
+    ]
+  },
+  "caption_cues": 202,
+  "scene_count": 68
+}

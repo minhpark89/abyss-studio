@@ -1,0 +1,9 @@
+{
+  "shot": "T27",
+  "take": "T27",
+  "receipt_id": "11cb9574-1f3c-5932-a91b-3ce15ab2746f",
+  "task_id": "task_ef111c5612c0a4258b25",
+  "status": "failed",
+  "reference_sha256": "2f821ae50a841b2f9c97e6342a0d1146e0b4c4ae33342e7f9c8b8746f634881d",
+  "prompt_sha256": "c3e2a26ff45c6f2e02c78c8bd9558b51e7b568fa754b23b8eb6d5dd200db1ee1"
+}

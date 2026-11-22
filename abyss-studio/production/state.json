@@ -1,0 +1,3168 @@
+{
+  "schema": 1,
+  "updated_at": "2026-11-22T07:26:31+00:00",
+  "active_episode": "D007",
+  "format": {
+    "language": "en-US",
+    "min_minutes": 8,
+    "max_minutes": 10,
+    "target_per_day": 1,
+    "start_date": null
+  },
+  "checkpoints": [
+    "C0_brief",
+    "C1_facts",
+    "C2_script",
+    "C3_storyboard",
+    "C4_preflight",
+    "C5_assets",
+    "C6_edit",
+    "C7_qc",
+    "C8_delivery"
+  ],
+  "automation": {
+    "status": "not_scheduled"
+  },
+  "muse": {
+    "connection_file": "data/muse-daily-connection.json"
+  },
+  "episodes": [
+    {
+      "id": "D001",
+      "title": "Why Does the Colossal Squid Need an Eye This Big?",
+      "status": "scheduled",
+      "stage": "C3_storyboard",
+      "checks": {
+        "C0_brief": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/BRIEF.md",
+              "sha256": "98ee81e8222db0217509c3e0169c82b6772ea8b969c7835faf62d994dca1c4ba"
+            }
+          ]
+        },
+        "C1_facts": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/facts.json",
+              "sha256": "15d68b132b4e3f3533f269c671f0b9fba0143209d052df894e2e0e1f1d378d13"
+            },
+            {
+              "path": "production/episodes/D001/research-notes.md",
+              "sha256": "dfc09c807aa8312b4e84a6e42c5460251161d9fd28778f6e43d94bcb4594040c"
+            }
+          ]
+        },
+        "C2_script": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/story.json",
+              "sha256": "d6177857f3ca5d9b1d9156b521e969db8fd4222d9a1f049eff71434c762ecd24"
+            },
+            {
+              "path": "production/episodes/D001/script-en.md",
+              "sha256": "df0971b2118d7c3dadf7d2f609b9c41283934736d591460193cc50dc01c5a57e"
+            },
+            {
+              "path": "production/episodes/D001/script-claims.json",
+              "sha256": "5abb2891af65921a0ea4800bcb42eaaff93c0e7cc8ca21185daff365528834a5"
+            },
+            {
+              "path": "production/episodes/D001/pronunciation.json",
+              "sha256": "0bd5531f83311a4046ccdd11fba5ed1cafb8536ee1f0e2327d1228e9ae24e774"
+            }
+          ]
+        },
+        "C3_storyboard": {
+          "status": "needs_revision",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/storyboard.json",
+              "sha256": "1634d7e14892a772d31b1508015a778d13d94c27d8d605b5ab817a777af83a2b"
+            },
+            {
+              "path": "production/episodes/D001/thumbnail-brief.md",
+              "sha256": "5055325c56dd2074ec0667d12b7f594fd0d823c7e90096f787f7f60d348e7007"
+            },
+            {
+              "path": "production/D001_VISUAL_REBUILD.md",
+              "sha256": "80724219a4b93fdf71680f7c06b5671a906344953e5a15bc672778a5eaa0d03a"
+            },
+            {
+              "path": "production/episodes/D001/visual-v2-proof/web/timing.json",
+              "sha256": "a54e76a6978da61461cafe926f09f373d5f23a85a36710d852cc889b8712d3f0"
+            },
+            {
+              "path": "production/FFMPEG_SKILL_REVIEW.md",
+              "sha256": "732fdc7c1313b5465786fa1c66dfea302ebb6b39c13ce8f9e555751217d0c5a8"
+            },
+            {
+              "path": "production/REFERENCE_FUNCTION_LED_ANALYSIS.md",
+              "sha256": "d8ece6c6d0e09d7ed6396988551c71df32db4cb782d741cd3496fdcdb3149d95"
+            },
+            {
+              "path": "production/history/HYBRID_FORM_RUNBOOK_before_D002_v6.md",
+              "sha256": "6f071859691195f34a40b2d05436e26844a25cbff220e86d31d213c24615dcd3"
+            },
+            {
+              "path": "production/episodes/D001/visual-functions-v1.json",
+              "sha256": "c0da248eec0c098fed281e5ff956352fe3b3f7c980f8f236925894bf8f7250d3"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v1/plan.json",
+              "sha256": "8cca89a37f84d0112a00b032cffed55caa6ca6699da16ab36aa90cfd982343e6"
+            },
+            {
+              "path": "production/episodes/D001/RESUME_CHECKPOINT.md",
+              "sha256": "7d6fb33ead00676a5dced4693965c2614ff7740429fbad2b41d720d0d0e857c8"
+            },
+            {
+              "path": "production/episodes/D001/reviews/caption-overlap-owner.json",
+              "sha256": "090955ef9ee4ab107fa460b8db72856b31ac075cc050e55e177f317b5f2ea037"
+            },
+            {
+              "path": "production/REFERENCE_OCTOLAB_BLACKWATER.md",
+              "sha256": "2e59adf877c5b28513bfb3c94cb23d4210eb64286a82a48707b1ab232c2f83c4"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/plan.json",
+              "sha256": "7ea4ba018219475250bf16c771aa64c1e6974820e9d845cd14434b5259659bd8"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/plan.json",
+              "sha256": "0d144ca1f851a795e8c0d13da3593b6eed49014e68de009da2913cc85c7da163"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/visual-review.json",
+              "sha256": "8a2004bc4ac030ea537e25dd54df98ba9e6c5669bbb5da863221eed38d5ce94d"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/qa/visual-review.json",
+              "sha256": "f55bb973609cbe30af608885909b5526f95cb9a9d961ec0cef7427d9e8d6a1ef"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/review-polish-notes.json",
+              "sha256": "02434c322310081ac17912ecec7a56310654cf7b81f5973288a9983c3c21eec9"
+            }
+          ]
+        },
+        "C4_preflight": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/production-preflight.json",
+              "sha256": "e483cb330b545fc5ca59d7243720c4be47e483656576bae218b900e5f065ef0f"
+            },
+            {
+              "path": "production/episodes/D001/asset-manifest.json",
+              "sha256": "52e1d92daa1f01a8e32ef0a4f31edbfcdec91ebf1056ffbad3e6729dd83bc96a"
+            },
+            {
+              "path": "production/episodes/D001/assets/muse/release-cinematic-v1/squid-reveal-receipt.json",
+              "sha256": "d73a49f30f648dde6f311ebdf9b7e5dd58b22af40e9fc44a3a2006c7335de6d0"
+            },
+            {
+              "path": "production/episodes/D001/audio/kokoro-release-v1/manifest.json",
+              "sha256": "d5886a738c32cdce2f8e2fdde6592cbb86ef91ca4a50f6c5580e3c563baa11d8"
+            }
+          ]
+        },
+        "C5_assets": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/delivery/thumbnail-manifest.json",
+              "sha256": "9b011ba19b42a2f4a6c3009f3b74bc59d6dea2dc61fc921ca70c0b322d46c4e2"
+            },
+            {
+              "path": "production/episodes/D001/qa/narration-integrity.json",
+              "sha256": "47a0530f62f34ee05b5ebd885509ba649b890e8f2289df465a95f17d1faff5f4"
+            },
+            {
+              "path": "production/episodes/D001/assets/noaa/rights.json",
+              "sha256": "5c14a62f9fdc78ece32e2f9f818ba76b748cd0071c19033306263344d237ad23"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/CREDITS.md",
+              "sha256": "9974a3fcd4aa1568f38f3fd1b7b6a127ba1b3ddba13107cab9bb692d863efe6a"
+            },
+            {
+              "path": "production/episodes/D001/thumbnail-system-v2/manifest.json",
+              "sha256": "1f73993ac12b0ced6c1077c33be2687d497657dc9c85af43b9888852bd8ccfd1"
+            },
+            {
+              "path": "production/episodes/D001/thumbnail-system-v2/youtube-apply-receipt.json",
+              "sha256": "65fe4aa9db3ce29a3eb76bcd7234388b7fdfe4356dec144c797de847976ba7cf"
+            },
+            {
+              "path": "branding/THUMBNAIL_SYSTEM_V2.md",
+              "sha256": "6f4d5504ede762fe329ef60e6888d57bb654bae64d5bf213ce5eaf2989304e35"
+            }
+          ]
+        },
+        "C6_edit": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/delivery/D001-review-v1.mp4",
+              "sha256": "3c8ddb11c345c758a4f47228a0f3039f95a703932dded84fdab7c816e2dd2748"
+            },
+            {
+              "path": "production/episodes/D001/timing.json",
+              "sha256": "3c211a62dea03aa576301bc151a4bc6d2443fa48b78e5752d0c929b728f9a15b"
+            },
+            {
+              "path": "production/episodes/D001/delivery/captions-en.srt",
+              "sha256": "09ab8286f15e2878b785b83982726dd81d029bf519ee0d1ff12b69c4a23da289"
+            },
+            {
+              "path": "production/episodes/D001/visual-v2-proof/D001-visual-rebuild-v2-proof-final.mp4",
+              "sha256": "a72a9945543bfd34b905558e39096a1a64bf218029eb4eeb5d80558ea52b9b8d"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v1/D001-hybrid-form-v1.mp4",
+              "sha256": "2742280131547626bed7ea64e0e6faa9c312c90f5ff6c0979da3e73b35fdc664"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/D001-illustrated-v3-final.mp4",
+              "sha256": "2ed17e251e1fc95c2b1e22bebb4ddf2fbe26aba794d356d9dc7602f461823bd9"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/captions-en.srt",
+              "sha256": "bc854b174c53762152de5e4c2cff43f35bb649e0d05807536297b88e85f101c6"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/edit-summary.json",
+              "sha256": "e37542593041dea15c274a2380133ccfb4edb5d4ba857e7d429bc86c67db2e49"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/qa/gpu-composition.json",
+              "sha256": "d7a7a690b8b1f3203594b8e4c6adeedb47707d6fbbdeae765be98e9d346cb39d"
+            }
+          ]
+        },
+        "C7_qc": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/qa/qc.json",
+              "sha256": "7a0b6e926e55e7ac585ab5704793d09e815f37d169adc211a69bda8ad9849159"
+            },
+            {
+              "path": "production/episodes/D001/qa/verification.json",
+              "sha256": "206d1299d8eaf76aadf0ce9c0533d4925a01bd78a1ed85a263fcf0d8c3140fee"
+            },
+            {
+              "path": "production/episodes/D001/qa/final/checks.json",
+              "sha256": "8813c46646934b9aa26228a5fdb83a8383e279e6a058ab001f79ab4aa9dad220"
+            },
+            {
+              "path": "production/episodes/D001/qa/playback.json",
+              "sha256": "3ddc533398e5f4642b1693802079378501d62c8a11a70206f793fa9b4bb71cf5"
+            },
+            {
+              "path": "production/episodes/D001/qa/playback-1x.json",
+              "sha256": "3546c85754c13798561141de09588fc43bce9d1ae46d68f40f6fad05af5b32ca"
+            },
+            {
+              "path": "production/episodes/D001/visual-v2-proof/qa/verification.json",
+              "sha256": "e6fb6aab5dedb7218f55e8b637aca8fb369496e5b89f626d00223f6eca8b4391"
+            },
+            {
+              "path": "production/episodes/D001/visual-v2-proof/qa/playback.json",
+              "sha256": "6b0b641de0fb1efc1aae11c3b8caecc2c736cf7358ef83770c18dac7be71cefa"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v1/qa/verification.json",
+              "sha256": "8406a849797edddd9170af24719d7c9aaaa668af9accd473882fb99b80bbaedb"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v1/qa/playback.json",
+              "sha256": "b0b0eed62c0da3959943bb8fbc658a546547db4e5e79b3bdbd52e8c28cd84dbc"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v1/qa/sound-sync.json",
+              "sha256": "67d25ed37b4835022d3b2f7c1ba2d0157ebace87e32bb85c22ba877afea96b29"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v1/qa/visual-review.json",
+              "sha256": "3f9ddd38ef3599039b1e5a051bc9756624f8420f3604a9ed3437f0b9942cfe6f"
+            },
+            {
+              "path": "production/episodes/D001/reviews/caption-overlap-owner.png",
+              "sha256": "1d0e7c762a7c2adf6da048d8294762af1482e2606ebb1ae254767997786056d0"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v2/qa/verification.json",
+              "sha256": "8406a849797edddd9170af24719d7c9aaaa668af9accd473882fb99b80bbaedb"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v2/qa/captions/audit.json",
+              "sha256": "e719bb2cce853d15c095a0828cb5adb50fe9b56182b737b44f00ffa3f54525e6"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v2/qa/playback.json",
+              "sha256": "754e760fd0baed799ff7e71cf1a8a5d4f562be998aad49976633b4951e42fcb0"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/qa/layout-audit.json",
+              "sha256": "0fa9853cba6dabb57cb6ca42249e9383286b43461b5691a01cdbfdce2a8c2cde"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/patches.json",
+              "sha256": "549da3e39bcd0bcd7dd7527ed7c69f1bf5e086f9d5829e8dc937d73fee96e528"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/qa/caption-text-audit.json",
+              "sha256": "8e1017b9fc28a9961f1e72a04090386b27116f040551de7f4615764b16b74fdb"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/patches-r2.json",
+              "sha256": "990a5480fc98a37e96172d9dbb783941e4357ca403c06287041c9f2b06505c03"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/audio-headroom-r2/verification.json",
+              "sha256": "d70e07cc2fced72d2733a24ab9da208ad283e6cb2ec39885dad1eb08bb75c004"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/verification.json",
+              "sha256": "c89e5c5544adcae6cff2e72c1b09e8322bc520a4490b4967104804d905c75178"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/patch-integrity.json",
+              "sha256": "ee570e8b2db7b7d74e7b981d81609f046527699ad500ede7dc119b17e523322f"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/visual-continuity.json",
+              "sha256": "2e9fdc2109620c004f4d4b3a24b91352fbc74b6a19c01addcf7233fc52f666ff"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/captions/audit.json",
+              "sha256": "77fcd08937128fe8507a998f34c07c56609c00845c492797c233ecb46a9ac7d4"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/player-local/verification.json",
+              "sha256": "cb4d83f0f8bf5a60b3c97e674dcd86e9e45a3a20eea4c80144df8a2d97af065d"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/playback.json",
+              "sha256": "3afe31fc5a9c036946fb02a610b52e24c0bf6ac7749ce7c33b2147accc508ff5"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/visual-review.json",
+              "sha256": "8a2004bc4ac030ea537e25dd54df98ba9e6c5669bbb5da863221eed38d5ce94d"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/qa/verification.json",
+              "sha256": "3db2b248c0d1e135778cfb610594492390b7292a900f315f39da64eadf1c40bb"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/qa/playback.json",
+              "sha256": "dd50f90958fd2ceb47c9f53a4b4451817f9ff1dd9f7b8bac099b0da34bad0e8b"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/qa/english-editorial-review.json",
+              "sha256": "a012b834e4a26cee9f6a6cb6a1f8c05212eaa2e4cf0dfa56f91f237c48e4d8a9"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/youtube/watch-verification.json",
+              "sha256": "619044ab6298d14b0b2cf1a269c16d58a28a4beb1e52106b2c6241bead68e27d"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/youtube/studio-verification.json",
+              "sha256": "444dd3e2f7b29fea6d5cea09146f77ab81ef91ae3dc6469dee79e2726ec1b85d"
+            }
+          ]
+        },
+        "C8_delivery": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D001/delivery/delivery-manifest.json",
+              "sha256": "f16a948acb8e2069de9df4c5175ba9d1b4fe3681a559488f0ae9075b3eafe006"
+            },
+            {
+              "path": "production/episodes/D001/delivery/upload-notes.md",
+              "sha256": "30ea82c591605de361043f5116b2a61e37efad32a510aa90b1d7f84dbafa7bfa"
+            },
+            {
+              "path": "production/episodes/D001/visual-v2-proof/delivery-manifest.json",
+              "sha256": "94cf39875298486d6463737ed2375b33b97783c82c40945403502e9857b62de9"
+            },
+            {
+              "path": "production/episodes/D001/hybrid-form-v1/manifest.json",
+              "sha256": "1012d26a5c007b5280fc7ae9e57f33c857b557869534f2bba373c3c685677a02"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/delivery-manifest.json",
+              "sha256": "deddcb036e49ad2a435daa451d666a4c4f0ff4f70eb28695b75891e5bd54cc49"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/qa/delivery-integrity.json",
+              "sha256": "851536e231fc15e28ab363f88a6aee74f922edcbb19bd9f1eecc7d586a7e320a"
+            },
+            {
+              "path": "production/episodes/D001/illustrated-v3/final-r2/REVIEW_NOTES_VI.md",
+              "sha256": "b5e3608f8a3df9673f422d2fdf142e1341e8d5553ffa27d362e3ccad9ad70de4"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/delivery-manifest.json",
+              "sha256": "a3929c8e52b93b0c78dbb4235796979f162e85dc4f525e96991b5c843d6b41a7"
+            },
+            {
+              "path": "production/episodes/D001/release-draft-v1/youtube-upload-receipt.json",
+              "sha256": "c508406380bcc4fd30679f11e553ff7740fd66d5fbb8d4cd9aac4866a6c5a41f"
+            },
+            {
+              "path": "production/D001_COMPARISON_AND_RELEASE_VI.md",
+              "sha256": "c52b0c21fb6f6be0f13d7bb4af6a40af3fc4e12916c20f66cea33fe922c8e9db"
+            },
+            {
+              "path": "production/episodes/D001/thumbnail-system-v2/manifest.json",
+              "sha256": "1f73993ac12b0ced6c1077c33be2687d497657dc9c85af43b9888852bd8ccfd1"
+            },
+            {
+              "path": "production/episodes/D001/thumbnail-system-v2/youtube-apply-receipt.json",
+              "sha256": "65fe4aa9db3ce29a3eb76bcd7234388b7fdfe4356dec144c797de847976ba7cf"
+            },
+            {
+              "path": "branding/THUMBNAIL_SYSTEM_V2.md",
+              "sha256": "6f4d5504ede762fe329ef60e6888d57bb654bae64d5bf213ce5eaf2989304e35"
+            }
+          ]
+        }
+      },
+      "publication": {
+        "status": "published",
+        "url": "https://www.youtube.com/watch?v=svKwkelaZKY",
+        "published_at": "2026-11-15T08:00:23+00:00",
+        "authorization": "explicit_owner_request_publish_this_afternoon_2026-11-15",
+        "public_release_hold": false,
+        "scheduled_at": "2026-11-15T15:00:00+07:00",
+        "draft_url": "https://www.youtube.com/watch?v=svKwkelaZKY",
+        "studio_url": "https://studio.youtube.com/video/svKwkelaZKY/edit",
+        "thumbnail": "production/episodes/D001/thumbnail-system-v2/A-scale-1280.jpg",
+        "requested_publication_time": "2026-11-15T15:00:00+07:00",
+        "schedule_status": "saved_verified_after_reload",
+        "scheduled_utc": "2026-11-15T08:00:00Z",
+        "receipt": "production/episodes/D001/thumbnail-plate-v5/publication-receipt.json",
+        "thumbnail_version": "thumbnail-plate-v5",
+        "release_basis": "Owner explicitly requested afternoon publication after viewing the complete video; technical draft QA retained; independent ASR not human listening. Three nonsevere transition notes accepted for this existing upload.",
+        "public_verified_at": "2026-11-15T08:13:04.533Z",
+        "public_verification_scope": "YouTube Studio Visibility Public; exact actual publication timestamp not independently verified",
+        "ai_disclosure": {
+          "ui_section": "AI use",
+          "selected": "Yes",
+          "persisted_after_reload": true,
+          "changed_this_session": false,
+          "verified_at": "2026-11-15T08:13:04.533Z",
+          "receipt": "production/episodes/D001/publication-verification/ai-disclosure-2026-11-15.json"
+        },
+        "video_id": "svKwkelaZKY",
+        "evidence": "production/channels/abyss-fieldnotes/evidence/publication-2026-11-20.json"
+      },
+      "review_edit": {
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D001/release-draft-v1/D001-release-draft-v1.mp4",
+        "duration_s": 597.7666666667,
+        "version": "release-draft-v1",
+        "human_listening": "not claimed; ASR review completed"
+      }
+    },
+    {
+      "id": "D002",
+      "title": "Why Does This Fish Have a See-Through Head?",
+      "status": "owner_upload_package_ready",
+      "stage": "C2_script",
+      "checks": {
+        "C0_brief": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/BRIEF.md",
+              "sha256": "3ff8023b127a8069dcacf7488021b65e335ab454b4dea62be59f263bfea408b3"
+            }
+          ]
+        },
+        "C1_facts": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/facts.json",
+              "sha256": "8d311392c246fd386b7c953d3299d46a4083d64f07a82c54ed9c0382b9006abe"
+            },
+            {
+              "path": "production/episodes/D002/research-notes.md",
+              "sha256": "498e8c8e914e8346fbdb082f9c142460a617aee3337ef71fe24084495c5e94e7"
+            }
+          ]
+        },
+        "C2_script": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/script-en.md",
+              "sha256": "2101dc244daaba64a85c956593d4925cf30e50f75e0d4e46e00c7ba2ddb4855c"
+            },
+            {
+              "path": "production/episodes/D002/script-vi.md",
+              "sha256": "5262bf09fae28167050871a9684e1923b0fab4fcda093731416b5f2df0b123e6"
+            },
+            {
+              "path": "production/episodes/D002/script-claims.json",
+              "sha256": "76ce0857e37df92340c415952e73ae2c3fe7cd1d813792235ed762348b0cab92"
+            },
+            {
+              "path": "production/episodes/D002/pronunciation.json",
+              "sha256": "2c8ba625dba24a6d417ddcb06c14f81587b20b22e756b49f823884f980af0d98"
+            },
+            {
+              "path": "production/episodes/D002/qa/asr/audit.json",
+              "sha256": "aceb447e0bd315b80255fe583b4cfc92604f4c17f6ca06a1b61e2d0d29394b0a"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/hook-story.json",
+              "sha256": "8fc3d1aae17e4200b639bf29dd5e344af3baca525183a72690273dcaab7dffc8"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/script-en.md",
+              "sha256": "f88f5782de1681d395a31b137ab102a74617bb1843cdd09f22d46347e48b1567"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/script-vi.md",
+              "sha256": "708d047c1e1648ba7902ee19bb2eafee36284e1f531638da998268fd90333e48"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/timing.json",
+              "sha256": "eda644988777e49ac5eb5f669b6ec535f1623d47ff87839f70504d259e57928f"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/audio/voice-manifest.json",
+              "sha256": "56fa6f65c3ccf37108036b0ec6b2d0aad5357fe42543ba748ee3600cc423ab91"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/qa/asr/audit.json",
+              "sha256": "8bb463c29465260b18bee1d39599c9ddefb104fabcf0eaa176186e94ffded1ac"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/qa/audio-semantic-review.json",
+              "sha256": "0c30b2886bbc71c4af6250f3d1a5c0de12e52b151a87aa83612bfdca52637082"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/audio-v1/asr-chunks/audit.json",
+              "sha256": "31a395209da7ab6bc31a80732dd968b82d2006f169956930eebec483043a6c80"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-REWORK-20261116T050714Z.json",
+              "sha256": "cc3bcfbf095edc717088d79fb1824873997102561f8eb4c09c9afdf0f4d7d0ff"
+            },
+            {
+              "path": "production/episodes/D002/revision-v8/delivery/delivery-manifest.json",
+              "sha256": "95969fa3760c612f75983c6f9a87dc6bfbdb983c14c6fb03acb6843d9b67b51d"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-V9-UPLOAD-20261116T102806Z.json",
+              "sha256": "320b00d51ed5f53b3343838c61e420cf8cf04a95b2e2200b28f0911d5dd56bf2"
+            }
+          ]
+        },
+        "C3_storyboard": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/storyboard.json",
+              "sha256": "0215c00d9a16445a262d09e8fc1397872d0890d1c73c97bab66dabaef66602ee"
+            },
+            {
+              "path": "production/episodes/D002/timeline.json",
+              "sha256": "0215c00d9a16445a262d09e8fc1397872d0890d1c73c97bab66dabaef66602ee"
+            },
+            {
+              "path": "production/episodes/D002/thumbnail-brief.md",
+              "sha256": "21af6c29388dd1484dd89b728bf38b6029c2c6e7daceea292eff853f51185bf2"
+            },
+            {
+              "path": "production/episodes/D002/delivery-v1/qa/visual-review.json",
+              "sha256": "a741aed4343ab2e2670e3584517ad417257e8a477ddb5dc9e3f64d209352dc17"
+            },
+            {
+              "path": "production/episodes/D002/revision-v2/AUDIT_VI.md",
+              "sha256": "7cbb4663b33fe74b49cb0614e120a37b9e0cb257ab4afa530e99dbaf8a3fc1e7"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/REVIEW_VI.md",
+              "sha256": "5834536c810328d582a15ff76d1d0f896812e30ff058dc203483e142622d0441"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/shot-plan.json",
+              "sha256": "5a2aadd2048ff5b0668a352370b4d8aeda410992205bbe92a12cfd757ab868b3"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/source-visual-review.json",
+              "sha256": "9e1b655ae2560b09521080751004beb36d215716a7b325e1af18f6c6896ef595"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/owner-feedback.json",
+              "sha256": "6d44713424bf4b08ed946e9e9c2f66f026ce67dd6090e98502d8392d8f715992"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/plan.json",
+              "sha256": "d3eda6961abdfc289cf1331643a9a2d74c5ce1a7496c940e47a2787c24aa3292"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/proof-review.json",
+              "sha256": "7fbd7f861efb818f05f5787a7b1a2fea210874d1ea184cf2b34d2a2007c701a4"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/qa/owner-feedback.json",
+              "sha256": "4caf73f6f913017e31e7fcf81d2161e038fba8ebe178e68b6a68cfb67ea12120"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/motion-canvas/proof-c/delivery-manifest.json",
+              "sha256": "fc854b8d49e4805ccf152a6eaa676493100296c855f6e0a79fb639fe37154efb"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/storyboard.json",
+              "sha256": "622210f300110c916d9d3ead19e0cdd36f9ef0cf0bff263dd6abc452ca42e2c2"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/hook-review.json",
+              "sha256": "93b67bc658f1ee1a4fc2c7903f3053960eb830217a9ca5568ccb7f71f5da097d"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/qa/hook-packet-check.json",
+              "sha256": "16ac217d9019fc0aeed7f1fb91fc23310c2da303c34f5aa44be63dea9907b1b1"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/hook-hybrid-v1/preview-c/delivery-manifest.json",
+              "sha256": "eaf969f490ac95245b81e87f6df9bbfff1bb4406dd6e53b2bb45c1303831f6e0"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/timeline.json",
+              "sha256": "bd2b728d5d5cf3b2309f401685627d0d31ff7270c4b03b41d5c716111e83422b"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/qa/phone-beats.json",
+              "sha256": "ec073fa598d07187e3da0b3d44fa1c85b0b43ae6184d9c27220c02390a9c146d"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-REWORK-20261116T050714Z.json",
+              "sha256": "cc3bcfbf095edc717088d79fb1824873997102561f8eb4c09c9afdf0f4d7d0ff"
+            },
+            {
+              "path": "production/episodes/D002/revision-v8/delivery/delivery-manifest.json",
+              "sha256": "95969fa3760c612f75983c6f9a87dc6bfbdb983c14c6fb03acb6843d9b67b51d"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-V9-UPLOAD-20261116T102806Z.json",
+              "sha256": "320b00d51ed5f53b3343838c61e420cf8cf04a95b2e2200b28f0911d5dd56bf2"
+            }
+          ]
+        },
+        "C4_preflight": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/production-preflight.json",
+              "sha256": "5da4fd8e977d12839d7858074916849926b1643e79afa05c32991a73c178d1dc"
+            },
+            {
+              "path": "production/episodes/D002/asset-manifest.json",
+              "sha256": "58b67ca232069caf352d208fceabaf0595b82b9773bbc9c186047d40ea8305c2"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/credits-rights.md",
+              "sha256": "1b8803867ba7df2b1ea5b3199fbbee2c4da5ca20ee7c54f4993c6b89bd2d040d"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/render.json",
+              "sha256": "b0184a4f84e6ca7d4afc850eb6a69fec4351030c6211bef3687ee21b6971b04f"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/credits-rights.md",
+              "sha256": "1a607c2e932cc2c98ee7bf3b85396da8c945605bc1af5d0d829eb438c33b11ed"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/media-ranges.json",
+              "sha256": "91fc28ef51c487fd28764f1b535b790f7490374d67b78223626ce534984c2bb1"
+            },
+            {
+              "path": "production/checkpoints/Muse-native-result-20261115T155713Z.json",
+              "sha256": "92c567debba1d4abbf72a657b2b340d2e79730306958297d8eec3c05434db52b"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/muse-native-v2/qa/M01/visual-review.json",
+              "sha256": "74739a65a9f15f88857b4c0b28a162ae63a55d9cd26e488f0e36be2e7dcdf911"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/muse-native-v3/qa/M01/visual-review.json",
+              "sha256": "1193aa56e711195d8070338942cfb3ff01022787240c04efdbd4d003fd0832ba"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/muse-native-v5/preflight-visual-review.json",
+              "sha256": "be704744b653adb9d783165b4677ced0e8d6faf7be2427a97632fa784253be51"
+            },
+            {
+              "path": "data/native-app-qa/controls-report.json",
+              "sha256": "93b26fc6330d5ba487f51a904c99e252eebec1b54cf3fc575a82e82d68791b5e"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-V9-UPLOAD-20261116T102806Z.json",
+              "sha256": "320b00d51ed5f53b3343838c61e420cf8cf04a95b2e2200b28f0911d5dd56bf2"
+            }
+          ]
+        },
+        "C5_assets": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/asset-manifest.json",
+              "sha256": "58b67ca232069caf352d208fceabaf0595b82b9773bbc9c186047d40ea8305c2"
+            },
+            {
+              "path": "production/episodes/D002/thumbnail-manifest.json",
+              "sha256": "d8716e5759d0fb64223f3bae76c842eb187d465cf37e2fbdf8613b1ca81a4add"
+            },
+            {
+              "path": "production/episodes/D002/timing.json",
+              "sha256": "d56ddd8210e849e12f0542bfcaf04f25de68b9798439ed811d567efb219891de"
+            },
+            {
+              "path": "production/episodes/D002/revision-v2/AUDIT_VI.md",
+              "sha256": "7cbb4663b33fe74b49cb0614e120a37b9e0cb257ab4afa530e99dbaf8a3fc1e7"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/MODEL_CONTRACT.json",
+              "sha256": "643a203666dc9c9a680ea35eab0c7978167ed03616452bfcfe7c5c209891ad1e"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/qa/model-audit.json",
+              "sha256": "caf53afffb5d719b2356dff58ae5261990395ab5d6cd951f7576c715451663b0"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/model-audit.json",
+              "sha256": "72c548768110780dbc453f82d408c33a8f9cb79d3883b8213aa891eb6a80386b"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/thumbnail-report.json",
+              "sha256": "b4991a67fd801d2726afcb2d730fc06bd59f43e4847f3d1bacc424d68bb04ef2"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/owner-feedback.json",
+              "sha256": "6d44713424bf4b08ed946e9e9c2f66f026ce67dd6090e98502d8392d8f715992"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/thumbnail-manifest.json",
+              "sha256": "337170ecdc852ec17b1d1bed33b1c9e2e78ba60a3e464669ee84c425641096de"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/stills-c/report.json",
+              "sha256": "b0bc61cc95e869777cace8f5d409e639279a05e3a242c3c1054a7fc74412551a"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/qa/owner-feedback.json",
+              "sha256": "4caf73f6f913017e31e7fcf81d2161e038fba8ebe178e68b6a68cfb67ea12120"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/motion-canvas/proof-c/delivery-manifest.json",
+              "sha256": "fc854b8d49e4805ccf152a6eaa676493100296c855f6e0a79fb639fe37154efb"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/composites-final/selection.json",
+              "sha256": "d9c5c351cd46c7e5f7460d707970867fd6eb1f7afa9ed217830a9faaa744b723"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/thumbnails-a/manifest.json",
+              "sha256": "8168c9569b70f8dd92b91130e4bac72edec805dc7b9c8dbe0f8ab50d27bbe2d1"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-REWORK-20261116T050714Z.json",
+              "sha256": "cc3bcfbf095edc717088d79fb1824873997102561f8eb4c09c9afdf0f4d7d0ff"
+            },
+            {
+              "path": "production/episodes/D002/revision-v8/delivery/delivery-manifest.json",
+              "sha256": "95969fa3760c612f75983c6f9a87dc6bfbdb983c14c6fb03acb6843d9b67b51d"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-V9-UPLOAD-20261116T102806Z.json",
+              "sha256": "320b00d51ed5f53b3343838c61e420cf8cf04a95b2e2200b28f0911d5dd56bf2"
+            }
+          ]
+        },
+        "C6_edit": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/timeline.json",
+              "sha256": "0215c00d9a16445a262d09e8fc1397872d0890d1c73c97bab66dabaef66602ee"
+            },
+            {
+              "path": "production/episodes/D002/delivery-v1/qa/technical-review.json",
+              "sha256": "9e085e46b9959f6185ffa73f8d4419ce775d95bd9b78cebc243a3d6eee14c0a7"
+            },
+            {
+              "path": "production/episodes/D002/delivery-v1/qa/visual-review.json",
+              "sha256": "a741aed4343ab2e2670e3584517ad417257e8a477ddb5dc9e3f64d209352dc17"
+            },
+            {
+              "path": "production/episodes/D002/render-patch-v2/patch-receipt.json",
+              "sha256": "5019297db12208fc932d518f7c5318a0feca3c3a71dbc119b551926836411500"
+            },
+            {
+              "path": "production/episodes/D002/revision-v2/AUDIT_VI.md",
+              "sha256": "7cbb4663b33fe74b49cb0614e120a37b9e0cb257ab4afa530e99dbaf8a3fc1e7"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/qa/render.json",
+              "sha256": "3ffc7da85b5fea2f5968e42986c46f76996e7f3eb2ff68f7e9e71775fb15a16c"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/qa/verification.json",
+              "sha256": "daadcd8bef5e0dc33d70f6b4d3fa8adf2b7dc5dc7762b4a74904db2d6c8e75a5"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/composition.json",
+              "sha256": "004f62d3bf0240902c6dcf7d8e8856b972108149e279c20ecf53678312d093a8"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/verification.json",
+              "sha256": "9d8c5067d4c69f20b12cdb8e4c2301390ec4122a2ced3884e18a06a34a834b16"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/sound-text-sync.json",
+              "sha256": "11d12735f6a088c959c2fffaf4b3afd136199a38207bd3c8ac19fc89008470bd"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/owner-feedback.json",
+              "sha256": "6d44713424bf4b08ed946e9e9c2f66f026ce67dd6090e98502d8392d8f715992"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/action-audit.json",
+              "sha256": "d6d0cfb3597b4841d36406cb6e284527e42336dfa1f8f040bc90ec23ea4ad949"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/verification.json",
+              "sha256": "b2ee70b76717b38464d9fcea349bf8cf413d4efb7064b4db584e04a41c343598"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/qa/owner-feedback.json",
+              "sha256": "4caf73f6f913017e31e7fcf81d2161e038fba8ebe178e68b6a68cfb67ea12120"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/motion-canvas/proof-c/delivery-manifest.json",
+              "sha256": "fc854b8d49e4805ccf152a6eaa676493100296c855f6e0a79fb639fe37154efb"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/assembly-report.json",
+              "sha256": "62358bb558f9bfceab7089b1390b0e3a47dd712c93a78a60be0fcf340f6ceb2e"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/mixed-proof-b/qa/visual-review.json",
+              "sha256": "f6cf4421d7137b878bc8c8389e9919191774791e62f3e6f953b8a125c6f64d54"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-REWORK-20261116T050714Z.json",
+              "sha256": "cc3bcfbf095edc717088d79fb1824873997102561f8eb4c09c9afdf0f4d7d0ff"
+            },
+            {
+              "path": "production/episodes/D002/revision-v8/delivery/delivery-manifest.json",
+              "sha256": "95969fa3760c612f75983c6f9a87dc6bfbdb983c14c6fb03acb6843d9b67b51d"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-V9-UPLOAD-20261116T102806Z.json",
+              "sha256": "320b00d51ed5f53b3343838c61e420cf8cf04a95b2e2200b28f0911d5dd56bf2"
+            }
+          ]
+        },
+        "C7_qc": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/delivery-v1/qc.json",
+              "sha256": "84121d37185362883969c47ddace9ce01ff31cd2b27f90f5cc65773b1b96e795"
+            },
+            {
+              "path": "production/episodes/D002/delivery-v1/qa/playback/continuous.json",
+              "sha256": "7e77374163336470c0f4fb5314dbdafe26ad5898d7bb7db05f9c1ffe7ea7db83"
+            },
+            {
+              "path": "production/episodes/D002/delivery-v1/qa/player-local/verification.json",
+              "sha256": "a285a91076d3c414f7e1108bc799aa1716b15afcb54898f5a9998010f6571e03"
+            },
+            {
+              "path": "production/episodes/D002/revision-v2/AUDIT_VI.md",
+              "sha256": "7cbb4663b33fe74b49cb0614e120a37b9e0cb257ab4afa530e99dbaf8a3fc1e7"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/qa/player-verification.json",
+              "sha256": "ec57faef369673041c04af5df0a6ad5db67b95cca57461d1c7c8c91683a898ff"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/REVIEW_VI.md",
+              "sha256": "5834536c810328d582a15ff76d1d0f896812e30ff058dc203483e142622d0441"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/player-verification.json",
+              "sha256": "eeceaf8708ab3c09bccf7ad906fed95b406aa0418b4f84378317ab0809ae1cfd"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/qa/final-visual-review.json",
+              "sha256": "bee49c5800bc58968493bbd0f9a6e31abcfb65b73ce62cc6643dfe06a31e16b4"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/REVIEW_VI.md",
+              "sha256": "ca2f421cd4f8b268b7fca18f8de4b45ba52095bc2079887ed293ac11cf6cd85b"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/owner-feedback.json",
+              "sha256": "6d44713424bf4b08ed946e9e9c2f66f026ce67dd6090e98502d8392d8f715992"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/encoded-audit.json",
+              "sha256": "748f4087be45d6ba0692972599e853a7af903009a73dbad2c626c8deb3b97be0"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/player-verification.json",
+              "sha256": "406b7a1fac13aa9bacb886d940a44e98118933cb57621e3cd7410e597aac6a37"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/final-visual-review.json",
+              "sha256": "565654f0211b51c32837787800342109f7bf4c34f3a2c2e2757620e99e40c11e"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/REVIEW_VI.md",
+              "sha256": "7d888f601617b4d75ce396efe2468508707637383463bbe64f987e7ce6b2c2fc"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/qa/owner-feedback.json",
+              "sha256": "4caf73f6f913017e31e7fcf81d2161e038fba8ebe178e68b6a68cfb67ea12120"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/motion-canvas/proof-c/delivery-manifest.json",
+              "sha256": "fc854b8d49e4805ccf152a6eaa676493100296c855f6e0a79fb639fe37154efb"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/qc.json",
+              "sha256": "7da204af362ab3c961de4e4e0dc9c4a25ca14badcec5a05079a5e9427a5babf6"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/qa/verification.json",
+              "sha256": "b663004fbf072b431380583d5c7e5c8e94d9eae9baf5270e58845294e2b6f7b8"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/qa/playback-report.json",
+              "sha256": "9a45f7ef9e29f6e8f8d9204dc226ec9842b4b6d02bdcdaab7121a00e30eb9c7f"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/qa/visual-review.json",
+              "sha256": "a0f15cd71d1c5c34e9a57f3e021813f05dada20dcc420663c701deaa949124e4"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-REWORK-20261116T050714Z.json",
+              "sha256": "cc3bcfbf095edc717088d79fb1824873997102561f8eb4c09c9afdf0f4d7d0ff"
+            },
+            {
+              "path": "production/episodes/D002/revision-v8/delivery/delivery-manifest.json",
+              "sha256": "95969fa3760c612f75983c6f9a87dc6bfbdb983c14c6fb03acb6843d9b67b51d"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-V9-UPLOAD-20261116T102806Z.json",
+              "sha256": "320b00d51ed5f53b3343838c61e420cf8cf04a95b2e2200b28f0911d5dd56bf2"
+            }
+          ]
+        },
+        "C8_delivery": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D002/delivery-v1/delivery-manifest.json",
+              "sha256": "9951dcad7d3a952e62589d39f360dff6955e04b602f0025fa3bbf4c442d7ba83"
+            },
+            {
+              "path": "production/episodes/D002/delivery-v1/README_VI.md",
+              "sha256": "335f62494199992411a461616d90c2207038610eb8471ca9a76e2ecf9216639a"
+            },
+            {
+              "path": "production/episodes/D002/revision-v2/AUDIT_VI.md",
+              "sha256": "7cbb4663b33fe74b49cb0614e120a37b9e0cb257ab4afa530e99dbaf8a3fc1e7"
+            },
+            {
+              "path": "production/episodes/D002/revision-v3/checkpoint-manifest.json",
+              "sha256": "f7bf6d3f8048e340a54ebc908cc4d4afb768a49eff44272632c2efa55ad27ca9"
+            },
+            {
+              "path": "production/episodes/D002/revision-v5/delivery-manifest.json",
+              "sha256": "81ec0a48cc4da9dd70a29dbf0acb8af077a097eaccca9e3dcdf4949e8840e5d4"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/qa/owner-feedback.json",
+              "sha256": "6d44713424bf4b08ed946e9e9c2f66f026ce67dd6090e98502d8392d8f715992"
+            },
+            {
+              "path": "production/episodes/D002/revision-v6/delivery-manifest.json",
+              "sha256": "4180d92c84086228607d7a13a1f17855131056b6da02f4867b25b3f752abf267"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/qa/owner-feedback.json",
+              "sha256": "4caf73f6f913017e31e7fcf81d2161e038fba8ebe178e68b6a68cfb67ea12120"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/motion-canvas/proof-c/delivery-manifest.json",
+              "sha256": "fc854b8d49e4805ccf152a6eaa676493100296c855f6e0a79fb639fe37154efb"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/delivery-manifest.json",
+              "sha256": "6c6227ea975235896a3605cd351a71caacae2d13f21f95820753e74b79434bf5"
+            },
+            {
+              "path": "production/episodes/D002/revision-v7/full-hybrid-v1/review-c/REVIEW_VI.md",
+              "sha256": "adbe736c2529e38f9eefe396e0fbac56bbdada62c662bd38176da7a13d5cda35"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-REWORK-20261116T050714Z.json",
+              "sha256": "cc3bcfbf095edc717088d79fb1824873997102561f8eb4c09c9afdf0f4d7d0ff"
+            },
+            {
+              "path": "production/episodes/D002/revision-v8/delivery/delivery-manifest.json",
+              "sha256": "95969fa3760c612f75983c6f9a87dc6bfbdb983c14c6fb03acb6843d9b67b51d"
+            },
+            {
+              "path": "production/checkpoints/SESSION-TRANSFER-D002-V9-UPLOAD-20261116T102806Z.json",
+              "sha256": "320b00d51ed5f53b3343838c61e420cf8cf04a95b2e2200b28f0911d5dd56bf2"
+            }
+          ]
+        }
+      },
+      "publication": {
+        "status": "published",
+        "url": "https://www.youtube.com/watch?v=omnPBXUSGbc",
+        "published_at": "2026-11-16T12:54:49+00:00",
+        "owner_upload_requested": true,
+        "upload_package": {
+          "path": "production/episodes/D002/revision-v9/upload-package/upload-manifest.json",
+          "sha256": "54b3a5a3385027a37dd4c73710ca4c36885c4a6a1e8e153460ad2fe7066305e5",
+          "bytes": 3952
+        },
+        "video_id": "omnPBXUSGbc",
+        "evidence": "production/channels/abyss-fieldnotes/evidence/publication-2026-11-20.json"
+      },
+      "active_build": {
+        "status": "owner_upload_package_ready",
+        "duration_s": 512.5333333333333,
+        "version": "revision-v9",
+        "scope": "Muse-led cinematic film; concise essential mechanism diagrams; model-generated branded thumbnails.",
+        "review_file": "production/episodes/D002/revision-v9/delivery/D002-v9-captioned.mp4",
+        "owner_acceptance": "accepted_for_current_episode_with_2d_deferred",
+        "next_action_vi": "D002 v9 giữ nguyên để anh tự đăng bằng bộ title/description đã chuẩn bị. Tối ưu 2D từ tập sau; phiên mới tiếp tục D003 C1_facts.",
+        "upload_package": {
+          "path": "production/episodes/D002/revision-v9/upload-package/upload-manifest.json",
+          "sha256": "54b3a5a3385027a37dd4c73710ca4c36885c4a6a1e8e153460ad2fe7066305e5",
+          "bytes": 3952
+        },
+        "delivery_manifest": {
+          "path": "production/episodes/D002/revision-v9/delivery/delivery-manifest.json",
+          "sha256": "fef6baeb3832ffb00883aa03feb1481b1ccea0bfe5d3a58ee9674e1dbecb0fa5",
+          "bytes": 5381
+        },
+        "human_listening": "pending"
+      },
+      "review_edit": {
+        "kind": "full_episode",
+        "status": "owner_upload_package_ready",
+        "file": "production/episodes/D002/revision-v9/delivery/D002-v9-captioned.mp4",
+        "duration_s": 512.5333333333333,
+        "version": "revision-v9",
+        "review_page": "production/episodes/D002/revision-v9/delivery/review.html",
+        "thumbnail": "production/episodes/D002/revision-v9/thumbnails/D002-thumbnail-A.jpg",
+        "human_listening": "pending"
+      },
+      "hook_preview": {
+        "status": "available_for_review",
+        "file": "production/episodes/D002/revision-v9/delivery/D002-v9-hook-captioned.mp4",
+        "duration_s": 62.63333333333333,
+        "version": "revision-v9-final-hook",
+        "owner_acceptance": "covered_by_episode_level_feedback",
+        "human_listening": "pending"
+      }
+    },
+    {
+      "id": "D003",
+      "title": "What Happens After a Whale Sinks?",
+      "status": "in_production",
+      "stage": "C4_preflight",
+      "checks": {
+        "C0_brief": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/BRIEF.md",
+              "sha256": "704f52d183b50301378e237a9ff8f1271d5d516771527e109377eb6493ec9b41"
+            }
+          ]
+        },
+        "C1_facts": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/facts.json",
+              "sha256": "5cd39b5f61b1d1c3e961b50185ffd9226049a78e6854df965062c739427dd2eb"
+            },
+            {
+              "path": "production/episodes/D003/research-notes.md",
+              "sha256": "99dd24f7378e20b50a8028212043daf13e11899e08deca2115a6ac2c3b5d8d2d"
+            }
+          ]
+        },
+        "C2_script": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/script-en.md",
+              "sha256": "60a14daefbac084484f06788cdcf095a821d354edc88d06bd7a3f3fea85ac43d"
+            },
+            {
+              "path": "production/episodes/D003/script-claims.json",
+              "sha256": "c7185d63c43c864473771d2ea6650270b5e2c0fe27bb15ecb8e8c9bf03512e73"
+            },
+            {
+              "path": "production/episodes/D003/pronunciation.json",
+              "sha256": "ab2006e578e982b30e8fefeaa17098f08ebfcb46b065a3a2b72a007763ffd574"
+            },
+            {
+              "path": "production/episodes/D003/audio/reel-v2/manifest.json",
+              "sha256": "f2d74e08d29a80db699e6cb6dd7ef5f635d1ece906a0cb8758a38161825f451e"
+            }
+          ]
+        },
+        "C3_storyboard": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/storyboard.json",
+              "sha256": "ed2571b1a55d4123d8f47ad636d0c5d6e510d6a4b7c8123e40ea8fe7e5ffe3a9"
+            },
+            {
+              "path": "production/episodes/D003/thumbnail-brief.md",
+              "sha256": "f92d977a099b32b725978947885072a7424a9f16ffcf8e646055692bd4b5745c"
+            },
+            {
+              "path": "production/episodes/D003/reel-v1/events.json",
+              "sha256": "59166eb1e2324bfb5ad104eef6c3d45bdfb0c36d99ad26c0a3280f9bec6972d9"
+            },
+            {
+              "path": "production/episodes/D003/reel-v1/muse-plan.json",
+              "sha256": "04a047cca415fd4c741a3ece7334e87c3bb86eff02e0243e23f870b0c3720ac3"
+            }
+          ]
+        },
+        "C4_preflight": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/muse/quota-refresh-result.json",
+              "sha256": "6b88bbc572cfe76527c694f138da3cd00506fe2598236901a467f0500a8aa1a5"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/qa/backend-production-evidence.json",
+              "sha256": "fd77e6f6d30c83bead04c8e8834831155ff811efc66162449675c9895ff94026"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/muse/catalog.json",
+              "sha256": "1fb3525d3c24cce96fbd4a01d9cb7d24bc4c5a34b678ee4ad8f16715343fe723"
+            }
+          ]
+        },
+        "C5_assets": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/muse/catalog.json",
+              "sha256": "1fb3525d3c24cce96fbd4a01d9cb7d24bc4c5a34b678ee4ad8f16715343fe723"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/delivery/rights-and-sources.json",
+              "sha256": "bc9fa9f7a0949281aa816e9fa612b797dd13c8369309e7c587683e254091058b"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/thumbnails/manifest.json",
+              "sha256": "f8173f97ad0d2ad61b84dc52ff9ab7acf551af12cfc90abe1c41e3016587ec20"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/qa/caption-check.json",
+              "sha256": "f09feb209c022c93000ab13e2427f7a1ccb48de05f4c39ccb436521449c270c3"
+            }
+          ]
+        },
+        "C6_edit": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/delivery/manifest.json",
+              "sha256": "523398eca9f1bb0a8ba48caf526d0c3c4b9df2f0cc8ec2e98d73d827e1ec9cf3"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/qa/segment-verification.json",
+              "sha256": "876d5bf545a7474f36610800244cbb4cbe1bc56056424bd22f524f62c1d019c0"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/qa/hybrid-final/visual-review.json",
+              "sha256": "0f0ffc88513e533cb11c994ca2c4aab4fbe3c7aeb558cb705596a3f512bfeb68"
+            }
+          ]
+        },
+        "C7_qc": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/qa/hybrid-final/technical-check.json",
+              "sha256": "1c4df075abc0df38d5983edfc9d40320c82c3b9839224672b47cb2e172d6e4ab"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/qa/hybrid-final/ui-review.json",
+              "sha256": "0d7653c1aefeb9b97ab76573835c1df1e6b9869c6c577c23dfb12d06ad5c1b75"
+            }
+          ]
+        },
+        "C8_delivery": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/delivery/manifest.json",
+              "sha256": "523398eca9f1bb0a8ba48caf526d0c3c4b9df2f0cc8ec2e98d73d827e1ec9cf3"
+            },
+            {
+              "path": "production/episodes/D003/hybrid-full-v4/qa/hybrid-final/delivery-runtime.json",
+              "sha256": "642f500596dd86f6341e5370ce94d355dba36882bcb504ad368e3698649fb832"
+            }
+          ]
+        }
+      },
+      "publication": {
+        "status": "published",
+        "url": "https://www.youtube.com/watch?v=xZzsJYE6JGs",
+        "published_at": "2026-11-17T15:59:44+00:00",
+        "video_id": "xZzsJYE6JGs",
+        "evidence": "production/channels/abyss-fieldnotes/evidence/publication-2026-11-20.json"
+      },
+      "active_build": {
+        "status": "full_hybrid_review_available",
+        "duration_s": 589.3666666666667,
+        "version": "hybrid-full-v4",
+        "scope": "Complete the entire 589.366667-second en-US episode for owner review, with photorealistic moving Muse scenes and code-drawn explanations.",
+        "review_page": "production/episodes/D003/hybrid-full-v4/delivery/review.html",
+        "review_file": "production/episodes/D003/hybrid-full-v4/delivery/D003-final-captioned.mp4",
+        "owner_acceptance": "pending",
+        "next_action_vi": "Chủ kênh xem/nghe toàn tập D003 v4 và ghi phản hồi theo timestamp; sửa đúng đoạn khi có phản hồi.",
+        "upload_package": {
+          "path": "production/episodes/D003/hybrid-full-v4/delivery/manifest.json",
+          "sha256": "523398eca9f1bb0a8ba48caf526d0c3c4b9df2f0cc8ec2e98d73d827e1ec9cf3",
+          "bytes": 5640
+        },
+        "delivery_manifest": {
+          "path": "production/episodes/D003/hybrid-full-v4/delivery/manifest.json",
+          "sha256": "523398eca9f1bb0a8ba48caf526d0c3c4b9df2f0cc8ec2e98d73d827e1ec9cf3",
+          "bytes": 5640
+        },
+        "human_listening": "pending"
+      },
+      "review_edit": {
+        "kind": "full_hybrid_episode",
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D003/hybrid-full-v4/delivery/D003-final-captioned.mp4",
+        "duration_s": 589.3666666666667,
+        "version": "hybrid-full-v4",
+        "scope": "Complete 9:49 hybrid episode for owner review; no publication or owner acceptance implied.",
+        "review_page": "production/episodes/D003/hybrid-full-v4/delivery/review.html",
+        "human_listening": "pending"
+      }
+    },
+    {
+      "id": "D004",
+      "title": "How a Sperm Whale Hunts When Light Runs Out",
+      "status": "full_edit_available_for_review",
+      "stage": "C7_qc",
+      "checks": {
+        "C0_brief": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/BRIEF.md",
+              "sha256": "b17eadcb2e1508e0c903ca702e3e137b5bb75a2f84f4d393442ad1f0f8eba0a5"
+            }
+          ]
+        },
+        "C1_facts": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v1/story.json",
+              "sha256": "243bc61293a656e0a4395c0d2a29649d143a3cf4c8ba10e11acdc10e54a819e4"
+            }
+          ]
+        },
+        "C2_script": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v1/story.json",
+              "sha256": "243bc61293a656e0a4395c0d2a29649d143a3cf4c8ba10e11acdc10e54a819e4"
+            }
+          ]
+        },
+        "C3_storyboard": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v1/storyboard.json",
+              "sha256": "6668c84c6bd20331518eafe01a2447550744589486d1481ec6b2f0c9c5231376"
+            }
+          ]
+        },
+        "C4_preflight": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v1/sources-footage.json",
+              "sha256": "92d7b6aaf89e4b3f2755baf8394f9d2016c855513498bc0ad5d81bdd39c32e3a"
+            },
+            {
+              "path": "production/episodes/D004/full-v1/muse/M02.json",
+              "sha256": "b3eb1b533cd1a24fc086152c6bb1f12bf77db18c6b7a20414adfc65b086acb68"
+            },
+            {
+              "path": "production/episodes/D004/full-v1/muse/M03.json",
+              "sha256": "9a72ef9334b00e00d5168e0534490c80a2363131e58416302d2eac237c21c29f"
+            },
+            {
+              "path": "production/episodes/D004/hook-v1/receipt.json",
+              "sha256": "d32934551facb8eff316fd8b5081a42e17e9969ad9afc8229fe7d8c68f345c29"
+            },
+            {
+              "path": "production/episodes/D004/full-v2/muse/R01.json",
+              "sha256": "b7754c2c7267c26f71bebab7280ed75c5e1cf4ae4f1a8ecc2a0f6c71bb5f961f"
+            }
+          ]
+        },
+        "C5_assets": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v3/delivery/D004-en.srt",
+              "sha256": "84866fb30ec86f27e0e3ed12f18e17bd01aa1ee7868817d76afcbde10b5a0f35"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/delivery/rights-and-sources.json",
+              "sha256": "f772003096ce04c8daf03e28d0dca38a7e345d510241b649d72fbd90651e53c1"
+            },
+            {
+              "path": "production/episodes/D004/full-v2/timeline.json",
+              "sha256": "199f4b9656bda80d968d3d63170d253014ad39da149593624672715de15f39a6"
+            },
+            {
+              "path": "production/episodes/D004/full-v2/qa/music.json",
+              "sha256": "b39abe668e61fb523f1d7026bbd869cf27750be3c7eece4ed439051242215f42"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/motion.mjs",
+              "sha256": "61a816deb6754781ca995d66e3ce5b2b60d2b358d31fe6d88bd968f261b0c340"
+            }
+          ]
+        },
+        "C6_edit": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v3/qa/master.json",
+              "sha256": "d6a25feeaa80b416013719d6cc4b69e089e285d26b418ba61dfcd8323656ef08"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/qa/encoded.jpg",
+              "sha256": "bd5a838223c235a2e98550052a0f6265ec777a66d14cc25f27e807b923970206"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/delivery/metadata.json",
+              "sha256": "497ebc3568fd62972e8dddfb50c5cd3566807f1304d1dcfd79b2b2b713154314"
+            }
+          ]
+        },
+        "C7_qc": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v3/qa/master.json",
+              "sha256": "d6a25feeaa80b416013719d6cc4b69e089e285d26b418ba61dfcd8323656ef08"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/qa/player.json",
+              "sha256": "5562987ea8322bb580ce63d30cdb36a8fe5adb5ce01d4fce94eea6b71c66270f"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/qa/encoded.jpg",
+              "sha256": "bd5a838223c235a2e98550052a0f6265ec777a66d14cc25f27e807b923970206"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/qa/visual-notes.md",
+              "sha256": "0afa647220557b0ae0d36ea71c7422f11834fa88ebff11855dcbf23b4fa2a50d"
+            }
+          ]
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": [
+            {
+              "path": "production/episodes/D004/full-v3/upload-ab/delivery/manifest.json",
+              "sha256": "bd74190bdeccbe601bf5e7a6fc9b6d4ac2449be832d16560015fc6bba7533415"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/upload-ab/delivery/thumbnail-test.json",
+              "sha256": "1396fd8f743bc3384fdc94e0bc76a0d898643f7f847f6079400c04949623b72a"
+            },
+            {
+              "path": "production/episodes/D004/full-v3/upload-ab/hooks-v2/qa.json",
+              "sha256": "1e3e53808c8eda956f251cab5c8583226e88ab3ec65b2a552d1d102c06a5d309"
+            }
+          ]
+        }
+      },
+      "publication": {
+        "status": "published",
+        "url": "https://www.youtube.com/watch?v=YZOXjyeiJTc",
+        "published_at": "2026-11-18T14:25:30+00:00",
+        "video_id": "YZOXjyeiJTc",
+        "evidence": "production/channels/abyss-fieldnotes/evidence/publication-2026-11-20.json"
+      },
+      "active_build": {
+        "status": "full_hybrid_review_available",
+        "duration_s": 539.433008,
+        "version": "full-v3",
+        "scope": "US edition with animated English titles, cards and captions throughout.",
+        "release_language": "en-US",
+        "audience_market": "US",
+        "review_page": "production/episodes/D004/full-v3/delivery/review.html",
+        "review_file": "production/episodes/D004/full-v3/delivery/D004.mp4",
+        "owner_acceptance": "pending_full_v3",
+        "next_action_vi": "Chủ kênh tự đăng D004 từ gói US và ghi nhận thử thumbnail sau khi có dữ liệu YouTube.",
+        "upload_package": {
+          "path": "production/episodes/D004/full-v3/upload-ab/delivery/manifest.json",
+          "sha256": "bd74190bdeccbe601bf5e7a6fc9b6d4ac2449be832d16560015fc6bba7533415",
+          "bytes": 2152
+        },
+        "delivery_manifest": {
+          "path": "production/episodes/D004/full-v3/delivery/manifest.json",
+          "sha256": "11fb2d72a3ac39c56a53e431e6aa44a89db7b53312de6d3951057a1bcd005828",
+          "bytes": 3506
+        },
+        "human_listening": "pending_owner"
+      },
+      "review_edit": {
+        "kind": "full_episode",
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D004/full-v3/delivery/D004.mp4",
+        "duration_s": 539.433008,
+        "thumbnail": "production/episodes/D004/full-v3/delivery/thumbnail.jpg"
+      },
+      "hook_preview": {
+        "file": "production/episodes/D004/hook-v1/delivery/D004-sample.mp4",
+        "duration_s": 42.1,
+        "version": "hook-v1",
+        "owner_acceptance": "accepted",
+        "human_listening": "pending"
+      }
+    },
+    {
+      "id": "D005",
+      "title": "The Vampire Squid Has a Surprisingly Quiet Diet",
+      "status": "full_review_pending",
+      "stage": "C7_qc",
+      "checks": {
+        "C0_brief": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/BRIEF.md",
+              "sha256": "ad1f79716ac9e617c85f0f2976ed00d21ecfd54dcf011fe84ff89dade67ec8d1"
+            }
+          ]
+        },
+        "C1_facts": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/facts.json",
+              "sha256": "5f041fea743187d2f9c8e9f36c798be0c8c1af286b227584279e2d287ef84ff2"
+            }
+          ]
+        },
+        "C2_script": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/story.json",
+              "sha256": "ae17fceda358924f6aca4621090dd308aa433ff04f25fe607423571732959556"
+            }
+          ]
+        },
+        "C3_storyboard": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/storyboard.json",
+              "sha256": "fdb5cd68c3133e66da2be075c59946eed91accbf6c0a6755959f3da50d230c25"
+            }
+          ]
+        },
+        "C4_preflight": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/muse/preflight.json",
+              "sha256": "ab8ad7301c00e159a08b52fa666d56e9bd2c6a6435c889efbe6e510e3ae5b2ea"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/muse-verified.json",
+              "sha256": "2c4dbeb1faca4040c05e51224aec56f93b5dd83b587938b6ca118c6baa2d30e5"
+            }
+          ]
+        },
+        "C5_assets": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/qa/alignment.json",
+              "sha256": "4985f08427f8aafd7271f48a7bd8d661a829cc3ee9693b1df556bded0e06cbcf"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/muse-verified.json",
+              "sha256": "2c4dbeb1faca4040c05e51224aec56f93b5dd83b587938b6ca118c6baa2d30e5"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/delivery/thumbnail-test.json",
+              "sha256": "724c94479adb25baf398f5714130a313c273cbecd7f2c95cb69b19ce441505c5"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/thumbnail-mobile.jpg",
+              "sha256": "ce7c03d56f9ddfd69366d546be07ee6736d2a76889be29f67e2d1e6e71eb2187"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/web/timeline.json",
+              "sha256": "cfad7722c8b4ab2cbe149a1f024f7effcace8b6da286a90daf6af9d0c7f480a3"
+            }
+          ]
+        },
+        "C6_edit": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/qa/master.json",
+              "sha256": "72f2c29ab3ea1c4d61f5ad8e95b49e49b821749bb62a81ca096b269bc5b699cf"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/editorial-review.json",
+              "sha256": "1aebd6f9a3f2b3434f9c72e204690ca9cd5435b3c9c90cabd010c4fa46488189"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/refined.json",
+              "sha256": "93342d5f97f8e69ae30c3b4e9be03e84bdf5dfacb3dd060f6b5ba03a7e9b2eda"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/frames-index.json",
+              "sha256": "a2a9e8075084e240acf625f8304b1bb63c03dba06b3e30e46b760b377b597e03"
+            }
+          ]
+        },
+        "C7_qc": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/qa/master.json",
+              "sha256": "72f2c29ab3ea1c4d61f5ad8e95b49e49b821749bb62a81ca096b269bc5b699cf"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/player.json",
+              "sha256": "e8a6815c7046bc6f2b737041efb4e31c76d0a123fdc38c843c24d3f4f7aefa1a"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/player-controls.json",
+              "sha256": "958a1a488acd621a17442afdeff6d26b265e3fa2414345ff1e22e5c530c38709"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/sound-review.json",
+              "sha256": "ce41b775ad457b5f539705053f172e5688419c3cf7680bfe4d5df17e68d7c195"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/editorial-review.json",
+              "sha256": "1aebd6f9a3f2b3434f9c72e204690ca9cd5435b3c9c90cabd010c4fa46488189"
+            },
+            {
+              "path": "production/episodes/D005/full-v1/qa/thumbnail-mobile.jpg",
+              "sha256": "ce7c03d56f9ddfd69366d546be07ee6736d2a76889be29f67e2d1e6e71eb2187"
+            }
+          ]
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": [
+            {
+              "path": "production/episodes/D005/full-v1/delivery/manifest.json",
+              "sha256": "bf9ab153ffc2172e075019a2abc479dd202300e4fae19bd9acc02ab6ee1e1376"
+            }
+          ]
+        }
+      },
+      "publication": {
+        "status": "published",
+        "url": "https://www.youtube.com/watch?v=JSm-fhvKL4Y",
+        "published_at": "2026-11-20T07:55:52+00:00",
+        "video_id": "JSm-fhvKL4Y",
+        "evidence": "production/channels/abyss-fieldnotes/evidence/publication-2026-11-21.json"
+      },
+      "active_build": {
+        "status": "full_episode_ready_for_owner_review",
+        "duration_s": 510.9166666666667,
+        "version": "full-v1",
+        "scope": "full_episode",
+        "release_language": "en-US",
+        "audience_market": "US",
+        "review_page": "production/episodes/D005/full-v1/delivery/review.html",
+        "review_file": "production/episodes/D005/full-v1/delivery/D005.mp4",
+        "owner_acceptance": "pending_full",
+        "next_action_vi": "Theo dõi hiệu suất D005 trong mục Đăng & hiệu suất.",
+        "upload_package": {
+          "path": "production/episodes/D005/full-v1/delivery/manifest.json",
+          "sha256": "bf9ab153ffc2172e075019a2abc479dd202300e4fae19bd9acc02ab6ee1e1376",
+          "bytes": 2151
+        },
+        "delivery_manifest": {
+          "path": "production/episodes/D005/full-v1/delivery/manifest.json",
+          "sha256": "bf9ab153ffc2172e075019a2abc479dd202300e4fae19bd9acc02ab6ee1e1376",
+          "bytes": 2151
+        },
+        "human_listening": "pending_owner"
+      },
+      "review_edit": {
+        "kind": "full_episode",
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D005/full-v1/delivery/D005.mp4",
+        "duration_s": 510.9166666666667,
+        "scope": "full_episode",
+        "thumbnail": "production/episodes/D005/full-v1/delivery/thumbnail-A.jpg"
+      },
+      "hook_preview": {
+        "status": "approved",
+        "file": "production/episodes/D005/hook-v1/delivery/D005-opening.mp4",
+        "duration_s": 60.625,
+        "version": "hook-v1",
+        "owner_acceptance": "accepted",
+        "human_listening": "owner_approved_opening"
+      }
+    },
+    {
+      "id": "D006",
+      "title": "How Old Is a Greenland Shark? The Clue Inside Its Eye",
+      "status": "owner_approved",
+      "stage": "C7_qc",
+      "checks": {
+        "C0_brief": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/BRIEF.md",
+              "sha256": "abda825eb89e39e5756cf2659266c70f1c767c5615b86ac0875317462aa96421"
+            }
+          ]
+        },
+        "C1_facts": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/full-v1/facts.json",
+              "sha256": "900916e639511b7a2587a03e85eb2ed993242308c376268ede27de7c3bb0d732"
+            },
+            {
+              "path": "production/episodes/D006/opening-v1/facts.json",
+              "sha256": "1e47fdebea96e4c72f2d9a646080b9cd250c811a70f4bfb0d747d81c73049930"
+            },
+            {
+              "path": "production/episodes/D006/opening-v1/research/nielsen.txt",
+              "sha256": "810b08a45614d736846a3055c31da869920cc11c1c7418b302ec823bd5c31d04"
+            }
+          ]
+        },
+        "C2_script": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/opening-v1/story.json",
+              "sha256": "cac718972e2c1e092121b0349eb6db6e5f6122e086d53a807690e960e37d037d"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/story.json",
+              "sha256": "d1b3c120b0174be7bfc432ecbe8c580b85c074f9fc507b93d07fbd5c6df0a583"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/full-alignment.json",
+              "sha256": "6d536ffcb2ba0251e90fe531a6e628c8724837ea31a8b0b761200908589dccd7"
+            }
+          ]
+        },
+        "C3_storyboard": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/full-v1/storyboard.json",
+              "sha256": "fd408351aef0540de34158229fd962cb5449e635d2cd28e183ea873b52d0e86c"
+            },
+            {
+              "path": "production/episodes/D006/opening-v1/storyboard.json",
+              "sha256": "6e215e3a7ecd40fa8dd15992db86e208942b5ece1850b49d8ec046941627cad9"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/web/score.json",
+              "sha256": "dd2eda217e064b3cce3adb44f961813922dfc87e8cdad6589b558e6993b88644"
+            }
+          ]
+        },
+        "C4_preflight": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/full-v1/qa/muse-verified.json",
+              "sha256": "bb884cc94783da97fa02865adcf1f4312d59f3f165e7729b9ebc4557cfd562d9"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/preflight-frames.json",
+              "sha256": "97a531307c387b8dca75d1e4fca5613cc9dc52c1052f1c1ff05737d590c4406d"
+            }
+          ]
+        },
+        "C5_assets": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/full-v1/web/sharkSurface.js",
+              "sha256": "0a683c71106d75d15859723802f8bbdd7c5587915a2ad0478b1c718ff888e59f"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/web/shark.js",
+              "sha256": "3ab2cc392669cbb08a39a514734152d47b3876da33a3d57bfca4267810ae0eaa"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/muse-verified.json",
+              "sha256": "bb884cc94783da97fa02865adcf1f4312d59f3f165e7729b9ebc4557cfd562d9"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/thumbnail-mobile.jpg",
+              "sha256": "6c59c3e8f55d37ff4ca6791e7a4865cf8027670c906729e8f17026bb681625d8"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/delivery/rights-and-sources.json",
+              "sha256": "96d4cbfd872c8ea24e20c8ee34fea6361c313da5d83979ed9f011c154f66c179"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/delivery/thumbnail-test.json",
+              "sha256": "1d68f0bbc4c2848767681fead68fcfafdc8f4a47d6cf54cba265448f8f9c2d03"
+            }
+          ]
+        },
+        "C6_edit": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/full-v1/qa/master.json",
+              "sha256": "0e700b99d1f8dac10473383d9c78a8679a4e659eb47b65f710f63cd92869af79"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/editorial.json",
+              "sha256": "2c36ce45437e1f6372e8d9f1c08089fb0398bb32ac094bb2dbd6df89e42ba5a1"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/synchrony.json",
+              "sha256": "657e6533dd84ea5476b3294cec63bf5c2a8dbb8c04906152b4d7a07dd6ee51eb"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/shark-comparison.jpg",
+              "sha256": "9685156b5242a23c8b0a6351b68acc78b86034f07dc13c08bd5f5c456f6ccf06"
+            }
+          ]
+        },
+        "C7_qc": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D006/full-v1/qa/master.json",
+              "sha256": "0e700b99d1f8dac10473383d9c78a8679a4e659eb47b65f710f63cd92869af79"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/player.json",
+              "sha256": "fed95aed2de138ebbe900b8a09d43788bb6784460631864e2a086995e77c3cf6"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/synchrony.json",
+              "sha256": "657e6533dd84ea5476b3294cec63bf5c2a8dbb8c04906152b4d7a07dd6ee51eb"
+            },
+            {
+              "path": "production/episodes/D006/full-v1/qa/owner-approval.json",
+              "sha256": "750e8ce292b5e1f5c06672666c28928fb18aafb09d16d78a3839fb21ad65db60"
+            }
+          ]
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "published",
+        "url": "https://www.youtube.com/watch?v=3DmhgHh-p54",
+        "published_at": "2026-11-21T16:00:23+00:00",
+        "video_id": "3DmhgHh-p54",
+        "evidence": "production/channels/abyss-fieldnotes/evidence/publication-d006-2026-11-22.json"
+      },
+      "active_build": {
+        "status": "owner_approved",
+        "duration_s": 558,
+        "version": "full-v1",
+        "scope": "full_episode",
+        "release_language": "en-US",
+        "audience_market": "US",
+        "review_page": "production/episodes/D006/full-v1/delivery/review.html",
+        "review_file": "production/episodes/D006/full-v1/delivery/D006.mp4",
+        "owner_acceptance": "accepted",
+        "next_action_vi": "Gói D006 đã sẵn sàng để chủ kênh tự đăng.",
+        "upload_package": "production/episodes/D006/full-v1/delivery",
+        "delivery_manifest": {
+          "path": "production/episodes/D006/full-v1/delivery/manifest.json",
+          "bytes": 2309,
+          "sha256": "45def6a984043b9b7a1b771614eddf0a6957122c3f82f84df9594eee1b7d8f6f"
+        },
+        "human_listening": "not_separately_confirmed"
+      },
+      "review_edit": {
+        "kind": "full",
+        "status": "owner_approved",
+        "file": "production/episodes/D006/full-v1/delivery/D006.mp4",
+        "duration_s": 558,
+        "thumbnail": "production/episodes/D006/full-v1/delivery/thumbnail-A.jpg"
+      },
+      "hook_preview": {
+        "status": "superseded_by_full_episode",
+        "file": "production/episodes/D006/opening-v1/delivery/D006-opening.mp4",
+        "duration_s": 175.875,
+        "version": "opening-v1",
+        "owner_acceptance": "layout_accepted_shark_revision_requested",
+        "human_listening": "pending_owner"
+      }
+    },
+    {
+      "id": "D007",
+      "title": "This Deep-Sea Hunter Is a Colony",
+      "status": "full_review_pending",
+      "stage": "C7_qc",
+      "checks": {
+        "C0_brief": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/BRIEF.md",
+              "sha256": "2fe76df296f4c98e6c23e3be574e3613f0a8667bb2f8129da522cb2287a8852e"
+            }
+          ]
+        },
+        "C1_facts": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/full-v1/facts.json",
+              "sha256": "a4efde180842cec9c0c997a95e20683626ea616038dfec4e96564b5ea9f5d3e3"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/research/jets.json",
+              "sha256": "265cb6669adc4c78b35cd5743a65e5230884c7877782c84731b99c25e3c7960e"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/research/lure.json",
+              "sha256": "e532c434f5fc9cb3e44fa75bde4dc0482005c01faceeb705edd25d89e73bc271"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/research/growth.json",
+              "sha256": "b1e036f48b6fca90b45ccc27b18cd8af4f6b0017020d212f06f885c21e4ad06a"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/research/waves.json",
+              "sha256": "6a31674a384d82a8f8eea5539290377dfc7c7daae5ae0bed70b4ec3422c4a48e"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/research/mbari.json",
+              "sha256": "031dd022fe316bc5b8c2f8a883314ffe5f99ef32e75484946dfd3d460c3b8193"
+            }
+          ]
+        },
+        "C2_script": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/full-v1/story.json",
+              "sha256": "110fc0f2fd501f590a046b17f01d8a2441823b757bc0e9b48eb48f5d163d0012"
+            },
+            {
+              "path": "production/episodes/D007/opening-v1/story.json",
+              "sha256": "1edaa6074b74721a0485ae5dbd5d9e10ab40050d4862238fbb0a9ab7b6b3166a"
+            }
+          ]
+        },
+        "C3_storyboard": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/full-v1/storyboard.json",
+              "sha256": "e9ddcc3e41fc1e442845935689fa1e13dec3c9c6a324e89939c75bea3e6aa5d1"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/web/score.json",
+              "sha256": "d92cc0217cd313972eee61c2d5ed816c6ebd84a926db2b5704118893423aaa74"
+            }
+          ]
+        },
+        "C4_preflight": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/full-v1/muse/preflight.json",
+              "sha256": "7dc64ea008e94fe9df58ade3c0046ed824a3a835d77bc7549e9654a9d7ac2196"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/qa/preflight-frames.json",
+              "sha256": "90cdda9e4b09f8b7e81d2238a3f98cb0c4b2092a5c9f58eb92105f180d7da494"
+            }
+          ]
+        },
+        "C5_assets": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/full-v1/web/plates.json",
+              "sha256": "dd759c8f5ff3a4ec2b80af344d4c9b6b37191ea5a356bf0de604f0ab76691fa5"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/delivery/rights-and-sources.json",
+              "sha256": "7b9955d3bb573d19b054a7c113090bcf3c5828d62225ada635d08c3d2e200a2f"
+            }
+          ]
+        },
+        "C6_edit": {
+          "status": "passed",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/full-v1/qa/master.json",
+              "sha256": "86d09e7e26b19bf5aabd7561c7b7872fef72289494807527257992ceb5f19281"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/qa/synchrony.json",
+              "sha256": "1467e380cc1dd09be8133e7e11e5a0f21432cc04551a2f0550984ec16282dc9e"
+            }
+          ]
+        },
+        "C7_qc": {
+          "status": "in_progress",
+          "evidence": [
+            {
+              "path": "production/episodes/D007/full-v1/qa/master.json",
+              "sha256": "86d09e7e26b19bf5aabd7561c7b7872fef72289494807527257992ceb5f19281"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/qa/player.json",
+              "sha256": "ad93fb75299f3f25cc1f3543322e5add875da8954e52659c5819831d2a92ddfb"
+            },
+            {
+              "path": "production/episodes/D007/full-v1/qa/editorial.json",
+              "sha256": "f96465a3a37f5fc4860cdd3a320281efb2c604c1782e7925fec9c87dfd6fe828"
+            }
+          ]
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      },
+      "full_production": {
+        "version": "full-v1",
+        "status": "rendered_waiting_for_owner",
+        "owner_authorized": true,
+        "folder": "production/episodes/D007/full-v1"
+      },
+      "active_build": {
+        "kind": "full_episode",
+        "status": "full_ready_for_owner_review",
+        "duration_s": 555.5833333333334,
+        "version": "full-v1",
+        "scope": "full_episode",
+        "release_language": "en-US",
+        "review_page": "production/episodes/D007/full-v1/delivery/review.html",
+        "review_file": "production/episodes/D007/full-v1/delivery/D007.mp4",
+        "owner_acceptance": "pending_full",
+        "next_action_vi": "Chủ kênh xem D007 09:16 và duyệt bản dài trước khi tự đăng. Tập kế tiếp là D008.",
+        "upload_package": {
+          "path": "production/episodes/D007/full-v1/delivery/manifest.json",
+          "sha256": "cd981442ee6b6b4802b2570a58ece3c05cb78eb1e911971bd9e88c0bc087e309",
+          "bytes": 2134
+        },
+        "delivery_manifest": {
+          "path": "production/episodes/D007/full-v1/delivery/manifest.json",
+          "sha256": "cd981442ee6b6b4802b2570a58ece3c05cb78eb1e911971bd9e88c0bc087e309",
+          "bytes": 2134
+        },
+        "human_listening": "pending_owner"
+      },
+      "review_edit": {
+        "kind": "full_episode",
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D007/full-v1/delivery/D007.mp4",
+        "duration_s": 555.5833333333334,
+        "thumbnail": "production/episodes/D007/full-v1/delivery/thumbnail-A.jpg"
+      },
+      "hook_preview": {
+        "status": "available_for_joint_review",
+        "file": "production/episodes/D007/opening-v1/delivery/D007-opening.mp4",
+        "duration_s": 73.58333333333333,
+        "version": "opening-v1",
+        "owner_acceptance": "accepted_opening",
+        "human_listening": "pending_owner"
+      }
+    },
+    {
+      "id": "D008",
+      "title": "Why Are There Lakes on the Seafloor?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D009",
+      "title": "Why This Squid Has Two Different Eyes",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D010",
+      "title": "The Anglerfish's Strangest Problem Is Finding a Mate",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D011",
+      "title": "Why Some Deep-Sea Fish Use Red Light",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D012",
+      "title": "How a Giant Isopod Handles an Unpredictable Dinner",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D013",
+      "title": "What Is a Gulper Eel's Huge Mouth For?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D014",
+      "title": "A Food Web That Starts Without Sunlight",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D015",
+      "title": "How the Goblin Shark Throws Its Jaw Forward",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D016",
+      "title": "What Are Humboldt Squid Saying With Their Skin?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D017",
+      "title": "The Tiny Animal That Builds a Giant Mucus Filter",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D018",
+      "title": "How Does a Fangtooth Close Its Mouth?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D019",
+      "title": "Why a Deep-Sea Octopus Has Fins",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D020",
+      "title": "What Are a Giant Phantom Jelly's Long Ribbons For?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D021",
+      "title": "How Ultra-Black Fish Hide From a Flash",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D022",
+      "title": "Why Some Fish Glow to Disappear",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D023",
+      "title": "What Is Growing on a Yeti Crab's Arms?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D024",
+      "title": "How Can a Fish Live Under So Much Pressure?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D025",
+      "title": "Why Is This Patch of Seafloor Covered in Brittle Stars?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D026",
+      "title": "The Worms That Turn Bones Into a Habitat",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D027",
+      "title": "The Problem With Being Transparent in the Deep Sea",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D028",
+      "title": "Why Deep-Sea Teeth Can Look So Extreme",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D029",
+      "title": "The Ocean's Night Shift Moves Upward",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    },
+    {
+      "id": "D030",
+      "title": "How Do You Find an Animal Nobody Has Filmed?",
+      "status": "research_needed",
+      "stage": "C0_brief",
+      "checks": {
+        "C0_brief": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C1_facts": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C2_script": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C3_storyboard": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C4_preflight": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C5_assets": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C6_edit": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C7_qc": {
+          "status": "pending",
+          "evidence": []
+        },
+        "C8_delivery": {
+          "status": "pending",
+          "evidence": []
+        }
+      },
+      "publication": {
+        "status": "not_published",
+        "url": null,
+        "published_at": null
+      }
+    }
+  ]
+}

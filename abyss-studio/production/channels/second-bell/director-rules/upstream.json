@@ -1,0 +1,10 @@
+{
+  "review.md": {
+    "source": "https://raw.githubusercontent.com/AustinZ21/cinematic-skills/0e5b3fe575740cd022d9ffdec7b7568684c885a5/skills/shot-director/references/review.md",
+    "sha256": "56021c4505bd2f058705b4ed1aa1c95cb817eb770a4ee69f857ea2154556bbe8"
+  },
+  "frame-qa.md": {
+    "source": "https://raw.githubusercontent.com/sirioberati/ai-filmmaking-camera-control-seedance-2-5/602aa2348b0ae67589ce533fff571adced724811/skills/cinematic-previs/references/frame-qa.md",
+    "sha256": "87726043719f03dbc433cd66abb1e81876aed29193d7e779ec44dacb008394ba"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "shot": "T20",
+  "take": "T20",
+  "receipt_id": "23f02863-31f2-5b3d-8b87-5f8659cbf5b6",
+  "task_id": "task_b3dc2a2a0b5d691e0e1c",
+  "status": "completed",
+  "media_sha256": "cc4ad53622b6bdc119ee00e661ba1c6851d4d2b2bb93057183e5f55fb42dc9a9",
+  "bytes": 2640355,
+  "reference_sha256": "ead9bbd252510420b6229225b8b7446d2b85954d675dd76672eccb6c1a6099cd",
+  "prompt_sha256": "a1ca76133de2952cde02c1e008174e725a448484167a0bc58443beefb93d685d"
+}

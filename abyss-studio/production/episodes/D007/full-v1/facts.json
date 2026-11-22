@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-22",
+  "opening": "../opening-v1/facts.json",
+  "claims": [
+    [
+      "bud,shared,answer",
+      "Zooids bud and specialize in connected colonies.",
+      "https://doi.org/10.1186/s13227-015-0018-2",
+      "Results and colony anatomy; common-origin explanation"
+    ],
+    [
+      "turn,study,lever,thrust",
+      "Nanomia bell age and position separate torque and thrust contributions.",
+      "https://doi.org/10.1038/ncomms9158",
+      "Abstract; figure 1. Door and hinge are an analogy."
+    ],
+    [
+      "wave",
+      "Metachronal waves within sides, no equivalent cross-side coupling in the filmed species.",
+      "https://doi.org/10.1242/jeb.245955",
+      "Abstract. Animation demonstrates sequence rather than measured jet speed."
+    ],
+    [
+      "erenna,lure,color,fish,reach,observed",
+      "Twitching luminescent lures, red fluorescent material, piscivory and proposed mimicry.",
+      "https://doi.org/10.1126/science.1110441",
+      "Abstract and MBARI gallery. A fish's perception is inferred."
+    ],
+    [
+      "dark,vehicle,scale,lamp,return",
+      "ROV observations and gallery descriptions of Erenna sirena.",
+      "https://www.mbari.org/animal/angler-siphonophore/",
+      "Species profile. Puerto Rico specimen is not assigned this identity."
+    ]
+  ]
+}

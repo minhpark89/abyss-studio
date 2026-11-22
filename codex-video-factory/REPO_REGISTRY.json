@@ -1,0 +1,591 @@
+{
+  "vendors": [
+    {
+      "name": "wind-comic",
+      "url": "https://github.com/ChrisChen667788/wind-comic",
+      "commit": "fb05115096df313659d9927f362a024b740cd365",
+      "component": "lib/lipsync-align.ts",
+      "sha256": "fa2641e9b1ed38aee3130a73a9954b200124efc4a2f3057ac1a5bce761c877df",
+      "license": "MIT",
+      "use": "Executed: decoded mouth aperture and soundtrack RMS, lag scan. Used for triage alongside SyncNet.",
+      "stage": "vision",
+      "status": "TESTING",
+      "notes": "Đo tương quan khẩu hình với âm thanh. Bộ chọn hình tham chiếu pickConsistencyRefs ghép đúng bộ ảnh diễn viên khi kiểm take.",
+      "component_hashes": {
+        "lib/consistency-policy.ts": "8f6b2cc44ab979f97623ed276ff0454aaaff80cdd508b2255b39302366b64e6f"
+      },
+      "used_components": [
+        "lib/lipsync-align.ts",
+        "lib/consistency-policy.ts"
+      ]
+    },
+    {
+      "name": "dramaclaw",
+      "url": "https://github.com/dramaclaw/dramaclaw",
+      "commit": "d00aad53ef4d88b94ee19a8dcaaa9d651b075a38",
+      "component": "README.md",
+      "sha256": "b7efcf4a7b27fcd07859697262e30baf62b04150a5767d0f3c65ebee2a44c5bc",
+      "license": "Elastic License 2.0",
+      "use": "Reference: link episode, shot, character anchors and receipt graph in the run trace. The native Muse job service supplies takes. Server and Xia Director were not launched.",
+      "stage": "script",
+      "status": "INBOX",
+      "notes": "Tham khảo cách liên kết cảnh, nhân vật và biên nhận.",
+      "used_components": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "ai-cinematic-pipeline",
+      "url": "https://github.com/chusday97/ai-cinematic-pipeline",
+      "commit": "1bc4032fac57c17b053b25cc99235bd4d7ed1399",
+      "component": "skills/character_three_views/SKILL.md",
+      "sha256": "0f2e627935c590b63849f0cfc4bb9469df9e69e4984d62810827d60b6219d4eb",
+      "license": "No license file found at pinned root",
+      "use": "Reference: describe each subject at different angles and record eyelines, wardrobe, prop ownership and camera position against a reference in shot cards.",
+      "stage": "camera",
+      "status": "INBOX",
+      "notes": "Tham khảo hồ sơ nhân vật nhiều góc nhìn.",
+      "used_components": [
+        "skills/character_three_views/SKILL.md"
+      ]
+    },
+    {
+      "name": "syncnet_python",
+      "url": "https://github.com/joonson/syncnet_python",
+      "commit": "907c0b579c2e2d83f0eae1b2ac9e720cde4e5623",
+      "component": "SyncNetModel.py",
+      "sha256": "12bf4eb233f9f91d591ff9f5c4d2ac04a978447f6f4600ccad0370c3bb55c3c1",
+      "license": "MIT (code)",
+      "use": "Executed: audio and visual embeddings at 25 Hz to estimate per-line soundtrack lag on the encoded test.",
+      "stage": "vision",
+      "status": "ACTIVE",
+      "notes": "Đo độ lệch âm hình theo từng câu thoại.",
+      "used_components": [
+        "SyncNetModel.py"
+      ]
+    }
+  ],
+  "studio_catalog": [
+    {
+      "name": "remotion-dev/skills",
+      "url": "https://github.com/remotion-dev/skills",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "motion-canvas/motion-canvas",
+      "url": "https://github.com/motion-canvas/motion-canvas",
+      "use": "2D reference library",
+      "runtime_present": true,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "motiondivision/motion",
+      "url": "https://github.com/motiondivision/motion",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "franciscop/ola",
+      "url": "https://github.com/franciscop/ola",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "juliangarnier/anime",
+      "url": "https://github.com/juliangarnier/anime",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "ManimCommunity/manim",
+      "url": "https://github.com/ManimCommunity/manim",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "jeremyckahn/shifty",
+      "url": "https://github.com/jeremyckahn/shifty",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "jonobr1/two.js",
+      "url": "https://github.com/jonobr1/two.js",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "airbnb/lottie-web",
+      "url": "https://github.com/airbnb/lottie-web",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "CreateJS/TweenJS",
+      "url": "https://github.com/CreateJS/TweenJS",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "lume/lume",
+      "url": "https://github.com/lume/lume",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "mattdesl/gifenc",
+      "url": "https://github.com/mattdesl/gifenc",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "konvajs/konva",
+      "url": "https://github.com/konvajs/konva",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "blender/blender",
+      "url": "https://github.com/blender/blender",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "BabylonJS/Babylon.js",
+      "url": "https://github.com/BabylonJS/Babylon.js",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "drawcall/Proton",
+      "url": "https://github.com/drawcall/Proton",
+      "use": "2D reference library",
+      "runtime_present": false,
+      "enabled_in_SB05": false,
+      "stage": "assembly",
+      "status": "INBOX",
+      "notes": "Thư viện hình và chuyển động trong kho tham khảo.",
+      "used_components": []
+    },
+    {
+      "name": "www222fff/muse2api",
+      "commit": "3a20b5e7aa4056c99c0eb8c732d73ce3804d5dbf",
+      "use": "Historical backend evaluation. Factory connects to the current local Studio API.",
+      "enabled_in_SB05": false,
+      "stage": "render",
+      "status": "ARCHIVED",
+      "notes": "Bản đánh giá bộ nối Muse trước đây.",
+      "url": "https://github.com/www222fff/muse2api",
+      "used_components": []
+    },
+    {
+      "name": "czg86389-hub/muse2api",
+      "commit": "19db32a3d6ef50dc87567a8ee0e35dd50c8f7837",
+      "use": "Historical backend evaluation. Factory connects to the current local Studio API.",
+      "enabled_in_SB05": false,
+      "stage": "render",
+      "status": "ARCHIVED",
+      "notes": "Bản đánh giá bộ nối Muse trước đây.",
+      "url": "https://github.com/czg86389-hub/muse2api",
+      "used_components": []
+    },
+    {
+      "name": "vip0014/muse2api",
+      "commit": "0a2cfffb1fa6dc706398781fb3a75621f8494750",
+      "use": "Historical backend evaluation. Factory connects to the current local Studio API.",
+      "enabled_in_SB05": false,
+      "stage": "render",
+      "status": "ARCHIVED",
+      "notes": "Bản đánh giá bộ nối Muse trước đây.",
+      "url": "https://github.com/vip0014/muse2api",
+      "used_components": []
+    },
+    {
+      "name": "rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "commit": "131d1527557d2cccacb64059d47560964235acd7",
+      "use": "Previous 180 s reference and cut analysis",
+      "stage": "script",
+      "status": "TESTING",
+      "notes": "Phân tích nhịp cắt của bản tham chiếu.",
+      "used_components": [
+        "Phân tích góc cắt"
+      ]
+    },
+    {
+      "name": "shot-director",
+      "url": "https://github.com/AustinZ21/cinematic-skills",
+      "commit": "0e5b3fe575740cd022d9ffdec7b7568684c885a5",
+      "use": "Direction and reaction continuity",
+      "stage": "camera",
+      "status": "ACTIVE",
+      "notes": "Chỉ dẫn góc máy và nối hướng nhìn.",
+      "used_components": [
+        "shot-director/SKILL.md"
+      ]
+    },
+    {
+      "name": "cinematic-previs",
+      "url": "https://github.com/sirioberati/ai-filmmaking-camera-control-seedance-2-5",
+      "commit": "602aa2348b0ae67589ce533fff571adced724811",
+      "use": "Reference framing",
+      "stage": "camera",
+      "status": "TESTING",
+      "notes": "Kiểm khung hình trước khi tạo take.",
+      "used_components": [
+        "cinematic-previs/SKILL.md"
+      ]
+    },
+    {
+      "name": "Hao0321/ai-short-drama",
+      "url": "https://github.com/Hao0321/ai-short-drama",
+      "commit": "a1a00d3949fedd74edb6830a79d189a2c76920db",
+      "license": "MIT",
+      "stage": "script",
+      "status": "TESTING",
+      "used_components": [
+        "scripts/production_pack.schema.json",
+        "scripts/studio_plan.schema.json",
+        "references/studio-workflow.md"
+      ],
+      "notes": "SB06 · Kiểm cấu trúc kế hoạch studio và timeline bằng JSON Schema."
+    },
+    {
+      "name": "HBAI-Ltd/Toonflow-app",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "commit": "eecf51547af47eb504822186bd3f2dee369125ff",
+      "license": "MIT",
+      "stage": "camera",
+      "status": "TESTING",
+      "used_components": [
+        "apps/web/src/pages/workspace/canvasFile.ts",
+        "packages/skills/workflow/references/assets.md"
+      ],
+      "notes": "SB06 · Lập danh mục ảnh nhân vật, cảnh quay và tài sản của SB06."
+    },
+    {
+      "name": "Echo-Note/localminidrama",
+      "url": "https://github.com/Echo-Note/localminidrama",
+      "commit": "4479e516f36f360dc98d9e2db3a46d0d296c422b",
+      "license": "MIT",
+      "stage": "camera",
+      "status": "TESTING",
+      "used_components": [
+        "backend-node/migrations/15_storyboard_angle_structured.sql",
+        "backend-node/src/services/framePromptService.js"
+      ],
+      "notes": "SB06 · Áp dụng migration góc ngang, góc dọc và cỡ cảnh vào bảng storyboard của tập."
+    },
+    {
+      "name": "xuanyustudio/LocalMiniDrama",
+      "url": "https://github.com/xuanyustudio/LocalMiniDrama",
+      "commit": "fa5f199b4dd953a7444bcdf19b77c46b697f5052",
+      "license": "MIT",
+      "stage": "camera",
+      "status": "TESTING",
+      "used_components": [
+        "backend-node/src/services/storyboardFrameBinding.js",
+        "backend-node/src/routes/storyboards_tail_link.js"
+      ],
+      "notes": "SB06 · Gắn ảnh đầu và ảnh cuối của đoạn đã chọn vào đúng cảnh."
+    },
+    {
+      "name": "HKUDS/VideoAgent",
+      "url": "https://github.com/HKUDS/VideoAgent",
+      "commit": "f207987e3cffb554aaa6ffdbe733efb30f4b51ed",
+      "license": "MIT",
+      "stage": "vision",
+      "status": "TESTING",
+      "used_components": [
+        "readme.md",
+        "environment/agents/multi.py"
+      ],
+      "notes": "SB06 · Điều phối hai bước kiểm tư liệu và kiểm điểm cắt trên máy cục bộ."
+    },
+    {
+      "name": "OpenMontageInc/OpenMontage",
+      "url": "https://github.com/OpenMontageInc/OpenMontage",
+      "commit": "2e003e65fa99a0f329478a2c1cdcf26bc481933a",
+      "license": "AGPL-3.0",
+      "stage": "script",
+      "status": "TESTING",
+      "used_components": [
+        "pipeline_defs/cinematic.yaml",
+        "tools/tool_registry.py",
+        "tools/analysis/frame_sampler.py"
+      ],
+      "notes": "SB06 đọc pipeline cinematic. SB09 dùng FrameSampler ghim commit, blob 1e863fe2802096609cca29c3ef805965b5b561de, để lấy khung đối chiếu trong core/reference_analysis/emotion_curve.py. Đường cảm xúc dựa trên các tình huống được ghi chú."
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "commit": "075b548c2405a07b77129eb448b0b504fc60dea3",
+      "license": "Apache-2.0",
+      "stage": "camera",
+      "status": "INBOX",
+      "used_components": [
+        "references/shots/transition/transition-hidden-cut.md",
+        "references/shots/rhythm/beat-cut-moves.md"
+      ],
+      "notes": "SB06 · Dùng hướng dẫn chuyển cảnh để kiểm chuyển động hai phía của mối cắt."
+    },
+    {
+      "name": "poseljacob/agentic-video-editor",
+      "url": "https://github.com/poseljacob/agentic-video-editor",
+      "commit": "47248b577046b0563e57e78edad86a3106c6faab",
+      "license": "MIT",
+      "stage": "assembly",
+      "status": "TESTING",
+      "used_components": [
+        ".claude/policies/ffmpeg-overlay-pts-timing.md",
+        "src/models/schemas.py"
+      ],
+      "notes": "SB06 · Dùng mô hình EditPlan để kiểm thứ tự và thời gian cắt đoạn nguồn."
+    },
+    {
+      "name": "SamurAIGPT/Generative-Media-Skills",
+      "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "commit": "66b55e2a27ee554667ec255782922bae72882cc8",
+      "license": "MIT",
+      "stage": "camera",
+      "status": "INBOX",
+      "used_components": [
+        "library/motion/character-story-video/SKILL.md",
+        "library/motion/one-shot-video/SKILL.md"
+      ],
+      "notes": "SB06 · Dùng hướng dẫn khóa diện mạo nữ chính và giữ chuyển động trong từng take."
+    },
+    {
+      "name": "pexoai/pexo-skills",
+      "url": "https://github.com/pexoai/pexo-skills",
+      "commit": "f724267e45a065b6be445ea6f07312e62d3207cd",
+      "license": "MIT",
+      "stage": "script",
+      "status": "TESTING",
+      "used_components": [
+        "skills/videoagent-director/references/storyboard_guide.md"
+      ],
+      "notes": "SB06 · Đưa hình ảnh, chuyển động, thời lượng và âm thanh vào storyboard."
+    }
+  ],
+  "runtime": {
+    "HyperFrames": "Editable shots, caption overlays and independent audio track",
+    "FFmpeg": "24 fps conform, burned titles, AAC and decoded QC",
+    "Muse": "Existing loopback job API on 4320, persisted receipts",
+    "Revideo": "Alternative assembler, inactive for SB05"
+  },
+  "assets": [
+    {
+      "file": "gfpgan_1.4.onnx",
+      "sha256": "accc4757b26bdb89b32b4d3500d4f79c9dff97c1dd7c7104bf9dcb95e3311385"
+    },
+    {
+      "file": "syncnet_v2.model",
+      "sha256": "961e8696f888fce4f3f3a6c3d5b3267cf5b343100b238e79b2659bff2c605442"
+    },
+    {
+      "file": "wav2lip_96.onnx",
+      "sha256": "96fd047e18094c91298c3843699f0b2e7473bd431231ce92ae316c7b8e36746c"
+    }
+  ],
+  "runtime_repos": [
+    {
+      "name": "Muse",
+      "stage": "render",
+      "status": "ACTIVE",
+      "url": null,
+      "used_components": [
+        "muse_bridge"
+      ],
+      "notes": "Dịch vụ Muse qua API cục bộ."
+    },
+    {
+      "name": "FFmpeg",
+      "stage": "assembly",
+      "status": "ACTIVE",
+      "url": "https://github.com/FFmpeg/FFmpeg",
+      "used_components": [
+        "concat",
+        "ass",
+        "h264_nvenc"
+      ],
+      "notes": "Ghép hình, phụ đề và âm thanh khi xuất MP4."
+    },
+    {
+      "name": "HyperFrames",
+      "stage": "assembly",
+      "status": "TESTING",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "used_components": [
+        "timeline HTML"
+      ],
+      "notes": "Bảng dựng cảnh và các lớp chữ có thể chỉnh sửa."
+    },
+    {
+      "name": "Revideo",
+      "stage": "assembly",
+      "status": "INBOX",
+      "url": "https://github.com/redotvideo/revideo",
+      "used_components": [],
+      "notes": "Bộ dựng dự phòng."
+    },
+    {
+      "name": "drama-pipeline-lab",
+      "url": "/factory/karma-drama/SB08/drama-pipeline-lab.html",
+      "stage": "script",
+      "status": "TESTING",
+      "used_components": [
+        "direct.py",
+        "storyboard.py",
+        "pipeline.py"
+      ],
+      "notes": "Repo cục bộ E:/YOUTUBE/drama-pipeline-lab. SB08 thử hồ sơ Trung Hoa, hồ sơ Mỹ chờ đối chứng. Hình và tiếng do Muse tạo."
+    },
+    {
+      "name": "spotify/pedalboard",
+      "url": "https://github.com/spotify/pedalboard",
+      "stage": "audio_mixing",
+      "status": "ACTIVE",
+      "used_components": [
+        "HighpassFilter",
+        "Compressor"
+      ],
+      "notes": "Lọc nền và nén nhẹ thoại trước khi trộn nhạc.",
+      "audio_role": "voice_polish"
+    },
+    {
+      "name": "slhck/ffmpeg-normalize",
+      "url": "https://github.com/slhck/ffmpeg-normalize",
+      "stage": "audio_mixing",
+      "status": "ACTIVE",
+      "used_components": [
+        "ffmpeg-normalize"
+      ],
+      "notes": "Chuẩn hóa loudness cho bản mix cuối.",
+      "audio_role": "loudness_master"
+    },
+    {
+      "name": "MTG/freesound-python",
+      "url": "https://github.com/MTG/freesound-python",
+      "stage": "sfx_fetcher",
+      "status": "ACTIVE",
+      "used_components": [
+        "FreesoundClient"
+      ],
+      "notes": "Tìm SFX CC0 khi có khóa API và lưu vào cache."
+    },
+    {
+      "name": "gcui-art/suno-api",
+      "url": "https://github.com/gcui-art/suno-api",
+      "stage": "bgm_generator",
+      "status": "INBOX",
+      "used_components": [],
+      "notes": "Dự phòng tạo nhạc nền theo tâm trạng."
+    },
+    {
+      "name": "hkchengrex/MMAudio",
+      "url": "https://github.com/hkchengrex/MMAudio",
+      "stage": "video_to_audio",
+      "status": "INBOX",
+      "used_components": [],
+      "notes": "Dự phòng sinh âm thanh khớp hình cho cảnh hành động."
+    }
+  ]
+}

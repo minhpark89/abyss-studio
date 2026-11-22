@@ -1,0 +1,3247 @@
+{
+  "sha256": "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686",
+  "frames": 4320,
+  "fps": 24,
+  "duration_seconds": 180,
+  "width": 1280,
+  "height": 720,
+  "audio_start": 0,
+  "audio_end": 180.01066666666668,
+  "bytes": 84512668,
+  "edit_sha256": "49043076482b6d974494f71a75a162c66dc22bee94cc60794a2a429495d3251e",
+  "vision_sha256": "983b31367b8ef8ef5da7472a57c09b7eb9763b0d7715f3df1aec058a6b8c9225",
+  "picture_frames": [
+    {
+      "shot": "T01-strike",
+      "source": "takes/T01.mp4",
+      "start_frame": 0,
+      "end_frame": 27,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 27,
+      "p95_mean_rgb_error": 0.566,
+      "maximum_mean_rgb_error": 0.631
+    },
+    {
+      "shot": "T01-hurt",
+      "source": "takes/T01.mp4",
+      "start_frame": 27,
+      "end_frame": 59,
+      "source_in": 27,
+      "speed": 1,
+      "native_frames_compared": 32,
+      "p95_mean_rgb_error": 0.511,
+      "maximum_mean_rgb_error": 0.571
+    },
+    {
+      "shot": "T01",
+      "source": "takes/T01.mp4",
+      "start_frame": 59,
+      "end_frame": 99,
+      "source_in": 59,
+      "speed": 1,
+      "native_frames_compared": 40,
+      "p95_mean_rgb_error": 0.573,
+      "maximum_mean_rgb_error": 0.666
+    },
+    {
+      "shot": "I01",
+      "source": "takes/I01.mp4",
+      "start_frame": 99,
+      "end_frame": 139,
+      "source_in": 68,
+      "speed": 1,
+      "native_frames_compared": 40,
+      "p95_mean_rgb_error": 0.545,
+      "maximum_mean_rgb_error": 0.603
+    },
+    {
+      "shot": "I01-paper",
+      "source": "takes/I01.mp4",
+      "start_frame": 139,
+      "end_frame": 181,
+      "source_in": 108,
+      "speed": 1,
+      "native_frames_compared": 42,
+      "p95_mean_rgb_error": 0.505,
+      "maximum_mean_rgb_error": 0.515
+    },
+    {
+      "shot": "T02-rise",
+      "source": "takes/T02.mp4",
+      "start_frame": 181,
+      "end_frame": 214,
+      "source_in": 86,
+      "speed": 1,
+      "native_frames_compared": 33,
+      "p95_mean_rgb_error": 0.576,
+      "maximum_mean_rgb_error": 0.628
+    },
+    {
+      "shot": "T02",
+      "source": "takes/T02.mp4",
+      "start_frame": 214,
+      "end_frame": 285,
+      "source_in": 119,
+      "speed": 1,
+      "native_frames_compared": 71,
+      "p95_mean_rgb_error": 0.511,
+      "maximum_mean_rgb_error": 0.571
+    },
+    {
+      "shot": "T02-arms",
+      "source": "takes/T02.mp4",
+      "start_frame": 285,
+      "end_frame": 313,
+      "source_in": 190,
+      "speed": 1,
+      "native_frames_compared": 28,
+      "p95_mean_rgb_error": 0.571,
+      "maximum_mean_rgb_error": 0.621
+    },
+    {
+      "shot": "T03",
+      "source": "takes/T03.mp4",
+      "start_frame": 313,
+      "end_frame": 451,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 138,
+      "p95_mean_rgb_error": 0.521,
+      "maximum_mean_rgb_error": 0.584
+    },
+    {
+      "shot": "T03-listener",
+      "source": "takes/T03.mp4",
+      "start_frame": 451,
+      "end_frame": 531,
+      "source_in": 138,
+      "speed": 1,
+      "native_frames_compared": 80,
+      "p95_mean_rgb_error": 0.47,
+      "maximum_mean_rgb_error": 0.539
+    },
+    {
+      "shot": "T04",
+      "source": "takes/T04-r2.mp4",
+      "start_frame": 531,
+      "end_frame": 594,
+      "source_in": 21,
+      "speed": 1,
+      "native_frames_compared": 63,
+      "p95_mean_rgb_error": 0.514,
+      "maximum_mean_rgb_error": 0.526
+    },
+    {
+      "shot": "T04-label",
+      "source": "takes/T04-r2.mp4",
+      "start_frame": 594,
+      "end_frame": 675,
+      "source_in": 84,
+      "speed": 1,
+      "native_frames_compared": 81,
+      "p95_mean_rgb_error": 0.542,
+      "maximum_mean_rgb_error": 0.564
+    },
+    {
+      "shot": "T05",
+      "source": "takes/T05.mp4",
+      "start_frame": 675,
+      "end_frame": 843,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 168,
+      "p95_mean_rgb_error": 0.52,
+      "maximum_mean_rgb_error": 0.659
+    },
+    {
+      "shot": "T06",
+      "source": "takes/T06-r2.mp4",
+      "start_frame": 843,
+      "end_frame": 987,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.565,
+      "maximum_mean_rgb_error": 0.688
+    },
+    {
+      "shot": "T07",
+      "source": "takes/T07-r2.mp4",
+      "start_frame": 987,
+      "end_frame": 1106,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 119,
+      "p95_mean_rgb_error": 0.524,
+      "maximum_mean_rgb_error": 0.61
+    },
+    {
+      "shot": "T08",
+      "source": "takes/T08.mp4",
+      "start_frame": 1106,
+      "end_frame": 1324,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 218,
+      "p95_mean_rgb_error": 0.555,
+      "maximum_mean_rgb_error": 0.582
+    },
+    {
+      "shot": "T09",
+      "source": "takes/T09.mp4",
+      "start_frame": 1324,
+      "end_frame": 1468,
+      "source_in": 12,
+      "speed": 1,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.522,
+      "maximum_mean_rgb_error": 0.63
+    },
+    {
+      "shot": "T10",
+      "source": "takes/T10.mp4",
+      "start_frame": 1468,
+      "end_frame": 1579,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 111,
+      "p95_mean_rgb_error": 0.55,
+      "maximum_mean_rgb_error": 0.567
+    },
+    {
+      "shot": "T10-lapel",
+      "source": "takes/T10.mp4",
+      "start_frame": 1579,
+      "end_frame": 1637,
+      "source_in": 111,
+      "speed": 1,
+      "native_frames_compared": 58,
+      "p95_mean_rgb_error": 0.454,
+      "maximum_mean_rgb_error": 0.458
+    },
+    {
+      "shot": "T10-wait",
+      "source": "takes/T10.mp4",
+      "start_frame": 1637,
+      "end_frame": 1686,
+      "source_in": 169,
+      "speed": 1,
+      "native_frames_compared": 49,
+      "p95_mean_rgb_error": 0.529,
+      "maximum_mean_rgb_error": 0.591
+    },
+    {
+      "shot": "T11",
+      "source": "takes/T11-r2.mp4",
+      "start_frame": 1686,
+      "end_frame": 1824,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 138,
+      "p95_mean_rgb_error": 0.538,
+      "maximum_mean_rgb_error": 0.619
+    },
+    {
+      "shot": "T12",
+      "source": "takes/T12.mp4",
+      "start_frame": 1824,
+      "end_frame": 1974,
+      "source_in": 3,
+      "speed": 1,
+      "native_frames_compared": 150,
+      "p95_mean_rgb_error": 0.541,
+      "maximum_mean_rgb_error": 0.6
+    },
+    {
+      "shot": "T13",
+      "source": "takes/T13.mp4",
+      "start_frame": 1974,
+      "end_frame": 2072,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 98,
+      "p95_mean_rgb_error": 0.537,
+      "maximum_mean_rgb_error": 0.548
+    },
+    {
+      "shot": "T13-cover",
+      "source": "takes/T13.mp4",
+      "start_frame": 2072,
+      "end_frame": 2155,
+      "source_in": 98,
+      "speed": 1,
+      "native_frames_compared": 83,
+      "p95_mean_rgb_error": 0.486,
+      "maximum_mean_rgb_error": 0.555
+    },
+    {
+      "shot": "T14-challenge",
+      "source": "takes/T14.mp4",
+      "start_frame": 2155,
+      "end_frame": 2181,
+      "source_in": 44,
+      "speed": 1,
+      "native_frames_compared": 26,
+      "p95_mean_rgb_error": 0.486,
+      "maximum_mean_rgb_error": 0.535
+    },
+    {
+      "shot": "T14-grip",
+      "source": "takes/T14.mp4",
+      "start_frame": 2181,
+      "end_frame": 2206,
+      "source_in": 70,
+      "speed": 1,
+      "native_frames_compared": 25,
+      "p95_mean_rgb_error": 0.475,
+      "maximum_mean_rgb_error": 0.486
+    },
+    {
+      "shot": "T14",
+      "source": "takes/T14.mp4",
+      "start_frame": 2206,
+      "end_frame": 2331,
+      "source_in": 95,
+      "speed": 1,
+      "native_frames_compared": 125,
+      "p95_mean_rgb_error": 0.547,
+      "maximum_mean_rgb_error": 0.622
+    },
+    {
+      "shot": "T15",
+      "source": "takes/T15.mp4",
+      "start_frame": 2331,
+      "end_frame": 2507,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 176,
+      "p95_mean_rgb_error": 0.559,
+      "maximum_mean_rgb_error": 0.618
+    },
+    {
+      "shot": "T16",
+      "source": "takes/T16.mp4",
+      "start_frame": 2507,
+      "end_frame": 2604,
+      "source_in": 49,
+      "speed": 1,
+      "native_frames_compared": 97,
+      "p95_mean_rgb_error": 0.405,
+      "maximum_mean_rgb_error": 0.438
+    },
+    {
+      "shot": "T16-bird",
+      "source": "takes/T16.mp4",
+      "start_frame": 2604,
+      "end_frame": 2678,
+      "source_in": 146,
+      "speed": 1,
+      "native_frames_compared": 74,
+      "p95_mean_rgb_error": 0.458,
+      "maximum_mean_rgb_error": 0.511
+    },
+    {
+      "shot": "T17",
+      "source": "takes/T17.mp4",
+      "start_frame": 2678,
+      "end_frame": 2760,
+      "source_in": 134,
+      "speed": 1,
+      "native_frames_compared": 82,
+      "p95_mean_rgb_error": 0.477,
+      "maximum_mean_rgb_error": 0.548
+    },
+    {
+      "shot": "T18",
+      "source": "takes/T18.mp4",
+      "start_frame": 2760,
+      "end_frame": 2904,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.566,
+      "maximum_mean_rgb_error": 0.687
+    },
+    {
+      "shot": "T19",
+      "source": "takes/T19.mp4",
+      "start_frame": 2904,
+      "end_frame": 2998,
+      "source_in": 15,
+      "speed": 1,
+      "native_frames_compared": 94,
+      "p95_mean_rgb_error": 0.598,
+      "maximum_mean_rgb_error": 0.605
+    },
+    {
+      "shot": "T19-listener",
+      "source": "takes/T19.mp4",
+      "start_frame": 2998,
+      "end_frame": 3048,
+      "source_in": 109,
+      "speed": 1,
+      "native_frames_compared": 50,
+      "p95_mean_rgb_error": 0.501,
+      "maximum_mean_rgb_error": 0.531
+    },
+    {
+      "shot": "T20",
+      "source": "takes/T20.mp4",
+      "start_frame": 3048,
+      "end_frame": 3153,
+      "source_in": 1,
+      "speed": 1,
+      "native_frames_compared": 105,
+      "p95_mean_rgb_error": 0.525,
+      "maximum_mean_rgb_error": 0.61
+    },
+    {
+      "shot": "I05",
+      "source": "takes/I05.mp4",
+      "start_frame": 3153,
+      "end_frame": 3273,
+      "source_in": 70,
+      "speed": 1,
+      "native_frames_compared": 120,
+      "p95_mean_rgb_error": 0.567,
+      "maximum_mean_rgb_error": 0.61
+    },
+    {
+      "shot": "T21",
+      "source": "takes/T21.mp4",
+      "start_frame": 3273,
+      "end_frame": 3405,
+      "source_in": 27,
+      "speed": 1,
+      "native_frames_compared": 132,
+      "p95_mean_rgb_error": 0.52,
+      "maximum_mean_rgb_error": 0.623
+    },
+    {
+      "shot": "T22",
+      "source": "takes/T22.mp4",
+      "start_frame": 3405,
+      "end_frame": 3495,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 90,
+      "p95_mean_rgb_error": 0.534,
+      "maximum_mean_rgb_error": 0.619
+    },
+    {
+      "shot": "T23",
+      "source": "takes/T23.mp4",
+      "start_frame": 3495,
+      "end_frame": 3672,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 177,
+      "p95_mean_rgb_error": 0.58,
+      "maximum_mean_rgb_error": 0.728
+    },
+    {
+      "shot": "T24",
+      "source": "takes/T24-r2.mp4",
+      "start_frame": 3672,
+      "end_frame": 3816,
+      "source_in": 29,
+      "speed": 1,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.578,
+      "maximum_mean_rgb_error": 0.699
+    },
+    {
+      "shot": "T25",
+      "source": "takes/T25.mp4",
+      "start_frame": 3816,
+      "end_frame": 3984,
+      "source_in": 19,
+      "speed": 1,
+      "native_frames_compared": 168,
+      "p95_mean_rgb_error": 0.567,
+      "maximum_mean_rgb_error": 0.695
+    },
+    {
+      "shot": "T26-folder",
+      "source": "takes/T26.mp4",
+      "start_frame": 3984,
+      "end_frame": 4041,
+      "source_in": 50,
+      "speed": 1,
+      "native_frames_compared": 57,
+      "p95_mean_rgb_error": 0.489,
+      "maximum_mean_rgb_error": 0.525
+    },
+    {
+      "shot": "T26",
+      "source": "takes/T26.mp4",
+      "start_frame": 4041,
+      "end_frame": 4152,
+      "source_in": 107,
+      "speed": 1,
+      "native_frames_compared": 111,
+      "p95_mean_rgb_error": 0.51,
+      "maximum_mean_rgb_error": 0.579
+    },
+    {
+      "shot": "T27",
+      "source": "takes/T27-r3.mp4",
+      "start_frame": 4152,
+      "end_frame": 4320,
+      "source_in": 0,
+      "speed": 1,
+      "native_frames_compared": 168,
+      "p95_mean_rgb_error": 0.559,
+      "maximum_mean_rgb_error": 0.77
+    }
+  ],
+  "cut_sheets": [
+    "qa/cut-review-1.jpg",
+    "qa/cut-review-2.jpg",
+    "qa/cut-review-3.jpg",
+    "qa/cut-review-4.jpg",
+    "qa/cut-review-5.jpg"
+  ],
+  "cut_motion": [
+    {
+      "shot": "T01-strike",
+      "minimum_sample_luma": 74.95,
+      "minimum_sample_p99_luma": 225.63,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 8.777,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T01-hurt",
+      "minimum_sample_luma": 105.27,
+      "minimum_sample_p99_luma": 230.5,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.219,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T01",
+      "minimum_sample_luma": 85.05,
+      "minimum_sample_p99_luma": 236.09,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.21,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "I01",
+      "minimum_sample_luma": 38.74,
+      "minimum_sample_p99_luma": 188.41,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 15.121,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "I01-paper",
+      "minimum_sample_luma": 74.38,
+      "minimum_sample_p99_luma": 183.32,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 6.474,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T02-rise",
+      "minimum_sample_luma": 40.98,
+      "minimum_sample_p99_luma": 190.78,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 12.443,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T02",
+      "minimum_sample_luma": 109.81,
+      "minimum_sample_p99_luma": 233.09,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.501,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T02-arms",
+      "minimum_sample_luma": 86.02,
+      "minimum_sample_p99_luma": 238.45,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.184,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T03",
+      "minimum_sample_luma": 80.87,
+      "minimum_sample_p99_luma": 228.5,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.367,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T03-listener",
+      "minimum_sample_luma": 122.32,
+      "minimum_sample_p99_luma": 236.29,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.106,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T04",
+      "minimum_sample_luma": 43.03,
+      "minimum_sample_p99_luma": 165.01,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 10.044,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T04-label",
+      "minimum_sample_luma": 27.96,
+      "minimum_sample_p99_luma": 161.8,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.486,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T05",
+      "minimum_sample_luma": 82.68,
+      "minimum_sample_p99_luma": 235.37,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.991,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T06",
+      "minimum_sample_luma": 72.26,
+      "minimum_sample_p99_luma": 232.18,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.031,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T07",
+      "minimum_sample_luma": 5.73,
+      "minimum_sample_p99_luma": 85.76,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.362,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T08",
+      "minimum_sample_luma": 88.28,
+      "minimum_sample_p99_luma": 222.41,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.779,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T09",
+      "minimum_sample_luma": 56.21,
+      "minimum_sample_p99_luma": 239.22,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.356,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T10",
+      "minimum_sample_luma": 75.54,
+      "minimum_sample_p99_luma": 225.68,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.943,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T10-lapel",
+      "minimum_sample_luma": 53.37,
+      "minimum_sample_p99_luma": 218.44,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.63,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T10-wait",
+      "minimum_sample_luma": 72.36,
+      "minimum_sample_p99_luma": 225.13,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.51,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T11",
+      "minimum_sample_luma": 60.06,
+      "minimum_sample_p99_luma": 224.17,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.174,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T12",
+      "minimum_sample_luma": 54.24,
+      "minimum_sample_p99_luma": 172.31,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.857,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T13",
+      "minimum_sample_luma": 61.19,
+      "minimum_sample_p99_luma": 229.57,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.198,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T13-cover",
+      "minimum_sample_luma": 47.87,
+      "minimum_sample_p99_luma": 215.92,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.917,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T14-challenge",
+      "minimum_sample_luma": 73.63,
+      "minimum_sample_p99_luma": 231.23,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.167,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T14-grip",
+      "minimum_sample_luma": 44.58,
+      "minimum_sample_p99_luma": 219.21,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.523,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T14",
+      "minimum_sample_luma": 71.94,
+      "minimum_sample_p99_luma": 230.17,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.639,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T15",
+      "minimum_sample_luma": 67.13,
+      "minimum_sample_p99_luma": 214.85,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.381,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T16",
+      "minimum_sample_luma": 54.94,
+      "minimum_sample_p99_luma": 222.91,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.076,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T16-bird",
+      "minimum_sample_luma": 65.48,
+      "minimum_sample_p99_luma": 224.91,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.583,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T17",
+      "minimum_sample_luma": 67.52,
+      "minimum_sample_p99_luma": 225.51,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.582,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T18",
+      "minimum_sample_luma": 76.04,
+      "minimum_sample_p99_luma": 230.88,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.667,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T19",
+      "minimum_sample_luma": 81.62,
+      "minimum_sample_p99_luma": 223.57,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.89,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T19-listener",
+      "minimum_sample_luma": 92.4,
+      "minimum_sample_p99_luma": 231.5,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.417,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T20",
+      "minimum_sample_luma": 61.09,
+      "minimum_sample_p99_luma": 226.87,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 3.581,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "I05",
+      "minimum_sample_luma": 80.33,
+      "minimum_sample_p99_luma": 206.02,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.549,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T21",
+      "minimum_sample_luma": 95.42,
+      "minimum_sample_p99_luma": 215.37,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 3.239,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T22",
+      "minimum_sample_luma": 80.24,
+      "minimum_sample_p99_luma": 234.31,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 3.624,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T23",
+      "minimum_sample_luma": 68.51,
+      "minimum_sample_p99_luma": 208.79,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.725,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T24",
+      "minimum_sample_luma": 61.37,
+      "minimum_sample_p99_luma": 223.64,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.406,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T25",
+      "minimum_sample_luma": 70.39,
+      "minimum_sample_p99_luma": 222.3,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.406,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T26-folder",
+      "minimum_sample_luma": 52.21,
+      "minimum_sample_p99_luma": 201.6,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.694,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T26",
+      "minimum_sample_luma": 110.99,
+      "minimum_sample_p99_luma": 231.36,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.909,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T27",
+      "minimum_sample_luma": 96.87,
+      "minimum_sample_p99_luma": 209.24,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.646,
+      "dimensions": [
+        81,
+        144
+      ]
+    }
+  ],
+  "issues": [],
+  "audio": {
+    "integrated_lufs": -14.15,
+    "true_peak_dbtp": -1.71,
+    "range_lu": 17.3,
+    "decoded_last_20ms_peak": 0,
+    "decoded_silence_drop_core_peak": 0,
+    "fade_out_seconds": 0.5,
+    "digital_zero_guard_seconds": 0.09,
+    "decoded_audio_samples": 8640512,
+    "expected_presentation_samples": 8640000
+  },
+  "confrontations": {
+    "B01": {
+      "shared": 4,
+      "shots": 10,
+      "fraction": 0.4
+    },
+    "B02": {
+      "shared": 2,
+      "shots": 6,
+      "fraction": 0.3333333333333333
+    },
+    "B03": {
+      "shared": 3,
+      "shots": 8,
+      "fraction": 0.375
+    },
+    "B04": {
+      "shared": 3,
+      "shots": 7,
+      "fraction": 0.42857142857142855
+    },
+    "B05": {
+      "shared": 3,
+      "shots": 7,
+      "fraction": 0.42857142857142855
+    },
+    "B06": {
+      "shared": 2,
+      "shots": 6,
+      "fraction": 0.3333333333333333
+    }
+  },
+  "lip_counts": {
+    "within_one_model_step": 19,
+    "indeterminate": 3
+  },
+  "lip_report": "qa/final-dialogue/report.json",
+  "lip_report_sha256": "901881e1ed0a343eadb9ea256def3f79737ef2b9a3f3387d9360dc415da6becc",
+  "unprompted_master_transcript": "qa/final-dialogue/transcript.json",
+  "commands": [
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\encoded_asr.py",
+        "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T01.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T02.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T03.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T05.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T06.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T08.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T09.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T10.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T11.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T12.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T13.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T14.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T15.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T17.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T18.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T19.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T20.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T21.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T22.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T23.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T25.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T26.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T12-phrases.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_pass.py"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    }
+  ],
+  "performance_review": {
+    "windows": 96,
+    "sha256": "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686",
+    "review_sha256": "7987c543920dbaf7522b1dcdbb8462cdd262a67a56ea95f16f10ffcab48b5416"
+  },
+  "vision": {
+    "file": "qa/vision.json",
+    "sha256": "983b31367b8ef8ef5da7472a57c09b7eb9763b0d7715f3df1aec058a6b8c9225",
+    "report": {
+      "passed": true,
+      "sha256": "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686",
+      "observation_sha256": "3cb4470815f257e851ce7bd80baec22db48fbf62948a337618c4531618040c31",
+      "issues": [],
+      "frames_reviewed": [
+        {
+          "shot": "T01-strike",
+          "take": "T01",
+          "beat": "B01",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 0,
+              "source_frame": 0,
+              "mean_rgb_error": 0.26
+            },
+            {
+              "master_frame": 13,
+              "source_frame": 13,
+              "mean_rgb_error": 0.41
+            },
+            {
+              "master_frame": 26,
+              "source_frame": 26,
+              "mean_rgb_error": 0.49
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The dark hand holding the designs leads back to the rust cuff and teal apron. The hand knocking them down comes from the burgundy sleeve.",
+            "background_cast": "Only Alma and Gavin are present. The blue coat is on its form between two human faces.",
+            "beat_emotion": "The physical slap is framed with both performers and scattered pages."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T01-hurt",
+          "take": "T01",
+          "beat": "B01",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 27,
+              "source_frame": 27,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 43,
+              "source_frame": 43,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 58,
+              "source_frame": 58,
+              "mean_rgb_error": 0.43
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The dark hand holding the designs leads back to the rust cuff and teal apron. The hand knocking them down comes from the burgundy sleeve.",
+            "background_cast": "Only Alma and Gavin are present. The blue coat is on its form between two human faces.",
+            "beat_emotion": "Alma finds Gavin with her eyes as the drawings fall out of sight."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T01",
+          "take": "T01",
+          "beat": "B01",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 59,
+              "source_frame": 59,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 79,
+              "source_frame": 79,
+              "mean_rgb_error": 0.38
+            },
+            {
+              "master_frame": 98,
+              "source_frame": 98,
+              "mean_rgb_error": 0.53
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The dark hand holding the designs leads back to the rust cuff and teal apron. The hand knocking them down comes from the burgundy sleeve.",
+            "background_cast": "Only Alma and Gavin are present. The blue coat is on its form between two human faces.",
+            "beat_emotion": "Return to both faces for his insult."
+          },
+          "flags": []
+        },
+        {
+          "shot": "I01",
+          "take": "I01",
+          "beat": "B01",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 99,
+              "source_frame": 68,
+              "mean_rgb_error": 0.3
+            },
+            {
+              "master_frame": 119,
+              "source_frame": 88,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 138,
+              "source_frame": 107,
+              "mean_rgb_error": 0.45
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "His black trouser and polished shoe stay planted over the sketch. Alma's copper sleeve and brown hand enter from the other side to pull its corner.",
+            "background_cast": "Only the two locked actors' extremities are visible at floor level; loose cream drawings lie on the same wood floor.",
+            "beat_emotion": "Follow the tilt to the shoe pinning the drawing."
+          },
+          "flags": []
+        },
+        {
+          "shot": "I01-paper",
+          "take": "I01",
+          "beat": "B01",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 139,
+              "source_frame": 108,
+              "mean_rgb_error": 0.29
+            },
+            {
+              "master_frame": 160,
+              "source_frame": 129,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 180,
+              "source_frame": 149,
+              "mean_rgb_error": 0.31
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "His black trouser and polished shoe stay planted over the sketch. Alma's copper sleeve and brown hand enter from the other side to pull its corner.",
+            "background_cast": "Only the two locked actors' extremities are visible at floor level; loose cream drawings lie on the same wood floor.",
+            "beat_emotion": "Her fingertips pull the corner of the page from under the shoe."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T02-rise",
+          "take": "T02",
+          "beat": "B01",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 181,
+              "source_frame": 86,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 197,
+              "source_frame": 102,
+              "mean_rgb_error": 0.41
+            },
+            {
+              "master_frame": 213,
+              "source_frame": 118,
+              "mean_rgb_error": 0.49
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's copper sleeve and teal apron follow her as she stoops to collect the sheets. Gavin's black shoe and burgundy sleeve stay on the other side of the papers.",
+            "background_cast": "Only Gavin and Alma occupy the workroom. The blue coat on the form stays behind them.",
+            "beat_emotion": "Alma rises into the shared frame."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T02",
+          "take": "T02",
+          "beat": "B01",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 214,
+              "source_frame": 119,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 249,
+              "source_frame": 154,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 284,
+              "source_frame": 189,
+              "mean_rgb_error": 0.45
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's copper sleeve and teal apron follow her as she stoops to collect the sheets. Gavin's black shoe and burgundy sleeve stay on the other side of the papers.",
+            "background_cast": "Only Gavin and Alma occupy the workroom. The blue coat on the form stays behind them.",
+            "beat_emotion": "Hold the face of the maker while she explains the loss."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T02-arms",
+          "take": "T02",
+          "beat": "B01",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 285,
+              "source_frame": 190,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 299,
+              "source_frame": 204,
+              "mean_rgb_error": 0.39
+            },
+            {
+              "master_frame": 312,
+              "source_frame": 217,
+              "mean_rgb_error": 0.47
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's copper sleeve and teal apron follow her as she stoops to collect the sheets. Gavin's black shoe and burgundy sleeve stay on the other side of the papers.",
+            "background_cast": "Only Gavin and Alma occupy the workroom. The blue coat on the form stays behind them.",
+            "beat_emotion": "Both faces and his crossed arms make the dismissal visible."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T03",
+          "take": "T03",
+          "beat": "B01",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 313,
+              "source_frame": 0,
+              "mean_rgb_error": 0.31
+            },
+            {
+              "master_frame": 382,
+              "source_frame": 69,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 450,
+              "source_frame": 137,
+              "mean_rgb_error": 0.42
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Gavin's burgundy lapel and collar frame his chin; the finger pointing to his chest belongs to him.",
+            "background_cast": "The blue dress form stays on his left and the shelf behind him stays put.",
+            "beat_emotion": "Gavin claims the check."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T03-listener",
+          "take": "T03",
+          "beat": "B01",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 451,
+              "source_frame": 138,
+              "mean_rgb_error": 0.3
+            },
+            {
+              "master_frame": 491,
+              "source_frame": 178,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 530,
+              "source_frame": 217,
+              "mean_rgb_error": 0.4
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Gavin's burgundy lapel and collar frame his chin; the finger pointing to his chest belongs to him.",
+            "background_cast": "The blue dress form stays on his left and the shelf behind him stays put.",
+            "beat_emotion": "His last words continue over Alma lowering her eyes."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T04",
+          "take": "T04-r2",
+          "beat": "B02",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 531,
+              "source_frame": 21,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 562,
+              "source_frame": 52,
+              "mean_rgb_error": 0.39
+            },
+            {
+              "master_frame": 593,
+              "source_frame": 83,
+              "mean_rgb_error": 0.39
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The burgundy cuff stays attached to his pale right hand as it actually detaches the short cream label. His sleeve and white shirt match the adjacent confrontation.",
+            "background_cast": "Only Gavin and a headless tan form wearing the blue garment appear. No extra witness enters the close shot.",
+            "beat_emotion": "Follow his eyeline to the label."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T04-label",
+          "take": "T04-r2",
+          "beat": "B02",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 594,
+              "source_frame": 84,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 634,
+              "source_frame": 124,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 674,
+              "source_frame": 164,
+              "mean_rgb_error": 0.36
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The burgundy cuff stays attached to his pale right hand as it actually detaches the short cream label. His sleeve and white shirt match the adjacent confrontation.",
+            "background_cast": "Only Gavin and a headless tan form wearing the blue garment appear. No extra witness enters the close shot.",
+            "beat_emotion": "Hold the fingers at the precise instant the label separates."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T05",
+          "take": "T05",
+          "beat": "B02",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 675,
+              "source_frame": 0,
+              "mean_rgb_error": 0.27
+            },
+            {
+              "master_frame": 759,
+              "source_frame": 84,
+              "mean_rgb_error": 0.37
+            },
+            {
+              "master_frame": 842,
+              "source_frame": 167,
+              "mean_rgb_error": 0.5
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The small pale scrap is clenched in the hand attached to Gavin’s burgundy cuff. Alma raises both hands from her copper sleeves.",
+            "background_cast": "Gavin and Alma remain in the same aisle with the blue-clad form between them.",
+            "beat_emotion": "He bares his teeth and jabs the scrap toward the seamstress. She lifts her hands, then looks down under the threat."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T06",
+          "take": "T06-r2",
+          "beat": "B02",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 843,
+              "source_frame": 0,
+              "mean_rgb_error": 0.25
+            },
+            {
+              "master_frame": 915,
+              "source_frame": 72,
+              "mean_rgb_error": 0.44
+            },
+            {
+              "master_frame": 986,
+              "source_frame": 143,
+              "mean_rgb_error": 0.53
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Both trembling hands enter raised at chest height in rust cuffs; Alma extends one toward the wool.",
+            "background_cast": "Gavin remains on the right; his hands stay lowered with the upright coat in the middle.",
+            "beat_emotion": "Same pressed lips and knitted brows as the preceding threat. Breath and fingers settle before the maker answers him. Gavin watches the pointing hand."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T07",
+          "take": "T07-r2",
+          "beat": "B02",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 987,
+              "source_frame": 0,
+              "mean_rgb_error": 0.12
+            },
+            {
+              "master_frame": 1046,
+              "source_frame": 59,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 1105,
+              "source_frame": 118,
+              "mean_rgb_error": 0.47
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "A burgundy sleeve with white cuff follows the right hand as it pins a black rosette directly to bare blue cloth.",
+            "background_cast": "The dress form and working hand fill the crop. There is no other person or second maker label.",
+            "beat_emotion": "The replacement mark stays on after the hand lets go. The previous maker's cream rectangle is gone."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T08",
+          "take": "T08",
+          "beat": "B02",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 1106,
+              "source_frame": 0,
+              "mean_rgb_error": 0.26
+            },
+            {
+              "master_frame": 1215,
+              "source_frame": 109,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 1323,
+              "source_frame": 217,
+              "mean_rgb_error": 0.38
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Nina’s hand and navy sleeve end together on her navy folder. Her bob, white blouse and navy coat match her reference.",
+            "background_cast": "Nina alone beside the bench. The headless form in blue enters the left side of the shot.",
+            "beat_emotion": "Her look travels from the person she is questioning to the displayed coat. She waits for the answer."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T09",
+          "take": "T09",
+          "beat": "B03",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 1324,
+              "source_frame": 12,
+              "mean_rgb_error": 0.31
+            },
+            {
+              "master_frame": 1396,
+              "source_frame": 84,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 1467,
+              "source_frame": 155,
+              "mean_rgb_error": 0.52
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Gavin points at his own chest from his burgundy jacket then at the garment. Nina wears her navy jacket and dark bob in foreground.",
+            "background_cast": "The buyer steps into the reverse angle from screen left. The form stands between her and the manager, with no extras.",
+            "beat_emotion": "Gavin claims the work with an assured smile. Nina looks away from him, toward manual verification."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T10",
+          "take": "T10",
+          "beat": "B03",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 1468,
+              "source_frame": 0,
+              "mean_rgb_error": 0.26
+            },
+            {
+              "master_frame": 1523,
+              "source_frame": 55,
+              "mean_rgb_error": 0.41
+            },
+            {
+              "master_frame": 1578,
+              "source_frame": 110,
+              "mean_rgb_error": 0.44
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's dark fingertip extends directly from her copper cuff toward the blue lapel. Nina's silver-streaked bob and navy jacket stay opposite.",
+            "background_cast": "Alma addresses Nina beside the same mannequin; the black shape behind them is the sewing machine.",
+            "beat_emotion": "Alma challenges the buyer over the stolen credit."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T10-lapel",
+          "take": "T10",
+          "beat": "B03",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 1579,
+              "source_frame": 111,
+              "mean_rgb_error": 0.29
+            },
+            {
+              "master_frame": 1608,
+              "source_frame": 140,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 1636,
+              "source_frame": 168,
+              "mean_rgb_error": 0.36
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's dark fingertip extends directly from her copper cuff toward the blue lapel. Nina's silver-streaked bob and navy jacket stay opposite.",
+            "background_cast": "Alma addresses Nina beside the same mannequin; the black shape behind them is the sewing machine.",
+            "beat_emotion": "Point of the accusation. The cuff and her pointing hand identify the left lapel under her continuing voice."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T10-wait",
+          "take": "T10",
+          "beat": "B03",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 1637,
+              "source_frame": 169,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 1661,
+              "source_frame": 193,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 1685,
+              "source_frame": 217,
+              "mean_rgb_error": 0.48
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's dark fingertip extends directly from her copper cuff toward the blue lapel. Nina's silver-streaked bob and navy jacket stay opposite.",
+            "background_cast": "Alma addresses Nina beside the same mannequin; the black shape behind them is the sewing machine.",
+            "beat_emotion": "Return to both women as Nina considers the challenge."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T11",
+          "take": "T11-r2",
+          "beat": "B03",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 1686,
+              "source_frame": 0,
+              "mean_rgb_error": 0.22
+            },
+            {
+              "master_frame": 1755,
+              "source_frame": 69,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 1823,
+              "source_frame": 137,
+              "mean_rgb_error": 0.48
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The navy and burgundy sleeves stay either side of the standing coat, hands away from the lapel.",
+            "background_cast": "Both actors remain standing in the same atelier. The blue jacket stays upright on the tan form.",
+            "beat_emotion": "Nina looks from the lapel to Gavin as she asks him to prove his claim. He waits to answer."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T12",
+          "take": "T12",
+          "beat": "B03",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 1824,
+              "source_frame": 3,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 1899,
+              "source_frame": 78,
+              "mean_rgb_error": 0.43
+            },
+            {
+              "master_frame": 1973,
+              "source_frame": 152,
+              "mean_rgb_error": 0.5
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Gavin's burgundy collar and white shirt carry through from Nina's question.",
+            "background_cast": "He faces left toward Nina with the standing blue coat behind him.",
+            "beat_emotion": "His glance down becomes a confident smile as he answers her question."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T13",
+          "take": "T13",
+          "beat": "B03",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 1974,
+              "source_frame": 0,
+              "mean_rgb_error": 0.21
+            },
+            {
+              "master_frame": 2023,
+              "source_frame": 49,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 2071,
+              "source_frame": 97,
+              "mean_rgb_error": 0.42
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The black bag rises in Gavin's fair hand under his burgundy cuff. Alma turns in teal and rust to see the cover descend.",
+            "background_cast": "The figures remain on opposite sides of the dressed form. The blue coat becomes hidden under a single black garment bag.",
+            "beat_emotion": "Hold the two-shot as Gavin tries to close the fitting."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T13-cover",
+          "take": "T13",
+          "beat": "B03",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 2072,
+              "source_frame": 98,
+              "mean_rgb_error": 0.88
+            },
+            {
+              "master_frame": 2113,
+              "source_frame": 139,
+              "mean_rgb_error": 1.6
+            },
+            {
+              "master_frame": 2154,
+              "source_frame": 180,
+              "mean_rgb_error": 1.72
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The black bag rises in Gavin's fair hand under his burgundy cuff. Alma turns in teal and rust to see the cover descend.",
+            "background_cast": "The figures remain on opposite sides of the dressed form. The blue coat becomes hidden under a single black garment bag.",
+            "beat_emotion": "His order continues as the dark cover hides the sample on the form."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T14-challenge",
+          "take": "T14",
+          "beat": "B04",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 2155,
+              "source_frame": 44,
+              "mean_rgb_error": 0.28
+            },
+            {
+              "master_frame": 2168,
+              "source_frame": 57,
+              "mean_rgb_error": 0.32
+            },
+            {
+              "master_frame": 2180,
+              "source_frame": 69,
+              "mean_rgb_error": 0.4
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Copper cuffs and dark hands grip the black bag. Alma lifts it away from the form and holds it herself; Gavin's burgundy sleeves stay separate.",
+            "background_cast": "The seamstress and manager stand across the exact black-covered mannequin left by T13.",
+            "beat_emotion": "She turns from Gavin to the still-covered form."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T14-grip",
+          "take": "T14",
+          "beat": "B04",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 2181,
+              "source_frame": 70,
+              "mean_rgb_error": 1.66
+            },
+            {
+              "master_frame": 2193,
+              "source_frame": 82,
+              "mean_rgb_error": 1.42
+            },
+            {
+              "master_frame": 2205,
+              "source_frame": 94,
+              "mean_rgb_error": 1.51
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Copper cuffs and dark hands grip the black bag. Alma lifts it away from the form and holds it herself; Gavin's burgundy sleeves stay separate.",
+            "background_cast": "The seamstress and manager stand across the exact black-covered mannequin left by T13.",
+            "beat_emotion": "Her rust cuff rises as her fingers grip the cover."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T14",
+          "take": "T14",
+          "beat": "B04",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 2206,
+              "source_frame": 95,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 2268,
+              "source_frame": 157,
+              "mean_rgb_error": 0.37
+            },
+            {
+              "master_frame": 2330,
+              "source_frame": 219,
+              "mean_rgb_error": 0.48
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Copper cuffs and dark hands grip the black bag. Alma lifts it away from the form and holds it herself; Gavin's burgundy sleeves stay separate.",
+            "background_cast": "The seamstress and manager stand across the exact black-covered mannequin left by T13.",
+            "beat_emotion": "She takes the cover off in full view of Gavin."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T15",
+          "take": "T15",
+          "beat": "B04",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 2331,
+              "source_frame": 0,
+              "mean_rgb_error": 0.25
+            },
+            {
+              "master_frame": 2419,
+              "source_frame": 88,
+              "mean_rgb_error": 0.4
+            },
+            {
+              "master_frame": 2506,
+              "source_frame": 175,
+              "mean_rgb_error": 0.49
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's dark hand in rust gestures at the blue coat; Nina's ivory collar and navy shoulder frame the other side.",
+            "background_cast": "Only Alma and Nina stand facing one another beside the blue form.",
+            "beat_emotion": "Alma gives the buyer a specific prediction, then retracts her hand and waits for the test."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T16",
+          "take": "T16",
+          "beat": "B04",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 2507,
+              "source_frame": 49,
+              "mean_rgb_error": 1.39
+            },
+            {
+              "master_frame": 2555,
+              "source_frame": 97,
+              "mean_rgb_error": 1.07
+            },
+            {
+              "master_frame": 2603,
+              "source_frame": 145,
+              "mean_rgb_error": 0.97
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Two navy sleeves, ivory cuffs and the same hands remain attached as the lapel comes open.",
+            "background_cast": "The headless form, blue wool and workroom bench remain in the punch-in. Nina is the established examiner.",
+            "beat_emotion": "Follow the navy cuff as Nina parts the lapel."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T16-bird",
+          "take": "T16",
+          "beat": "B04",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 2604,
+              "source_frame": 146,
+              "mean_rgb_error": 1.17
+            },
+            {
+              "master_frame": 2641,
+              "source_frame": 183,
+              "mean_rgb_error": 1.35
+            },
+            {
+              "master_frame": 2677,
+              "source_frame": 219,
+              "mean_rgb_error": 1.39
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Two navy sleeves, ivory cuffs and the same hands remain attached as the lapel comes open.",
+            "background_cast": "The headless form, blue wool and workroom bench remain in the punch-in. Nina is the established examiner.",
+            "beat_emotion": "The embroidered bird fills the frame after the discovery."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T17",
+          "take": "T17",
+          "beat": "B04",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 2678,
+              "source_frame": 134,
+              "mean_rgb_error": 0.3
+            },
+            {
+              "master_frame": 2719,
+              "source_frame": 175,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 2759,
+              "source_frame": 215,
+              "mean_rgb_error": 0.42
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Nina in navy and ivory and Alma in copper and teal face across the garment, without exchanging clothes or hands.",
+            "background_cast": "The same two women and the single dress form remain. The mannequin has stationery behind it.",
+            "beat_emotion": "Nina lifts her gaze from the garment to Alma and smiles in recognition. Alma meets it."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T18",
+          "take": "T18",
+          "beat": "B05",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 2760,
+              "source_frame": 0,
+              "mean_rgb_error": 0.27
+            },
+            {
+              "master_frame": 2832,
+              "source_frame": 72,
+              "mean_rgb_error": 0.44
+            },
+            {
+              "master_frame": 2903,
+              "source_frame": 143,
+              "mean_rgb_error": 0.53
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The rigid pointing finger emerges from his burgundy sleeve. Alma in rust and teal folds her arms after being accused.",
+            "background_cast": "Alma and Gavin face each other with the blue form between them. No unidentified listener is inserted.",
+            "beat_emotion": "Gavin leans toward her with narrowed eyes even after the proof. Alma raises her chin and closes her arms."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T19",
+          "take": "T19",
+          "beat": "B05",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 2904,
+              "source_frame": 15,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 2951,
+              "source_frame": 62,
+              "mean_rgb_error": 0.45
+            },
+            {
+              "master_frame": 2997,
+              "source_frame": 108,
+              "mean_rgb_error": 0.45
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's rust-sleeved forearm rests on the oak bench. Nina stays in navy with silver-streaked hair.",
+            "background_cast": "The two women are the sole people at this end of the bench. The same royal-blue coat stands behind them.",
+            "beat_emotion": "The buyer listens across the same bench while Alma recounts the unpaid work."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T19-listener",
+          "take": "T19",
+          "beat": "B05",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 2998,
+              "source_frame": 109,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 3023,
+              "source_frame": 134,
+              "mean_rgb_error": 0.38
+            },
+            {
+              "master_frame": 3047,
+              "source_frame": 158,
+              "mean_rgb_error": 0.45
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's rust-sleeved forearm rests on the oak bench. Nina stays in navy with silver-streaked hair.",
+            "background_cast": "The two women are the sole people at this end of the bench. The same royal-blue coat stands behind them.",
+            "beat_emotion": "Nina takes in the accusation as Alma finishes off camera."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T20",
+          "take": "T20",
+          "beat": "B05",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 3048,
+              "source_frame": 1,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 3100,
+              "source_frame": 53,
+              "mean_rgb_error": 0.38
+            },
+            {
+              "master_frame": 3152,
+              "source_frame": 105,
+              "mean_rgb_error": 0.49
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "His burgundy sleeve ends in the hand pressing against the navy folder. Nina remains in her navy blazer and ivory blouse.",
+            "background_cast": "The same two people occupy opposite sides of a table, with the blue garment behind them.",
+            "beat_emotion": "He crowds her space over the folder and speaks conspiratorially. She watches him without taking it."
+          },
+          "flags": []
+        },
+        {
+          "shot": "I05",
+          "take": "I05",
+          "beat": "B05",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 3153,
+              "source_frame": 70,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 3213,
+              "source_frame": 130,
+              "mean_rgb_error": 0.4
+            },
+            {
+              "master_frame": 3272,
+              "source_frame": 189,
+              "mean_rgb_error": 0.47
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "A burgundy sleeve leads to the pale hand advancing the envelope. The navy-clad woman's hands receive it and push it back.",
+            "background_cast": "The folder, the two sets of hands and the same wood table anchor the exchange. No extra person is introduced.",
+            "beat_emotion": "There is a clear change of direction: she examines the offered envelope and slides it back to his side."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T21",
+          "take": "T21",
+          "beat": "B05",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 3273,
+              "source_frame": 27,
+              "mean_rgb_error": 0.32
+            },
+            {
+              "master_frame": 3339,
+              "source_frame": 93,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 3404,
+              "source_frame": 158,
+              "mean_rgb_error": 0.49
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The approved close-up holds Nina's silver-streaked bob, navy collar and unchanged face; no isolated hands enter the frame.",
+            "background_cast": "The tight left-side portrait excludes the unrelated seated woman and the different-looking listener on the right of the unselected frame.",
+            "beat_emotion": "Nina turns to demand that the offer be repeated, then looks out toward the person whose work was stolen."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T22",
+          "take": "T22",
+          "beat": "B05",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 3405,
+              "source_frame": 0,
+              "mean_rgb_error": 0.21
+            },
+            {
+              "master_frame": 3450,
+              "source_frame": 45,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 3494,
+              "source_frame": 89,
+              "mean_rgb_error": 0.49
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Gavin's arm extends from his burgundy sleeve across the doorway; Alma's folded arms stay in rust and teal.",
+            "background_cast": "The same two stand on either side of the open workshop doorway. The blue form is visible beyond them.",
+            "beat_emotion": "Gavin turns to block the exit and points. Alma remains erect with folded arms, then looks down."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T23",
+          "take": "T23",
+          "beat": "B06",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 3495,
+              "source_frame": 0,
+              "mean_rgb_error": 0.36
+            },
+            {
+              "master_frame": 3583,
+              "source_frame": 88,
+              "mean_rgb_error": 0.39
+            },
+            {
+              "master_frame": 3671,
+              "source_frame": 176,
+              "mean_rgb_error": 0.57
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Nina's navy sleeve and open hand direct him toward the table. Gavin's burgundy jacket, white shirt and silver pin appear in profile.",
+            "background_cast": "The edge crop leaves Nina and Gavin in the foreground and several empty dress forms behind the bench.",
+            "beat_emotion": "She holds out her hand as he loses standing. His defiance gives way to a bowed head, visible well into the closing part of the shot."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T24",
+          "take": "T24-r2",
+          "beat": "B06",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 3672,
+              "source_frame": 29,
+              "mean_rgb_error": 0.33
+            },
+            {
+              "master_frame": 3744,
+              "source_frame": 101,
+              "mean_rgb_error": 0.39
+            },
+            {
+              "master_frame": 3815,
+              "source_frame": 172,
+              "mean_rgb_error": 0.54
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "The tour pass leaves the fingers of the same white cuff and burgundy sleeve. Alma's copper-covered arm and teal apron are beside the navy folder, witnessing the surrender.",
+            "background_cast": "Both characters' clothes and hands remain at the same bench; the blue coat stays on its dress form behind them. No unidentified witness intervenes.",
+            "beat_emotion": "After being dismissed, he puts down the silver credential next to the contract folder, releases it and withdraws. It is visibly still there afterward."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T25",
+          "take": "T25",
+          "beat": "B06",
+          "shared": true,
+          "probes": [
+            {
+              "master_frame": 3816,
+              "source_frame": 19,
+              "mean_rgb_error": 0.35
+            },
+            {
+              "master_frame": 3900,
+              "source_frame": 103,
+              "mean_rgb_error": 0.4
+            },
+            {
+              "master_frame": 3983,
+              "source_frame": 186,
+              "mean_rgb_error": 0.55
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Nina's navy sleeves carry the folder forward. Alma's brown hands from copper cuffs take it. The final folder stays with the maker.",
+            "background_cast": "The same two women stand opposite each other, a single contract folder joining their hands. The blue garment remains behind them.",
+            "beat_emotion": "The commissioner's small smile breaks the tension. Alma receives the contract and finally looks down at what she has won."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T26-folder",
+          "take": "T26",
+          "beat": "B06",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 3984,
+              "source_frame": 50,
+              "mean_rgb_error": 1.45
+            },
+            {
+              "master_frame": 4012,
+              "source_frame": 78,
+              "mean_rgb_error": 1.28
+            },
+            {
+              "master_frame": 4040,
+              "source_frame": 106,
+              "mean_rgb_error": 1.42
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma holds the blue folder, her rust sleeve and teal apron match the opening.",
+            "background_cast": "The crop isolates the maker in the same workroom; the blue sample stays beside her.",
+            "beat_emotion": "The navy folder is already in the maker?s arms. Let that possession register before her callback."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T26",
+          "take": "T26",
+          "beat": "B06",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 4041,
+              "source_frame": 107,
+              "mean_rgb_error": 0.34
+            },
+            {
+              "master_frame": 4096,
+              "source_frame": 162,
+              "mean_rgb_error": 0.39
+            },
+            {
+              "master_frame": 4151,
+              "source_frame": 217,
+              "mean_rgb_error": 0.47
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma holds the blue folder, her rust sleeve and teal apron match the opening.",
+            "background_cast": "The crop isolates the maker in the same workroom; the blue sample stays beside her.",
+            "beat_emotion": "Return to her face as she delivers the line. Her gaze and the following reaction share an axis."
+          },
+          "flags": []
+        },
+        {
+          "shot": "T27",
+          "take": "T27-r3",
+          "beat": "B06",
+          "shared": false,
+          "probes": [
+            {
+              "master_frame": 4152,
+              "source_frame": 0,
+              "mean_rgb_error": 0.22
+            },
+            {
+              "master_frame": 4236,
+              "source_frame": 84,
+              "mean_rgb_error": 0.37
+            },
+            {
+              "master_frame": 4319,
+              "source_frame": 167,
+              "mean_rgb_error": 0.62
+            }
+          ],
+          "observed": {
+            "hands_and_wardrobe": "Alma's copper sleeve follows her hand onto the blue shoulder. The navy folder stays in her other arm.",
+            "background_cast": "Daylight, wood bench and dress forms remain behind Alma; no other performer enters.",
+            "beat_emotion": "Eyes level with a small closed smile at entry. She turns from the confrontation and settles her hand on her work, with her face in rear profile through the former silent-line interval."
+          },
+          "flags": []
+        }
+      ],
+      "confrontations": {
+        "B01": {
+          "shared": 4,
+          "shots": 10,
+          "fraction": 0.4
+        },
+        "B02": {
+          "shared": 2,
+          "shots": 6,
+          "fraction": 0.3333333333333333
+        },
+        "B03": {
+          "shared": 3,
+          "shots": 8,
+          "fraction": 0.375
+        },
+        "B04": {
+          "shared": 3,
+          "shots": 7,
+          "fraction": 0.42857142857142855
+        },
+        "B05": {
+          "shared": 3,
+          "shots": 7,
+          "fraction": 0.42857142857142855
+        },
+        "B06": {
+          "shared": 2,
+          "shots": 6,
+          "fraction": 0.3333333333333333
+        }
+      },
+      "reference_selection": [
+        {
+          "shot": "T01-strike",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T01-hurt",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T01",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "I01",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "I01-paper",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T02-rise",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T02",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T02-arms",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T03",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T03-listener",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T04",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T04-label",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T05",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/alma.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T06",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T07",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T08",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T09",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T10",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T10-lapel",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T10-wait",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T11",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T12",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T13",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T13-cover",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T14-challenge",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T14-grip",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T14",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T15",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T16",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T16-bird",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T17",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/alma.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T18",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/alma.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T19",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T19-listener",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T20",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "I05",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/nina.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T21",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T22",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/alma.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T23",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/gavin.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T24",
+          "cref": "refs/gavin.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/alma.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "G"
+          }
+        },
+        {
+          "shot": "T25",
+          "cref": "refs/nina.jpg",
+          "cw": 100,
+          "extraCrefs": [
+            "refs/alma.jpg"
+          ],
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "N"
+          }
+        },
+        {
+          "shot": "T26-folder",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T26",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        },
+        {
+          "shot": "T27",
+          "cref": "refs/alma.jpg",
+          "cw": 100,
+          "reason": {
+            "crefSource": "matched-locked",
+            "srefSource": "none",
+            "cwTier": "matched-locked",
+            "matchedLockedName": "A"
+          }
+        }
+      ],
+      "commands": [
+        {
+          "argv": [
+            "node",
+            "E:\\YOUTUBE\\codex-video-factory\\core\\vision_qa\\wind-consistency.cjs"
+          ],
+          "cwd": "E:\\YOUTUBE\\codex-video-factory",
+          "exit_code": 0,
+          "repo": "wind-comic",
+          "stage": "vision_qa",
+          "commit": "fb05115096df313659d9927f362a024b740cd365"
+        }
+      ]
+    }
+  }
+}

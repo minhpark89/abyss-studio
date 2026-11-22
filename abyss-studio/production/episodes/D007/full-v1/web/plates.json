@@ -1,0 +1,27 @@
+{
+  "swim": {
+    "path": "production/episodes/D002/revision-v7/muse-native-v7/clips/M08.mp4",
+    "frames": 240,
+    "sha256": "d88f9085c4935cb5a89de296584bfd5ad00d2bbfb909b102340450d503ecea46"
+  },
+  "curtain": {
+    "path": "production/episodes/D002/revision-v7/muse-native-v8/clips/M08.mp4",
+    "frames": 240,
+    "sha256": "29e332fcca1823ecc4b4059cbd2d724d81a364757417e23f9700d7289e594435"
+  },
+  "fishview": {
+    "path": "production/episodes/D002/revision-v7/muse-native-v5/clips/M01.mp4",
+    "frames": 240,
+    "sha256": "2a8dca2983f97f0f7a4ea64ca3b031b315626c1cfa1a29e940201fc7739675f8"
+  },
+  "vehicle": {
+    "path": "production/episodes/D002/revision-v7/muse-native-v7/clips/M05.mp4",
+    "frames": 240,
+    "sha256": "7d18fbef3677c7a075aa457834c0dc7f62fec6a36da1f0918642c524aaf18202"
+  },
+  "depart": {
+    "path": "production/episodes/D002/revision-v7/muse-native-v9/clips/M06.mp4",
+    "frames": 240,
+    "sha256": "37067cbc37c3076d09b5e747c6f99b490297e11bb50c71f682597994d0bf2f44"
+  }
+}

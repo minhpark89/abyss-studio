@@ -1,0 +1,382 @@
+{
+  "niche": "karma-drama",
+  "twist_reveal_timestamp": 169.053333,
+  "speech": [
+    {
+      "shot": "T01",
+      "start": 2.666667,
+      "end": 4.011667,
+      "text": "Know your place."
+    },
+    {
+      "shot": "T02",
+      "start": 9.298333,
+      "end": 11.637333,
+      "text": "Those are six months of my life."
+    },
+    {
+      "shot": "T03",
+      "start": 14.018333,
+      "end": 20.701333,
+      "text": "Forty coats. My name gets the check. Yours gets swept up.",
+      "source": "takes/T03.mp4",
+      "source_start": 1.06,
+      "reason": "His last words continue over Alma lowering her eyes."
+    },
+    {
+      "shot": "T05",
+      "start": 28.545,
+      "end": 32.508,
+      "text": "Tell the buyer and you'll never work in this room again."
+    },
+    {
+      "shot": "T06",
+      "start": 36.865,
+      "end": 40.735,
+      "text": "My mother put her mark inside every coat. So do I."
+    },
+    {
+      "shot": "T08",
+      "start": 48.3,
+      "end": 53.263,
+      "text": "The theater tour orders forty coats today. Who made this one?"
+    },
+    {
+      "shot": "T09",
+      "start": 55.803333,
+      "end": 60.438333,
+      "text": "I designed it. She just holds the pins."
+    },
+    {
+      "shot": "T10",
+      "start": 61.373333,
+      "end": 68.090333,
+      "text": "He tore off my label. Ask him what's under the left lapel.",
+      "source": "takes/T10.mp4",
+      "source_start": 0.29,
+      "reason": "Point of the accusation. The cuff and her pointing hand identify the left lapel under her continuing voice. Return to both women as Nina considers the challenge."
+    },
+    {
+      "shot": "T11",
+      "start": 71.346667,
+      "end": 73.996667,
+      "text": "Your design, Mr. Hale. What's underneath?"
+    },
+    {
+      "shot": "T12",
+      "start": 75.921667,
+      "end": 82.126667,
+      "text": "Plain silk. Turn it inside out if you like.",
+      "source": "takes/T12.mp4",
+      "source_start": 0.13,
+      "reason": "Gavin draws breath to answer over the final two frames of Nina waiting beside the upright coat."
+    },
+    {
+      "shot": "T13",
+      "start": 82.25,
+      "end": 89.769,
+      "text": "Pack it up. The fitting's over.",
+      "source": "takes/T13.mp4",
+      "source_start": 0.0,
+      "reason": "His order continues as the dark cover hides the sample on the form."
+    },
+    {
+      "shot": "T14",
+      "start": 91.928333,
+      "end": 95.445333,
+      "text": "Fire me, then. The coat stays."
+    },
+    {
+      "shot": "T15",
+      "start": 97.383333,
+      "end": 102.923333,
+      "text": "A gold crane. Under the left lapel. Open it yourself."
+    },
+    {
+      "shot": "T17",
+      "start": 111.856667,
+      "end": 114.683667,
+      "text": "A gold crane. Right where you said."
+    },
+    {
+      "shot": "T18",
+      "start": 115.136667,
+      "end": 119.555667,
+      "text": "She sews for me. That bird belongs to me too."
+    },
+    {
+      "shot": "T19",
+      "start": 121.091667,
+      "end": 126.850667,
+      "text": "Last winter he sold twelve of mine. I never saw a cent.",
+      "source": "takes/T19.mp4",
+      "source_start": 0.8,
+      "reason": "Nina takes in the accusation as Alma finishes off camera."
+    },
+    {
+      "shot": "T20",
+      "start": 127.035,
+      "end": 131.354,
+      "text": "Sign with me. Ten percent stays in your pocket."
+    },
+    {
+      "shot": "T21",
+      "start": 136.4,
+      "end": 141.841,
+      "text": "Say it louder. I want the woman you stole from to hear."
+    },
+    {
+      "shot": "T22",
+      "start": 144.651667,
+      "end": 145.491667,
+      "text": "You walk out now!"
+    },
+    {
+      "shot": "T23",
+      "start": 145.685,
+      "end": 149.176,
+      "text": "You're off the tour, Gavin. Leave your badge on the table."
+    },
+    {
+      "shot": "T25",
+      "start": 158.605,
+      "end": 162.625,
+      "text": "Forty coats. Your name on every one.",
+      "source": "takes/T25.mp4",
+      "source_start": 0.48,
+      "reason": "Nina begins the award over the surrendered credential"
+    },
+    {
+      "shot": "T26",
+      "start": 169.053333,
+      "end": 170.584333,
+      "text": "Know your place."
+    }
+  ],
+  "actions": [
+    {
+      "shot": "T01",
+      "start": 0.0,
+      "end": 4.125,
+      "action": "Gavin strikes the drawings out of her hands. Alma raises her gaze and holds his. ",
+      "sheet": "qa/visual/T01.jpg"
+    },
+    {
+      "shot": "I01",
+      "start": 4.125,
+      "end": 7.541666666666667,
+      "action": "Alma pulls the drawing loose from under his polished shoe.",
+      "sheet": "qa/visual/I01.jpg"
+    },
+    {
+      "shot": "T02",
+      "start": 7.541666666666667,
+      "end": 13.041666666666666,
+      "action": "Alma retrieves the scattered sketches and confronts him. He closes his arms defensively.",
+      "sheet": "qa/visual/T02.jpg"
+    },
+    {
+      "shot": "T03",
+      "start": 13.041666666666666,
+      "end": 22.125,
+      "action": "Gavin claims the commission.",
+      "sheet": "qa/visual/T03-496x0x704x396.jpg"
+    },
+    {
+      "shot": "T04",
+      "start": 22.125,
+      "end": 28.125,
+      "action": "Gavin peels the light rectangle off the lapel, holds it up, and reveals an uninterrupted patch of blue exactly where it was.",
+      "sheet": "qa/visual/T04-r2.jpg"
+    },
+    {
+      "shot": "T05",
+      "start": 28.125,
+      "end": 35.125,
+      "action": "Gavin brandishes the scrap and closes his fist. Alma draws her hands up and drops her gaze.",
+      "sheet": "qa/visual/T05-88x2x1088x612.jpg"
+    },
+    {
+      "shot": "T06",
+      "start": 35.125,
+      "end": 41.125,
+      "action": "From raised hands Alma steadies her breath and points at the hidden maker mark.",
+      "sheet": "qa/visual/T06-r2.jpg"
+    },
+    {
+      "shot": "T07",
+      "start": 41.125,
+      "end": 46.083333333333336,
+      "action": "The manager clips his black mark onto the bare lapel.",
+      "sheet": "qa/visual/T07-r2-280x336x672x378.jpg"
+    },
+    {
+      "shot": "T08",
+      "start": 46.083333333333336,
+      "end": 55.166666666666664,
+      "action": "Nina sets down the folder and turns to inspect the blue sample.",
+      "sheet": "qa/visual/T08.jpg"
+    },
+    {
+      "shot": "T09",
+      "start": 55.166666666666664,
+      "end": 61.166666666666664,
+      "action": "Gavin points from himself to the coat while Nina listens, then turns her gaze.",
+      "sheet": "qa/visual/T09.jpg"
+    },
+    {
+      "shot": "T10",
+      "start": 61.166666666666664,
+      "end": 70.25,
+      "action": "Alma directs Nina's attention to the underside of the lapel.",
+      "sheet": "qa/visual/T10.jpg"
+    },
+    {
+      "shot": "T11",
+      "start": 70.25,
+      "end": 76.0,
+      "action": "Nina questions him without taking the garment off the form.",
+      "sheet": "qa/visual/T11-r2.jpg"
+    },
+    {
+      "shot": "T12",
+      "start": 76.0,
+      "end": 82.25,
+      "action": "Gavin dares Nina to inspect the lining.",
+      "sheet": "qa/visual/T12-496x0x768x432.jpg"
+    },
+    {
+      "shot": "T13",
+      "start": 82.25,
+      "end": 89.79166666666667,
+      "action": "Gavin throws a black garment cover over the blue coat; the next continuous shot T14 opens with the same cover on it.",
+      "sheet": "qa/visual/T13.jpg"
+    },
+    {
+      "shot": "T14",
+      "start": 89.79166666666667,
+      "end": 97.125,
+      "action": "Alma pulls the black garment bag off the mannequin, baring the blue jacket again.",
+      "sheet": "qa/visual/T14.jpg"
+    },
+    {
+      "shot": "T15",
+      "start": 97.125,
+      "end": 104.45833333333333,
+      "action": "Alma indicates the lapel but leaves the actual test for Nina.",
+      "sheet": "qa/visual/T15.jpg"
+    },
+    {
+      "shot": "T16",
+      "start": 104.45833333333333,
+      "end": 111.58333333333333,
+      "action": "Nina parts the blue lapel; a large gold crane on pale lining becomes fully visible.",
+      "sheet": "qa/visual/T16-0x235x704x396.jpg"
+    },
+    {
+      "shot": "T17",
+      "start": 111.58333333333333,
+      "end": 115.0,
+      "action": "Nina looks from the opened coat to its maker and gives an affirmative smile.",
+      "sheet": "qa/visual/T17.jpg"
+    },
+    {
+      "shot": "T18",
+      "start": 115.0,
+      "end": 121.0,
+      "action": "Gavin points at the seamstress; she meets his accusation with her chin held high.",
+      "sheet": "qa/visual/T18-64x0x1120x630.jpg"
+    },
+    {
+      "shot": "T19",
+      "start": 121.0,
+      "end": 127.0,
+      "action": "The maker leans on the bench and meets the commissioner's eyes before they both look down.",
+      "sheet": "qa/visual/T19.jpg"
+    },
+    {
+      "shot": "T20",
+      "start": 127.0,
+      "end": 131.375,
+      "action": "Gavin leans in and slides his hand onto the contract while the buyer listens.",
+      "sheet": "qa/visual/T20.jpg"
+    },
+    {
+      "shot": "I05",
+      "start": 131.375,
+      "end": 136.375,
+      "action": "The envelope travels to Nina, pauses, then returns from her side of the table to his.",
+      "sheet": "qa/visual/I05-166x246x832x468.jpg"
+    },
+    {
+      "shot": "T21",
+      "start": 136.375,
+      "end": 141.875,
+      "action": "Nina challenges the bribe directly and turns to include the victim.",
+      "sheet": "qa/visual/T21-0x14x688x386.jpg"
+    },
+    {
+      "shot": "T22",
+      "start": 141.875,
+      "end": 145.625,
+      "action": "Gavin moves across the doorway to issue the last threat. Alma holds her ground.",
+      "sheet": "qa/visual/T22.jpg"
+    },
+    {
+      "shot": "T23",
+      "start": 145.625,
+      "end": 153.0,
+      "action": "Nina gestures at the bench. Gavin lowers his head in public.",
+      "sheet": "qa/visual/T23-128x10x1152x648.jpg"
+    },
+    {
+      "shot": "T24",
+      "start": 153.0,
+      "end": 159.0,
+      "action": "Gavin puts the backstage credential on the wood beside the contract, withdraws his empty fingers and leaves Alma beside both objects.",
+      "sheet": "qa/visual/T24-r2.jpg"
+    },
+    {
+      "shot": "T25",
+      "start": 159.0,
+      "end": 166.0,
+      "action": "Nina transfers the navy contract folder from her hands into Alma's.",
+      "sheet": "qa/visual/T25.jpg"
+    },
+    {
+      "shot": "T26",
+      "start": 166.0,
+      "end": 173.0,
+      "action": "Alma holds the commission to her chest and delivers the original insult back to Gavin.",
+      "sheet": "qa/visual/T26-0x32x768x432.jpg"
+    },
+    {
+      "shot": "T27",
+      "start": 173.0,
+      "end": 180.0,
+      "action": "Alma turns back to the blue coat and smooths its shoulder.",
+      "sheet": "qa/visual/T27-r3.jpg"
+    }
+  ],
+  "music": [
+    {
+      "at": 0,
+      "cue": "tense_pulse"
+    },
+    {
+      "at": 22.125,
+      "cue": "dark_escalation"
+    },
+    {
+      "at": 145.685,
+      "cue": "karma_payoff"
+    }
+  ],
+  "sfx": [
+    {
+      "at": 166.503333,
+      "cue": "riser_2s",
+      "gain_db": -18
+    }
+  ]
+}

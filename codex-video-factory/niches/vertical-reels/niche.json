@@ -1,0 +1,27 @@
+{
+  "fps": 24,
+  "aspect_ratio": "9:16",
+  "language": "en-US",
+  "modules": [
+    "muse_bridge",
+    "audio_cleaner",
+    "assembler",
+    "vision_qa",
+    "dashboard_4320"
+  ],
+  "cleaner": {
+    "head_seconds": 0.3,
+    "tail_seconds": 0.8
+  },
+  "delivery": "local_review",
+  "id": "vertical-reels",
+  "name": "Vertical reels",
+  "duration_seconds": [
+    45,
+    60
+  ],
+  "target_shot_seconds": 1.2,
+  "rules": [
+    "hook_rules.md"
+  ]
+}

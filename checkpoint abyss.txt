@@ -1,0 +1,12 @@
+Abyss Fieldnotes · 22/11/2026
+
+D001–D006 đã đăng. D007 toàn tập 09:16 chờ duyệt.
+Xem: http://127.0.0.1:4320/production/episodes/D007/full-v1/delivery/review.html
+Checkpoint: abyss-studio/production/channels/abyss-fieldnotes/CHECKPOINT.md
+
+Báo cáo ngày lúc 08:00 trên PC: http://127.0.0.1:4320/fieldnotes#youtube . Hướng dẫn OAuth trong app. Báo cáo mới nhất: abyss-studio/data/fieldnotes-daily/latest.json.
+
+OAuth đã nhập file. Mở mục Kết nối Google và bấm Cấp quyền Google. Lượt chờ có thể hủy hoặc mở lại ngay trong app.
+Đã lưu riêng phiên Abyss Fieldnotes và kiểm tra checkpoint thành công. Mở checkpoint Abyss (abyss-studio/production/channels/abyss-fieldnotes/CHECKPOINT.md)
+
+Bản bàn giao ghi rõ Abyss đang ổn, file OAuth đã lưu và Analytics riêng còn chờ xác nhận Google. Nếu có lỗi, phiên sau có sẵn đường dẫn mã nguồn và lệnh kiểm tra cho màn hình quản lý, số liệu theo kênh, vidIQ và nút hiện MP4. Mở bàn giao kỹ thuật (abyss-studio/production/channels/abyss-fieldnotes/YOUTUBE_MANAGER_HANDOFF.md)

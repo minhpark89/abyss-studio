@@ -1,0 +1,16 @@
+{
+  "shot": "T01",
+  "frame": 48,
+  "native_size": [
+    1280,
+    720
+  ],
+  "crop": [
+    550,
+    0,
+    1254,
+    396
+  ],
+  "source_sha256": "c110269d33f1c45da4d2f0a246cacc42a838f284c5ad5effa64ae52e39475cc6",
+  "reference_sha256": "ead9bbd252510420b6229225b8b7446d2b85954d675dd76672eccb6c1a6099cd"
+}

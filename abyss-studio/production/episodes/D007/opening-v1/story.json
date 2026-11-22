@@ -1,0 +1,42 @@
+{
+  "title": "This Deep-Sea Hunter Is a Colony",
+  "language": "en-US",
+  "scope": "Opening sample",
+  "segments": [
+    {
+      "id": "ask",
+      "text": "One hunter, or a colony? Trace that pale line through the water. Where would you say one animal ends and the next begins?",
+      "pause": 0.65
+    },
+    {
+      "id": "field",
+      "text": "Look at this photograph from a dive off Puerto Rico. Start at the tip. Follow the row of clear bells down to the bend.",
+      "pause": 0.55
+    },
+    {
+      "id": "guess",
+      "text": "See how the pattern changes there? If these were just links in a chain, you'd expect the next link to do the same thing.",
+      "pause": 0.48
+    },
+    {
+      "id": "answer",
+      "text": "Here's the surprise. A siphonophore grows as a colony. The repeating parts are animals called zooids, and they stay attached.",
+      "pause": 0.45
+    },
+    {
+      "id": "jets",
+      "text": "Watch a swimming bell squeeze. Water shoots out of the opening. The push moves the bell and carries its neighbors along with it.",
+      "pause": 0.42
+    },
+    {
+      "id": "net",
+      "text": "Farther down the stem, a tentacle trails in the water. Its stinging cells can catch prey. A feeding zooid has the mouth that takes the meal in.",
+      "pause": 0.46
+    },
+    {
+      "id": "close",
+      "text": "So where does one hunter end? You can pick out the individual swimmers and feeders. But follow a meal or a single stroke, and you're watching the whole colony at work.",
+      "pause": 0.85
+    }
+  ]
+}

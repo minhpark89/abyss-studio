@@ -1,0 +1,204 @@
+{
+  "episode": "SB09",
+  "title": "The Stolen Label",
+  "fps": 24,
+  "duration_seconds": 180,
+  "profile": "cn",
+  "renderer": "Muse",
+  "language": "en-US",
+  "aspect_ratio": "16:9",
+  "production": {
+    "project_key": "second-bell/SB09/the-stolen-label",
+    "project_title": "SB09 | The Stolen Label"
+  },
+  "stakes": "Alma risks losing her job if she claims the forty-coat order she earned.",
+  "choice": "Stay employed under someone else's name or risk her job on a hidden mark only she knows.",
+  "consequence": "The commissioner fires Gavin and gives the tour commission directly to Alma.",
+  "assets": [
+    {
+      "id": "atelier",
+      "kind": "location",
+      "anchor": "Photorealistic contemporary American short drama. Bright well-exposed daylight from tall frosted windows on a pale cream costume atelier with honey oak workbench and one royal-blue wool show coat on a headless tan dress form. Clean soft side key, detailed midtones and crisp eyes. Color-accurate stable skin. Natural speed. A single unbroken live-action shot. Three principals only, sparse background empty of unidentified people. Keep speech synchronized and clear. No score, text overlays, caption, watermarks, slow motion, flash cuts or stylized fashion posing. Finish the action and spoken sentence by second seven, then hold the changed situation in normal time.",
+      "reference_files": [
+        "refs/ag.jpg"
+      ]
+    },
+    {
+      "id": "A",
+      "kind": "character",
+      "anchor": "Alma Brooks, Black American woman age 44, warm deep brown complexion, oval face, natural tight black curls pulled into a low puff, small plain gold hoop earrings, crisp copper-rust long-sleeve shirt underneath a dark teal canvas bib apron with cross-back straps. Dark-brown hands and copper shirt cuffs. Measured clear American alto, grounded and quietly formidable.",
+      "reference_files": [
+        "refs/alma.jpg"
+      ]
+    },
+    {
+      "id": "G",
+      "kind": "character",
+      "anchor": "Gavin Hale, white American man age 48, fair complexion, narrow angular clean-shaven face, brown hair swept back with silver at his temples. Burgundy wine two-button blazer, white open-neck shirt, black trousers and plain silver square lapel badge. Fast and cutting American baritone, pretends warmth in public.",
+      "reference_files": [
+        "refs/gavin.jpg"
+      ]
+    },
+    {
+      "id": "N",
+      "kind": "character",
+      "anchor": "Nina Park, Korean American woman age 55, warm light tan complexion, sleek straight black chin-length bob with a streak of silver, navy tailored blazer over ivory blouse, small silver stud earrings. Calm low American voice with exact diction. The head of the commissioning panel.",
+      "reference_files": [
+        "refs/nina.jpg"
+      ]
+    },
+    {
+      "id": "coat",
+      "kind": "prop",
+      "anchor": "Royal-blue wool show coat on a headless tan dress form. Under its left lapel a gold embroidered crane appears against cream lining."
+    },
+    {
+      "id": "labels",
+      "kind": "prop",
+      "anchor": "A removable cream maker's label is replaced on the outside with a black clip-on label. Neither requires reading."
+    },
+    {
+      "id": "portfolio",
+      "kind": "prop",
+      "anchor": "Alma's cream portfolio contains loose ivory costume sketches. They remain on the floor after Gavin knocks them down."
+    },
+    {
+      "id": "badge",
+      "kind": "prop",
+      "anchor": "Gavin's small plain silver square badge. He surrenders it at the oak workbench after Nina fires him."
+    },
+    {
+      "id": "folder",
+      "kind": "prop",
+      "anchor": "Nina's closed navy commission folder for the forty-coat order. Final recipient is Alma."
+    }
+  ],
+  "initial_state": {
+    "order": "pending"
+  },
+  "beats": [
+    {
+      "id": "B01",
+      "cause": null,
+      "action": "Gavin knocks the drawings from Alma's hands and puts a shoe over her work.",
+      "effect": "Alma discovers he means to take payment for the entire forty-coat order.",
+      "requires": {
+        "order": "pending"
+      },
+      "changes": {
+        "order": "threatened"
+      },
+      "shots": [
+        "T01",
+        "T02",
+        "T03"
+      ],
+      "start_seconds": 0,
+      "end_seconds": 25
+    },
+    {
+      "id": "B02",
+      "cause": "B01",
+      "action": "Gavin tears off the maker's label, threatens her job and attaches his own black tag.",
+      "effect": "The outside of the coat now supports his lie, but Alma has seeded a permanent mark beneath the lapel.",
+      "requires": {
+        "order": "threatened"
+      },
+      "changes": {
+        "order": "false_label"
+      },
+      "shots": [
+        "T04",
+        "T05",
+        "T06",
+        "T07",
+        "T08"
+      ],
+      "start_seconds": 25,
+      "end_seconds": 56
+    },
+    {
+      "id": "B03",
+      "cause": "B02",
+      "action": "He claims the commission before Nina. Alma asks her to test him. Gavin predicts plain silk and tries to pack the coat away.",
+      "effect": "Removing the sample would prevent the buyer from seeing the proof.",
+      "requires": {
+        "order": "false_label"
+      },
+      "changes": {
+        "order": "false_prediction"
+      },
+      "shots": [
+        "T09",
+        "T10",
+        "T11",
+        "T12",
+        "T13"
+      ],
+      "start_seconds": 56,
+      "end_seconds": 90
+    },
+    {
+      "id": "B04",
+      "cause": "B03",
+      "action": "Alma risks being fired, names a hidden gold crane, and makes Nina open the lapel herself.",
+      "effect": "The buyer has seen something only the maker predicted before the lining was visible.",
+      "requires": {
+        "order": "false_prediction"
+      },
+      "changes": {
+        "order": "proof"
+      },
+      "shots": [
+        "T14",
+        "T15",
+        "T16",
+        "T17"
+      ],
+      "start_seconds": 90,
+      "end_seconds": 118
+    },
+    {
+      "id": "B05",
+      "cause": "B04",
+      "action": "Gavin claims ownership of the maker herself, offers Nina a kickback, then threatens Alma again.",
+      "effect": "Nina has personally heard his bribe and seen the theft. Gavin still refuses to back down.",
+      "requires": {
+        "order": "proof"
+      },
+      "changes": {
+        "order": "bribe"
+      },
+      "shots": [
+        "T18",
+        "T19",
+        "T20",
+        "T21",
+        "T22"
+      ],
+      "start_seconds": 118,
+      "end_seconds": 146
+    },
+    {
+      "id": "B06",
+      "cause": "B05",
+      "action": "Nina publicly dismisses Gavin. His badge lands on the workbench. Nina hands the whole order to Alma.",
+      "effect": "Alma now owns the contract. She returns his words and stands at her own coat as he loses his status.",
+      "requires": {
+        "order": "bribe"
+      },
+      "changes": {
+        "order": "transferred"
+      },
+      "shots": [
+        "T23",
+        "T24",
+        "T25",
+        "T26",
+        "T27"
+      ],
+      "start_seconds": 146,
+      "end_seconds": 180
+    }
+  ]
+}

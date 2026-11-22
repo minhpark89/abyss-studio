@@ -1,0 +1,49 @@
+{
+  "master_sha256": "d7cc81e59eb8689cb52c2751f66aee8a02a09788409fe38016d4aebce9c30306",
+  "frames": 1766,
+  "max_pts_error_s": 3.333333342681044e-07,
+  "source_to_encoded_speech": [
+    {
+      "id": "ask",
+      "t": 0.641,
+      "lag_ms": 0.0,
+      "correlation": 0.9626987841975747
+    },
+    {
+      "id": "field",
+      "t": 10.645,
+      "lag_ms": 0.0,
+      "correlation": 0.9911028602497767
+    },
+    {
+      "id": "guess",
+      "t": 20.24,
+      "lag_ms": 0.0,
+      "correlation": 0.9756000151250113
+    },
+    {
+      "id": "answer",
+      "t": 29.126,
+      "lag_ms": 0.0,
+      "correlation": 0.978276146033269
+    },
+    {
+      "id": "jets",
+      "t": 39.77,
+      "lag_ms": 0.0,
+      "correlation": 0.9507254576659155
+    },
+    {
+      "id": "net",
+      "t": 49.816,
+      "lag_ms": 0.0,
+      "correlation": 0.9772357201595526
+    },
+    {
+      "id": "close",
+      "t": 61.151,
+      "lag_ms": 0.0,
+      "correlation": 0.9901770436164766
+    }
+  ]
+}

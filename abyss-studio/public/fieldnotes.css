@@ -1,0 +1,70 @@
+:root{color-scheme:dark;--bg:#0b171c;--panel:#12232a;--ink:#edf4f2;--muted:#a6bbbe;--line:#30464c;--sea:#a9ead7;font:15px/1.5 "Segoe UI",Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink)}.wrap{width:min(1240px,94%);margin:auto}header{background:#0d1d23;border-bottom:1px solid var(--line)}.bar,.section-head,.release-head,.label-row,.actions{display:flex;align-items:center;justify-content:space-between;gap:14px}.bar{padding:15px 0}.bar nav,.actions{display:flex;gap:16px;flex-wrap:wrap}.actions{justify-content:flex-start}.actions:empty{display:none}a{color:var(--sea);text-decoration:none}a:hover{text-decoration:underline}
+main{padding:28px 0 46px}h1,h2,h3,p{margin:0}h1{font-size:clamp(26px,4vw,38px);letter-spacing:-.04em}h2{font-size:22px;letter-spacing:-.025em;line-height:1.25}h3{font-size:15px}.kicker{color:var(--sea);font-size:11px;letter-spacing:.14em;font-weight:700}small,#summary,#feed-at,#release-status,#edit-caption,#checkpoint,#next{color:var(--muted)}.sync{display:grid;justify-items:end;gap:5px;text-align:right}.layout{margin:24px 0 18px;display:grid;grid-template-columns:minmax(210px,.73fr) minmax(0,2.25fr);gap:18px;align-items:start}.card,#episodes{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px;min-width:0}#episodes{padding:18px 10px}#episodes h2{font-size:16px;margin:0 8px 12px}#shelf{display:grid;gap:3px}.episode{text-align:left;width:100%;display:grid;grid-template-columns:44px 1fr;gap:2px 8px;align-items:baseline;border:1px solid transparent;background:transparent;padding:9px}.episode strong{grid-row:span 2;color:var(--sea);font-size:12px;font-variant-numeric:tabular-nums}.episode span{font-size:13px;line-height:1.35}.episode small{font-size:11px}.episode[aria-pressed=true]{background:#193a3a;border-color:#46706c}.release-head{align-items:start}.release-head h2{font-size:clamp(21px,2.5vw,31px);margin:6px 0}#art{width:32%;flex-shrink:0}#poster{width:100%;display:block;aspect-ratio:16/9;object-fit:cover;border-radius:5px}.actions{margin-top:15px}.actions a{font-size:13px}.label-row{margin:18px 0 5px}button,select,input,textarea{font:inherit;color:inherit}button,select{background:#182e34;border:1px solid #416068;border-radius:6px;padding:6px 11px;cursor:pointer;font-size:13px}button:hover{background:#25444a}.primary{background:var(--sea);color:#112a25;font-weight:650}.primary:hover{background:#d0fbed}button:disabled{opacity:.55}input,textarea{width:100%;padding:9px 11px;border-radius:6px;background:#0c1c22;border:1px solid var(--line);min-width:0}textarea{resize:vertical}input:focus,textarea:focus,button:focus-visible,a:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--sea);outline-offset:2px}label{font-size:13px;color:#c7dadb}#metrics,#tasks{margin-top:18px}.metric-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:18px 0}.metric-grid h3{margin-bottom:7px}#metric-episode{color:var(--sea)}#insight,#views,#results{font-size:14px}#views p{margin:3px 0}#insight{margin-top:8px}#results{overflow:auto}table{border-collapse:collapse;min-width:100%;font-variant-numeric:tabular-nums}td,th{text-align:left;padding:8px;white-space:nowrap;border-bottom:1px solid var(--line)}th{font-size:12px;color:var(--muted)}td:last-child{white-space:normal;min-width:90px;overflow-wrap:anywhere}details{margin-top:15px}summary{cursor:pointer;color:var(--sea);width:fit-content}form{padding-top:13px}form label{display:grid;gap:4px}.fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin:10px 0}.task{display:flex;align-items:baseline;justify-content:space-between;border-top:1px solid var(--line);padding:9px 0;gap:15px}.task small{flex-shrink:0}.done{color:var(--sea)}#next{margin:5px 0 14px}#saved:not(:empty),#kit-message:not(:empty),#connection:not(:empty){margin-top:8px;color:#f2d397}[hidden]{display:none!important}
+@media(max-width:780px){.layout{grid-template-columns:1fr}#shelf{display:flex;overflow-x:auto;padding-bottom:4px}.episode{min-width:130px;display:flex;flex-direction:column;gap:0}.episode span{display:none}#episodes{padding:10px}#episodes h2{margin-bottom:4px}.metric-grid{grid-template-columns:1fr}.card{padding:17px}.sync{justify-items:start;text-align:left}.section-head{flex-wrap:wrap}.release-head{flex-wrap:wrap}#art{width:min(230px,100%)}.bar{flex-wrap:wrap}.bar nav{font-size:13px}.task{font-size:13px}}
+
+.render-actions{display:inline-flex;flex-wrap:wrap;gap:6px}.render-actions button{font-size:12px;padding:6px 9px} #kit-message,#notice,#pipe-message{overflow-wrap:anywhere}
+
+.yt-shell{width:min(1100px,92%);margin-inline:auto}
+#manager-bar nav,.yt-heading,.yt-toolbar,.yt-report-head,.yt-notice,.yt-form-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+#manager-bar nav{padding:13px 0;font-size:14px}
+#manager-bar a:last-child{color:var(--muted)}
+#youtube{padding-block:26px 40px}
+.yt-heading h1{font-size:clamp(26px,3.4vw,36px);letter-spacing:-.035em;line-height:1.2}
+#youtube button,#youtube select{min-height:36px}
+#youtube select{max-width:100%;text-overflow:ellipsis}
+.yt-toolbar{border-bottom:1px solid var(--line);margin:18px 0;padding-bottom:14px}
+.yt-toolbar label,.yt-report-head label{display:inline-flex;align-items:center;gap:8px;min-width:0}
+#yt-channel{max-width:min(60vw,400px);font-weight:600}
+.yt-toolbar nav{display:flex;gap:3px;padding:3px;background:#0a1419;border:1px solid var(--line);border-radius:9px}
+.yt-toolbar nav button{border:0;background:transparent;color:var(--muted);font-weight:600;padding:5px 15px}
+.yt-toolbar nav button[aria-pressed=true]{background:#234247;color:#e5fbf4}
+.yt-notice{background:#153133;border:1px solid #345856;border-left:3px solid #88cfb3;border-radius:8px;padding:12px 17px;margin-bottom:14px}
+.yt-notice strong{font-size:15px}
+.yt-notice p,.yt-footnote,#yt-period{color:var(--muted);font-size:13px}
+.yt-notice .actions{margin:0;gap:8px}
+#yt-status:not(:empty){color:var(--sea);margin:8px 0 12px}
+.yt-report-head{margin-bottom:10px}
+.yt-kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:0 0 16px}
+.yt-kpis>div,.yt-box{background:var(--panel);border:1px solid var(--line);border-radius:10px;min-width:0}
+.yt-kpis>div{padding:14px 17px}
+.yt-kpis dt{color:#c7d7d7;font-size:14px;font-weight:600}
+.yt-kpis dd{margin:6px 0 0;font-size:clamp(25px,3.4vw,36px);font-weight:650;line-height:1.1;font-variant-numeric:tabular-nums}
+.yt-kpis>div:first-child dd{color:var(--sea)}
+.yt-kpis dd small{display:block;margin-top:8px;font-size:12px;font-weight:400;line-height:1.45}
+.yt-box{padding:17px 20px;margin:12px 0}
+.yt-box h2{font-size:19px;margin:0 0 3px}
+.yt-box p,.yt-box summary:only-child{margin:6px 0}
+.yt-box summary{font-weight:600}
+.yt-caption,.yt-footnote,#yt-connection-info{font-size:13px;color:var(--muted)}
+.yt-footnote{margin-top:14px}
+.yt-table{max-width:100%;overflow:auto;margin-top:10px}
+.yt-table table{width:100%;border-collapse:collapse}
+.yt-table th,.yt-table td{text-align:right;min-width:0;white-space:nowrap;font-variant-numeric:tabular-nums}
+.yt-table th:first-child,.yt-table td:first-child{text-align:left;white-space:normal;min-width:145px}
+.yt-table tr:last-child td{border-bottom:0}
+.yt-table .yt-views{display:block;height:3px;margin:5px 0 0 auto;border-radius:3px;background:#77bfaa;max-width:100%}
+#yt-setup li,#yt-notes li{margin:7px 0}
+#yt-setup code,#youtube pre{overflow-wrap:anywhere}
+#youtube pre{white-space:pre-wrap}
+#yt-settings details{padding:12px 0 0;border-top:1px solid var(--line)}
+.yt-form-row{justify-content:flex-start;margin-top:5px}
+#yt-email,#vidiq-key,#yt-client{max-width:min(100%,430px)}
+#vidiq-key,#yt-client{display:block;margin:6px 0}
+#vidiq-setup .actions{margin-top:8px}
+#yt-disconnect{color:#edb8ad;margin-top:20px}
+.yt-frame{display:block;width:100%;height:680px;border:0}
+#youtube.yt-frame-host{width:100%;padding:0}
+#youtube.yt-frame-host>:not(.yt-frame){display:none!important}
+.yt-embedded #manager-bar{display:none}
+@media(max-width:800px){.yt-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:540px){
+  .yt-shell{width:calc(100% - 28px)}
+  #youtube{padding-top:17px}
+  .yt-box{padding:13px}
+  .yt-kpis{gap:8px}
+  .yt-kpis>div{padding:11px}
+  .yt-toolbar{align-items:flex-start}
+  #yt-channel{max-width:65vw}
+  .yt-notice{align-items:flex-start;padding:12px}
+}

@@ -1,0 +1,31 @@
+{
+  "episode": "D007",
+  "scope": "Opening review",
+  "language": "en-US",
+  "field_photograph": {
+    "title": "Physonect siphonophore near Puerto Rico",
+    "expedition": "Exploring Puerto Rico’s Seamounts, Trenches, and Troughs, April 2015",
+    "credit": "NOAA Office of Ocean Exploration and Research",
+    "rights": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Physonect_siphonophore_Puerto_Rico_April_2015.png",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Physonect_siphonophore_Puerto_Rico_April_2015.png",
+    "presentation": "Original aspect ratio. Detail enlargement, annotations and guide lines by Abyss Fieldnotes."
+  },
+  "reconstruction": {
+    "source": "Abyss Fieldnotes Muse library, D002 M08, native v5",
+    "sha256": "01e00538a5e1b40bbd2cedcd5f72fda71074d95efac4a69fdb38e8b8f7c128fb",
+    "usage": "Opening motion reconstruction only. Not used to identify the species or infer animal measurements."
+  },
+  "anatomy": {
+    "credit": "Original Three.js physonect illustration, Abyss Fieldnotes",
+    "references": [
+      "https://www.mbari.org/animal/angler-siphonophore/",
+      "https://doi.org/10.1242/jeb.245955",
+      "https://doi.org/10.1038/ncomms9158"
+    ]
+  },
+  "audio": {
+    "voice": "Kokoro-82M, am_michael, US English",
+    "sound": "Original editorial music and tones by Abyss Fieldnotes"
+  }
+}

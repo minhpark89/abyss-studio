@@ -1,0 +1,27 @@
+{
+  "ended": true,
+  "rate": 1,
+  "seconds": 73.583008,
+  "wall_seconds": 74.31,
+  "total_frames": 1794,
+  "dropped": 3,
+  "sound_readings": 294,
+  "peak_rms_by_10s": [
+    0.24623078246787303,
+    0.22042443189454244,
+    0.22486511569500392,
+    0.22998027388338846,
+    0.2322623372240672,
+    0.2178617868768862,
+    0.26152621320205427,
+    0.1714244200709685
+  ],
+  "error": null,
+  "sha256": "d7cc81e59eb8689cb52c2751f66aee8a02a09788409fe38016d4aebce9c30306",
+  "review_url": "http://127.0.0.1:4320/production/episodes/D007/opening-v1/delivery/review.html",
+  "mobile_layout": true,
+  "chapter_seek": true,
+  "page_errors": [],
+  "audio_method": "Web Audio analyzer ahead of silent output gain",
+  "human_listening": "pending owner"
+}

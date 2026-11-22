@@ -1,0 +1,247 @@
+[
+  {
+    "path": "abyss-studio/production/episodes/D002/revision-v7/muse-native-v5/clips/M01.mp4",
+    "sha256": "2a8dca2983f97f0f7a4ea64ca3b031b315626c1cfa1a29e940201fc7739675f8",
+    "bytes": 3031367
+  },
+  {
+    "path": "abyss-studio/production/episodes/D002/revision-v7/muse-native-v5/clips/M08.mp4",
+    "sha256": "01e00538a5e1b40bbd2cedcd5f72fda71074d95efac4a69fdb38e8b8f7c128fb",
+    "bytes": 3017564
+  },
+  {
+    "path": "abyss-studio/production/episodes/D002/revision-v7/muse-native-v7/clips/M05.mp4",
+    "sha256": "7d18fbef3677c7a075aa457834c0dc7f62fec6a36da1f0918642c524aaf18202",
+    "bytes": 5021262
+  },
+  {
+    "path": "abyss-studio/production/episodes/D002/revision-v7/muse-native-v7/clips/M08.mp4",
+    "sha256": "d88f9085c4935cb5a89de296584bfd5ad00d2bbfb909b102340450d503ecea46",
+    "bytes": 5691168
+  },
+  {
+    "path": "abyss-studio/production/episodes/D002/revision-v7/muse-native-v8/clips/M08.mp4",
+    "sha256": "29e332fcca1823ecc4b4059cbd2d724d81a364757417e23f9700d7289e594435",
+    "bytes": 4046672
+  },
+  {
+    "path": "abyss-studio/production/episodes/D002/revision-v7/muse-native-v9/clips/M06.mp4",
+    "sha256": "37067cbc37c3076d09b5e747c6f99b490297e11bb50c71f682597994d0bf2f44",
+    "bytes": 4052282
+  },
+  {
+    "path": "abyss-studio/production/episodes/D007/full-v1/delivery/D007.mp4",
+    "sha256": "f060182866b9e21ab8487c659e8c96aa420eebb8b530b0c9bcaecf5ee24f0ba1",
+    "bytes": 579927017
+  },
+  {
+    "path": "abyss-studio/production/episodes/D007/full-v1/mix.wav",
+    "sha256": "03100438cf46e842bd76bffd84ef22f6581690e208bdecff41a88852aef8ee04",
+    "bytes": 69408044
+  },
+  {
+    "path": "abyss-studio/production/episodes/D007/full-v1/voice.wav",
+    "sha256": "472c99d9a68cabd4f5bb6cb23a558c2e4dadc14233a5b0e1caca8fe5bd55e944",
+    "bytes": 34704044
+  },
+  {
+    "path": "abyss-studio/production/episodes/D007/opening-v1/delivery/D007-opening.mp4",
+    "sha256": "d7cc81e59eb8689cb52c2751f66aee8a02a09788409fe38016d4aebce9c30306",
+    "bytes": 78094626
+  },
+  {
+    "path": "abyss-studio/production/episodes/D007/opening-v1/mix.wav",
+    "sha256": "42ed11bab529f7aeb3806d4d60da69b7dcb131ccecd71fde3cb8e49060593b6c",
+    "bytes": 10596044
+  },
+  {
+    "path": "abyss-studio/production/episodes/D007/opening-v1/voice.wav",
+    "sha256": "135939cbdb8b4b1bf317e10d86578fac2333cbb81dd5b4be09cd913f82816087",
+    "bytes": 5298044
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/delivery/The-Stolen-Label.mp4",
+    "sha256": "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686",
+    "bytes": 84512668
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/I01.mp4",
+    "sha256": "7215d44de7aebc4f1ecba399a7dbd8db6e33713e51eb8264294a54bff0353c46",
+    "bytes": 3813854
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/I03.mp4",
+    "sha256": "afe8b9cb5e447b0d235c82f90c5e9054d8aa3888875b16176b149d52cfc32685",
+    "bytes": 3362858
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/I05.mp4",
+    "sha256": "4f0a229f1e9e5c363a08ac6004afc4731673e817f6fa7d2698cd68965219e411",
+    "bytes": 2811337
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T01.mp4",
+    "sha256": "c110269d33f1c45da4d2f0a246cacc42a838f284c5ad5effa64ae52e39475cc6",
+    "bytes": 2635471
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T02.mp4",
+    "sha256": "373f982206eeba10622782fda968a535d7263f945428ccec24d2c0bf8e275310",
+    "bytes": 3318793
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T03.mp4",
+    "sha256": "010ef5f432011b57c7340ae3c7aa68615823c8f8c637e69057887f08979d3633",
+    "bytes": 2167642
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T04-r2.mp4",
+    "sha256": "e4fafea8815ee8dc35edfe629017641d88846fb04db16dc096b1822d7b390d75",
+    "bytes": 3759167
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T04.mp4",
+    "sha256": "fdda29373a14eaf10c6c7b4ced6298a74c37f356ede1b53d7fa53871939d01c0",
+    "bytes": 2966518
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T05.mp4",
+    "sha256": "7dfc109eeab142878c20582639125fa67eb9fff90ec89dfb543c7c5b65dbcfbb",
+    "bytes": 2715046
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T06-r2.mp4",
+    "sha256": "aa9b75649e655aef22094381125a18862595c52e904df42addf81ba08aa840a8",
+    "bytes": 2957492
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T06.mp4",
+    "sha256": "e23035f172845816a53e5a1212d2ca0b4acaffbc48c601d9e3e67bfecf7f3cb8",
+    "bytes": 2760046
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T07-r2.mp4",
+    "sha256": "7234c418d4f06728c87c4b5a7c5463e7666fe8ee1b4bffb00dce203ebc68c0ce",
+    "bytes": 3111948
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T07.mp4",
+    "sha256": "c49d9661ed1ed56591b38323ec8922805adf9b994bd6d21c4666b74bfe77b361",
+    "bytes": 2989039
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T08.mp4",
+    "sha256": "282cb30f4648bc6b01ce5a11f1277821a9d4c57e310da1092e0d9e9e41b45dd1",
+    "bytes": 2479029
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T09.mp4",
+    "sha256": "edbddfef13cf5a2d037369c0f55eb182fe9d3f3942bddf504447032fff510131",
+    "bytes": 2340461
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T10.mp4",
+    "sha256": "e0156b03aa9219723ceb59659c87374221178ec768bed7acecd3027824fe810e",
+    "bytes": 2948956
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T11-r2.mp4",
+    "sha256": "58617a77a9ce5315cd4792055b366ef7e64589c81af10bd797ca1cf30d7d0aba",
+    "bytes": 2310730
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T11.mp4",
+    "sha256": "98ef0d025931dd930f0f6da8e2985ff318800bc6412431710c4fc6cbdc64c5f5",
+    "bytes": 2466631
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T12.mp4",
+    "sha256": "628299c62a35174fb479db7fc87041c05686e15f9c8afdd74c19e8dd745f9b38",
+    "bytes": 2386188
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T13.mp4",
+    "sha256": "ce99af9001edab004140a10821abde9aa6196e165b07f4ca44fa1ccd03f324fc",
+    "bytes": 3063550
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T14.mp4",
+    "sha256": "e797167efe62c90c579760af52d87142723e9bb06553af2e38f1441b6cf7861c",
+    "bytes": 2443187
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T15.mp4",
+    "sha256": "da06a9603488faa7bfc2e7e8fcb47825e169208dff8ccb9e6ca7d51199d7f1d7",
+    "bytes": 2762129
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T16.mp4",
+    "sha256": "1f36ccab74fdd8299ffc9b14575f8f1d2a955124868074510b678257d7dad61d",
+    "bytes": 3288289
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T17.mp4",
+    "sha256": "77aa849fc20c7f4970d99af56fb2e855984d84c6a79c9adba2c4f9011237a712",
+    "bytes": 2570947
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T18.mp4",
+    "sha256": "a35270127050b8ed4d3d24b71b418fa48b8840e5bdb388392ec2270b011536ba",
+    "bytes": 2450109
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T19.mp4",
+    "sha256": "1cf93af0b984669bd87aa5b00025b5c1ff1f9ef6c388d8e79bb16429ad7a844e",
+    "bytes": 2465929
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T20.mp4",
+    "sha256": "cc4ad53622b6bdc119ee00e661ba1c6851d4d2b2bb93057183e5f55fb42dc9a9",
+    "bytes": 2640355
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T21.mp4",
+    "sha256": "e6a6c14be5edf3017e1b7e2a9244689c2bbbda33ab5b112579cb4dd9ff844bab",
+    "bytes": 2825717
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T22.mp4",
+    "sha256": "3fcd26344299160dcd2f26b7f102ff44083848a29d62fc251bc70f519f6d3dc2",
+    "bytes": 2603019
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T23.mp4",
+    "sha256": "3d959969f7e997091e7844151fb968d4180d867f5db5afd7a1d4d11c09473928",
+    "bytes": 2556298
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T24-r2.mp4",
+    "sha256": "1e39f200180bb5d27bed4d7c980cef5c11fada269ca557c0c21f74783420e319",
+    "bytes": 3217164
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T24.mp4",
+    "sha256": "9f97586846874f3ff2ed55727da092dab45f0f65742f756d6c1f762e1f55a706",
+    "bytes": 2482615
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T25.mp4",
+    "sha256": "f0403dba1fee16a57b7fddb4cc6ff33c47c97be34e46721c9119fc8f5acd5889",
+    "bytes": 3080256
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T26.mp4",
+    "sha256": "77758a22fd1fba36c91c828fb96d88dc42f5457c6772d8d725a5cb4345332ef4",
+    "bytes": 3057357
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T27-r2.mp4",
+    "sha256": "8f2f7cacbe4a756108a1495351ae2a37626601b8f8303edaa121b3763398d128",
+    "bytes": 2507978
+  },
+  {
+    "path": "abyss-studio/production/episodes/SB09/takes/T27-r3.mp4",
+    "sha256": "34307d5da916ec6f24f131d485b84d0d34b9776a1db039fc0cca6f3969969b18",
+    "bytes": 3697321
+  }
+]

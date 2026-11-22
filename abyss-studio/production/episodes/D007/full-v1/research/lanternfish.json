@@ -1,0 +1,15 @@
+{
+  "species": "Myctophum punctatum",
+  "occurrence": 6235768722,
+  "image": {
+    "type": "StillImage",
+    "format": "image/jpeg",
+    "references": "https://www.inaturalist.org/photos/640582119",
+    "created": "2026-04-19T05:19:50.000+00:00",
+    "creator": "Julien Savoie",
+    "publisher": "iNaturalist",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "rightsHolder": "Julien Savoie",
+    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/640582119/original.jpg"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "episode": "D007",
+  "scope": "Opening review",
+  "master_sha256": "d7cc81e59eb8689cb52c2751f66aee8a02a09788409fe38016d4aebce9c30306",
+  "checked": [
+    "Revised the camera framing and shortened titles after the first still pass to give the top of the colony clear space.",
+    "Inspected encoded midpoints and both sides of each cut, reconstruction label, field card, magnifier, return to the same annotated NOAA photograph, and bottom English captions.",
+    "Source and encoded speech correlated at each paragraph, with no measured lag. All 1,766 video timestamps conform to 24 fps.",
+    "Independent ASR on the MP4 agrees with the script except for the technical terms siphonophore, zooids and zooid. Spelling on screen and in the supplied captions matches the script."
+  ],
+  "visual_evidence": [
+    "encoded-scenes.jpg",
+    "encoded-transitions-0.jpg",
+    "encoded-photo-cards.jpg"
+  ],
+  "audio_evidence": [
+    "master.json",
+    "alignment.json",
+    "synchrony.json",
+    "asr/audit.json",
+    "player.json"
+  ],
+  "owner_style_and_listening": "pending"
+}

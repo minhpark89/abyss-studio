@@ -1,0 +1,1 @@
+Đọc checkpoint Abyss Fieldnotes và brief của đúng tập. Dùng cảnh Muse động cho hành vi quan sát được. Phần cắt lớp 2D dựng bằng mã, bề mặt tràn hai mép sau camera, đủ ba lớp và leader bám chủ thể. Kiểm chữ en-US và frame đã mã hóa ở mỗi điểm nối theo AGENTS.md của workspace.

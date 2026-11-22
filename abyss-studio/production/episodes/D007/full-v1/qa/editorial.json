@@ -1,0 +1,30 @@
+{
+  "episode": "D007",
+  "scope": "full episode",
+  "master_sha256": "f060182866b9e21ab8487c659e8c96aa420eebb8b530b0c9bcaecf5ee24f0ba1",
+  "picture": "Viewed 68 encoded scene midpoints, all six in/out contact sheets, evidence cards and thumbnails at phone size. All 1766 approved opening frames decoded identically.",
+  "audio": "First 2 seconds of narration in each of 28 paragraphs correlated with AAC; see synchrony.json. Integrated -16.35 LUFS, -1.57 dBTP.",
+  "muse": {
+    "opening": "D002 M08 v5",
+    "additional_footage": "Five distinct Muse takes from the D002 production library. Sources and checksums are in web/plates.json.",
+    "fresh_jobs": [
+      {
+        "shot": "school",
+        "id": "task_02da2267f1f6a6b140b6",
+        "state": "failed_502"
+      },
+      {
+        "shot": "swim",
+        "id": "task_4de7f335bf0af9402f48",
+        "state": "failed_502"
+      },
+      {
+        "shot": "luretip",
+        "id": "task_2e111261c1eedd3160d9",
+        "state": "failed_502"
+      }
+    ]
+  },
+  "asr": "Independent recognition of the encoded English mix found 99.03% sequence similarity to the written narration. Differences include scientific names. The detailed comparison is in asr/audit.json.",
+  "owner_review": "Opening approved. Full aesthetic and listening review pending."
+}

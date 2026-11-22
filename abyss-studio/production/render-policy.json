@@ -1,0 +1,40 @@
+{
+  "version": 3,
+  "updated_on": "2026-11-14",
+  "default_export": "production_clean",
+  "primary_visual_strategy": "function_led_2d_explanation_muse_context_evidence_separate",
+  "user_explicitly_requested_2d": true,
+  "technical_footer": false,
+  "debug_hud": false,
+  "progress_bar": false,
+  "forbidden_burned_in_labels": [
+    "2D illustration",
+    "AI reconstruction",
+    "Light paths simplified"
+  ],
+  "keep_story_text": [
+    "questions",
+    "numbers",
+    "species",
+    "meaningful_evidence_labels"
+  ],
+  "scientific_qualifiers": "preserve in narration and relevant story beats",
+  "provenance_location": "delivery metadata and description",
+  "production_reference": "production/episodes/D001/hybrid-form-v1/plan.json",
+  "full_articulated_rig_status": "not_yet_implemented",
+  "long_form_daily_capacity_status": "not_measured",
+  "latest_comparison_scope": "function_and_sound_sync_trial",
+  "full_frame_required": true,
+  "output_target": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "local_mesh_rig_status": "implemented_and_sampled_in_v6",
+  "analysis_reference": "production/REFERENCE_FUNCTION_LED_ANALYSIS.md",
+  "muse_assets_preserved": true,
+  "function_led_runner": "scripts/hybrid_pipeline.py",
+  "forced_muse_percentage": null,
+  "shared_picture_text_sound_events": true,
+  "technical_qa_is_not_style_acceptance": true
+}

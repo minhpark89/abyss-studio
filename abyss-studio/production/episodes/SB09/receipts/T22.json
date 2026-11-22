@@ -1,0 +1,11 @@
+{
+  "shot": "T22",
+  "take": "T22",
+  "receipt_id": "25ca0445-c910-5b60-be90-4ac7605b55cc",
+  "task_id": "task_61c8ed29da313357e833",
+  "status": "completed",
+  "media_sha256": "3fcd26344299160dcd2f26b7f102ff44083848a29d62fc251bc70f519f6d3dc2",
+  "bytes": 2603019,
+  "reference_sha256": "b6ace341033eb43e2e8a09fbb87dee9dc041e731675f25cf50ced6ac7f13ba5a",
+  "prompt_sha256": "9ef90fa7538e14857efbbbb85dc3d9db8fc40c2659672e01d78d05a7395bfe5f"
+}

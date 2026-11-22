@@ -1,0 +1,23 @@
+{
+  "fps": 24,
+  "aspect_ratio": "16:9",
+  "language": "en-US",
+  "modules": [
+    "muse_bridge",
+    "audio_cleaner",
+    "assembler",
+    "vision_qa",
+    "dashboard_4320"
+  ],
+  "cleaner": {
+    "head_seconds": 0.3,
+    "tail_seconds": 0.8
+  },
+  "delivery": "local_review",
+  "id": "hybrid-explainer",
+  "name": "Hybrid explainer",
+  "channel": "abyss-fieldnotes",
+  "rules": [
+    "visual_layout.md"
+  ]
+}

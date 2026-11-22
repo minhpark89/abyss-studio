@@ -1,0 +1,17 @@
+# SB09 · The Stolen Label
+
+Production folder for the original 180 s test. `story.json`, `shots.json` and `direction.json` passed the pinned CN storyboard and director plan. All production footage is acquired by the existing background Muse API. The automatic two-worker acquisition supervisor updates `qa/production-progress.json` and decodes six time-labelled frames from every verified take to `qa/rushes/Tnn.jpg`. Every `takes/Tnn.mp4` has a receipt in `receipts/`.
+
+## Edit
+
+Shot order is T01–T27. The cards specify individual target durations and speakers. Original framing calls for 23 shared-frame shots out of 27. The final edit must count genuine shared frames independently within each confrontation. The first twenty-five seconds cover the physical humiliation. At 25 s the label is torn off. Gavin claims authorship and tries to remove the evidence. Alma first names a gold crane (T15); Nina reveals it herself (T16). Physical proof lands around 1:45. Gavin tries a bribe and finally threatens his victim again. Keep his public dismissal (T23) at or after 2:24, badge surrender (T24) before folder transfer (T25), precise callback (T26) after the transfer, and finish on Alma (T27). Target 2:26 for the dismissal. T01 and T26 lines are both exactly “Know your place.”
+
+* T01 native speech recognizer found the full line at 2.83–3.71 s. Its real two-shot supplies both Alma and Gavin's wardrobe/face anchors from the same original frame 48.
+* T08 supplies Nina's anchor, from native frame 16. All references have source hashes, frame indexes and crop provenance in `refs/*.json`.
+* T11 source is a genuine Nina/Gavin two-shot. The garment is flat on the table during the question; cut to the speaker or a tighter shared crop if the immediately adjoining shot has it standing.
+* T16 **does show the proof**. I checked native frames at 4, 6 and 8 seconds. Nina in navy turns back the blue lapel at about 4–6 s and reveals an unmistakable large golden crane embroidered on a cream lining. **Native audio contains unrequested dialogue.** Mute it completely (this is a planned silent shot). Use a 16:9 punch-in over the coat and hands that keeps her speaking mouth outside the frame. Her shoulder and cuffs make the hand attribution visible. Review the actual crop in the encoded output.
+* Every take has a ten-second source containing 240 frames at 24 fps when verified. The last **20 frames** are excluded for a minimum 0.8 s safety trim. After trimming, 27 completed sources would provide 247.5 s; the master requires 180 s of actually reviewed material. Current actual completion and any failed jobs are reported live, never inferred from the board.
+* T16's tested crop in the native 1280×720 frame is `crop=704:396:0:235`. At source frames 54, 96, 128, 144, 168, and 192 the actual hand, navy cuff, turning lapel and opening gold crane fill the screen. See `qa/T16-proof-punch-in.jpg`. Start at source 2.25 s and retain the reveal at 5.3–6.0 s, avoiding her inlet dialogue by muting the native track.
+* Timing and transcript of each developing take: `qa/words/Tnn.json`. There is no dialogue on T04, T07, T16, T24, T27. Mute original sound for all five. Any unplanned visible mouth movement needs a cutaway or crop. Do not use ASR alone to approve speaker identity.
+
+Compare with the verified local source of zD1HqtG9Og0 using `qa/reference-spec.json`. The benchmark clip and its shot structure are for analysis only. The new test uses an original atelier, three independent roles, and a visible object test. No external channel footage or sound is used.

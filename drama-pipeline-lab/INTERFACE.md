@@ -1,0 +1,7 @@
+# Giao diện với thư mục tập
+
+- `story.json` ghi `title`, `stakes`, `choice`, `consequence`, `assets` (mỗi mục có `id, kind, anchor`), `initial_state` và danh sách `beats`. Mỗi beat có `id, cause, action, effect, requires, changes, shots`. Beat đầu có `cause: null`, các beat tiếp theo chỉ đến beat trước có tác động. `requires` và `changes` là các cặp thuộc tính/giá trị của tình huống. `shots` liệt kê mã take theo thứ tự chiếu.
+- `shots.json` là danh sách thẻ có `id, scene, cast, action, framing`. Ghi động cơ của điểm cắt trong `cut_reason` hoặc `transition_reason` ngay trên thẻ, hoặc trong bảng `cut_reasons` của story, khóa theo shot. Ghi lý do nhấn/chậm trong `slow_motion_reason` khi kéo dài cảnh. Có thể đặt `duration_seconds` cho từng thẻ.
+- `edit.json` có `fps, master, cuts`. Mỗi cut có `shot, source, source_in, source_out, start_frame, end_frame`; tất cả là số khung, điểm ra loại trừ. Cũng nhận định dạng Studio `shots[].id, source, in_frame, out_frame`, tự cộng số khung theo thứ tự khi không có start/end. Khai báo rõ thời lượng đích của hiệu ứng nếu đổi tốc độ.
+- `receipts/<tên-take>.json` cần khớp shot, mã tác vụ Muse, trạng thái hoàn tất và SHA-256 của MP4 trong `takes/`. Nếu dùng ảnh khóa nhân vật, giữ nguyên ảnh trong `refs/` và hash trên biên nhận.
+- `review` kiểm bản mã hóa, tách khung đầu/cuối mỗi cut và đọc lại từ SQLite. Kết quả kỹ thuật và bằng chứng được lưu trong `qa/drama-pipeline/`. Nhận xét về diễn xuất, khẩu hình và độ cuốn của phim cần người xem xác nhận.

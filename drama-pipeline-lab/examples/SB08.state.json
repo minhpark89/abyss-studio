@@ -1,0 +1,80 @@
+{
+  "applies_to_title": "The Missing Minute",
+  "initial_state": {
+    "admission": "waiting",
+    "witness": "silent",
+    "claim": "unheard",
+    "answer": "unknown",
+    "offer": "none",
+    "hearing": "scheduled"
+  },
+  "beats": {
+    "B01": {
+      "parent": null,
+      "requires": {
+        "admission": "waiting"
+      },
+      "changes": {
+        "admission": "closed",
+        "claim": "disputed"
+      }
+    },
+    "B02": {
+      "parent": "B01",
+      "requires": {
+        "admission": "closed",
+        "claim": "disputed",
+        "witness": "silent"
+      },
+      "changes": {
+        "witness": "on_record",
+        "claim": "heard_before_bell"
+      }
+    },
+    "B03": {
+      "parent": "B02",
+      "requires": {
+        "witness": "on_record",
+        "claim": "heard_before_bell",
+        "answer": "unknown"
+      },
+      "changes": {
+        "answer": "test_agreed"
+      }
+    },
+    "B04": {
+      "parent": "B03",
+      "requires": {
+        "answer": "test_agreed",
+        "admission": "closed"
+      },
+      "changes": {
+        "answer": "recognized"
+      }
+    },
+    "B05": {
+      "parent": "B04",
+      "requires": {
+        "answer": "recognized",
+        "offer": "none",
+        "hearing": "scheduled"
+      },
+      "changes": {
+        "offer": "one_place",
+        "admission": "exception"
+      }
+    },
+    "B06": {
+      "parent": "B05",
+      "requires": {
+        "offer": "one_place",
+        "admission": "exception"
+      },
+      "changes": {
+        "offer": "forfeited",
+        "hearing": "everyone_who_waited",
+        "admission": "open"
+      }
+    }
+  }
+}

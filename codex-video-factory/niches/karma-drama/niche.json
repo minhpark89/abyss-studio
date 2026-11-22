@@ -1,0 +1,58 @@
+{
+  "fps": 24,
+  "aspect_ratio": "16:9",
+  "language": "en-US",
+  "modules": [
+    "muse_bridge",
+    "audio_cleaner",
+    "audio_engine",
+    "assembler",
+    "vision_qa",
+    "dashboard_4320"
+  ],
+  "cleaner": {
+    "head_seconds": 0.3,
+    "tail_seconds": 0.8
+  },
+  "delivery": "local_review",
+  "id": "karma-drama",
+  "name": "Karma drama",
+  "channel": "second-bell",
+  "median_shot_seconds": [
+    1.8,
+    2.2
+  ],
+  "shot_mix_percent": {
+    "wide": 15,
+    "two_shot_ots": 30,
+    "close_up_180": 35,
+    "action_insert": 20
+  },
+  "rules": [
+    "beat_sheet.md",
+    "camera_rules.md"
+  ],
+  "drama_gates": {
+    "version": 2,
+    "confrontation_shared_shot_min_fraction": 0.3,
+    "earliest_villain_concession": 0.8,
+    "unmotivated_pause_max_seconds": 0.8,
+    "twist_drop_seconds": 0.5,
+    "final_fade_seconds": 0.5,
+    "three_minute_stakes_windows_seconds": [
+      [
+        0,
+        25
+      ],
+      [
+        25,
+        105
+      ],
+      [
+        105,
+        180
+      ]
+    ],
+    "loudness_lufs": -14
+  }
+}

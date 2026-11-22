@@ -1,0 +1,7016 @@
+{
+  "method": "Wav2Vec2 English forced alignment to final offline narrator PCM",
+  "segments": [
+    {
+      "id": "trace",
+      "words": [
+        {
+          "word": "Take",
+          "start": 0.52,
+          "end": 0.741,
+          "score": 0.791
+        },
+        {
+          "word": "that",
+          "start": 0.801,
+          "end": 0.961,
+          "score": 0.809
+        },
+        {
+          "word": "curve",
+          "start": 1.061,
+          "end": 1.3210000000000002,
+          "score": 0.868
+        },
+        {
+          "word": "in",
+          "start": 1.3610000000000002,
+          "end": 1.4209999999999998,
+          "score": 0.97
+        },
+        {
+          "word": "the",
+          "start": 1.4409999999999998,
+          "end": 1.521,
+          "score": 0.832
+        },
+        {
+          "word": "photograph",
+          "start": 1.561,
+          "end": 2.142,
+          "score": 0.794
+        },
+        {
+          "word": "and",
+          "start": 2.5220000000000002,
+          "end": 2.622,
+          "score": 0.827
+        },
+        {
+          "word": "straighten",
+          "start": 2.702,
+          "end": 3.123,
+          "score": 0.832
+        },
+        {
+          "word": "it",
+          "start": 3.1430000000000002,
+          "end": 3.2030000000000003,
+          "score": 0.75
+        },
+        {
+          "word": "in",
+          "start": 3.263,
+          "end": 3.303,
+          "score": 0.999
+        },
+        {
+          "word": "your",
+          "start": 3.343,
+          "end": 3.483,
+          "score": 0.846
+        },
+        {
+          "word": "mind.",
+          "start": 3.523,
+          "end": 3.884,
+          "score": 0.876
+        },
+        {
+          "word": "You",
+          "start": 4.905,
+          "end": 5.005,
+          "score": 0.977
+        },
+        {
+          "word": "could",
+          "start": 5.045,
+          "end": 5.1850000000000005,
+          "score": 0.889
+        },
+        {
+          "word": "travel",
+          "start": 5.2250000000000005,
+          "end": 5.585,
+          "score": 0.81
+        },
+        {
+          "word": "from",
+          "start": 5.625,
+          "end": 5.745,
+          "score": 0.846
+        },
+        {
+          "word": "the",
+          "start": 5.785,
+          "end": 5.865,
+          "score": 0.833
+        },
+        {
+          "word": "clear",
+          "start": 5.926,
+          "end": 6.226,
+          "score": 0.671
+        },
+        {
+          "word": "end",
+          "start": 6.386,
+          "end": 6.546,
+          "score": 0.803
+        },
+        {
+          "word": "to",
+          "start": 6.606,
+          "end": 6.686,
+          "score": 0.999
+        },
+        {
+          "word": "the",
+          "start": 6.726,
+          "end": 6.7860000000000005,
+          "score": 1.0
+        },
+        {
+          "word": "pink",
+          "start": 6.8260000000000005,
+          "end": 7.067,
+          "score": 0.903
+        },
+        {
+          "word": "end",
+          "start": 7.187,
+          "end": 7.3870000000000005,
+          "score": 0.826
+        },
+        {
+          "word": "without",
+          "start": 7.847,
+          "end": 8.148,
+          "score": 0.805
+        },
+        {
+          "word": "ever",
+          "start": 8.287999999999998,
+          "end": 8.468,
+          "score": 0.767
+        },
+        {
+          "word": "crossing",
+          "start": 8.568,
+          "end": 9.008,
+          "score": 0.762
+        },
+        {
+          "word": "open",
+          "start": 9.149,
+          "end": 9.408999999999999,
+          "score": 0.896
+        },
+        {
+          "word": "water.",
+          "start": 9.469,
+          "end": 9.809,
+          "score": 0.904
+        },
+        {
+          "word": "That",
+          "start": 10.85,
+          "end": 11.049999999999999,
+          "score": 0.788
+        },
+        {
+          "word": "connection",
+          "start": 11.11,
+          "end": 11.610999999999999,
+          "score": 0.853
+        },
+        {
+          "word": "matters.",
+          "start": 11.690999999999999,
+          "end": 12.091,
+          "score": 0.924
+        },
+        {
+          "word": "A",
+          "start": 13.112,
+          "end": 13.171999999999999,
+          "score": 0.64
+        },
+        {
+          "word": "school",
+          "start": 13.212,
+          "end": 13.472999999999999,
+          "score": 0.815
+        },
+        {
+          "word": "of",
+          "start": 13.513,
+          "end": 13.572999999999999,
+          "score": 0.75
+        },
+        {
+          "word": "fish",
+          "start": 13.633,
+          "end": 13.892999999999999,
+          "score": 0.844
+        },
+        {
+          "word": "can",
+          "start": 13.912999999999998,
+          "end": 14.033,
+          "score": 0.999
+        },
+        {
+          "word": "make",
+          "start": 14.072999999999999,
+          "end": 14.213,
+          "score": 0.853
+        },
+        {
+          "word": "one",
+          "start": 14.334,
+          "end": 14.453999999999999,
+          "score": 0.762
+        },
+        {
+          "word": "shape,",
+          "start": 14.494,
+          "end": 14.793999999999999,
+          "score": 0.796
+        },
+        {
+          "word": "too.",
+          "start": 14.873999999999999,
+          "end": 15.113999999999999,
+          "score": 0.954
+        },
+        {
+          "word": "When",
+          "start": 16.115,
+          "end": 16.235,
+          "score": 0.891
+        },
+        {
+          "word": "the",
+          "start": 16.255000000000003,
+          "end": 16.335,
+          "score": 0.832
+        },
+        {
+          "word": "school",
+          "start": 16.375,
+          "end": 16.656000000000002,
+          "score": 0.751
+        },
+        {
+          "word": "splits,",
+          "start": 16.696,
+          "end": 17.116,
+          "score": 0.852
+        },
+        {
+          "word": "each",
+          "start": 17.597,
+          "end": 17.777,
+          "score": 0.756
+        },
+        {
+          "word": "fish",
+          "start": 17.857,
+          "end": 18.117,
+          "score": 0.708
+        },
+        {
+          "word": "takes",
+          "start": 18.177,
+          "end": 18.397000000000002,
+          "score": 0.799
+        },
+        {
+          "word": "its",
+          "start": 18.457,
+          "end": 18.558,
+          "score": 0.844
+        },
+        {
+          "word": "own",
+          "start": 18.698,
+          "end": 18.838,
+          "score": 0.78
+        },
+        {
+          "word": "engine",
+          "start": 18.978,
+          "end": 19.318,
+          "score": 0.853
+        },
+        {
+          "word": "and",
+          "start": 19.398,
+          "end": 19.478,
+          "score": 0.959
+        },
+        {
+          "word": "its",
+          "start": 19.518,
+          "end": 19.639,
+          "score": 0.697
+        },
+        {
+          "word": "own",
+          "start": 19.739,
+          "end": 19.879,
+          "score": 0.838
+        },
+        {
+          "word": "mouth",
+          "start": 19.939,
+          "end": 20.199,
+          "score": 0.807
+        },
+        {
+          "word": "with",
+          "start": 20.239,
+          "end": 20.399,
+          "score": 0.759
+        },
+        {
+          "word": "it.",
+          "start": 20.459,
+          "end": 20.519000000000002,
+          "score": 0.933
+        }
+      ]
+    },
+    {
+      "id": "bud",
+      "words": [
+        {
+          "word": "A",
+          "start": 21.94,
+          "end": 21.98,
+          "score": 0.864
+        },
+        {
+          "word": "siphonophore",
+          "start": 22.04,
+          "end": 22.761,
+          "score": 0.665
+        },
+        {
+          "word": "starts",
+          "start": 22.801,
+          "end": 23.101,
+          "score": 0.831
+        },
+        {
+          "word": "small,",
+          "start": 23.161,
+          "end": 23.561,
+          "score": 0.925
+        },
+        {
+          "word": "from",
+          "start": 23.921,
+          "end": 24.061,
+          "score": 0.713
+        },
+        {
+          "word": "a",
+          "start": 24.101,
+          "end": 24.121,
+          "score": 0.999
+        },
+        {
+          "word": "single",
+          "start": 24.201,
+          "end": 24.541,
+          "score": 0.805
+        },
+        {
+          "word": "fertilized",
+          "start": 24.621,
+          "end": 25.201999999999998,
+          "score": 0.843
+        },
+        {
+          "word": "egg.",
+          "start": 25.382,
+          "end": 25.562,
+          "score": 0.992
+        },
+        {
+          "word": "As",
+          "start": 26.602,
+          "end": 26.682000000000002,
+          "score": 0.742
+        },
+        {
+          "word": "it",
+          "start": 26.742,
+          "end": 26.802,
+          "score": 0.751
+        },
+        {
+          "word": "grows,",
+          "start": 26.842,
+          "end": 27.262,
+          "score": 0.805
+        },
+        {
+          "word": "new",
+          "start": 27.723,
+          "end": 27.903,
+          "score": 0.828
+        },
+        {
+          "word": "individuals",
+          "start": 28.003,
+          "end": 28.543,
+          "score": 0.781
+        },
+        {
+          "word": "bud",
+          "start": 28.603,
+          "end": 28.863,
+          "score": 0.949
+        },
+        {
+          "word": "from",
+          "start": 28.903,
+          "end": 29.063,
+          "score": 0.633
+        },
+        {
+          "word": "tissue",
+          "start": 29.143,
+          "end": 29.503,
+          "score": 0.844
+        },
+        {
+          "word": "that's",
+          "start": 29.563000000000002,
+          "end": 29.784,
+          "score": 0.883
+        },
+        {
+          "word": "already",
+          "start": 29.904,
+          "end": 30.183999999999997,
+          "score": 0.9
+        },
+        {
+          "word": "there.",
+          "start": 30.224,
+          "end": 30.503999999999998,
+          "score": 0.907
+        },
+        {
+          "word": "They",
+          "start": 31.524,
+          "end": 31.664,
+          "score": 0.878
+        },
+        {
+          "word": "keep",
+          "start": 31.704,
+          "end": 31.924,
+          "score": 0.793
+        },
+        {
+          "word": "the",
+          "start": 31.965,
+          "end": 32.045,
+          "score": 0.85
+        },
+        {
+          "word": "connection.",
+          "start": 32.085,
+          "end": 32.625,
+          "score": 0.897
+        },
+        {
+          "word": "Imagine",
+          "start": 33.644999999999996,
+          "end": 34.105000000000004,
+          "score": 0.882
+        },
+        {
+          "word": "drawing",
+          "start": 34.144999999999996,
+          "end": 34.426,
+          "score": 0.928
+        },
+        {
+          "word": "its",
+          "start": 34.466,
+          "end": 34.586,
+          "score": 0.619
+        },
+        {
+          "word": "family",
+          "start": 34.666,
+          "end": 35.046,
+          "score": 0.926
+        },
+        {
+          "word": "tree",
+          "start": 35.146,
+          "end": 35.426,
+          "score": 0.834
+        },
+        {
+          "word": "on",
+          "start": 35.606,
+          "end": 35.686,
+          "score": 0.834
+        },
+        {
+          "word": "transparent",
+          "start": 35.766,
+          "end": 36.366,
+          "score": 0.782
+        },
+        {
+          "word": "paper,",
+          "start": 36.406,
+          "end": 36.766999999999996,
+          "score": 0.952
+        },
+        {
+          "word": "then",
+          "start": 37.247,
+          "end": 37.407,
+          "score": 0.912
+        },
+        {
+          "word": "laying",
+          "start": 37.487,
+          "end": 37.827,
+          "score": 0.865
+        },
+        {
+          "word": "the",
+          "start": 37.867000000000004,
+          "end": 37.967,
+          "score": 0.833
+        },
+        {
+          "word": "drawing",
+          "start": 38.027,
+          "end": 38.447,
+          "score": 0.819
+        },
+        {
+          "word": "over",
+          "start": 38.527,
+          "end": 38.687,
+          "score": 0.776
+        },
+        {
+          "word": "the",
+          "start": 38.707,
+          "end": 38.787,
+          "score": 0.839
+        },
+        {
+          "word": "living",
+          "start": 38.827,
+          "end": 39.108000000000004,
+          "score": 0.908
+        },
+        {
+          "word": "animal.",
+          "start": 39.308,
+          "end": 39.608000000000004,
+          "score": 0.903
+        },
+        {
+          "word": "In",
+          "start": 40.647999999999996,
+          "end": 40.748000000000005,
+          "score": 0.75
+        },
+        {
+          "word": "places,",
+          "start": 40.788,
+          "end": 41.248000000000005,
+          "score": 0.814
+        },
+        {
+          "word": "the",
+          "start": 41.649,
+          "end": 41.748999999999995,
+          "score": 0.833
+        },
+        {
+          "word": "family",
+          "start": 41.789,
+          "end": 42.209,
+          "score": 0.807
+        },
+        {
+          "word": "tree",
+          "start": 42.289,
+          "end": 42.528999999999996,
+          "score": 0.857
+        },
+        {
+          "word": "would",
+          "start": 42.589,
+          "end": 42.729,
+          "score": 0.896
+        },
+        {
+          "word": "still",
+          "start": 42.769,
+          "end": 43.009,
+          "score": 0.751
+        },
+        {
+          "word": "be",
+          "start": 43.049,
+          "end": 43.169,
+          "score": 0.832
+        },
+        {
+          "word": "physically",
+          "start": 43.248999999999995,
+          "end": 43.69,
+          "score": 0.742
+        },
+        {
+          "word": "joined.",
+          "start": 43.75,
+          "end": 44.17,
+          "score": 0.812
+        }
+      ]
+    },
+    {
+      "id": "shared",
+      "words": [
+        {
+          "word": "In",
+          "start": 45.550000000000004,
+          "end": 45.63,
+          "score": 0.839
+        },
+        {
+          "word": "the",
+          "start": 45.650000000000006,
+          "end": 45.730000000000004,
+          "score": 0.993
+        },
+        {
+          "word": "swimming",
+          "start": 45.81,
+          "end": 46.211000000000006,
+          "score": 0.772
+        },
+        {
+          "word": "region,",
+          "start": 46.291000000000004,
+          "end": 46.671,
+          "score": 0.845
+        },
+        {
+          "word": "one",
+          "start": 47.151,
+          "end": 47.231,
+          "score": 0.838
+        },
+        {
+          "word": "of",
+          "start": 47.251000000000005,
+          "end": 47.311,
+          "score": 0.75
+        },
+        {
+          "word": "those",
+          "start": 47.351,
+          "end": 47.591,
+          "score": 0.709
+        },
+        {
+          "word": "individuals",
+          "start": 47.671,
+          "end": 48.292,
+          "score": 0.851
+        },
+        {
+          "word": "becomes",
+          "start": 48.372,
+          "end": 48.752,
+          "score": 0.777
+        },
+        {
+          "word": "a",
+          "start": 48.812000000000005,
+          "end": 48.852000000000004,
+          "score": 0.5
+        },
+        {
+          "word": "bell.",
+          "start": 48.912000000000006,
+          "end": 49.232,
+          "score": 0.993
+        },
+        {
+          "word": "It",
+          "start": 50.253,
+          "end": 50.313,
+          "score": 0.825
+        },
+        {
+          "word": "can",
+          "start": 50.333000000000006,
+          "end": 50.473,
+          "score": 0.941
+        },
+        {
+          "word": "change",
+          "start": 50.533,
+          "end": 50.853,
+          "score": 0.878
+        },
+        {
+          "word": "shape,",
+          "start": 50.913000000000004,
+          "end": 51.213,
+          "score": 0.83
+        },
+        {
+          "word": "push",
+          "start": 51.493,
+          "end": 51.733000000000004,
+          "score": 0.907
+        },
+        {
+          "word": "water,",
+          "start": 51.813,
+          "end": 52.174,
+          "score": 0.84
+        },
+        {
+          "word": "and",
+          "start": 52.314,
+          "end": 52.414,
+          "score": 0.802
+        },
+        {
+          "word": "help",
+          "start": 52.474000000000004,
+          "end": 52.674,
+          "score": 0.828
+        },
+        {
+          "word": "move",
+          "start": 52.714,
+          "end": 52.894000000000005,
+          "score": 0.829
+        },
+        {
+          "word": "its",
+          "start": 52.934000000000005,
+          "end": 53.054,
+          "score": 0.719
+        },
+        {
+          "word": "neighbors.",
+          "start": 53.114000000000004,
+          "end": 53.534000000000006,
+          "score": 0.812
+        },
+        {
+          "word": "Look",
+          "start": 54.55500000000001,
+          "end": 54.735,
+          "score": 0.926
+        },
+        {
+          "word": "for",
+          "start": 54.755,
+          "end": 54.875,
+          "score": 0.987
+        },
+        {
+          "word": "a",
+          "start": 54.935,
+          "end": 54.955,
+          "score": 0.999
+        },
+        {
+          "word": "mouth",
+          "start": 55.035000000000004,
+          "end": 55.335,
+          "score": 0.912
+        },
+        {
+          "word": "on",
+          "start": 55.455,
+          "end": 55.535000000000004,
+          "score": 0.507
+        },
+        {
+          "word": "that",
+          "start": 55.575,
+          "end": 55.755,
+          "score": 0.836
+        },
+        {
+          "word": "swimmer",
+          "start": 55.875,
+          "end": 56.256,
+          "score": 0.798
+        },
+        {
+          "word": "and",
+          "start": 56.616,
+          "end": 56.696000000000005,
+          "score": 0.844
+        },
+        {
+          "word": "you'll",
+          "start": 56.716,
+          "end": 56.936,
+          "score": 0.876
+        },
+        {
+          "word": "be",
+          "start": 56.956,
+          "end": 57.036,
+          "score": 0.503
+        },
+        {
+          "word": "looking",
+          "start": 57.056000000000004,
+          "end": 57.316,
+          "score": 0.897
+        },
+        {
+          "word": "in",
+          "start": 57.356,
+          "end": 57.416000000000004,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 57.436,
+          "end": 57.516000000000005,
+          "score": 0.865
+        },
+        {
+          "word": "wrong",
+          "start": 57.576,
+          "end": 57.857,
+          "score": 0.7
+        },
+        {
+          "word": "place.",
+          "start": 57.917,
+          "end": 58.277,
+          "score": 0.868
+        },
+        {
+          "word": "Farther",
+          "start": 59.297000000000004,
+          "end": 59.637,
+          "score": 0.799
+        },
+        {
+          "word": "along,",
+          "start": 59.697,
+          "end": 60.078,
+          "score": 0.833
+        },
+        {
+          "word": "a",
+          "start": 60.578,
+          "end": 60.618,
+          "score": 0.501
+        },
+        {
+          "word": "feeding",
+          "start": 60.678000000000004,
+          "end": 60.998000000000005,
+          "score": 0.837
+        },
+        {
+          "word": "individual",
+          "start": 61.078,
+          "end": 61.618,
+          "score": 0.824
+        },
+        {
+          "word": "can",
+          "start": 61.678,
+          "end": 61.819,
+          "score": 0.998
+        },
+        {
+          "word": "take",
+          "start": 61.879000000000005,
+          "end": 62.059,
+          "score": 0.876
+        },
+        {
+          "word": "in",
+          "start": 62.099000000000004,
+          "end": 62.159000000000006,
+          "score": 0.75
+        },
+        {
+          "word": "a",
+          "start": 62.199,
+          "end": 62.239000000000004,
+          "score": 0.511
+        },
+        {
+          "word": "meal",
+          "start": 62.319,
+          "end": 62.57900000000001,
+          "score": 0.856
+        },
+        {
+          "word": "that",
+          "start": 62.639,
+          "end": 62.759,
+          "score": 0.99
+        },
+        {
+          "word": "a",
+          "start": 62.79900000000001,
+          "end": 62.839,
+          "score": 0.501
+        },
+        {
+          "word": "swimmer",
+          "start": 62.93900000000001,
+          "end": 63.319,
+          "score": 0.784
+        },
+        {
+          "word": "never",
+          "start": 63.419000000000004,
+          "end": 63.659000000000006,
+          "score": 0.87
+        },
+        {
+          "word": "could.",
+          "start": 63.74,
+          "end": 64.0,
+          "score": 0.958
+        }
+      ]
+    },
+    {
+      "id": "turn",
+      "words": [
+        {
+          "word": "Now",
+          "start": 65.5,
+          "end": 65.68,
+          "score": 0.848
+        },
+        {
+          "word": "try",
+          "start": 65.76,
+          "end": 65.96000000000001,
+          "score": 0.947
+        },
+        {
+          "word": "to",
+          "start": 66.0,
+          "end": 66.08,
+          "score": 0.75
+        },
+        {
+          "word": "steer",
+          "start": 66.12100000000001,
+          "end": 66.34100000000001,
+          "score": 0.868
+        },
+        {
+          "word": "the",
+          "start": 66.381,
+          "end": 66.461,
+          "score": 0.869
+        },
+        {
+          "word": "colony.",
+          "start": 66.501,
+          "end": 66.98100000000001,
+          "score": 0.895
+        },
+        {
+          "word": "You",
+          "start": 67.961,
+          "end": 68.081,
+          "score": 0.707
+        },
+        {
+          "word": "have",
+          "start": 68.12100000000001,
+          "end": 68.262,
+          "score": 0.874
+        },
+        {
+          "word": "several",
+          "start": 68.36200000000001,
+          "end": 68.702,
+          "score": 0.828
+        },
+        {
+          "word": "jets",
+          "start": 68.762,
+          "end": 69.022,
+          "score": 0.915
+        },
+        {
+          "word": "pointing",
+          "start": 69.122,
+          "end": 69.462,
+          "score": 0.848
+        },
+        {
+          "word": "away",
+          "start": 69.522,
+          "end": 69.802,
+          "score": 0.88
+        },
+        {
+          "word": "from",
+          "start": 69.882,
+          "end": 70.022,
+          "score": 0.844
+        },
+        {
+          "word": "a",
+          "start": 70.062,
+          "end": 70.08200000000001,
+          "score": 0.999
+        },
+        {
+          "word": "slender",
+          "start": 70.162,
+          "end": 70.543,
+          "score": 0.824
+        },
+        {
+          "word": "body.",
+          "start": 70.60300000000001,
+          "end": 70.943,
+          "score": 0.898
+        },
+        {
+          "word": "You",
+          "start": 71.943,
+          "end": 72.043,
+          "score": 0.868
+        },
+        {
+          "word": "want",
+          "start": 72.083,
+          "end": 72.203,
+          "score": 0.928
+        },
+        {
+          "word": "to",
+          "start": 72.223,
+          "end": 72.283,
+          "score": 0.626
+        },
+        {
+          "word": "turn",
+          "start": 72.34400000000001,
+          "end": 72.584,
+          "score": 0.858
+        },
+        {
+          "word": "left",
+          "start": 72.644,
+          "end": 72.924,
+          "score": 0.864
+        },
+        {
+          "word": "without",
+          "start": 73.164,
+          "end": 73.464,
+          "score": 0.913
+        },
+        {
+          "word": "rolling",
+          "start": 73.584,
+          "end": 73.944,
+          "score": 0.837
+        },
+        {
+          "word": "the",
+          "start": 73.98400000000001,
+          "end": 74.06400000000001,
+          "score": 0.999
+        },
+        {
+          "word": "whole",
+          "start": 74.104,
+          "end": 74.304,
+          "score": 0.686
+        },
+        {
+          "word": "thing",
+          "start": 74.364,
+          "end": 74.58500000000001,
+          "score": 0.892
+        },
+        {
+          "word": "over.",
+          "start": 74.705,
+          "end": 74.925,
+          "score": 0.896
+        },
+        {
+          "word": "Would",
+          "start": 75.905,
+          "end": 76.045,
+          "score": 0.997
+        },
+        {
+          "word": "you",
+          "start": 76.08500000000001,
+          "end": 76.205,
+          "score": 0.833
+        },
+        {
+          "word": "fire",
+          "start": 76.265,
+          "end": 76.606,
+          "score": 0.812
+        },
+        {
+          "word": "the",
+          "start": 76.646,
+          "end": 76.726,
+          "score": 0.854
+        },
+        {
+          "word": "strongest",
+          "start": 76.766,
+          "end": 77.24600000000001,
+          "score": 0.842
+        },
+        {
+          "word": "bell",
+          "start": 77.306,
+          "end": 77.546,
+          "score": 0.897
+        },
+        {
+          "word": "first?",
+          "start": 77.606,
+          "end": 77.946,
+          "score": 0.8
+        },
+        {
+          "word": "A",
+          "start": 78.967,
+          "end": 79.007,
+          "score": 0.505
+        },
+        {
+          "word": "study",
+          "start": 79.047,
+          "end": 79.387,
+          "score": 0.874
+        },
+        {
+          "word": "of",
+          "start": 79.427,
+          "end": 79.487,
+          "score": 0.75
+        },
+        {
+          "word": "a",
+          "start": 79.527,
+          "end": 79.56700000000001,
+          "score": 0.5
+        },
+        {
+          "word": "siphonophore",
+          "start": 79.62700000000001,
+          "end": 80.387,
+          "score": 0.797
+        },
+        {
+          "word": "called",
+          "start": 80.447,
+          "end": 80.688,
+          "score": 0.955
+        },
+        {
+          "word": "Nanomia",
+          "start": 80.748,
+          "end": 81.368,
+          "score": 0.869
+        },
+        {
+          "word": "found",
+          "start": 81.808,
+          "end": 82.068,
+          "score": 0.816
+        },
+        {
+          "word": "a",
+          "start": 82.108,
+          "end": 82.128,
+          "score": 0.999
+        },
+        {
+          "word": "surprisingly",
+          "start": 82.188,
+          "end": 82.969,
+          "score": 0.914
+        },
+        {
+          "word": "good",
+          "start": 83.049,
+          "end": 83.229,
+          "score": 0.834
+        },
+        {
+          "word": "reason",
+          "start": 83.289,
+          "end": 83.649,
+          "score": 0.746
+        },
+        {
+          "word": "to",
+          "start": 83.68900000000001,
+          "end": 83.789,
+          "score": 0.772
+        },
+        {
+          "word": "start",
+          "start": 83.869,
+          "end": 84.18900000000001,
+          "score": 0.879
+        },
+        {
+          "word": "with",
+          "start": 84.229,
+          "end": 84.349,
+          "score": 0.796
+        },
+        {
+          "word": "the",
+          "start": 84.369,
+          "end": 84.449,
+          "score": 0.834
+        },
+        {
+          "word": "small",
+          "start": 84.509,
+          "end": 84.83,
+          "score": 0.853
+        },
+        {
+          "word": "ones.",
+          "start": 84.97,
+          "end": 85.15,
+          "score": 0.846
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "words": [
+        {
+          "word": "This",
+          "start": 86.61,
+          "end": 86.771,
+          "score": 0.923
+        },
+        {
+          "word": "image",
+          "start": 86.931,
+          "end": 87.231,
+          "score": 0.671
+        },
+        {
+          "word": "comes",
+          "start": 87.331,
+          "end": 87.571,
+          "score": 0.678
+        },
+        {
+          "word": "from",
+          "start": 87.611,
+          "end": 87.731,
+          "score": 0.933
+        },
+        {
+          "word": "the",
+          "start": 87.751,
+          "end": 87.832,
+          "score": 0.835
+        },
+        {
+          "word": "researchers",
+          "start": 87.892,
+          "end": 88.432,
+          "score": 0.747
+        },
+        {
+          "word": "who",
+          "start": 88.792,
+          "end": 88.93299999999999,
+          "score": 0.983
+        },
+        {
+          "word": "investigated",
+          "start": 89.01299999999999,
+          "end": 89.773,
+          "score": 0.867
+        },
+        {
+          "word": "how",
+          "start": 89.833,
+          "end": 89.974,
+          "score": 0.9
+        },
+        {
+          "word": "Nanomia",
+          "start": 90.054,
+          "end": 90.67399999999999,
+          "score": 0.885
+        },
+        {
+          "word": "swims.",
+          "start": 90.75399999999999,
+          "end": 91.195,
+          "score": 0.904
+        },
+        {
+          "word": "Look",
+          "start": 92.256,
+          "end": 92.43599999999999,
+          "score": 0.879
+        },
+        {
+          "word": "along",
+          "start": 92.496,
+          "end": 92.756,
+          "score": 0.807
+        },
+        {
+          "word": "the",
+          "start": 92.79599999999999,
+          "end": 92.876,
+          "score": 0.942
+        },
+        {
+          "word": "swimming",
+          "start": 92.93599999999999,
+          "end": 93.277,
+          "score": 0.863
+        },
+        {
+          "word": "region.",
+          "start": 93.357,
+          "end": 93.737,
+          "score": 0.906
+        },
+        {
+          "word": "The",
+          "start": 94.718,
+          "end": 94.818,
+          "score": 0.872
+        },
+        {
+          "word": "youngest",
+          "start": 94.858,
+          "end": 95.218,
+          "score": 0.755
+        },
+        {
+          "word": "bells",
+          "start": 95.298,
+          "end": 95.639,
+          "score": 0.892
+        },
+        {
+          "word": "sit",
+          "start": 95.739,
+          "end": 95.919,
+          "score": 0.998
+        },
+        {
+          "word": "near",
+          "start": 95.979,
+          "end": 96.139,
+          "score": 0.86
+        },
+        {
+          "word": "the",
+          "start": 96.179,
+          "end": 96.259,
+          "score": 0.833
+        },
+        {
+          "word": "tip.",
+          "start": 96.29899999999999,
+          "end": 96.56,
+          "score": 0.997
+        },
+        {
+          "word": "Farther",
+          "start": 97.541,
+          "end": 97.86099999999999,
+          "score": 0.853
+        },
+        {
+          "word": "back",
+          "start": 97.901,
+          "end": 98.14099999999999,
+          "score": 0.918
+        },
+        {
+          "word": "are",
+          "start": 98.201,
+          "end": 98.301,
+          "score": 0.778
+        },
+        {
+          "word": "larger,",
+          "start": 98.341,
+          "end": 98.722,
+          "score": 0.905
+        },
+        {
+          "word": "older",
+          "start": 98.982,
+          "end": 99.222,
+          "score": 0.821
+        },
+        {
+          "word": "bells.",
+          "start": 99.262,
+          "end": 99.602,
+          "score": 0.995
+        },
+        {
+          "word": "Age",
+          "start": 100.764,
+          "end": 100.984,
+          "score": 0.759
+        },
+        {
+          "word": "changes",
+          "start": 101.084,
+          "end": 101.464,
+          "score": 0.784
+        },
+        {
+          "word": "more",
+          "start": 101.544,
+          "end": 101.684,
+          "score": 0.876
+        },
+        {
+          "word": "than",
+          "start": 101.724,
+          "end": 101.845,
+          "score": 0.875
+        },
+        {
+          "word": "how",
+          "start": 101.88499999999999,
+          "end": 101.985,
+          "score": 0.999
+        },
+        {
+          "word": "much",
+          "start": 102.045,
+          "end": 102.225,
+          "score": 0.911
+        },
+        {
+          "word": "water",
+          "start": 102.30499999999999,
+          "end": 102.625,
+          "score": 0.755
+        },
+        {
+          "word": "a",
+          "start": 102.745,
+          "end": 102.765,
+          "score": 0.999
+        },
+        {
+          "word": "bell",
+          "start": 102.825,
+          "end": 103.026,
+          "score": 0.992
+        },
+        {
+          "word": "can",
+          "start": 103.066,
+          "end": 103.18599999999999,
+          "score": 0.837
+        },
+        {
+          "word": "expel.",
+          "start": 103.246,
+          "end": 103.68599999999999,
+          "score": 0.973
+        },
+        {
+          "word": "It",
+          "start": 104.767,
+          "end": 104.827,
+          "score": 0.756
+        },
+        {
+          "word": "changes",
+          "start": 104.887,
+          "end": 105.268,
+          "score": 0.733
+        },
+        {
+          "word": "where",
+          "start": 105.328,
+          "end": 105.46799999999999,
+          "score": 0.81
+        },
+        {
+          "word": "the",
+          "start": 105.488,
+          "end": 105.568,
+          "score": 0.836
+        },
+        {
+          "word": "push",
+          "start": 105.628,
+          "end": 105.948,
+          "score": 0.858
+        },
+        {
+          "word": "lands",
+          "start": 106.068,
+          "end": 106.369,
+          "score": 0.922
+        },
+        {
+          "word": "on",
+          "start": 106.40899999999999,
+          "end": 106.489,
+          "score": 0.833
+        },
+        {
+          "word": "the",
+          "start": 106.509,
+          "end": 106.589,
+          "score": 0.833
+        },
+        {
+          "word": "colony.",
+          "start": 106.649,
+          "end": 107.109,
+          "score": 0.912
+        }
+      ]
+    },
+    {
+      "id": "lever",
+      "words": [
+        {
+          "word": "Picture",
+          "start": 108.44999999999999,
+          "end": 108.83,
+          "score": 0.819
+        },
+        {
+          "word": "a",
+          "start": 108.88999999999999,
+          "end": 108.92999999999999,
+          "score": 0.763
+        },
+        {
+          "word": "door",
+          "start": 108.99,
+          "end": 109.31099999999999,
+          "score": 0.702
+        },
+        {
+          "word": "that's",
+          "start": 109.451,
+          "end": 109.631,
+          "score": 0.813
+        },
+        {
+          "word": "standing",
+          "start": 109.67099999999999,
+          "end": 110.071,
+          "score": 0.858
+        },
+        {
+          "word": "a",
+          "start": 110.11099999999999,
+          "end": 110.131,
+          "score": 1.0
+        },
+        {
+          "word": "little",
+          "start": 110.17099999999999,
+          "end": 110.371,
+          "score": 0.791
+        },
+        {
+          "word": "open.",
+          "start": 110.491,
+          "end": 110.75099999999999,
+          "score": 1.0
+        },
+        {
+          "word": "Press",
+          "start": 111.752,
+          "end": 111.972,
+          "score": 0.849
+        },
+        {
+          "word": "close",
+          "start": 112.012,
+          "end": 112.29199999999999,
+          "score": 0.783
+        },
+        {
+          "word": "to",
+          "start": 112.332,
+          "end": 112.43199999999999,
+          "score": 0.79
+        },
+        {
+          "word": "its",
+          "start": 112.512,
+          "end": 112.612,
+          "score": 0.842
+        },
+        {
+          "word": "hinge,",
+          "start": 112.672,
+          "end": 113.05199999999999,
+          "score": 0.79
+        },
+        {
+          "word": "then",
+          "start": 113.532,
+          "end": 113.672,
+          "score": 0.973
+        },
+        {
+          "word": "press",
+          "start": 113.732,
+          "end": 114.01299999999999,
+          "score": 0.9
+        },
+        {
+          "word": "just",
+          "start": 114.053,
+          "end": 114.31299999999999,
+          "score": 0.663
+        },
+        {
+          "word": "as",
+          "start": 114.37299999999999,
+          "end": 114.45299999999999,
+          "score": 0.8
+        },
+        {
+          "word": "gently",
+          "start": 114.553,
+          "end": 114.913,
+          "score": 0.839
+        },
+        {
+          "word": "at",
+          "start": 114.973,
+          "end": 115.03299999999999,
+          "score": 0.926
+        },
+        {
+          "word": "the",
+          "start": 115.073,
+          "end": 115.15299999999999,
+          "score": 0.962
+        },
+        {
+          "word": "handle.",
+          "start": 115.193,
+          "end": 115.59299999999999,
+          "score": 0.899
+        },
+        {
+          "word": "Your",
+          "start": 116.61399999999999,
+          "end": 116.794,
+          "score": 0.853
+        },
+        {
+          "word": "hand",
+          "start": 116.814,
+          "end": 117.154,
+          "score": 0.779
+        },
+        {
+          "word": "supplies",
+          "start": 117.214,
+          "end": 117.714,
+          "score": 0.759
+        },
+        {
+          "word": "the",
+          "start": 117.774,
+          "end": 117.874,
+          "score": 0.803
+        },
+        {
+          "word": "same",
+          "start": 117.91399999999999,
+          "end": 118.17399999999999,
+          "score": 0.703
+        },
+        {
+          "word": "push,",
+          "start": 118.25399999999999,
+          "end": 118.57499999999999,
+          "score": 0.844
+        },
+        {
+          "word": "but",
+          "start": 119.07499999999999,
+          "end": 119.175,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "start": 119.21499999999999,
+          "end": 119.315,
+          "score": 0.759
+        },
+        {
+          "word": "second",
+          "start": 119.375,
+          "end": 119.675,
+          "score": 0.833
+        },
+        {
+          "word": "push",
+          "start": 119.73499999999999,
+          "end": 120.01499999999999,
+          "score": 0.848
+        },
+        {
+          "word": "turns",
+          "start": 120.095,
+          "end": 120.41499999999999,
+          "score": 0.853
+        },
+        {
+          "word": "the",
+          "start": 120.475,
+          "end": 120.55499999999999,
+          "score": 0.85
+        },
+        {
+          "word": "door",
+          "start": 120.615,
+          "end": 120.87599999999999,
+          "score": 0.746
+        },
+        {
+          "word": "more",
+          "start": 120.93599999999999,
+          "end": 121.11599999999999,
+          "score": 0.621
+        },
+        {
+          "word": "easily.",
+          "start": 121.256,
+          "end": 121.65599999999999,
+          "score": 0.789
+        },
+        {
+          "word": "In",
+          "start": 122.67599999999999,
+          "end": 122.73599999999999,
+          "score": 0.938
+        },
+        {
+          "word": "the",
+          "start": 122.776,
+          "end": 122.856,
+          "score": 0.87
+        },
+        {
+          "word": "water",
+          "start": 122.916,
+          "end": 123.237,
+          "score": 0.845
+        },
+        {
+          "word": "there's",
+          "start": 123.27699999999999,
+          "end": 123.49699999999999,
+          "score": 0.774
+        },
+        {
+          "word": "no",
+          "start": 123.55699999999999,
+          "end": 123.717,
+          "score": 0.915
+        },
+        {
+          "word": "fixed",
+          "start": 123.83699999999999,
+          "end": 124.11699999999999,
+          "score": 0.973
+        },
+        {
+          "word": "hinge.",
+          "start": 124.157,
+          "end": 124.49699999999999,
+          "score": 0.756
+        },
+        {
+          "word": "The",
+          "start": 125.518,
+          "end": 125.618,
+          "score": 0.99
+        },
+        {
+          "word": "useful",
+          "start": 125.758,
+          "end": 126.07799999999999,
+          "score": 0.936
+        },
+        {
+          "word": "part",
+          "start": 126.13799999999999,
+          "end": 126.35799999999999,
+          "score": 0.936
+        },
+        {
+          "word": "of",
+          "start": 126.398,
+          "end": 126.458,
+          "score": 0.75
+        },
+        {
+          "word": "that",
+          "start": 126.49799999999999,
+          "end": 126.678,
+          "score": 0.757
+        },
+        {
+          "word": "comparison",
+          "start": 126.758,
+          "end": 127.398,
+          "score": 0.894
+        },
+        {
+          "word": "is",
+          "start": 127.839,
+          "end": 127.919,
+          "score": 0.67
+        },
+        {
+          "word": "the",
+          "start": 127.95899999999999,
+          "end": 128.059,
+          "score": 0.822
+        },
+        {
+          "word": "distance",
+          "start": 128.119,
+          "end": 128.559,
+          "score": 0.934
+        },
+        {
+          "word": "from",
+          "start": 128.63899999999998,
+          "end": 128.779,
+          "score": 0.737
+        },
+        {
+          "word": "the",
+          "start": 128.819,
+          "end": 128.91899999999998,
+          "score": 0.671
+        },
+        {
+          "word": "point",
+          "start": 128.97899999999998,
+          "end": 129.279,
+          "score": 0.714
+        },
+        {
+          "word": "you're",
+          "start": 129.539,
+          "end": 129.719,
+          "score": 0.668
+        },
+        {
+          "word": "turning",
+          "start": 129.759,
+          "end": 130.07999999999998,
+          "score": 0.801
+        },
+        {
+          "word": "around.",
+          "start": 130.16,
+          "end": 130.54,
+          "score": 0.932
+        }
+      ]
+    },
+    {
+      "id": "thrust",
+      "words": [
+        {
+          "word": "The",
+          "start": 132.0,
+          "end": 132.07999999999998,
+          "score": 0.997
+        },
+        {
+          "word": "young",
+          "start": 132.14,
+          "end": 132.421,
+          "score": 0.793
+        },
+        {
+          "word": "bells",
+          "start": 132.481,
+          "end": 132.841,
+          "score": 0.788
+        },
+        {
+          "word": "near",
+          "start": 132.941,
+          "end": 133.101,
+          "score": 0.819
+        },
+        {
+          "word": "the",
+          "start": 133.12099999999998,
+          "end": 133.201,
+          "score": 0.838
+        },
+        {
+          "word": "front",
+          "start": 133.24099999999999,
+          "end": 133.462,
+          "score": 0.864
+        },
+        {
+          "word": "have",
+          "start": 133.482,
+          "end": 133.662,
+          "score": 0.768
+        },
+        {
+          "word": "leverage.",
+          "start": 133.742,
+          "end": 134.22199999999998,
+          "score": 0.95
+        },
+        {
+          "word": "Even",
+          "start": 135.283,
+          "end": 135.463,
+          "score": 0.79
+        },
+        {
+          "word": "a",
+          "start": 135.503,
+          "end": 135.543,
+          "score": 0.687
+        },
+        {
+          "word": "modest",
+          "start": 135.623,
+          "end": 136.04399999999998,
+          "score": 0.848
+        },
+        {
+          "word": "jet",
+          "start": 136.284,
+          "end": 136.424,
+          "score": 0.723
+        },
+        {
+          "word": "there",
+          "start": 136.444,
+          "end": 136.584,
+          "score": 0.845
+        },
+        {
+          "word": "can",
+          "start": 136.60399999999998,
+          "end": 136.744,
+          "score": 0.897
+        },
+        {
+          "word": "turn",
+          "start": 136.804,
+          "end": 137.045,
+          "score": 0.828
+        },
+        {
+          "word": "Nanomia.",
+          "start": 137.105,
+          "end": 137.725,
+          "score": 0.956
+        },
+        {
+          "word": "Older",
+          "start": 138.846,
+          "end": 139.106,
+          "score": 0.697
+        },
+        {
+          "word": "bells",
+          "start": 139.146,
+          "end": 139.46699999999998,
+          "score": 0.888
+        },
+        {
+          "word": "closer",
+          "start": 139.547,
+          "end": 139.927,
+          "score": 0.834
+        },
+        {
+          "word": "to",
+          "start": 139.987,
+          "end": 140.067,
+          "score": 0.826
+        },
+        {
+          "word": "the",
+          "start": 140.087,
+          "end": 140.167,
+          "score": 0.991
+        },
+        {
+          "word": "base",
+          "start": 140.227,
+          "end": 140.50799999999998,
+          "score": 0.988
+        },
+        {
+          "word": "of",
+          "start": 140.548,
+          "end": 140.608,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 140.648,
+          "end": 140.728,
+          "score": 0.833
+        },
+        {
+          "word": "swimming",
+          "start": 140.768,
+          "end": 141.108,
+          "score": 0.924
+        },
+        {
+          "word": "region",
+          "start": 141.188,
+          "end": 141.549,
+          "score": 0.843
+        },
+        {
+          "word": "contribute",
+          "start": 141.989,
+          "end": 142.529,
+          "score": 0.782
+        },
+        {
+          "word": "more",
+          "start": 142.589,
+          "end": 142.79,
+          "score": 0.816
+        },
+        {
+          "word": "to",
+          "start": 142.85,
+          "end": 142.93,
+          "score": 0.766
+        },
+        {
+          "word": "forward",
+          "start": 143.01,
+          "end": 143.45,
+          "score": 0.938
+        },
+        {
+          "word": "thrust.",
+          "start": 143.51,
+          "end": 143.911,
+          "score": 0.765
+        },
+        {
+          "word": "Now",
+          "start": 144.99099999999999,
+          "end": 145.152,
+          "score": 0.892
+        },
+        {
+          "word": "watch",
+          "start": 145.232,
+          "end": 145.512,
+          "score": 0.951
+        },
+        {
+          "word": "the",
+          "start": 145.552,
+          "end": 145.632,
+          "score": 0.837
+        },
+        {
+          "word": "diagram",
+          "start": 145.672,
+          "end": 146.173,
+          "score": 0.863
+        },
+        {
+          "word": "again.",
+          "start": 146.253,
+          "end": 146.553,
+          "score": 0.853
+        },
+        {
+          "word": "First",
+          "start": 147.594,
+          "end": 147.874,
+          "score": 0.821
+        },
+        {
+          "word": "the",
+          "start": 147.934,
+          "end": 148.034,
+          "score": 0.748
+        },
+        {
+          "word": "nose",
+          "start": 148.114,
+          "end": 148.434,
+          "score": 0.841
+        },
+        {
+          "word": "changes",
+          "start": 148.495,
+          "end": 148.875,
+          "score": 0.774
+        },
+        {
+          "word": "direction.",
+          "start": 148.915,
+          "end": 149.415,
+          "score": 0.842
+        },
+        {
+          "word": "Then",
+          "start": 150.43599999999998,
+          "end": 150.61599999999999,
+          "score": 0.792
+        },
+        {
+          "word": "the",
+          "start": 150.676,
+          "end": 150.756,
+          "score": 0.859
+        },
+        {
+          "word": "larger",
+          "start": 150.816,
+          "end": 151.177,
+          "score": 0.798
+        },
+        {
+          "word": "bells",
+          "start": 151.237,
+          "end": 151.537,
+          "score": 0.771
+        },
+        {
+          "word": "help",
+          "start": 151.59699999999998,
+          "end": 151.837,
+          "score": 0.88
+        },
+        {
+          "word": "carry",
+          "start": 151.877,
+          "end": 152.158,
+          "score": 0.919
+        },
+        {
+          "word": "the",
+          "start": 152.178,
+          "end": 152.278,
+          "score": 0.67
+        },
+        {
+          "word": "feeding",
+          "start": 152.358,
+          "end": 152.69799999999998,
+          "score": 0.891
+        },
+        {
+          "word": "region",
+          "start": 152.778,
+          "end": 153.09799999999998,
+          "score": 0.958
+        },
+        {
+          "word": "onto",
+          "start": 153.41899999999998,
+          "end": 153.599,
+          "score": 0.764
+        },
+        {
+          "word": "the",
+          "start": 153.639,
+          "end": 153.719,
+          "score": 0.833
+        },
+        {
+          "word": "new",
+          "start": 153.799,
+          "end": 153.97899999999998,
+          "score": 0.968
+        },
+        {
+          "word": "heading.",
+          "start": 154.019,
+          "end": 154.32,
+          "score": 0.92
+        }
+      ]
+    },
+    {
+      "id": "wave",
+      "words": [
+        {
+          "word": "There's",
+          "start": 155.66,
+          "end": 155.86,
+          "score": 0.859
+        },
+        {
+          "word": "another",
+          "start": 155.9,
+          "end": 156.201,
+          "score": 0.774
+        },
+        {
+          "word": "trick",
+          "start": 156.281,
+          "end": 156.52100000000002,
+          "score": 0.871
+        },
+        {
+          "word": "inside",
+          "start": 156.661,
+          "end": 157.101,
+          "score": 0.915
+        },
+        {
+          "word": "a",
+          "start": 157.141,
+          "end": 157.181,
+          "score": 0.5
+        },
+        {
+          "word": "single",
+          "start": 157.241,
+          "end": 157.581,
+          "score": 0.811
+        },
+        {
+          "word": "stroke.",
+          "start": 157.641,
+          "end": 158.042,
+          "score": 0.837
+        },
+        {
+          "word": "Researchers",
+          "start": 159.062,
+          "end": 159.623,
+          "score": 0.857
+        },
+        {
+          "word": "filmed",
+          "start": 159.683,
+          "end": 160.00300000000001,
+          "score": 0.815
+        },
+        {
+          "word": "several",
+          "start": 160.083,
+          "end": 160.403,
+          "score": 0.867
+        },
+        {
+          "word": "species",
+          "start": 160.443,
+          "end": 160.923,
+          "score": 0.697
+        },
+        {
+          "word": "swimming",
+          "start": 161.00300000000001,
+          "end": 161.404,
+          "score": 0.815
+        },
+        {
+          "word": "and",
+          "start": 161.664,
+          "end": 161.744,
+          "score": 0.886
+        },
+        {
+          "word": "compared",
+          "start": 161.784,
+          "end": 162.224,
+          "score": 0.909
+        },
+        {
+          "word": "neighboring",
+          "start": 162.324,
+          "end": 162.76500000000001,
+          "score": 0.783
+        },
+        {
+          "word": "bells",
+          "start": 162.825,
+          "end": 163.165,
+          "score": 0.845
+        },
+        {
+          "word": "frame",
+          "start": 163.285,
+          "end": 163.645,
+          "score": 0.804
+        },
+        {
+          "word": "by",
+          "start": 163.705,
+          "end": 163.845,
+          "score": 0.778
+        },
+        {
+          "word": "frame.",
+          "start": 163.945,
+          "end": 164.325,
+          "score": 0.785
+        },
+        {
+          "word": "On",
+          "start": 165.426,
+          "end": 165.486,
+          "score": 0.998
+        },
+        {
+          "word": "one",
+          "start": 165.626,
+          "end": 165.726,
+          "score": 0.952
+        },
+        {
+          "word": "side,",
+          "start": 165.786,
+          "end": 166.127,
+          "score": 0.752
+        },
+        {
+          "word": "the",
+          "start": 166.367,
+          "end": 166.467,
+          "score": 0.723
+        },
+        {
+          "word": "pulses",
+          "start": 166.507,
+          "end": 166.927,
+          "score": 0.844
+        },
+        {
+          "word": "could",
+          "start": 166.987,
+          "end": 167.127,
+          "score": 0.803
+        },
+        {
+          "word": "follow",
+          "start": 167.207,
+          "end": 167.527,
+          "score": 0.831
+        },
+        {
+          "word": "one",
+          "start": 167.607,
+          "end": 167.708,
+          "score": 0.735
+        },
+        {
+          "word": "another",
+          "start": 167.748,
+          "end": 168.048,
+          "score": 0.755
+        },
+        {
+          "word": "in",
+          "start": 168.12800000000001,
+          "end": 168.188,
+          "score": 0.864
+        },
+        {
+          "word": "a",
+          "start": 168.228,
+          "end": 168.248,
+          "score": 0.998
+        },
+        {
+          "word": "wave.",
+          "start": 168.328,
+          "end": 168.708,
+          "score": 0.966
+        },
+        {
+          "word": "Across",
+          "start": 169.729,
+          "end": 170.069,
+          "score": 0.833
+        },
+        {
+          "word": "the",
+          "start": 170.089,
+          "end": 170.169,
+          "score": 0.83
+        },
+        {
+          "word": "two",
+          "start": 170.209,
+          "end": 170.369,
+          "score": 0.648
+        },
+        {
+          "word": "sides,",
+          "start": 170.429,
+          "end": 170.809,
+          "score": 0.807
+        },
+        {
+          "word": "they",
+          "start": 171.19,
+          "end": 171.31,
+          "score": 0.757
+        },
+        {
+          "word": "didn't",
+          "start": 171.35,
+          "end": 171.55,
+          "score": 0.856
+        },
+        {
+          "word": "see",
+          "start": 171.59,
+          "end": 171.75,
+          "score": 0.688
+        },
+        {
+          "word": "the",
+          "start": 171.79,
+          "end": 171.87,
+          "score": 0.872
+        },
+        {
+          "word": "same",
+          "start": 171.93,
+          "end": 172.17000000000002,
+          "score": 0.814
+        },
+        {
+          "word": "lockstep",
+          "start": 172.25,
+          "end": 172.751,
+          "score": 0.87
+        },
+        {
+          "word": "timing.",
+          "start": 172.791,
+          "end": 173.211,
+          "score": 0.906
+        },
+        {
+          "word": "A",
+          "start": 174.232,
+          "end": 174.272,
+          "score": 0.996
+        },
+        {
+          "word": "colony",
+          "start": 174.352,
+          "end": 174.812,
+          "score": 0.866
+        },
+        {
+          "word": "can",
+          "start": 174.872,
+          "end": 174.992,
+          "score": 0.981
+        },
+        {
+          "word": "travel",
+          "start": 175.032,
+          "end": 175.392,
+          "score": 0.894
+        },
+        {
+          "word": "together",
+          "start": 175.43200000000002,
+          "end": 175.812,
+          "score": 0.869
+        },
+        {
+          "word": "without",
+          "start": 175.893,
+          "end": 176.193,
+          "score": 0.843
+        },
+        {
+          "word": "every",
+          "start": 176.453,
+          "end": 176.673,
+          "score": 0.707
+        },
+        {
+          "word": "swimmer",
+          "start": 176.753,
+          "end": 177.093,
+          "score": 0.878
+        },
+        {
+          "word": "squeezing",
+          "start": 177.173,
+          "end": 177.674,
+          "score": 0.828
+        },
+        {
+          "word": "at",
+          "start": 177.994,
+          "end": 178.054,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 178.074,
+          "end": 178.174,
+          "score": 0.841
+        },
+        {
+          "word": "very",
+          "start": 178.234,
+          "end": 178.514,
+          "score": 0.795
+        },
+        {
+          "word": "same",
+          "start": 178.574,
+          "end": 178.834,
+          "score": 0.677
+        },
+        {
+          "word": "instant.",
+          "start": 178.954,
+          "end": 179.335,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "id": "switch",
+      "words": [
+        {
+          "word": "Keep",
+          "start": 180.735,
+          "end": 180.916,
+          "score": 0.818
+        },
+        {
+          "word": "your",
+          "start": 180.95600000000002,
+          "end": 181.116,
+          "score": 0.776
+        },
+        {
+          "word": "eye",
+          "start": 181.336,
+          "end": 181.436,
+          "score": 0.914
+        },
+        {
+          "word": "on",
+          "start": 181.496,
+          "end": 181.57600000000002,
+          "score": 0.8
+        },
+        {
+          "word": "the",
+          "start": 181.596,
+          "end": 181.67600000000002,
+          "score": 0.833
+        },
+        {
+          "word": "tentacles",
+          "start": 181.716,
+          "end": 182.237,
+          "score": 0.876
+        },
+        {
+          "word": "as",
+          "start": 182.67700000000002,
+          "end": 182.77700000000002,
+          "score": 0.724
+        },
+        {
+          "word": "the",
+          "start": 182.818,
+          "end": 182.918,
+          "score": 0.839
+        },
+        {
+          "word": "swimmer",
+          "start": 182.99800000000002,
+          "end": 183.358,
+          "score": 0.849
+        },
+        {
+          "word": "leaves",
+          "start": 183.418,
+          "end": 183.698,
+          "score": 0.557
+        },
+        {
+          "word": "the",
+          "start": 183.758,
+          "end": 183.839,
+          "score": 0.863
+        },
+        {
+          "word": "frame.",
+          "start": 183.899,
+          "end": 184.299,
+          "score": 0.831
+        },
+        {
+          "word": "They",
+          "start": 185.32000000000002,
+          "end": 185.46,
+          "score": 0.916
+        },
+        {
+          "word": "trail",
+          "start": 185.52,
+          "end": 185.821,
+          "score": 0.784
+        },
+        {
+          "word": "behind,",
+          "start": 185.86100000000002,
+          "end": 186.341,
+          "score": 0.864
+        },
+        {
+          "word": "in",
+          "start": 186.80200000000002,
+          "end": 186.882,
+          "score": 0.992
+        },
+        {
+          "word": "water",
+          "start": 186.942,
+          "end": 187.222,
+          "score": 0.902
+        },
+        {
+          "word": "the",
+          "start": 187.24200000000002,
+          "end": 187.342,
+          "score": 0.822
+        },
+        {
+          "word": "colony",
+          "start": 187.382,
+          "end": 187.823,
+          "score": 0.814
+        },
+        {
+          "word": "has",
+          "start": 187.863,
+          "end": 187.983,
+          "score": 0.885
+        },
+        {
+          "word": "just",
+          "start": 188.023,
+          "end": 188.18300000000002,
+          "score": 0.876
+        },
+        {
+          "word": "passed",
+          "start": 188.223,
+          "end": 188.523,
+          "score": 0.833
+        },
+        {
+          "word": "through.",
+          "start": 188.603,
+          "end": 188.904,
+          "score": 0.832
+        },
+        {
+          "word": "Moving",
+          "start": 189.985,
+          "end": 190.305,
+          "score": 0.924
+        },
+        {
+          "word": "a",
+          "start": 190.365,
+          "end": 190.425,
+          "score": 0.807
+        },
+        {
+          "word": "feeding",
+          "start": 190.525,
+          "end": 190.886,
+          "score": 0.936
+        },
+        {
+          "word": "apparatus",
+          "start": 191.006,
+          "end": 191.586,
+          "score": 0.859
+        },
+        {
+          "word": "into",
+          "start": 191.626,
+          "end": 191.827,
+          "score": 0.864
+        },
+        {
+          "word": "position",
+          "start": 191.86700000000002,
+          "end": 192.327,
+          "score": 0.863
+        },
+        {
+          "word": "is",
+          "start": 192.80800000000002,
+          "end": 192.888,
+          "score": 0.717
+        },
+        {
+          "word": "only",
+          "start": 193.008,
+          "end": 193.228,
+          "score": 0.658
+        },
+        {
+          "word": "half",
+          "start": 193.288,
+          "end": 193.508,
+          "score": 0.854
+        },
+        {
+          "word": "the",
+          "start": 193.548,
+          "end": 193.649,
+          "score": 0.744
+        },
+        {
+          "word": "problem.",
+          "start": 193.68900000000002,
+          "end": 194.149,
+          "score": 0.811
+        },
+        {
+          "word": "Once",
+          "start": 195.27,
+          "end": 195.41,
+          "score": 0.791
+        },
+        {
+          "word": "it's",
+          "start": 195.47,
+          "end": 195.59,
+          "score": 0.86
+        },
+        {
+          "word": "there,",
+          "start": 195.651,
+          "end": 195.931,
+          "score": 0.951
+        },
+        {
+          "word": "how",
+          "start": 196.33100000000002,
+          "end": 196.45100000000002,
+          "score": 0.747
+        },
+        {
+          "word": "does",
+          "start": 196.471,
+          "end": 196.592,
+          "score": 0.906
+        },
+        {
+          "word": "something",
+          "start": 196.632,
+          "end": 196.93200000000002,
+          "score": 0.919
+        },
+        {
+          "word": "so",
+          "start": 197.032,
+          "end": 197.232,
+          "score": 0.886
+        },
+        {
+          "word": "delicate",
+          "start": 197.292,
+          "end": 197.693,
+          "score": 0.787
+        },
+        {
+          "word": "bring",
+          "start": 197.733,
+          "end": 197.913,
+          "score": 0.622
+        },
+        {
+          "word": "a",
+          "start": 197.953,
+          "end": 197.973,
+          "score": 1.0
+        },
+        {
+          "word": "fast",
+          "start": 198.053,
+          "end": 198.393,
+          "score": 0.839
+        },
+        {
+          "word": "fish",
+          "start": 198.473,
+          "end": 198.75400000000002,
+          "score": 0.753
+        },
+        {
+          "word": "within",
+          "start": 198.794,
+          "end": 199.094,
+          "score": 0.83
+        },
+        {
+          "word": "reach?",
+          "start": 199.154,
+          "end": 199.41400000000002,
+          "score": 0.795
+        }
+      ]
+    },
+    {
+      "id": "dark",
+      "words": [
+        {
+          "word": "Picture",
+          "start": 200.795,
+          "end": 201.11499999999998,
+          "score": 0.731
+        },
+        {
+          "word": "the",
+          "start": 201.155,
+          "end": 201.23499999999999,
+          "score": 0.963
+        },
+        {
+          "word": "view",
+          "start": 201.295,
+          "end": 201.55499999999998,
+          "score": 0.888
+        },
+        {
+          "word": "from",
+          "start": 201.61499999999998,
+          "end": 201.73499999999999,
+          "score": 0.773
+        },
+        {
+          "word": "a",
+          "start": 201.775,
+          "end": 201.795,
+          "score": 0.999
+        },
+        {
+          "word": "small",
+          "start": 201.855,
+          "end": 202.17499999999998,
+          "score": 0.823
+        },
+        {
+          "word": "fish",
+          "start": 202.255,
+          "end": 202.55599999999998,
+          "score": 0.771
+        },
+        {
+          "word": "in",
+          "start": 202.656,
+          "end": 202.756,
+          "score": 0.872
+        },
+        {
+          "word": "midwater.",
+          "start": 202.796,
+          "end": 203.296,
+          "score": 0.935
+        },
+        {
+          "word": "The",
+          "start": 204.27599999999998,
+          "end": 204.376,
+          "score": 0.779
+        },
+        {
+          "word": "expedition",
+          "start": 204.476,
+          "end": 205.076,
+          "score": 0.94
+        },
+        {
+          "word": "lamps",
+          "start": 205.136,
+          "end": 205.456,
+          "score": 0.91
+        },
+        {
+          "word": "go",
+          "start": 205.49599999999998,
+          "end": 205.656,
+          "score": 0.948
+        },
+        {
+          "word": "out.",
+          "start": 205.77599999999998,
+          "end": 205.896,
+          "score": 0.996
+        },
+        {
+          "word": "The",
+          "start": 206.857,
+          "end": 206.93699999999998,
+          "score": 0.982
+        },
+        {
+          "word": "great",
+          "start": 206.977,
+          "end": 207.197,
+          "score": 0.877
+        },
+        {
+          "word": "sweep",
+          "start": 207.257,
+          "end": 207.517,
+          "score": 0.775
+        },
+        {
+          "word": "of",
+          "start": 207.557,
+          "end": 207.617,
+          "score": 0.776
+        },
+        {
+          "word": "transparent",
+          "start": 207.677,
+          "end": 208.277,
+          "score": 0.864
+        },
+        {
+          "word": "tissue",
+          "start": 208.337,
+          "end": 208.697,
+          "score": 0.841
+        },
+        {
+          "word": "disappears.",
+          "start": 208.737,
+          "end": 209.37699999999998,
+          "score": 0.862
+        },
+        {
+          "word": "What",
+          "start": 210.43699999999998,
+          "end": 210.59699999999998,
+          "score": 0.755
+        },
+        {
+          "word": "remains",
+          "start": 210.65699999999998,
+          "end": 211.178,
+          "score": 0.739
+        },
+        {
+          "word": "visible",
+          "start": 211.238,
+          "end": 211.618,
+          "score": 0.928
+        },
+        {
+          "word": "might",
+          "start": 211.678,
+          "end": 211.858,
+          "score": 0.808
+        },
+        {
+          "word": "be",
+          "start": 211.898,
+          "end": 212.018,
+          "score": 0.665
+        },
+        {
+          "word": "a",
+          "start": 212.058,
+          "end": 212.078,
+          "score": 1.0
+        },
+        {
+          "word": "moving",
+          "start": 212.158,
+          "end": 212.53799999999998,
+          "score": 0.789
+        },
+        {
+          "word": "point",
+          "start": 212.59799999999998,
+          "end": 212.81799999999998,
+          "score": 0.799
+        },
+        {
+          "word": "of",
+          "start": 212.838,
+          "end": 212.898,
+          "score": 0.75
+        },
+        {
+          "word": "light,",
+          "start": 212.97799999999998,
+          "end": 213.238,
+          "score": 0.934
+        },
+        {
+          "word": "with",
+          "start": 213.718,
+          "end": 213.878,
+          "score": 0.828
+        },
+        {
+          "word": "nothing",
+          "start": 213.958,
+          "end": 214.25799999999998,
+          "score": 0.858
+        },
+        {
+          "word": "around",
+          "start": 214.338,
+          "end": 214.678,
+          "score": 0.94
+        },
+        {
+          "word": "it",
+          "start": 214.738,
+          "end": 214.798,
+          "score": 0.952
+        },
+        {
+          "word": "to",
+          "start": 214.858,
+          "end": 214.958,
+          "score": 0.96
+        },
+        {
+          "word": "reveal",
+          "start": 215.018,
+          "end": 215.439,
+          "score": 0.744
+        },
+        {
+          "word": "what's",
+          "start": 215.47899999999998,
+          "end": 215.69899999999998,
+          "score": 0.861
+        },
+        {
+          "word": "holding",
+          "start": 215.739,
+          "end": 216.099,
+          "score": 0.855
+        },
+        {
+          "word": "it.",
+          "start": 216.159,
+          "end": 216.219,
+          "score": 0.999
+        },
+        {
+          "word": "For",
+          "start": 217.239,
+          "end": 217.35899999999998,
+          "score": 0.988
+        },
+        {
+          "word": "one",
+          "start": 217.539,
+          "end": 217.679,
+          "score": 0.56
+        },
+        {
+          "word": "deep",
+          "start": 217.779,
+          "end": 218.019,
+          "score": 0.796
+        },
+        {
+          "word": "Pacific",
+          "start": 218.099,
+          "end": 218.499,
+          "score": 0.893
+        },
+        {
+          "word": "hunter,",
+          "start": 218.559,
+          "end": 218.899,
+          "score": 0.917
+        },
+        {
+          "word": "that",
+          "start": 219.339,
+          "end": 219.51999999999998,
+          "score": 0.901
+        },
+        {
+          "word": "difference",
+          "start": 219.62,
+          "end": 220.01999999999998,
+          "score": 0.948
+        },
+        {
+          "word": "is",
+          "start": 220.07999999999998,
+          "end": 220.18,
+          "score": 0.705
+        },
+        {
+          "word": "the",
+          "start": 220.22,
+          "end": 220.32,
+          "score": 0.818
+        },
+        {
+          "word": "opportunity.",
+          "start": 220.39999999999998,
+          "end": 221.04,
+          "score": 0.93
+        }
+      ]
+    },
+    {
+      "id": "erenna",
+      "words": [
+        {
+          "word": "Meet",
+          "start": 222.44,
+          "end": 222.62,
+          "score": 0.917
+        },
+        {
+          "word": "the",
+          "start": 222.64000000000001,
+          "end": 222.74,
+          "score": 0.743
+        },
+        {
+          "word": "angler",
+          "start": 222.88000000000002,
+          "end": 223.18,
+          "score": 0.899
+        },
+        {
+          "word": "siphonophore,",
+          "start": 223.24,
+          "end": 223.98100000000002,
+          "score": 0.878
+        },
+        {
+          "word": "Erenna",
+          "start": 224.321,
+          "end": 224.661,
+          "score": 0.853
+        },
+        {
+          "word": "sirena.",
+          "start": 224.70100000000002,
+          "end": 225.281,
+          "score": 0.848
+        },
+        {
+          "word": "The",
+          "start": 226.262,
+          "end": 226.36200000000002,
+          "score": 0.851
+        },
+        {
+          "word": "clear",
+          "start": 226.422,
+          "end": 226.74200000000002,
+          "score": 0.798
+        },
+        {
+          "word": "animal",
+          "start": 226.942,
+          "end": 227.262,
+          "score": 0.804
+        },
+        {
+          "word": "photographed",
+          "start": 227.36200000000002,
+          "end": 228.002,
+          "score": 0.903
+        },
+        {
+          "word": "off",
+          "start": 228.102,
+          "end": 228.24200000000002,
+          "score": 0.817
+        },
+        {
+          "word": "Puerto",
+          "start": 228.303,
+          "end": 228.703,
+          "score": 0.746
+        },
+        {
+          "word": "Rico",
+          "start": 228.763,
+          "end": 229.143,
+          "score": 0.913
+        },
+        {
+          "word": "at",
+          "start": 229.18300000000002,
+          "end": 229.24300000000002,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 229.263,
+          "end": 229.34300000000002,
+          "score": 0.998
+        },
+        {
+          "word": "beginning",
+          "start": 229.383,
+          "end": 229.803,
+          "score": 0.784
+        },
+        {
+          "word": "was",
+          "start": 230.263,
+          "end": 230.423,
+          "score": 0.725
+        },
+        {
+          "word": "a",
+          "start": 230.46300000000002,
+          "end": 230.50300000000001,
+          "score": 0.529
+        },
+        {
+          "word": "different",
+          "start": 230.583,
+          "end": 230.88400000000001,
+          "score": 0.876
+        },
+        {
+          "word": "observation.",
+          "start": 230.984,
+          "end": 231.644,
+          "score": 0.89
+        },
+        {
+          "word": "Here",
+          "start": 232.644,
+          "end": 232.804,
+          "score": 0.78
+        },
+        {
+          "word": "we're",
+          "start": 232.84400000000002,
+          "end": 232.984,
+          "score": 0.718
+        },
+        {
+          "word": "following",
+          "start": 233.06400000000002,
+          "end": 233.525,
+          "score": 0.822
+        },
+        {
+          "word": "a",
+          "start": 233.565,
+          "end": 233.625,
+          "score": 0.653
+        },
+        {
+          "word": "Pacific",
+          "start": 233.66500000000002,
+          "end": 234.065,
+          "score": 0.914
+        },
+        {
+          "word": "species",
+          "start": 234.125,
+          "end": 234.66500000000002,
+          "score": 0.75
+        },
+        {
+          "word": "that",
+          "start": 235.085,
+          "end": 235.22500000000002,
+          "score": 0.853
+        },
+        {
+          "word": "researchers",
+          "start": 235.28500000000003,
+          "end": 235.88600000000002,
+          "score": 0.77
+        },
+        {
+          "word": "found",
+          "start": 235.946,
+          "end": 236.246,
+          "score": 0.796
+        },
+        {
+          "word": "carrying",
+          "start": 236.32600000000002,
+          "end": 236.786,
+          "score": 0.816
+        },
+        {
+          "word": "tiny",
+          "start": 236.866,
+          "end": 237.246,
+          "score": 0.926
+        },
+        {
+          "word": "lures",
+          "start": 237.346,
+          "end": 237.746,
+          "score": 0.758
+        },
+        {
+          "word": "on",
+          "start": 237.946,
+          "end": 238.006,
+          "score": 0.757
+        },
+        {
+          "word": "the",
+          "start": 238.026,
+          "end": 238.106,
+          "score": 0.838
+        },
+        {
+          "word": "finest",
+          "start": 238.186,
+          "end": 238.58700000000002,
+          "score": 0.84
+        },
+        {
+          "word": "branches",
+          "start": 238.687,
+          "end": 239.167,
+          "score": 0.79
+        },
+        {
+          "word": "of",
+          "start": 239.227,
+          "end": 239.287,
+          "score": 0.785
+        },
+        {
+          "word": "its",
+          "start": 239.347,
+          "end": 239.447,
+          "score": 0.801
+        },
+        {
+          "word": "tentacles.",
+          "start": 239.52700000000002,
+          "end": 240.08700000000002,
+          "score": 0.872
+        },
+        {
+          "word": "The",
+          "start": 241.14800000000002,
+          "end": 241.24800000000002,
+          "score": 0.861
+        },
+        {
+          "word": "whole",
+          "start": 241.288,
+          "end": 241.46800000000002,
+          "score": 0.876
+        },
+        {
+          "word": "colony",
+          "start": 241.52800000000002,
+          "end": 241.948,
+          "score": 0.858
+        },
+        {
+          "word": "swims.",
+          "start": 242.008,
+          "end": 242.428,
+          "score": 0.83
+        },
+        {
+          "word": "The",
+          "start": 243.40900000000002,
+          "end": 243.50900000000001,
+          "score": 0.895
+        },
+        {
+          "word": "invitation",
+          "start": 243.549,
+          "end": 244.089,
+          "score": 0.829
+        },
+        {
+          "word": "to",
+          "start": 244.12900000000002,
+          "end": 244.24900000000002,
+          "score": 0.859
+        },
+        {
+          "word": "a",
+          "start": 244.28900000000002,
+          "end": 244.329,
+          "score": 0.522
+        },
+        {
+          "word": "fish",
+          "start": 244.40900000000002,
+          "end": 244.68900000000002,
+          "score": 0.828
+        },
+        {
+          "word": "comes",
+          "start": 244.829,
+          "end": 245.049,
+          "score": 0.839
+        },
+        {
+          "word": "from",
+          "start": 245.06900000000002,
+          "end": 245.209,
+          "score": 0.818
+        },
+        {
+          "word": "a",
+          "start": 245.229,
+          "end": 245.269,
+          "score": 0.498
+        },
+        {
+          "word": "much",
+          "start": 245.30900000000003,
+          "end": 245.489,
+          "score": 0.843
+        },
+        {
+          "word": "smaller",
+          "start": 245.549,
+          "end": 245.97,
+          "score": 0.818
+        },
+        {
+          "word": "piece.",
+          "start": 246.03,
+          "end": 246.35000000000002,
+          "score": 0.918
+        }
+      ]
+    },
+    {
+      "id": "lure",
+      "words": [
+        {
+          "word": "Follow",
+          "start": 247.76999999999998,
+          "end": 248.071,
+          "score": 0.855
+        },
+        {
+          "word": "one",
+          "start": 248.21099999999998,
+          "end": 248.331,
+          "score": 0.657
+        },
+        {
+          "word": "tentacle",
+          "start": 248.391,
+          "end": 248.811,
+          "score": 0.856
+        },
+        {
+          "word": "in",
+          "start": 249.072,
+          "end": 249.132,
+          "score": 0.766
+        },
+        {
+          "word": "the",
+          "start": 249.152,
+          "end": 249.25199999999998,
+          "score": 0.803
+        },
+        {
+          "word": "enlarged",
+          "start": 249.31199999999998,
+          "end": 249.792,
+          "score": 0.885
+        },
+        {
+          "word": "view.",
+          "start": 249.892,
+          "end": 250.153,
+          "score": 0.94
+        },
+        {
+          "word": "Now",
+          "start": 251.214,
+          "end": 251.35399999999998,
+          "score": 0.892
+        },
+        {
+          "word": "take",
+          "start": 251.414,
+          "end": 251.594,
+          "score": 0.861
+        },
+        {
+          "word": "a",
+          "start": 251.634,
+          "end": 251.674,
+          "score": 0.507
+        },
+        {
+          "word": "branch",
+          "start": 251.714,
+          "end": 252.01399999999998,
+          "score": 0.864
+        },
+        {
+          "word": "off",
+          "start": 252.114,
+          "end": 252.254,
+          "score": 0.809
+        },
+        {
+          "word": "that",
+          "start": 252.29399999999998,
+          "end": 252.45499999999998,
+          "score": 0.854
+        },
+        {
+          "word": "branch.",
+          "start": 252.515,
+          "end": 252.935,
+          "score": 0.834
+        },
+        {
+          "word": "At",
+          "start": 253.936,
+          "end": 253.99599999999998,
+          "score": 0.809
+        },
+        {
+          "word": "the",
+          "start": 254.036,
+          "end": 254.136,
+          "score": 0.82
+        },
+        {
+          "word": "end",
+          "start": 254.27599999999998,
+          "end": 254.436,
+          "score": 0.805
+        },
+        {
+          "word": "is",
+          "start": 254.637,
+          "end": 254.71699999999998,
+          "score": 0.717
+        },
+        {
+          "word": "a",
+          "start": 254.777,
+          "end": 254.797,
+          "score": 1.0
+        },
+        {
+          "word": "lure",
+          "start": 254.857,
+          "end": 255.117,
+          "score": 0.756
+        },
+        {
+          "word": "that",
+          "start": 255.15699999999998,
+          "end": 255.277,
+          "score": 0.968
+        },
+        {
+          "word": "can",
+          "start": 255.317,
+          "end": 255.477,
+          "score": 0.91
+        },
+        {
+          "word": "twitch.",
+          "start": 255.557,
+          "end": 255.898,
+          "score": 0.969
+        },
+        {
+          "word": "A",
+          "start": 256.939,
+          "end": 256.979,
+          "score": 0.999
+        },
+        {
+          "word": "fish",
+          "start": 257.079,
+          "end": 257.359,
+          "score": 0.913
+        },
+        {
+          "word": "approaching",
+          "start": 257.419,
+          "end": 257.9,
+          "score": 0.794
+        },
+        {
+          "word": "from",
+          "start": 257.94,
+          "end": 258.06,
+          "score": 0.876
+        },
+        {
+          "word": "the",
+          "start": 258.1,
+          "end": 258.18,
+          "score": 0.833
+        },
+        {
+          "word": "darkness",
+          "start": 258.24,
+          "end": 258.76,
+          "score": 0.81
+        },
+        {
+          "word": "would",
+          "start": 259.161,
+          "end": 259.301,
+          "score": 0.808
+        },
+        {
+          "word": "encounter",
+          "start": 259.341,
+          "end": 259.921,
+          "score": 0.803
+        },
+        {
+          "word": "that",
+          "start": 259.961,
+          "end": 260.122,
+          "score": 0.768
+        },
+        {
+          "word": "little",
+          "start": 260.262,
+          "end": 260.502,
+          "score": 0.81
+        },
+        {
+          "word": "moving",
+          "start": 260.582,
+          "end": 260.962,
+          "score": 0.853
+        },
+        {
+          "word": "target",
+          "start": 261.022,
+          "end": 261.423,
+          "score": 0.818
+        },
+        {
+          "word": "before",
+          "start": 261.483,
+          "end": 261.863,
+          "score": 0.774
+        },
+        {
+          "word": "it",
+          "start": 261.923,
+          "end": 261.983,
+          "score": 0.75
+        },
+        {
+          "word": "could",
+          "start": 262.003,
+          "end": 262.163,
+          "score": 0.796
+        },
+        {
+          "word": "work",
+          "start": 262.204,
+          "end": 262.404,
+          "score": 0.824
+        },
+        {
+          "word": "out",
+          "start": 262.464,
+          "end": 262.584,
+          "score": 0.977
+        },
+        {
+          "word": "the",
+          "start": 262.62399999999997,
+          "end": 262.74399999999997,
+          "score": 0.502
+        },
+        {
+          "word": "outline",
+          "start": 262.884,
+          "end": 263.264,
+          "score": 0.896
+        },
+        {
+          "word": "of",
+          "start": 263.305,
+          "end": 263.34499999999997,
+          "score": 1.0
+        },
+        {
+          "word": "the",
+          "start": 263.385,
+          "end": 263.465,
+          "score": 0.833
+        },
+        {
+          "word": "hunter",
+          "start": 263.505,
+          "end": 263.825,
+          "score": 0.85
+        },
+        {
+          "word": "behind",
+          "start": 263.885,
+          "end": 264.305,
+          "score": 0.796
+        },
+        {
+          "word": "it.",
+          "start": 264.365,
+          "end": 264.426,
+          "score": 0.999
+        },
+        {
+          "word": "These",
+          "start": 265.486,
+          "end": 265.687,
+          "score": 0.813
+        },
+        {
+          "word": "few",
+          "start": 265.747,
+          "end": 265.947,
+          "score": 0.767
+        },
+        {
+          "word": "inches",
+          "start": 266.027,
+          "end": 266.267,
+          "score": 0.809
+        },
+        {
+          "word": "of",
+          "start": 266.287,
+          "end": 266.347,
+          "score": 0.75
+        },
+        {
+          "word": "screen",
+          "start": 266.387,
+          "end": 266.748,
+          "score": 0.846
+        },
+        {
+          "word": "stand",
+          "start": 266.828,
+          "end": 267.168,
+          "score": 0.846
+        },
+        {
+          "word": "in",
+          "start": 267.228,
+          "end": 267.308,
+          "score": 0.908
+        },
+        {
+          "word": "for",
+          "start": 267.368,
+          "end": 267.488,
+          "score": 0.769
+        },
+        {
+          "word": "a",
+          "start": 267.508,
+          "end": 267.528,
+          "score": 0.457
+        },
+        {
+          "word": "much",
+          "start": 267.568,
+          "end": 267.749,
+          "score": 0.75
+        },
+        {
+          "word": "smaller",
+          "start": 267.829,
+          "end": 268.229,
+          "score": 0.851
+        },
+        {
+          "word": "structure.",
+          "start": 268.289,
+          "end": 268.729,
+          "score": 0.833
+        }
+      ]
+    },
+    {
+      "id": "color",
+      "words": [
+        {
+          "word": "The",
+          "start": 270.11,
+          "end": 270.21000000000004,
+          "score": 0.817
+        },
+        {
+          "word": "color",
+          "start": 270.27000000000004,
+          "end": 270.571,
+          "score": 0.756
+        },
+        {
+          "word": "is",
+          "start": 270.651,
+          "end": 270.731,
+          "score": 0.51
+        },
+        {
+          "word": "a",
+          "start": 270.771,
+          "end": 270.791,
+          "score": 1.0
+        },
+        {
+          "word": "clue",
+          "start": 270.891,
+          "end": 271.151,
+          "score": 0.849
+        },
+        {
+          "word": "to",
+          "start": 271.211,
+          "end": 271.271,
+          "score": 0.814
+        },
+        {
+          "word": "how",
+          "start": 271.31100000000004,
+          "end": 271.451,
+          "score": 0.916
+        },
+        {
+          "word": "the",
+          "start": 271.512,
+          "end": 271.572,
+          "score": 0.999
+        },
+        {
+          "word": "lure",
+          "start": 271.612,
+          "end": 271.812,
+          "score": 0.875
+        },
+        {
+          "word": "works.",
+          "start": 271.85200000000003,
+          "end": 272.172,
+          "score": 0.886
+        },
+        {
+          "word": "Living",
+          "start": 273.213,
+          "end": 273.493,
+          "score": 0.886
+        },
+        {
+          "word": "tissue",
+          "start": 273.57300000000004,
+          "end": 273.934,
+          "score": 0.803
+        },
+        {
+          "word": "produces",
+          "start": 273.994,
+          "end": 274.454,
+          "score": 0.839
+        },
+        {
+          "word": "light.",
+          "start": 274.55400000000003,
+          "end": 274.814,
+          "score": 0.876
+        },
+        {
+          "word": "The",
+          "start": 275.77500000000003,
+          "end": 275.855,
+          "score": 0.972
+        },
+        {
+          "word": "researchers",
+          "start": 275.89500000000004,
+          "end": 276.456,
+          "score": 0.773
+        },
+        {
+          "word": "also",
+          "start": 276.736,
+          "end": 276.99600000000004,
+          "score": 0.905
+        },
+        {
+          "word": "found",
+          "start": 277.076,
+          "end": 277.357,
+          "score": 0.734
+        },
+        {
+          "word": "fluorescent",
+          "start": 277.457,
+          "end": 277.997,
+          "score": 0.755
+        },
+        {
+          "word": "material",
+          "start": 278.03700000000003,
+          "end": 278.558,
+          "score": 0.801
+        },
+        {
+          "word": "in",
+          "start": 278.618,
+          "end": 278.69800000000004,
+          "score": 0.81
+        },
+        {
+          "word": "the",
+          "start": 278.718,
+          "end": 278.778,
+          "score": 0.999
+        },
+        {
+          "word": "lure.",
+          "start": 278.838,
+          "end": 279.13800000000003,
+          "score": 0.828
+        },
+        {
+          "word": "It",
+          "start": 280.219,
+          "end": 280.279,
+          "score": 0.779
+        },
+        {
+          "word": "absorbs",
+          "start": 280.319,
+          "end": 280.8,
+          "score": 0.816
+        },
+        {
+          "word": "light",
+          "start": 280.88,
+          "end": 281.14000000000004,
+          "score": 0.741
+        },
+        {
+          "word": "and",
+          "start": 281.48,
+          "end": 281.56,
+          "score": 0.902
+        },
+        {
+          "word": "gives",
+          "start": 281.6,
+          "end": 281.78000000000003,
+          "score": 0.774
+        },
+        {
+          "word": "some",
+          "start": 281.82,
+          "end": 281.981,
+          "score": 0.898
+        },
+        {
+          "word": "back",
+          "start": 282.041,
+          "end": 282.321,
+          "score": 0.89
+        },
+        {
+          "word": "at",
+          "start": 282.361,
+          "end": 282.44100000000003,
+          "score": 0.786
+        },
+        {
+          "word": "a",
+          "start": 282.461,
+          "end": 282.50100000000003,
+          "score": 0.499
+        },
+        {
+          "word": "different",
+          "start": 282.541,
+          "end": 282.841,
+          "score": 0.727
+        },
+        {
+          "word": "wavelength.",
+          "start": 282.88100000000003,
+          "end": 283.442,
+          "score": 0.865
+        },
+        {
+          "word": "Put",
+          "start": 284.423,
+          "end": 284.56300000000005,
+          "score": 0.774
+        },
+        {
+          "word": "those",
+          "start": 284.603,
+          "end": 284.82300000000004,
+          "score": 0.779
+        },
+        {
+          "word": "processes",
+          "start": 284.88300000000004,
+          "end": 285.48400000000004,
+          "score": 0.829
+        },
+        {
+          "word": "together",
+          "start": 285.54400000000004,
+          "end": 285.944,
+          "score": 0.846
+        },
+        {
+          "word": "and",
+          "start": 286.384,
+          "end": 286.48400000000004,
+          "score": 0.667
+        },
+        {
+          "word": "the",
+          "start": 286.504,
+          "end": 286.584,
+          "score": 0.833
+        },
+        {
+          "word": "mature",
+          "start": 286.625,
+          "end": 286.985,
+          "score": 0.832
+        },
+        {
+          "word": "lure",
+          "start": 287.02500000000003,
+          "end": 287.225,
+          "score": 0.802
+        },
+        {
+          "word": "can",
+          "start": 287.26500000000004,
+          "end": 287.40500000000003,
+          "score": 0.995
+        },
+        {
+          "word": "send",
+          "start": 287.46500000000003,
+          "end": 287.70500000000004,
+          "score": 0.762
+        },
+        {
+          "word": "out",
+          "start": 287.80600000000004,
+          "end": 287.92600000000004,
+          "score": 0.844
+        },
+        {
+          "word": "a",
+          "start": 288.00600000000003,
+          "end": 288.046,
+          "score": 0.574
+        },
+        {
+          "word": "reddish",
+          "start": 288.12600000000003,
+          "end": 288.42600000000004,
+          "score": 0.961
+        },
+        {
+          "word": "signal.",
+          "start": 288.50600000000003,
+          "end": 288.906,
+          "score": 0.937
+        },
+        {
+          "word": "The",
+          "start": 289.887,
+          "end": 289.987,
+          "score": 0.84
+        },
+        {
+          "word": "surrounding",
+          "start": 290.02700000000004,
+          "end": 290.528,
+          "score": 0.833
+        },
+        {
+          "word": "colony",
+          "start": 290.608,
+          "end": 291.108,
+          "score": 0.861
+        },
+        {
+          "word": "doesn't",
+          "start": 291.409,
+          "end": 291.689,
+          "score": 0.778
+        },
+        {
+          "word": "have",
+          "start": 291.709,
+          "end": 291.889,
+          "score": 0.818
+        },
+        {
+          "word": "to",
+          "start": 291.92900000000003,
+          "end": 292.009,
+          "score": 0.905
+        },
+        {
+          "word": "light",
+          "start": 292.069,
+          "end": 292.28900000000004,
+          "score": 0.74
+        },
+        {
+          "word": "up.",
+          "start": 292.389,
+          "end": 292.47,
+          "score": 0.999
+        }
+      ]
+    },
+    {
+      "id": "fish",
+      "words": [
+        {
+          "word": "Here's",
+          "start": 293.81,
+          "end": 294.07000000000005,
+          "score": 0.666
+        },
+        {
+          "word": "a",
+          "start": 294.11,
+          "end": 294.15000000000003,
+          "score": 0.503
+        },
+        {
+          "word": "lanternfish,",
+          "start": 294.21000000000004,
+          "end": 294.951,
+          "score": 0.889
+        },
+        {
+          "word": "the",
+          "start": 295.471,
+          "end": 295.55100000000004,
+          "score": 0.983
+        },
+        {
+          "word": "kind",
+          "start": 295.591,
+          "end": 295.81100000000004,
+          "score": 0.907
+        },
+        {
+          "word": "of",
+          "start": 295.851,
+          "end": 295.91200000000003,
+          "score": 0.811
+        },
+        {
+          "word": "small",
+          "start": 296.012,
+          "end": 296.41200000000003,
+          "score": 0.811
+        },
+        {
+          "word": "midwater",
+          "start": 296.492,
+          "end": 297.052,
+          "score": 0.862
+        },
+        {
+          "word": "fish",
+          "start": 297.132,
+          "end": 297.452,
+          "score": 0.69
+        },
+        {
+          "word": "that",
+          "start": 297.533,
+          "end": 297.673,
+          "score": 0.87
+        },
+        {
+          "word": "puts",
+          "start": 297.713,
+          "end": 297.913,
+          "score": 0.827
+        },
+        {
+          "word": "the",
+          "start": 297.973,
+          "end": 298.07300000000004,
+          "score": 0.672
+        },
+        {
+          "word": "size",
+          "start": 298.13300000000004,
+          "end": 298.49300000000005,
+          "score": 0.829
+        },
+        {
+          "word": "of",
+          "start": 298.533,
+          "end": 298.57300000000004,
+          "score": 1.0
+        },
+        {
+          "word": "this",
+          "start": 298.63300000000004,
+          "end": 298.793,
+          "score": 0.798
+        },
+        {
+          "word": "meal",
+          "start": 298.87300000000005,
+          "end": 299.17400000000004,
+          "score": 0.711
+        },
+        {
+          "word": "in",
+          "start": 299.23400000000004,
+          "end": 299.314,
+          "score": 0.997
+        },
+        {
+          "word": "perspective.",
+          "start": 299.374,
+          "end": 299.97400000000005,
+          "score": 0.914
+        },
+        {
+          "word": "Notice",
+          "start": 301.095,
+          "end": 301.435,
+          "score": 0.907
+        },
+        {
+          "word": "the",
+          "start": 301.45500000000004,
+          "end": 301.555,
+          "score": 0.926
+        },
+        {
+          "word": "eye.",
+          "start": 301.77500000000003,
+          "end": 301.875,
+          "score": 0.921
+        },
+        {
+          "word": "Now",
+          "start": 302.87600000000003,
+          "end": 303.05600000000004,
+          "score": 0.825
+        },
+        {
+          "word": "imagine",
+          "start": 303.17600000000004,
+          "end": 303.596,
+          "score": 0.928
+        },
+        {
+          "word": "its",
+          "start": 303.636,
+          "end": 303.776,
+          "score": 0.708
+        },
+        {
+          "word": "view",
+          "start": 303.85600000000005,
+          "end": 304.036,
+          "score": 0.923
+        },
+        {
+          "word": "of",
+          "start": 304.076,
+          "end": 304.137,
+          "score": 0.758
+        },
+        {
+          "word": "the",
+          "start": 304.177,
+          "end": 304.257,
+          "score": 0.833
+        },
+        {
+          "word": "lure.",
+          "start": 304.297,
+          "end": 304.59700000000004,
+          "score": 0.67
+        },
+        {
+          "word": "Scientists",
+          "start": 305.637,
+          "end": 306.238,
+          "score": 0.822
+        },
+        {
+          "word": "have",
+          "start": 306.278,
+          "end": 306.418,
+          "score": 0.752
+        },
+        {
+          "word": "suggested",
+          "start": 306.458,
+          "end": 306.978,
+          "score": 0.878
+        },
+        {
+          "word": "the",
+          "start": 307.01800000000003,
+          "end": 307.098,
+          "score": 0.833
+        },
+        {
+          "word": "twitching",
+          "start": 307.11800000000005,
+          "end": 307.47900000000004,
+          "score": 0.901
+        },
+        {
+          "word": "tip",
+          "start": 307.53900000000004,
+          "end": 307.79900000000004,
+          "score": 0.917
+        },
+        {
+          "word": "resembles",
+          "start": 308.23900000000003,
+          "end": 308.759,
+          "score": 0.852
+        },
+        {
+          "word": "a",
+          "start": 308.819,
+          "end": 308.85900000000004,
+          "score": 0.982
+        },
+        {
+          "word": "small",
+          "start": 308.939,
+          "end": 309.3,
+          "score": 0.727
+        },
+        {
+          "word": "crustacean",
+          "start": 309.36,
+          "end": 310.0,
+          "score": 0.8
+        },
+        {
+          "word": "a",
+          "start": 310.14000000000004,
+          "end": 310.20000000000005,
+          "score": 0.94
+        },
+        {
+          "word": "fish",
+          "start": 310.28000000000003,
+          "end": 310.52000000000004,
+          "score": 0.8
+        },
+        {
+          "word": "might",
+          "start": 310.56,
+          "end": 310.781,
+          "score": 0.841
+        },
+        {
+          "word": "eat.",
+          "start": 310.88100000000003,
+          "end": 311.04100000000005,
+          "score": 0.793
+        },
+        {
+          "word": "We",
+          "start": 312.06100000000004,
+          "end": 312.141,
+          "score": 0.996
+        },
+        {
+          "word": "can",
+          "start": 312.18100000000004,
+          "end": 312.281,
+          "score": 0.996
+        },
+        {
+          "word": "describe",
+          "start": 312.30100000000004,
+          "end": 312.802,
+          "score": 0.831
+        },
+        {
+          "word": "the",
+          "start": 312.84200000000004,
+          "end": 312.922,
+          "score": 0.836
+        },
+        {
+          "word": "light",
+          "start": 312.982,
+          "end": 313.262,
+          "score": 0.832
+        },
+        {
+          "word": "and",
+          "start": 313.382,
+          "end": 313.46200000000005,
+          "score": 0.63
+        },
+        {
+          "word": "the",
+          "start": 313.482,
+          "end": 313.562,
+          "score": 0.831
+        },
+        {
+          "word": "motion.",
+          "start": 313.60200000000003,
+          "end": 314.00300000000004,
+          "score": 0.949
+        },
+        {
+          "word": "What",
+          "start": 315.00300000000004,
+          "end": 315.12300000000005,
+          "score": 0.875
+        },
+        {
+          "word": "the",
+          "start": 315.14300000000003,
+          "end": 315.223,
+          "score": 0.991
+        },
+        {
+          "word": "fish",
+          "start": 315.283,
+          "end": 315.50300000000004,
+          "score": 0.752
+        },
+        {
+          "word": "takes",
+          "start": 315.56300000000005,
+          "end": 315.80400000000003,
+          "score": 0.823
+        },
+        {
+          "word": "them",
+          "start": 315.84400000000005,
+          "end": 315.964,
+          "score": 0.978
+        },
+        {
+          "word": "to",
+          "start": 316.004,
+          "end": 316.084,
+          "score": 0.693
+        },
+        {
+          "word": "mean",
+          "start": 316.144,
+          "end": 316.404,
+          "score": 0.893
+        },
+        {
+          "word": "is",
+          "start": 316.764,
+          "end": 316.84400000000005,
+          "score": 0.672
+        },
+        {
+          "word": "an",
+          "start": 316.884,
+          "end": 316.944,
+          "score": 0.75
+        },
+        {
+          "word": "inference.",
+          "start": 317.04400000000004,
+          "end": 317.46500000000003,
+          "score": 0.87
+        }
+      ]
+    },
+    {
+      "id": "reach",
+      "words": [
+        {
+          "word": "That",
+          "start": 318.86499999999995,
+          "end": 319.005,
+          "score": 0.799
+        },
+        {
+          "word": "distinction",
+          "start": 319.04499999999996,
+          "end": 319.52599999999995,
+          "score": 0.765
+        },
+        {
+          "word": "changes",
+          "start": 319.58599999999996,
+          "end": 319.96599999999995,
+          "score": 0.772
+        },
+        {
+          "word": "how",
+          "start": 320.02599999999995,
+          "end": 320.14599999999996,
+          "score": 0.833
+        },
+        {
+          "word": "you",
+          "start": 320.186,
+          "end": 320.306,
+          "score": 0.975
+        },
+        {
+          "word": "watch",
+          "start": 320.366,
+          "end": 320.606,
+          "score": 0.825
+        },
+        {
+          "word": "a",
+          "start": 320.666,
+          "end": 320.68699999999995,
+          "score": 0.999
+        },
+        {
+          "word": "hunt.",
+          "start": 320.74699999999996,
+          "end": 321.027,
+          "score": 0.844
+        },
+        {
+          "word": "A",
+          "start": 322.087,
+          "end": 322.10699999999997,
+          "score": 1.0
+        },
+        {
+          "word": "glowing",
+          "start": 322.147,
+          "end": 322.508,
+          "score": 0.904
+        },
+        {
+          "word": "tip",
+          "start": 322.548,
+          "end": 322.72799999999995,
+          "score": 0.992
+        },
+        {
+          "word": "in",
+          "start": 322.768,
+          "end": 322.828,
+          "score": 0.752
+        },
+        {
+          "word": "a",
+          "start": 322.84799999999996,
+          "end": 322.868,
+          "score": 0.994
+        },
+        {
+          "word": "frame",
+          "start": 322.928,
+          "end": 323.268,
+          "score": 0.716
+        },
+        {
+          "word": "is",
+          "start": 323.669,
+          "end": 323.74899999999997,
+          "score": 0.525
+        },
+        {
+          "word": "evidence",
+          "start": 323.88899999999995,
+          "end": 324.229,
+          "score": 0.875
+        },
+        {
+          "word": "for",
+          "start": 324.26899999999995,
+          "end": 324.38899999999995,
+          "score": 0.727
+        },
+        {
+          "word": "a",
+          "start": 324.409,
+          "end": 324.429,
+          "score": 0.109
+        },
+        {
+          "word": "glowing",
+          "start": 324.44899999999996,
+          "end": 324.82899999999995,
+          "score": 0.864
+        },
+        {
+          "word": "tip.",
+          "start": 324.88899999999995,
+          "end": 325.15,
+          "score": 0.926
+        },
+        {
+          "word": "A",
+          "start": 326.19,
+          "end": 326.22999999999996,
+          "score": 0.515
+        },
+        {
+          "word": "fish",
+          "start": 326.28999999999996,
+          "end": 326.54999999999995,
+          "score": 0.854
+        },
+        {
+          "word": "found",
+          "start": 326.631,
+          "end": 326.89099999999996,
+          "score": 0.796
+        },
+        {
+          "word": "inside",
+          "start": 326.931,
+          "end": 327.291,
+          "score": 0.944
+        },
+        {
+          "word": "a",
+          "start": 327.33099999999996,
+          "end": 327.371,
+          "score": 0.5
+        },
+        {
+          "word": "feeding",
+          "start": 327.411,
+          "end": 327.71099999999996,
+          "score": 0.823
+        },
+        {
+          "word": "polyp",
+          "start": 327.751,
+          "end": 328.07099999999997,
+          "score": 0.81
+        },
+        {
+          "word": "is",
+          "start": 328.412,
+          "end": 328.512,
+          "score": 0.724
+        },
+        {
+          "word": "evidence",
+          "start": 328.67199999999997,
+          "end": 329.012,
+          "score": 0.911
+        },
+        {
+          "word": "for",
+          "start": 329.05199999999996,
+          "end": 329.19199999999995,
+          "score": 0.881
+        },
+        {
+          "word": "a",
+          "start": 329.212,
+          "end": 329.23199999999997,
+          "score": 0.992
+        },
+        {
+          "word": "meal.",
+          "start": 329.292,
+          "end": 329.59299999999996,
+          "score": 0.906
+        },
+        {
+          "word": "The",
+          "start": 330.613,
+          "end": 330.693,
+          "score": 0.981
+        },
+        {
+          "word": "tempting",
+          "start": 330.73299999999995,
+          "end": 331.094,
+          "score": 0.898
+        },
+        {
+          "word": "story",
+          "start": 331.13399999999996,
+          "end": 331.51399999999995,
+          "score": 0.821
+        },
+        {
+          "word": "in",
+          "start": 331.594,
+          "end": 331.674,
+          "score": 0.908
+        },
+        {
+          "word": "between",
+          "start": 331.714,
+          "end": 332.154,
+          "score": 0.806
+        },
+        {
+          "word": "has",
+          "start": 332.53499999999997,
+          "end": 332.715,
+          "score": 0.833
+        },
+        {
+          "word": "to",
+          "start": 332.755,
+          "end": 332.835,
+          "score": 0.984
+        },
+        {
+          "word": "fit",
+          "start": 332.895,
+          "end": 333.075,
+          "score": 0.857
+        },
+        {
+          "word": "both",
+          "start": 333.155,
+          "end": 333.41499999999996,
+          "score": 0.796
+        },
+        {
+          "word": "observations.",
+          "start": 333.515,
+          "end": 334.236,
+          "score": 0.899
+        },
+        {
+          "word": "The",
+          "start": 335.256,
+          "end": 335.33599999999996,
+          "score": 0.998
+        },
+        {
+          "word": "tentacle",
+          "start": 335.376,
+          "end": 335.777,
+          "score": 0.942
+        },
+        {
+          "word": "puts",
+          "start": 335.837,
+          "end": 336.077,
+          "score": 0.817
+        },
+        {
+          "word": "stinging",
+          "start": 336.11699999999996,
+          "end": 336.49699999999996,
+          "score": 0.842
+        },
+        {
+          "word": "cells",
+          "start": 336.577,
+          "end": 336.93699999999995,
+          "score": 0.859
+        },
+        {
+          "word": "within",
+          "start": 336.998,
+          "end": 337.27799999999996,
+          "score": 0.786
+        },
+        {
+          "word": "reach",
+          "start": 337.33799999999997,
+          "end": 337.53799999999995,
+          "score": 0.66
+        },
+        {
+          "word": "of",
+          "start": 337.578,
+          "end": 337.618,
+          "score": 1.0
+        },
+        {
+          "word": "a",
+          "start": 337.678,
+          "end": 337.698,
+          "score": 0.997
+        },
+        {
+          "word": "fish",
+          "start": 337.77799999999996,
+          "end": 338.09799999999996,
+          "score": 0.777
+        },
+        {
+          "word": "drawn",
+          "start": 338.55899999999997,
+          "end": 338.919,
+          "score": 0.896
+        },
+        {
+          "word": "toward",
+          "start": 338.979,
+          "end": 339.25899999999996,
+          "score": 0.851
+        },
+        {
+          "word": "the",
+          "start": 339.279,
+          "end": 339.359,
+          "score": 0.832
+        },
+        {
+          "word": "moving",
+          "start": 339.419,
+          "end": 339.739,
+          "score": 0.787
+        },
+        {
+          "word": "light.",
+          "start": 339.799,
+          "end": 340.03999999999996,
+          "score": 0.914
+        }
+      ]
+    },
+    {
+      "id": "observed",
+      "words": [
+        {
+          "word": "Suppose",
+          "start": 341.44,
+          "end": 341.76099999999997,
+          "score": 0.85
+        },
+        {
+          "word": "you",
+          "start": 341.801,
+          "end": 341.941,
+          "score": 0.931
+        },
+        {
+          "word": "found",
+          "start": 341.96099999999996,
+          "end": 342.221,
+          "score": 0.678
+        },
+        {
+          "word": "only",
+          "start": 342.361,
+          "end": 342.561,
+          "score": 0.685
+        },
+        {
+          "word": "the",
+          "start": 342.601,
+          "end": 342.702,
+          "score": 0.722
+        },
+        {
+          "word": "bell",
+          "start": 342.74199999999996,
+          "end": 342.962,
+          "score": 0.87
+        },
+        {
+          "word": "end",
+          "start": 343.102,
+          "end": 343.282,
+          "score": 0.723
+        },
+        {
+          "word": "in",
+          "start": 343.602,
+          "end": 343.68199999999996,
+          "score": 0.834
+        },
+        {
+          "word": "a",
+          "start": 343.703,
+          "end": 343.72299999999996,
+          "score": 0.998
+        },
+        {
+          "word": "sample",
+          "start": 343.803,
+          "end": 344.203,
+          "score": 0.817
+        },
+        {
+          "word": "jar.",
+          "start": 344.263,
+          "end": 344.603,
+          "score": 0.923
+        },
+        {
+          "word": "You",
+          "start": 345.62399999999997,
+          "end": 345.724,
+          "score": 0.979
+        },
+        {
+          "word": "could",
+          "start": 345.74399999999997,
+          "end": 345.905,
+          "score": 0.774
+        },
+        {
+          "word": "work",
+          "start": 345.92499999999995,
+          "end": 346.145,
+          "score": 0.765
+        },
+        {
+          "word": "out",
+          "start": 346.22499999999997,
+          "end": 346.34499999999997,
+          "score": 0.878
+        },
+        {
+          "word": "how",
+          "start": 346.385,
+          "end": 346.505,
+          "score": 0.783
+        },
+        {
+          "word": "the",
+          "start": 346.54499999999996,
+          "end": 346.625,
+          "score": 0.839
+        },
+        {
+          "word": "colony",
+          "start": 346.66499999999996,
+          "end": 347.166,
+          "score": 0.854
+        },
+        {
+          "word": "swam,",
+          "start": 347.246,
+          "end": 347.70599999999996,
+          "score": 0.876
+        },
+        {
+          "word": "and",
+          "start": 348.18699999999995,
+          "end": 348.267,
+          "score": 0.862
+        },
+        {
+          "word": "miss",
+          "start": 348.30699999999996,
+          "end": 348.48699999999997,
+          "score": 0.922
+        },
+        {
+          "word": "almost",
+          "start": 348.627,
+          "end": 348.92699999999996,
+          "score": 0.854
+        },
+        {
+          "word": "everything",
+          "start": 349.128,
+          "end": 349.52799999999996,
+          "score": 0.833
+        },
+        {
+          "word": "about",
+          "start": 349.58799999999997,
+          "end": 349.808,
+          "score": 0.907
+        },
+        {
+          "word": "what",
+          "start": 349.84799999999996,
+          "end": 349.988,
+          "score": 0.898
+        },
+        {
+          "word": "it",
+          "start": 350.008,
+          "end": 350.068,
+          "score": 0.738
+        },
+        {
+          "word": "ate.",
+          "start": 350.149,
+          "end": 350.30899999999997,
+          "score": 0.918
+        },
+        {
+          "word": "Suppose",
+          "start": 351.34999999999997,
+          "end": 351.66999999999996,
+          "score": 0.92
+        },
+        {
+          "word": "you",
+          "start": 351.71,
+          "end": 351.84999999999997,
+          "score": 0.927
+        },
+        {
+          "word": "found",
+          "start": 351.87,
+          "end": 352.13,
+          "score": 0.61
+        },
+        {
+          "word": "only",
+          "start": 352.291,
+          "end": 352.471,
+          "score": 0.862
+        },
+        {
+          "word": "a",
+          "start": 352.531,
+          "end": 352.57099999999997,
+          "score": 0.5
+        },
+        {
+          "word": "loose",
+          "start": 352.631,
+          "end": 352.911,
+          "score": 0.752
+        },
+        {
+          "word": "tentacle.",
+          "start": 352.971,
+          "end": 353.452,
+          "score": 0.948
+        },
+        {
+          "word": "You",
+          "start": 354.413,
+          "end": 354.513,
+          "score": 0.742
+        },
+        {
+          "word": "might",
+          "start": 354.553,
+          "end": 354.71299999999997,
+          "score": 0.9
+        },
+        {
+          "word": "see",
+          "start": 354.77299999999997,
+          "end": 354.97299999999996,
+          "score": 0.779
+        },
+        {
+          "word": "the",
+          "start": 354.993,
+          "end": 355.09299999999996,
+          "score": 0.67
+        },
+        {
+          "word": "bright",
+          "start": 355.133,
+          "end": 355.413,
+          "score": 0.728
+        },
+        {
+          "word": "tip,",
+          "start": 355.474,
+          "end": 355.734,
+          "score": 0.921
+        },
+        {
+          "word": "yet",
+          "start": 356.19399999999996,
+          "end": 356.37399999999997,
+          "score": 0.829
+        },
+        {
+          "word": "never",
+          "start": 356.49399999999997,
+          "end": 356.715,
+          "score": 0.797
+        },
+        {
+          "word": "know",
+          "start": 356.775,
+          "end": 357.015,
+          "score": 0.725
+        },
+        {
+          "word": "where",
+          "start": 357.055,
+          "end": 357.23499999999996,
+          "score": 0.829
+        },
+        {
+          "word": "it",
+          "start": 357.275,
+          "end": 357.315,
+          "score": 1.0
+        },
+        {
+          "word": "hung",
+          "start": 357.375,
+          "end": 357.616,
+          "score": 0.853
+        },
+        {
+          "word": "in",
+          "start": 357.676,
+          "end": 357.756,
+          "score": 0.972
+        },
+        {
+          "word": "relation",
+          "start": 357.816,
+          "end": 358.316,
+          "score": 0.877
+        },
+        {
+          "word": "to",
+          "start": 358.356,
+          "end": 358.436,
+          "score": 0.924
+        },
+        {
+          "word": "the",
+          "start": 358.476,
+          "end": 358.536,
+          "score": 1.0
+        },
+        {
+          "word": "mouth.",
+          "start": 358.596,
+          "end": 358.87699999999995,
+          "score": 0.922
+        },
+        {
+          "word": "The",
+          "start": 359.918,
+          "end": 360.018,
+          "score": 0.733
+        },
+        {
+          "word": "arrangement",
+          "start": 360.058,
+          "end": 360.558,
+          "score": 0.84
+        },
+        {
+          "word": "itself",
+          "start": 360.59799999999996,
+          "end": 360.979,
+          "score": 0.857
+        },
+        {
+          "word": "is",
+          "start": 361.19899999999996,
+          "end": 361.279,
+          "score": 0.673
+        },
+        {
+          "word": "evidence.",
+          "start": 361.419,
+          "end": 361.81899999999996,
+          "score": 0.952
+        }
+      ]
+    },
+    {
+      "id": "vehicle",
+      "words": [
+        {
+          "word": "This",
+          "start": 363.22,
+          "end": 363.401,
+          "score": 0.842
+        },
+        {
+          "word": "is",
+          "start": 363.481,
+          "end": 363.541,
+          "score": 0.98
+        },
+        {
+          "word": "where",
+          "start": 363.601,
+          "end": 363.801,
+          "score": 0.646
+        },
+        {
+          "word": "a",
+          "start": 363.981,
+          "end": 364.021,
+          "score": 0.5
+        },
+        {
+          "word": "remotely",
+          "start": 364.081,
+          "end": 364.60200000000003,
+          "score": 0.794
+        },
+        {
+          "word": "operated",
+          "start": 364.802,
+          "end": 365.28200000000004,
+          "score": 0.816
+        },
+        {
+          "word": "vehicle",
+          "start": 365.362,
+          "end": 365.783,
+          "score": 0.697
+        },
+        {
+          "word": "earns",
+          "start": 366.14300000000003,
+          "end": 366.343,
+          "score": 0.724
+        },
+        {
+          "word": "its",
+          "start": 366.403,
+          "end": 366.503,
+          "score": 0.824
+        },
+        {
+          "word": "place",
+          "start": 366.584,
+          "end": 366.904,
+          "score": 0.873
+        },
+        {
+          "word": "in",
+          "start": 366.944,
+          "end": 367.024,
+          "score": 0.822
+        },
+        {
+          "word": "the",
+          "start": 367.064,
+          "end": 367.124,
+          "score": 0.995
+        },
+        {
+          "word": "story.",
+          "start": 367.184,
+          "end": 367.605,
+          "score": 0.91
+        },
+        {
+          "word": "A",
+          "start": 368.68600000000004,
+          "end": 368.706,
+          "score": 1.0
+        },
+        {
+          "word": "tether",
+          "start": 368.766,
+          "end": 369.086,
+          "score": 0.909
+        },
+        {
+          "word": "connects",
+          "start": 369.146,
+          "end": 369.526,
+          "score": 0.741
+        },
+        {
+          "word": "the",
+          "start": 369.56600000000003,
+          "end": 369.646,
+          "score": 0.834
+        },
+        {
+          "word": "vehicle",
+          "start": 369.68600000000004,
+          "end": 370.007,
+          "score": 0.804
+        },
+        {
+          "word": "to",
+          "start": 370.067,
+          "end": 370.187,
+          "score": 0.686
+        },
+        {
+          "word": "a",
+          "start": 370.247,
+          "end": 370.28700000000003,
+          "score": 0.5
+        },
+        {
+          "word": "ship.",
+          "start": 370.34700000000004,
+          "end": 370.607,
+          "score": 0.895
+        },
+        {
+          "word": "The",
+          "start": 371.568,
+          "end": 371.648,
+          "score": 0.918
+        },
+        {
+          "word": "people",
+          "start": 371.688,
+          "end": 371.98900000000003,
+          "score": 0.747
+        },
+        {
+          "word": "watching",
+          "start": 372.04900000000004,
+          "end": 372.409,
+          "score": 0.915
+        },
+        {
+          "word": "the",
+          "start": 372.42900000000003,
+          "end": 372.48900000000003,
+          "score": 0.999
+        },
+        {
+          "word": "screens",
+          "start": 372.54900000000004,
+          "end": 372.91,
+          "score": 0.873
+        },
+        {
+          "word": "above",
+          "start": 372.99,
+          "end": 373.33,
+          "score": 0.852
+        },
+        {
+          "word": "can",
+          "start": 373.65000000000003,
+          "end": 373.81,
+          "score": 0.953
+        },
+        {
+          "word": "stop,",
+          "start": 373.89,
+          "end": 374.271,
+          "score": 0.884
+        },
+        {
+          "word": "turn,",
+          "start": 374.711,
+          "end": 375.112,
+          "score": 0.783
+        },
+        {
+          "word": "and",
+          "start": 375.29200000000003,
+          "end": 375.372,
+          "score": 0.833
+        },
+        {
+          "word": "look",
+          "start": 375.41200000000003,
+          "end": 375.612,
+          "score": 0.748
+        },
+        {
+          "word": "along",
+          "start": 375.672,
+          "end": 375.952,
+          "score": 0.795
+        },
+        {
+          "word": "a",
+          "start": 376.012,
+          "end": 376.03200000000004,
+          "score": 0.998
+        },
+        {
+          "word": "colony",
+          "start": 376.113,
+          "end": 376.593,
+          "score": 0.853
+        },
+        {
+          "word": "that's",
+          "start": 376.63300000000004,
+          "end": 376.813,
+          "score": 0.683
+        },
+        {
+          "word": "still",
+          "start": 376.853,
+          "end": 377.093,
+          "score": 0.874
+        },
+        {
+          "word": "suspended",
+          "start": 377.134,
+          "end": 377.67400000000004,
+          "score": 0.8
+        },
+        {
+          "word": "in",
+          "start": 377.73400000000004,
+          "end": 377.814,
+          "score": 0.834
+        },
+        {
+          "word": "water.",
+          "start": 377.894,
+          "end": 378.235,
+          "score": 0.904
+        },
+        {
+          "word": "They",
+          "start": 379.25600000000003,
+          "end": 379.396,
+          "score": 0.798
+        },
+        {
+          "word": "can",
+          "start": 379.416,
+          "end": 379.576,
+          "score": 0.839
+        },
+        {
+          "word": "record",
+          "start": 379.616,
+          "end": 380.096,
+          "score": 0.791
+        },
+        {
+          "word": "which",
+          "start": 380.136,
+          "end": 380.317,
+          "score": 0.763
+        },
+        {
+          "word": "end",
+          "start": 380.47700000000003,
+          "end": 380.617,
+          "score": 0.995
+        },
+        {
+          "word": "is",
+          "start": 380.677,
+          "end": 380.757,
+          "score": 0.669
+        },
+        {
+          "word": "pulsing",
+          "start": 380.837,
+          "end": 381.277,
+          "score": 0.854
+        },
+        {
+          "word": "before",
+          "start": 381.63800000000003,
+          "end": 381.918,
+          "score": 0.828
+        },
+        {
+          "word": "deciding",
+          "start": 381.978,
+          "end": 382.499,
+          "score": 0.835
+        },
+        {
+          "word": "where",
+          "start": 382.539,
+          "end": 382.699,
+          "score": 0.828
+        },
+        {
+          "word": "to",
+          "start": 382.719,
+          "end": 382.779,
+          "score": 0.749
+        },
+        {
+          "word": "look",
+          "start": 382.819,
+          "end": 382.999,
+          "score": 0.906
+        },
+        {
+          "word": "next.",
+          "start": 383.079,
+          "end": 383.419,
+          "score": 0.926
+        }
+      ]
+    },
+    {
+      "id": "scale",
+      "words": [
+        {
+          "word": "Start",
+          "start": 384.78,
+          "end": 385.0,
+          "score": 0.848
+        },
+        {
+          "word": "the",
+          "start": 385.02,
+          "end": 385.1,
+          "score": 0.841
+        },
+        {
+          "word": "camera",
+          "start": 385.12,
+          "end": 385.52,
+          "score": 0.866
+        },
+        {
+          "word": "too",
+          "start": 385.56,
+          "end": 385.74,
+          "score": 0.885
+        },
+        {
+          "word": "close",
+          "start": 385.8,
+          "end": 386.15999999999997,
+          "score": 0.885
+        },
+        {
+          "word": "and",
+          "start": 386.6,
+          "end": 386.7,
+          "score": 0.798
+        },
+        {
+          "word": "every",
+          "start": 386.861,
+          "end": 387.081,
+          "score": 0.684
+        },
+        {
+          "word": "ripple",
+          "start": 387.161,
+          "end": 387.421,
+          "score": 0.824
+        },
+        {
+          "word": "looks",
+          "start": 387.481,
+          "end": 387.701,
+          "score": 0.834
+        },
+        {
+          "word": "like",
+          "start": 387.76099999999997,
+          "end": 387.921,
+          "score": 0.756
+        },
+        {
+          "word": "a",
+          "start": 387.961,
+          "end": 388.001,
+          "score": 0.505
+        },
+        {
+          "word": "separate",
+          "start": 388.081,
+          "end": 388.461,
+          "score": 0.814
+        },
+        {
+          "word": "jelly.",
+          "start": 388.541,
+          "end": 388.901,
+          "score": 0.932
+        },
+        {
+          "word": "Pull",
+          "start": 389.881,
+          "end": 390.081,
+          "score": 0.916
+        },
+        {
+          "word": "all",
+          "start": 390.161,
+          "end": 390.281,
+          "score": 0.964
+        },
+        {
+          "word": "the",
+          "start": 390.32099999999997,
+          "end": 390.401,
+          "score": 0.885
+        },
+        {
+          "word": "way",
+          "start": 390.441,
+          "end": 390.601,
+          "score": 0.615
+        },
+        {
+          "word": "back",
+          "start": 390.661,
+          "end": 390.901,
+          "score": 0.888
+        },
+        {
+          "word": "and",
+          "start": 391.221,
+          "end": 391.301,
+          "score": 0.834
+        },
+        {
+          "word": "the",
+          "start": 391.32099999999997,
+          "end": 391.401,
+          "score": 0.833
+        },
+        {
+          "word": "finest",
+          "start": 391.461,
+          "end": 391.802,
+          "score": 0.801
+        },
+        {
+          "word": "branches",
+          "start": 391.882,
+          "end": 392.342,
+          "score": 0.798
+        },
+        {
+          "word": "vanish.",
+          "start": 392.42199999999997,
+          "end": 392.822,
+          "score": 0.882
+        },
+        {
+          "word": "The",
+          "start": 393.822,
+          "end": 393.92199999999997,
+          "score": 0.863
+        },
+        {
+          "word": "wide",
+          "start": 393.962,
+          "end": 394.262,
+          "score": 0.778
+        },
+        {
+          "word": "view",
+          "start": 394.322,
+          "end": 394.542,
+          "score": 0.839
+        },
+        {
+          "word": "supplies",
+          "start": 394.742,
+          "end": 395.202,
+          "score": 0.826
+        },
+        {
+          "word": "an",
+          "start": 395.262,
+          "end": 395.322,
+          "score": 0.696
+        },
+        {
+          "word": "address",
+          "start": 395.36199999999997,
+          "end": 395.742,
+          "score": 0.83
+        },
+        {
+          "word": "for",
+          "start": 395.782,
+          "end": 395.882,
+          "score": 0.882
+        },
+        {
+          "word": "the",
+          "start": 395.902,
+          "end": 395.962,
+          "score": 0.999
+        },
+        {
+          "word": "close",
+          "start": 396.002,
+          "end": 396.282,
+          "score": 0.956
+        },
+        {
+          "word": "view.",
+          "start": 396.363,
+          "end": 396.58299999999997,
+          "score": 0.939
+        },
+        {
+          "word": "First",
+          "start": 397.643,
+          "end": 397.923,
+          "score": 0.73
+        },
+        {
+          "word": "locate",
+          "start": 398.023,
+          "end": 398.403,
+          "score": 0.935
+        },
+        {
+          "word": "the",
+          "start": 398.443,
+          "end": 398.523,
+          "score": 0.897
+        },
+        {
+          "word": "swimming",
+          "start": 398.563,
+          "end": 398.883,
+          "score": 0.914
+        },
+        {
+          "word": "end.",
+          "start": 399.003,
+          "end": 399.183,
+          "score": 0.873
+        },
+        {
+          "word": "Then",
+          "start": 400.203,
+          "end": 400.383,
+          "score": 0.85
+        },
+        {
+          "word": "follow",
+          "start": 400.483,
+          "end": 400.783,
+          "score": 0.843
+        },
+        {
+          "word": "the",
+          "start": 400.803,
+          "end": 400.883,
+          "score": 0.876
+        },
+        {
+          "word": "shared",
+          "start": 400.923,
+          "end": 401.224,
+          "score": 0.764
+        },
+        {
+          "word": "stem.",
+          "start": 401.24399999999997,
+          "end": 401.584,
+          "score": 0.844
+        },
+        {
+          "word": "Only",
+          "start": 402.644,
+          "end": 402.844,
+          "score": 0.678
+        },
+        {
+          "word": "then",
+          "start": 402.884,
+          "end": 403.084,
+          "score": 0.781
+        },
+        {
+          "word": "does",
+          "start": 403.124,
+          "end": 403.284,
+          "score": 0.693
+        },
+        {
+          "word": "a",
+          "start": 403.324,
+          "end": 403.364,
+          "score": 0.593
+        },
+        {
+          "word": "close",
+          "start": 403.424,
+          "end": 403.704,
+          "score": 0.916
+        },
+        {
+          "word": "pass",
+          "start": 403.784,
+          "end": 404.18399999999997,
+          "score": 0.844
+        },
+        {
+          "word": "by",
+          "start": 404.624,
+          "end": 404.764,
+          "score": 0.839
+        },
+        {
+          "word": "a",
+          "start": 404.824,
+          "end": 404.844,
+          "score": 0.999
+        },
+        {
+          "word": "tentacle",
+          "start": 404.924,
+          "end": 405.364,
+          "score": 0.884
+        },
+        {
+          "word": "tell",
+          "start": 405.404,
+          "end": 405.644,
+          "score": 0.83
+        },
+        {
+          "word": "you",
+          "start": 405.68399999999997,
+          "end": 405.804,
+          "score": 0.889
+        },
+        {
+          "word": "which",
+          "start": 405.84499999999997,
+          "end": 406.005,
+          "score": 0.92
+        },
+        {
+          "word": "part",
+          "start": 406.085,
+          "end": 406.28499999999997,
+          "score": 0.708
+        },
+        {
+          "word": "of",
+          "start": 406.305,
+          "end": 406.365,
+          "score": 0.75
+        },
+        {
+          "word": "the",
+          "start": 406.385,
+          "end": 406.485,
+          "score": 0.667
+        },
+        {
+          "word": "animal",
+          "start": 406.665,
+          "end": 406.965,
+          "score": 0.796
+        },
+        {
+          "word": "you're",
+          "start": 407.005,
+          "end": 407.185,
+          "score": 0.734
+        },
+        {
+          "word": "seeing.",
+          "start": 407.225,
+          "end": 407.605,
+          "score": 0.878
+        }
+      ]
+    },
+    {
+      "id": "lamp",
+      "words": [
+        {
+          "word": "The",
+          "start": 408.98499999999996,
+          "end": 409.085,
+          "score": 0.826
+        },
+        {
+          "word": "light",
+          "start": 409.145,
+          "end": 409.426,
+          "score": 0.77
+        },
+        {
+          "word": "used",
+          "start": 409.606,
+          "end": 409.746,
+          "score": 0.854
+        },
+        {
+          "word": "to",
+          "start": 409.76599999999996,
+          "end": 409.82599999999996,
+          "score": 0.888
+        },
+        {
+          "word": "see",
+          "start": 409.866,
+          "end": 410.02599999999995,
+          "score": 0.83
+        },
+        {
+          "word": "the",
+          "start": 410.066,
+          "end": 410.14599999999996,
+          "score": 0.843
+        },
+        {
+          "word": "colony",
+          "start": 410.20599999999996,
+          "end": 410.62699999999995,
+          "score": 0.795
+        },
+        {
+          "word": "changes",
+          "start": 410.707,
+          "end": 411.087,
+          "score": 0.748
+        },
+        {
+          "word": "the",
+          "start": 411.12699999999995,
+          "end": 411.207,
+          "score": 0.925
+        },
+        {
+          "word": "picture,",
+          "start": 411.267,
+          "end": 411.60699999999997,
+          "score": 0.905
+        },
+        {
+          "word": "too.",
+          "start": 411.748,
+          "end": 412.008,
+          "score": 0.846
+        },
+        {
+          "word": "Expedition",
+          "start": 413.109,
+          "end": 413.709,
+          "score": 0.96
+        },
+        {
+          "word": "lamps",
+          "start": 413.769,
+          "end": 414.10999999999996,
+          "score": 0.954
+        },
+        {
+          "word": "reveal",
+          "start": 414.27,
+          "end": 414.65,
+          "score": 0.768
+        },
+        {
+          "word": "the",
+          "start": 414.69,
+          "end": 414.78999999999996,
+          "score": 0.669
+        },
+        {
+          "word": "outline",
+          "start": 414.90999999999997,
+          "end": 415.28999999999996,
+          "score": 0.822
+        },
+        {
+          "word": "of",
+          "start": 415.31,
+          "end": 415.371,
+          "score": 0.75
+        },
+        {
+          "word": "transparent",
+          "start": 415.411,
+          "end": 416.051,
+          "score": 0.673
+        },
+        {
+          "word": "tissue",
+          "start": 416.091,
+          "end": 416.491,
+          "score": 0.732
+        },
+        {
+          "word": "as",
+          "start": 416.81199999999995,
+          "end": 416.892,
+          "score": 0.818
+        },
+        {
+          "word": "it",
+          "start": 416.952,
+          "end": 417.012,
+          "score": 0.798
+        },
+        {
+          "word": "bends",
+          "start": 417.092,
+          "end": 417.49199999999996,
+          "score": 0.821
+        },
+        {
+          "word": "and",
+          "start": 417.953,
+          "end": 418.03299999999996,
+          "score": 0.842
+        },
+        {
+          "word": "reflects",
+          "start": 418.09299999999996,
+          "end": 418.513,
+          "score": 0.895
+        },
+        {
+          "word": "their",
+          "start": 418.573,
+          "end": 418.733,
+          "score": 0.932
+        },
+        {
+          "word": "light.",
+          "start": 418.813,
+          "end": 419.07399999999996,
+          "score": 0.912
+        },
+        {
+          "word": "A",
+          "start": 420.13399999999996,
+          "end": 420.174,
+          "score": 0.522
+        },
+        {
+          "word": "lure",
+          "start": 420.23499999999996,
+          "end": 420.47499999999997,
+          "score": 0.813
+        },
+        {
+          "word": "making",
+          "start": 420.515,
+          "end": 420.835,
+          "score": 0.887
+        },
+        {
+          "word": "light",
+          "start": 420.875,
+          "end": 421.075,
+          "score": 0.771
+        },
+        {
+          "word": "of",
+          "start": 421.09499999999997,
+          "end": 421.135,
+          "score": 1.0
+        },
+        {
+          "word": "its",
+          "start": 421.195,
+          "end": 421.29499999999996,
+          "score": 0.818
+        },
+        {
+          "word": "own",
+          "start": 421.496,
+          "end": 421.656,
+          "score": 0.844
+        },
+        {
+          "word": "asks",
+          "start": 422.156,
+          "end": 422.416,
+          "score": 0.681
+        },
+        {
+          "word": "a",
+          "start": 422.476,
+          "end": 422.51599999999996,
+          "score": 0.503
+        },
+        {
+          "word": "different",
+          "start": 422.556,
+          "end": 422.85699999999997,
+          "score": 0.814
+        },
+        {
+          "word": "question.",
+          "start": 422.897,
+          "end": 423.37699999999995,
+          "score": 0.749
+        },
+        {
+          "word": "An",
+          "start": 424.418,
+          "end": 424.518,
+          "score": 0.747
+        },
+        {
+          "word": "illuminated",
+          "start": 424.558,
+          "end": 425.179,
+          "score": 0.927
+        },
+        {
+          "word": "portrait",
+          "start": 425.25899999999996,
+          "end": 425.719,
+          "score": 0.801
+        },
+        {
+          "word": "and",
+          "start": 426.039,
+          "end": 426.11899999999997,
+          "score": 0.974
+        },
+        {
+          "word": "an",
+          "start": 426.13899999999995,
+          "end": 426.19899999999996,
+          "score": 0.766
+        },
+        {
+          "word": "observation",
+          "start": 426.4,
+          "end": 427.03999999999996,
+          "score": 0.808
+        },
+        {
+          "word": "of",
+          "start": 427.06,
+          "end": 427.12,
+          "score": 0.75
+        },
+        {
+          "word": "a",
+          "start": 427.15999999999997,
+          "end": 427.2,
+          "score": 0.581
+        },
+        {
+          "word": "glow",
+          "start": 427.26,
+          "end": 427.601,
+          "score": 0.9
+        },
+        {
+          "word": "in",
+          "start": 427.661,
+          "end": 427.76099999999997,
+          "score": 0.867
+        },
+        {
+          "word": "darkness",
+          "start": 427.82099999999997,
+          "end": 428.341,
+          "score": 0.835
+        },
+        {
+          "word": "can",
+          "start": 428.842,
+          "end": 428.98199999999997,
+          "score": 0.996
+        },
+        {
+          "word": "describe",
+          "start": 429.022,
+          "end": 429.56199999999995,
+          "score": 0.82
+        },
+        {
+          "word": "the",
+          "start": 429.62199999999996,
+          "end": 429.722,
+          "score": 0.833
+        },
+        {
+          "word": "same",
+          "start": 429.782,
+          "end": 430.063,
+          "score": 0.668
+        },
+        {
+          "word": "animal",
+          "start": 430.28299999999996,
+          "end": 430.60299999999995,
+          "score": 0.772
+        },
+        {
+          "word": "while",
+          "start": 430.683,
+          "end": 430.883,
+          "score": 0.936
+        },
+        {
+          "word": "showing",
+          "start": 430.943,
+          "end": 431.284,
+          "score": 0.792
+        },
+        {
+          "word": "quite",
+          "start": 431.38399999999996,
+          "end": 431.62399999999997,
+          "score": 0.633
+        },
+        {
+          "word": "different",
+          "start": 431.68399999999997,
+          "end": 431.984,
+          "score": 0.857
+        },
+        {
+          "word": "things.",
+          "start": 432.044,
+          "end": 432.404,
+          "score": 0.948
+        }
+      ]
+    },
+    {
+      "id": "return",
+      "words": [
+        {
+          "word": "Go",
+          "start": 433.86499999999995,
+          "end": 434.005,
+          "score": 0.996
+        },
+        {
+          "word": "back",
+          "start": 434.065,
+          "end": 434.265,
+          "score": 0.954
+        },
+        {
+          "word": "to",
+          "start": 434.30499999999995,
+          "end": 434.405,
+          "score": 0.704
+        },
+        {
+          "word": "Puerto",
+          "start": 434.465,
+          "end": 434.825,
+          "score": 0.773
+        },
+        {
+          "word": "Rico.",
+          "start": 434.885,
+          "end": 435.30499999999995,
+          "score": 0.974
+        },
+        {
+          "word": "The",
+          "start": 436.286,
+          "end": 436.38599999999997,
+          "score": 0.792
+        },
+        {
+          "word": "photograph",
+          "start": 436.426,
+          "end": 436.986,
+          "score": 0.831
+        },
+        {
+          "word": "hasn't",
+          "start": 437.02599999999995,
+          "end": 437.32599999999996,
+          "score": 0.802
+        },
+        {
+          "word": "changed.",
+          "start": 437.366,
+          "end": 437.88599999999997,
+          "score": 0.796
+        },
+        {
+          "word": "Try",
+          "start": 438.846,
+          "end": 439.14599999999996,
+          "score": 0.897
+        },
+        {
+          "word": "reading",
+          "start": 439.246,
+          "end": 439.546,
+          "score": 0.755
+        },
+        {
+          "word": "it",
+          "start": 439.606,
+          "end": 439.686,
+          "score": 0.526
+        },
+        {
+          "word": "from",
+          "start": 439.726,
+          "end": 439.82599999999996,
+          "score": 0.999
+        },
+        {
+          "word": "the",
+          "start": 439.866,
+          "end": 439.926,
+          "score": 0.997
+        },
+        {
+          "word": "tip",
+          "start": 439.96599999999995,
+          "end": 440.167,
+          "score": 0.869
+        },
+        {
+          "word": "this",
+          "start": 440.207,
+          "end": 440.347,
+          "score": 0.84
+        },
+        {
+          "word": "time.",
+          "start": 440.42699999999996,
+          "end": 440.74699999999996,
+          "score": 0.886
+        },
+        {
+          "word": "There's",
+          "start": 441.727,
+          "end": 441.947,
+          "score": 0.813
+        },
+        {
+          "word": "a",
+          "start": 441.98699999999997,
+          "end": 442.00699999999995,
+          "score": 0.999
+        },
+        {
+          "word": "region",
+          "start": 442.087,
+          "end": 442.48699999999997,
+          "score": 0.886
+        },
+        {
+          "word": "built",
+          "start": 442.527,
+          "end": 442.74699999999996,
+          "score": 0.712
+        },
+        {
+          "word": "for",
+          "start": 442.787,
+          "end": 442.907,
+          "score": 0.669
+        },
+        {
+          "word": "pushing",
+          "start": 442.947,
+          "end": 443.287,
+          "score": 0.739
+        },
+        {
+          "word": "water,",
+          "start": 443.347,
+          "end": 443.707,
+          "score": 0.841
+        },
+        {
+          "word": "then",
+          "start": 444.087,
+          "end": 444.24699999999996,
+          "score": 0.923
+        },
+        {
+          "word": "a",
+          "start": 444.30699999999996,
+          "end": 444.327,
+          "score": 1.0
+        },
+        {
+          "word": "bend,",
+          "start": 444.407,
+          "end": 444.808,
+          "score": 0.945
+        },
+        {
+          "word": "then",
+          "start": 445.268,
+          "end": 445.448,
+          "score": 0.883
+        },
+        {
+          "word": "structures",
+          "start": 445.548,
+          "end": 446.068,
+          "score": 0.816
+        },
+        {
+          "word": "with",
+          "start": 446.10799999999995,
+          "end": 446.248,
+          "score": 0.869
+        },
+        {
+          "word": "a",
+          "start": 446.28799999999995,
+          "end": 446.328,
+          "score": 0.498
+        },
+        {
+          "word": "different",
+          "start": 446.368,
+          "end": 446.66799999999995,
+          "score": 0.86
+        },
+        {
+          "word": "outline.",
+          "start": 446.78799999999995,
+          "end": 447.28799999999995,
+          "score": 0.99
+        },
+        {
+          "word": "You",
+          "start": 448.308,
+          "end": 448.40799999999996,
+          "score": 0.999
+        },
+        {
+          "word": "can",
+          "start": 448.428,
+          "end": 448.58799999999997,
+          "score": 0.854
+        },
+        {
+          "word": "recognize",
+          "start": 448.66799999999995,
+          "end": 449.30899999999997,
+          "score": 0.795
+        },
+        {
+          "word": "the",
+          "start": 449.349,
+          "end": 449.429,
+          "score": 0.945
+        },
+        {
+          "word": "division",
+          "start": 449.469,
+          "end": 449.86899999999997,
+          "score": 0.75
+        },
+        {
+          "word": "of",
+          "start": 449.88899999999995,
+          "end": 449.969,
+          "score": 0.738
+        },
+        {
+          "word": "labor",
+          "start": 450.06899999999996,
+          "end": 450.429,
+          "score": 0.921
+        },
+        {
+          "word": "without",
+          "start": 450.88899999999995,
+          "end": 451.18899999999996,
+          "score": 0.868
+        },
+        {
+          "word": "assigning",
+          "start": 451.24899999999997,
+          "end": 451.729,
+          "score": 0.783
+        },
+        {
+          "word": "this",
+          "start": 451.76899999999995,
+          "end": 451.929,
+          "score": 0.666
+        },
+        {
+          "word": "animal",
+          "start": 452.149,
+          "end": 452.44899999999996,
+          "score": 0.835
+        },
+        {
+          "word": "the",
+          "start": 452.80899999999997,
+          "end": 452.909,
+          "score": 0.989
+        },
+        {
+          "word": "red",
+          "start": 452.969,
+          "end": 453.20899999999995,
+          "score": 0.835
+        },
+        {
+          "word": "lures",
+          "start": 453.289,
+          "end": 453.71,
+          "score": 0.72
+        },
+        {
+          "word": "of",
+          "start": 453.77,
+          "end": 453.83,
+          "score": 0.762
+        },
+        {
+          "word": "its",
+          "start": 453.89,
+          "end": 454.01,
+          "score": 0.645
+        },
+        {
+          "word": "Pacific",
+          "start": 454.07,
+          "end": 454.51,
+          "score": 0.931
+        },
+        {
+          "word": "relative.",
+          "start": 454.59,
+          "end": 455.04999999999995,
+          "score": 0.964
+        }
+      ]
+    },
+    {
+      "id": "answer",
+      "words": [
+        {
+          "word": "So",
+          "start": 456.49,
+          "end": 456.63,
+          "score": 0.83
+        },
+        {
+          "word": "is",
+          "start": 456.69,
+          "end": 456.77,
+          "score": 0.962
+        },
+        {
+          "word": "it",
+          "start": 456.83,
+          "end": 456.89,
+          "score": 0.762
+        },
+        {
+          "word": "one",
+          "start": 457.03,
+          "end": 457.17,
+          "score": 0.79
+        },
+        {
+          "word": "hunter",
+          "start": 457.25,
+          "end": 457.61,
+          "score": 0.834
+        },
+        {
+          "word": "or",
+          "start": 457.71,
+          "end": 457.79,
+          "score": 0.988
+        },
+        {
+          "word": "many",
+          "start": 457.83,
+          "end": 458.05,
+          "score": 0.794
+        },
+        {
+          "word": "animals?",
+          "start": 458.21,
+          "end": 458.57,
+          "score": 0.857
+        },
+        {
+          "word": "Follow",
+          "start": 459.651,
+          "end": 459.971,
+          "score": 0.803
+        },
+        {
+          "word": "the",
+          "start": 460.01099999999997,
+          "end": 460.091,
+          "score": 0.838
+        },
+        {
+          "word": "development",
+          "start": 460.131,
+          "end": 460.671,
+          "score": 0.886
+        },
+        {
+          "word": "and",
+          "start": 461.131,
+          "end": 461.211,
+          "score": 0.851
+        },
+        {
+          "word": "you",
+          "start": 461.251,
+          "end": 461.391,
+          "score": 0.977
+        },
+        {
+          "word": "find",
+          "start": 461.451,
+          "end": 461.791,
+          "score": 0.833
+        },
+        {
+          "word": "individuals",
+          "start": 461.931,
+          "end": 462.531,
+          "score": 0.819
+        },
+        {
+          "word": "budding",
+          "start": 462.631,
+          "end": 462.951,
+          "score": 0.947
+        },
+        {
+          "word": "from",
+          "start": 462.991,
+          "end": 463.131,
+          "score": 0.794
+        },
+        {
+          "word": "a",
+          "start": 463.171,
+          "end": 463.191,
+          "score": 0.999
+        },
+        {
+          "word": "common",
+          "start": 463.271,
+          "end": 463.611,
+          "score": 0.912
+        },
+        {
+          "word": "beginning.",
+          "start": 463.671,
+          "end": 464.092,
+          "score": 0.953
+        },
+        {
+          "word": "Follow",
+          "start": 465.11199999999997,
+          "end": 465.412,
+          "score": 0.846
+        },
+        {
+          "word": "a",
+          "start": 465.492,
+          "end": 465.512,
+          "score": 0.988
+        },
+        {
+          "word": "turn,",
+          "start": 465.572,
+          "end": 465.952,
+          "score": 0.822
+        },
+        {
+          "word": "and",
+          "start": 466.452,
+          "end": 466.532,
+          "score": 0.865
+        },
+        {
+          "word": "one",
+          "start": 466.692,
+          "end": 466.832,
+          "score": 0.558
+        },
+        {
+          "word": "set",
+          "start": 466.872,
+          "end": 467.052,
+          "score": 0.773
+        },
+        {
+          "word": "of",
+          "start": 467.072,
+          "end": 467.132,
+          "score": 0.75
+        },
+        {
+          "word": "individuals",
+          "start": 467.212,
+          "end": 467.752,
+          "score": 0.853
+        },
+        {
+          "word": "steers",
+          "start": 467.812,
+          "end": 468.252,
+          "score": 0.845
+        },
+        {
+          "word": "while",
+          "start": 468.312,
+          "end": 468.492,
+          "score": 0.791
+        },
+        {
+          "word": "another",
+          "start": 468.552,
+          "end": 468.853,
+          "score": 0.871
+        },
+        {
+          "word": "drives.",
+          "start": 468.913,
+          "end": 469.353,
+          "score": 0.893
+        },
+        {
+          "word": "Follow",
+          "start": 470.393,
+          "end": 470.71299999999997,
+          "score": 0.854
+        },
+        {
+          "word": "a",
+          "start": 470.793,
+          "end": 470.83299999999997,
+          "score": 0.524
+        },
+        {
+          "word": "meal,",
+          "start": 470.893,
+          "end": 471.233,
+          "score": 0.94
+        },
+        {
+          "word": "and",
+          "start": 471.733,
+          "end": 471.813,
+          "score": 0.825
+        },
+        {
+          "word": "the",
+          "start": 471.83299999999997,
+          "end": 471.913,
+          "score": 0.998
+        },
+        {
+          "word": "tentacle",
+          "start": 471.953,
+          "end": 472.433,
+          "score": 0.841
+        },
+        {
+          "word": "and",
+          "start": 472.493,
+          "end": 472.573,
+          "score": 0.376
+        },
+        {
+          "word": "the",
+          "start": 472.593,
+          "end": 472.673,
+          "score": 0.833
+        },
+        {
+          "word": "mouth",
+          "start": 472.71299999999997,
+          "end": 473.033,
+          "score": 0.696
+        },
+        {
+          "word": "belong",
+          "start": 473.113,
+          "end": 473.533,
+          "score": 0.79
+        },
+        {
+          "word": "to",
+          "start": 473.553,
+          "end": 473.653,
+          "score": 0.576
+        },
+        {
+          "word": "one",
+          "start": 473.813,
+          "end": 473.954,
+          "score": 0.569
+        },
+        {
+          "word": "connected",
+          "start": 474.034,
+          "end": 474.49399999999997,
+          "score": 0.886
+        },
+        {
+          "word": "system.",
+          "start": 474.574,
+          "end": 474.974,
+          "score": 0.963
+        },
+        {
+          "word": "Count",
+          "start": 475.954,
+          "end": 476.194,
+          "score": 0.89
+        },
+        {
+          "word": "the",
+          "start": 476.234,
+          "end": 476.334,
+          "score": 0.825
+        },
+        {
+          "word": "workers",
+          "start": 476.37399999999997,
+          "end": 476.834,
+          "score": 0.824
+        },
+        {
+          "word": "and",
+          "start": 477.054,
+          "end": 477.134,
+          "score": 0.925
+        },
+        {
+          "word": "you",
+          "start": 477.174,
+          "end": 477.294,
+          "score": 0.896
+        },
+        {
+          "word": "get",
+          "start": 477.31399999999996,
+          "end": 477.474,
+          "score": 0.825
+        },
+        {
+          "word": "many.",
+          "start": 477.534,
+          "end": 477.81399999999996,
+          "score": 0.889
+        },
+        {
+          "word": "Watch",
+          "start": 478.81399999999996,
+          "end": 479.09499999999997,
+          "score": 0.907
+        },
+        {
+          "word": "the",
+          "start": 479.135,
+          "end": 479.235,
+          "score": 0.698
+        },
+        {
+          "word": "hunt",
+          "start": 479.295,
+          "end": 479.555,
+          "score": 0.798
+        },
+        {
+          "word": "and",
+          "start": 479.735,
+          "end": 479.815,
+          "score": 0.927
+        },
+        {
+          "word": "you",
+          "start": 479.855,
+          "end": 479.995,
+          "score": 0.834
+        },
+        {
+          "word": "see",
+          "start": 480.03499999999997,
+          "end": 480.195,
+          "score": 0.903
+        },
+        {
+          "word": "one",
+          "start": 480.315,
+          "end": 480.455,
+          "score": 0.568
+        },
+        {
+          "word": "colony.",
+          "start": 480.515,
+          "end": 480.975,
+          "score": 0.919
+        }
+      ]
+    }
+  ]
+}

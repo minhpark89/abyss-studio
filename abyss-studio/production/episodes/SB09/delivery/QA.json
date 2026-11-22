@@ -1,0 +1,1347 @@
+{
+  "sha256": "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686",
+  "frames": 4320,
+  "fps": 24,
+  "duration_seconds": 180,
+  "width": 1280,
+  "height": 720,
+  "audio_start": 0.0,
+  "audio_end": 180.01066666666668,
+  "bytes": 84512668,
+  "edit_sha256": "49043076482b6d974494f71a75a162c66dc22bee94cc60794a2a429495d3251e",
+  "vision_sha256": "983b31367b8ef8ef5da7472a57c09b7eb9763b0d7715f3df1aec058a6b8c9225",
+  "picture_frames": [
+    {
+      "shot": "T01-strike",
+      "source": "takes/T01.mp4",
+      "start_frame": 0,
+      "end_frame": 27,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 27,
+      "p95_mean_rgb_error": 0.566,
+      "maximum_mean_rgb_error": 0.631
+    },
+    {
+      "shot": "T01-hurt",
+      "source": "takes/T01.mp4",
+      "start_frame": 27,
+      "end_frame": 59,
+      "source_in": 27,
+      "speed": 1.0,
+      "native_frames_compared": 32,
+      "p95_mean_rgb_error": 0.511,
+      "maximum_mean_rgb_error": 0.571
+    },
+    {
+      "shot": "T01",
+      "source": "takes/T01.mp4",
+      "start_frame": 59,
+      "end_frame": 99,
+      "source_in": 59,
+      "speed": 1.0,
+      "native_frames_compared": 40,
+      "p95_mean_rgb_error": 0.573,
+      "maximum_mean_rgb_error": 0.666
+    },
+    {
+      "shot": "I01",
+      "source": "takes/I01.mp4",
+      "start_frame": 99,
+      "end_frame": 139,
+      "source_in": 68,
+      "speed": 1.0,
+      "native_frames_compared": 40,
+      "p95_mean_rgb_error": 0.545,
+      "maximum_mean_rgb_error": 0.603
+    },
+    {
+      "shot": "I01-paper",
+      "source": "takes/I01.mp4",
+      "start_frame": 139,
+      "end_frame": 181,
+      "source_in": 108,
+      "speed": 1.0,
+      "native_frames_compared": 42,
+      "p95_mean_rgb_error": 0.505,
+      "maximum_mean_rgb_error": 0.515
+    },
+    {
+      "shot": "T02-rise",
+      "source": "takes/T02.mp4",
+      "start_frame": 181,
+      "end_frame": 214,
+      "source_in": 86,
+      "speed": 1.0,
+      "native_frames_compared": 33,
+      "p95_mean_rgb_error": 0.576,
+      "maximum_mean_rgb_error": 0.628
+    },
+    {
+      "shot": "T02",
+      "source": "takes/T02.mp4",
+      "start_frame": 214,
+      "end_frame": 285,
+      "source_in": 119,
+      "speed": 1.0,
+      "native_frames_compared": 71,
+      "p95_mean_rgb_error": 0.511,
+      "maximum_mean_rgb_error": 0.571
+    },
+    {
+      "shot": "T02-arms",
+      "source": "takes/T02.mp4",
+      "start_frame": 285,
+      "end_frame": 313,
+      "source_in": 190,
+      "speed": 1.0,
+      "native_frames_compared": 28,
+      "p95_mean_rgb_error": 0.571,
+      "maximum_mean_rgb_error": 0.621
+    },
+    {
+      "shot": "T03",
+      "source": "takes/T03.mp4",
+      "start_frame": 313,
+      "end_frame": 451,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 138,
+      "p95_mean_rgb_error": 0.521,
+      "maximum_mean_rgb_error": 0.584
+    },
+    {
+      "shot": "T03-listener",
+      "source": "takes/T03.mp4",
+      "start_frame": 451,
+      "end_frame": 531,
+      "source_in": 138,
+      "speed": 1.0,
+      "native_frames_compared": 80,
+      "p95_mean_rgb_error": 0.47,
+      "maximum_mean_rgb_error": 0.539
+    },
+    {
+      "shot": "T04",
+      "source": "takes/T04-r2.mp4",
+      "start_frame": 531,
+      "end_frame": 594,
+      "source_in": 21,
+      "speed": 1.0,
+      "native_frames_compared": 63,
+      "p95_mean_rgb_error": 0.514,
+      "maximum_mean_rgb_error": 0.526
+    },
+    {
+      "shot": "T04-label",
+      "source": "takes/T04-r2.mp4",
+      "start_frame": 594,
+      "end_frame": 675,
+      "source_in": 84,
+      "speed": 1.0,
+      "native_frames_compared": 81,
+      "p95_mean_rgb_error": 0.542,
+      "maximum_mean_rgb_error": 0.564
+    },
+    {
+      "shot": "T05",
+      "source": "takes/T05.mp4",
+      "start_frame": 675,
+      "end_frame": 843,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 168,
+      "p95_mean_rgb_error": 0.52,
+      "maximum_mean_rgb_error": 0.659
+    },
+    {
+      "shot": "T06",
+      "source": "takes/T06-r2.mp4",
+      "start_frame": 843,
+      "end_frame": 987,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.565,
+      "maximum_mean_rgb_error": 0.688
+    },
+    {
+      "shot": "T07",
+      "source": "takes/T07-r2.mp4",
+      "start_frame": 987,
+      "end_frame": 1106,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 119,
+      "p95_mean_rgb_error": 0.524,
+      "maximum_mean_rgb_error": 0.61
+    },
+    {
+      "shot": "T08",
+      "source": "takes/T08.mp4",
+      "start_frame": 1106,
+      "end_frame": 1324,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 218,
+      "p95_mean_rgb_error": 0.555,
+      "maximum_mean_rgb_error": 0.582
+    },
+    {
+      "shot": "T09",
+      "source": "takes/T09.mp4",
+      "start_frame": 1324,
+      "end_frame": 1468,
+      "source_in": 12,
+      "speed": 1.0,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.522,
+      "maximum_mean_rgb_error": 0.63
+    },
+    {
+      "shot": "T10",
+      "source": "takes/T10.mp4",
+      "start_frame": 1468,
+      "end_frame": 1579,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 111,
+      "p95_mean_rgb_error": 0.55,
+      "maximum_mean_rgb_error": 0.567
+    },
+    {
+      "shot": "T10-lapel",
+      "source": "takes/T10.mp4",
+      "start_frame": 1579,
+      "end_frame": 1637,
+      "source_in": 111,
+      "speed": 1.0,
+      "native_frames_compared": 58,
+      "p95_mean_rgb_error": 0.454,
+      "maximum_mean_rgb_error": 0.458
+    },
+    {
+      "shot": "T10-wait",
+      "source": "takes/T10.mp4",
+      "start_frame": 1637,
+      "end_frame": 1686,
+      "source_in": 169,
+      "speed": 1.0,
+      "native_frames_compared": 49,
+      "p95_mean_rgb_error": 0.529,
+      "maximum_mean_rgb_error": 0.591
+    },
+    {
+      "shot": "T11",
+      "source": "takes/T11-r2.mp4",
+      "start_frame": 1686,
+      "end_frame": 1824,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 138,
+      "p95_mean_rgb_error": 0.538,
+      "maximum_mean_rgb_error": 0.619
+    },
+    {
+      "shot": "T12",
+      "source": "takes/T12.mp4",
+      "start_frame": 1824,
+      "end_frame": 1974,
+      "source_in": 3,
+      "speed": 1.0,
+      "native_frames_compared": 150,
+      "p95_mean_rgb_error": 0.541,
+      "maximum_mean_rgb_error": 0.6
+    },
+    {
+      "shot": "T13",
+      "source": "takes/T13.mp4",
+      "start_frame": 1974,
+      "end_frame": 2072,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 98,
+      "p95_mean_rgb_error": 0.537,
+      "maximum_mean_rgb_error": 0.548
+    },
+    {
+      "shot": "T13-cover",
+      "source": "takes/T13.mp4",
+      "start_frame": 2072,
+      "end_frame": 2155,
+      "source_in": 98,
+      "speed": 1.0,
+      "native_frames_compared": 83,
+      "p95_mean_rgb_error": 0.486,
+      "maximum_mean_rgb_error": 0.555
+    },
+    {
+      "shot": "T14-challenge",
+      "source": "takes/T14.mp4",
+      "start_frame": 2155,
+      "end_frame": 2181,
+      "source_in": 44,
+      "speed": 1.0,
+      "native_frames_compared": 26,
+      "p95_mean_rgb_error": 0.486,
+      "maximum_mean_rgb_error": 0.535
+    },
+    {
+      "shot": "T14-grip",
+      "source": "takes/T14.mp4",
+      "start_frame": 2181,
+      "end_frame": 2206,
+      "source_in": 70,
+      "speed": 1.0,
+      "native_frames_compared": 25,
+      "p95_mean_rgb_error": 0.475,
+      "maximum_mean_rgb_error": 0.486
+    },
+    {
+      "shot": "T14",
+      "source": "takes/T14.mp4",
+      "start_frame": 2206,
+      "end_frame": 2331,
+      "source_in": 95,
+      "speed": 1.0,
+      "native_frames_compared": 125,
+      "p95_mean_rgb_error": 0.547,
+      "maximum_mean_rgb_error": 0.622
+    },
+    {
+      "shot": "T15",
+      "source": "takes/T15.mp4",
+      "start_frame": 2331,
+      "end_frame": 2507,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 176,
+      "p95_mean_rgb_error": 0.559,
+      "maximum_mean_rgb_error": 0.618
+    },
+    {
+      "shot": "T16",
+      "source": "takes/T16.mp4",
+      "start_frame": 2507,
+      "end_frame": 2604,
+      "source_in": 49,
+      "speed": 1.0,
+      "native_frames_compared": 97,
+      "p95_mean_rgb_error": 0.405,
+      "maximum_mean_rgb_error": 0.438
+    },
+    {
+      "shot": "T16-bird",
+      "source": "takes/T16.mp4",
+      "start_frame": 2604,
+      "end_frame": 2678,
+      "source_in": 146,
+      "speed": 1.0,
+      "native_frames_compared": 74,
+      "p95_mean_rgb_error": 0.458,
+      "maximum_mean_rgb_error": 0.511
+    },
+    {
+      "shot": "T17",
+      "source": "takes/T17.mp4",
+      "start_frame": 2678,
+      "end_frame": 2760,
+      "source_in": 134,
+      "speed": 1.0,
+      "native_frames_compared": 82,
+      "p95_mean_rgb_error": 0.477,
+      "maximum_mean_rgb_error": 0.548
+    },
+    {
+      "shot": "T18",
+      "source": "takes/T18.mp4",
+      "start_frame": 2760,
+      "end_frame": 2904,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.566,
+      "maximum_mean_rgb_error": 0.687
+    },
+    {
+      "shot": "T19",
+      "source": "takes/T19.mp4",
+      "start_frame": 2904,
+      "end_frame": 2998,
+      "source_in": 15,
+      "speed": 1.0,
+      "native_frames_compared": 94,
+      "p95_mean_rgb_error": 0.598,
+      "maximum_mean_rgb_error": 0.605
+    },
+    {
+      "shot": "T19-listener",
+      "source": "takes/T19.mp4",
+      "start_frame": 2998,
+      "end_frame": 3048,
+      "source_in": 109,
+      "speed": 1.0,
+      "native_frames_compared": 50,
+      "p95_mean_rgb_error": 0.501,
+      "maximum_mean_rgb_error": 0.531
+    },
+    {
+      "shot": "T20",
+      "source": "takes/T20.mp4",
+      "start_frame": 3048,
+      "end_frame": 3153,
+      "source_in": 1,
+      "speed": 1.0,
+      "native_frames_compared": 105,
+      "p95_mean_rgb_error": 0.525,
+      "maximum_mean_rgb_error": 0.61
+    },
+    {
+      "shot": "I05",
+      "source": "takes/I05.mp4",
+      "start_frame": 3153,
+      "end_frame": 3273,
+      "source_in": 70,
+      "speed": 1.0,
+      "native_frames_compared": 120,
+      "p95_mean_rgb_error": 0.567,
+      "maximum_mean_rgb_error": 0.61
+    },
+    {
+      "shot": "T21",
+      "source": "takes/T21.mp4",
+      "start_frame": 3273,
+      "end_frame": 3405,
+      "source_in": 27,
+      "speed": 1.0,
+      "native_frames_compared": 132,
+      "p95_mean_rgb_error": 0.52,
+      "maximum_mean_rgb_error": 0.623
+    },
+    {
+      "shot": "T22",
+      "source": "takes/T22.mp4",
+      "start_frame": 3405,
+      "end_frame": 3495,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 90,
+      "p95_mean_rgb_error": 0.534,
+      "maximum_mean_rgb_error": 0.619
+    },
+    {
+      "shot": "T23",
+      "source": "takes/T23.mp4",
+      "start_frame": 3495,
+      "end_frame": 3672,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 177,
+      "p95_mean_rgb_error": 0.58,
+      "maximum_mean_rgb_error": 0.728
+    },
+    {
+      "shot": "T24",
+      "source": "takes/T24-r2.mp4",
+      "start_frame": 3672,
+      "end_frame": 3816,
+      "source_in": 29,
+      "speed": 1.0,
+      "native_frames_compared": 144,
+      "p95_mean_rgb_error": 0.578,
+      "maximum_mean_rgb_error": 0.699
+    },
+    {
+      "shot": "T25",
+      "source": "takes/T25.mp4",
+      "start_frame": 3816,
+      "end_frame": 3984,
+      "source_in": 19,
+      "speed": 1.0,
+      "native_frames_compared": 168,
+      "p95_mean_rgb_error": 0.567,
+      "maximum_mean_rgb_error": 0.695
+    },
+    {
+      "shot": "T26-folder",
+      "source": "takes/T26.mp4",
+      "start_frame": 3984,
+      "end_frame": 4041,
+      "source_in": 50,
+      "speed": 1.0,
+      "native_frames_compared": 57,
+      "p95_mean_rgb_error": 0.489,
+      "maximum_mean_rgb_error": 0.525
+    },
+    {
+      "shot": "T26",
+      "source": "takes/T26.mp4",
+      "start_frame": 4041,
+      "end_frame": 4152,
+      "source_in": 107,
+      "speed": 1.0,
+      "native_frames_compared": 111,
+      "p95_mean_rgb_error": 0.51,
+      "maximum_mean_rgb_error": 0.579
+    },
+    {
+      "shot": "T27",
+      "source": "takes/T27-r3.mp4",
+      "start_frame": 4152,
+      "end_frame": 4320,
+      "source_in": 0,
+      "speed": 1.0,
+      "native_frames_compared": 168,
+      "p95_mean_rgb_error": 0.559,
+      "maximum_mean_rgb_error": 0.77
+    }
+  ],
+  "cut_sheets": [
+    "qa/cut-review-1.jpg",
+    "qa/cut-review-2.jpg",
+    "qa/cut-review-3.jpg",
+    "qa/cut-review-4.jpg",
+    "qa/cut-review-5.jpg"
+  ],
+  "cut_motion": [
+    {
+      "shot": "T01-strike",
+      "minimum_sample_luma": 74.95,
+      "minimum_sample_p99_luma": 225.63,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 8.777,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T01-hurt",
+      "minimum_sample_luma": 105.27,
+      "minimum_sample_p99_luma": 230.5,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.219,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T01",
+      "minimum_sample_luma": 85.05,
+      "minimum_sample_p99_luma": 236.09,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.21,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "I01",
+      "minimum_sample_luma": 38.74,
+      "minimum_sample_p99_luma": 188.41,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 15.121,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "I01-paper",
+      "minimum_sample_luma": 74.38,
+      "minimum_sample_p99_luma": 183.32,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 6.474,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T02-rise",
+      "minimum_sample_luma": 40.98,
+      "minimum_sample_p99_luma": 190.78,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 12.443,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T02",
+      "minimum_sample_luma": 109.81,
+      "minimum_sample_p99_luma": 233.09,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.501,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T02-arms",
+      "minimum_sample_luma": 86.02,
+      "minimum_sample_p99_luma": 238.45,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.184,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T03",
+      "minimum_sample_luma": 80.87,
+      "minimum_sample_p99_luma": 228.5,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.367,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T03-listener",
+      "minimum_sample_luma": 122.32,
+      "minimum_sample_p99_luma": 236.29,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.106,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T04",
+      "minimum_sample_luma": 43.03,
+      "minimum_sample_p99_luma": 165.01,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 10.044,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T04-label",
+      "minimum_sample_luma": 27.96,
+      "minimum_sample_p99_luma": 161.8,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.486,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T05",
+      "minimum_sample_luma": 82.68,
+      "minimum_sample_p99_luma": 235.37,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.991,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T06",
+      "minimum_sample_luma": 72.26,
+      "minimum_sample_p99_luma": 232.18,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.031,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T07",
+      "minimum_sample_luma": 5.73,
+      "minimum_sample_p99_luma": 85.76,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.362,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T08",
+      "minimum_sample_luma": 88.28,
+      "minimum_sample_p99_luma": 222.41,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.779,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T09",
+      "minimum_sample_luma": 56.21,
+      "minimum_sample_p99_luma": 239.22,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.356,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T10",
+      "minimum_sample_luma": 75.54,
+      "minimum_sample_p99_luma": 225.68,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.943,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T10-lapel",
+      "minimum_sample_luma": 53.37,
+      "minimum_sample_p99_luma": 218.44,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.63,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T10-wait",
+      "minimum_sample_luma": 72.36,
+      "minimum_sample_p99_luma": 225.13,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.51,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T11",
+      "minimum_sample_luma": 60.06,
+      "minimum_sample_p99_luma": 224.17,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.174,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T12",
+      "minimum_sample_luma": 54.24,
+      "minimum_sample_p99_luma": 172.31,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.857,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T13",
+      "minimum_sample_luma": 61.19,
+      "minimum_sample_p99_luma": 229.57,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.198,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T13-cover",
+      "minimum_sample_luma": 47.87,
+      "minimum_sample_p99_luma": 215.92,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.917,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T14-challenge",
+      "minimum_sample_luma": 73.63,
+      "minimum_sample_p99_luma": 231.23,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.167,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T14-grip",
+      "minimum_sample_luma": 44.58,
+      "minimum_sample_p99_luma": 219.21,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.523,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T14",
+      "minimum_sample_luma": 71.94,
+      "minimum_sample_p99_luma": 230.17,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.639,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T15",
+      "minimum_sample_luma": 67.13,
+      "minimum_sample_p99_luma": 214.85,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.381,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T16",
+      "minimum_sample_luma": 54.94,
+      "minimum_sample_p99_luma": 222.91,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.076,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T16-bird",
+      "minimum_sample_luma": 65.48,
+      "minimum_sample_p99_luma": 224.91,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.583,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T17",
+      "minimum_sample_luma": 67.52,
+      "minimum_sample_p99_luma": 225.51,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.582,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T18",
+      "minimum_sample_luma": 76.04,
+      "minimum_sample_p99_luma": 230.88,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.667,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T19",
+      "minimum_sample_luma": 81.62,
+      "minimum_sample_p99_luma": 223.57,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.89,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T19-listener",
+      "minimum_sample_luma": 92.4,
+      "minimum_sample_p99_luma": 231.5,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 0.417,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T20",
+      "minimum_sample_luma": 61.09,
+      "minimum_sample_p99_luma": 226.87,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 3.581,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "I05",
+      "minimum_sample_luma": 80.33,
+      "minimum_sample_p99_luma": 206.02,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 5.549,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T21",
+      "minimum_sample_luma": 95.42,
+      "minimum_sample_p99_luma": 215.37,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 3.239,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T22",
+      "minimum_sample_luma": 80.24,
+      "minimum_sample_p99_luma": 234.31,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 3.624,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T23",
+      "minimum_sample_luma": 68.51,
+      "minimum_sample_p99_luma": 208.79,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.725,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T24",
+      "minimum_sample_luma": 61.37,
+      "minimum_sample_p99_luma": 223.64,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.406,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T25",
+      "minimum_sample_luma": 70.39,
+      "minimum_sample_p99_luma": 222.3,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 1.406,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T26-folder",
+      "minimum_sample_luma": 52.21,
+      "minimum_sample_p99_luma": 201.6,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.694,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T26",
+      "minimum_sample_luma": 110.99,
+      "minimum_sample_p99_luma": 231.36,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 2.909,
+      "dimensions": [
+        81,
+        144
+      ]
+    },
+    {
+      "shot": "T27",
+      "minimum_sample_luma": 96.87,
+      "minimum_sample_p99_luma": 209.24,
+      "longest_near_duplicate_frames": 1,
+      "median_frame_change": 4.646,
+      "dimensions": [
+        81,
+        144
+      ]
+    }
+  ],
+  "issues": [],
+  "audio": {
+    "integrated_lufs": -14.15,
+    "true_peak_dbtp": -1.71,
+    "range_lu": 17.3,
+    "decoded_last_20ms_peak": 0.0,
+    "decoded_silence_drop_core_peak": 0.0,
+    "fade_out_seconds": 0.5,
+    "digital_zero_guard_seconds": 0.09,
+    "decoded_audio_samples": 8640512,
+    "expected_presentation_samples": 8640000
+  },
+  "confrontations": {
+    "B01": {
+      "shared": 4,
+      "shots": 10,
+      "fraction": 0.4
+    },
+    "B02": {
+      "shared": 2,
+      "shots": 6,
+      "fraction": 0.3333333333333333
+    },
+    "B03": {
+      "shared": 3,
+      "shots": 8,
+      "fraction": 0.375
+    },
+    "B04": {
+      "shared": 3,
+      "shots": 7,
+      "fraction": 0.42857142857142855
+    },
+    "B05": {
+      "shared": 3,
+      "shots": 7,
+      "fraction": 0.42857142857142855
+    },
+    "B06": {
+      "shared": 2,
+      "shots": 6,
+      "fraction": 0.3333333333333333
+    }
+  },
+  "lip_counts": {
+    "within_one_model_step": 19,
+    "indeterminate": 3
+  },
+  "lip_report": "qa/final-dialogue/report.json",
+  "lip_report_sha256": "901881e1ed0a343eadb9ea256def3f79737ef2b9a3f3387d9360dc415da6becc",
+  "unprompted_master_transcript": "qa/final-dialogue/transcript.json",
+  "commands": [
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\encoded_asr.py",
+        "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T01.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T02.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T03.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T05.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T06.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T08.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T09.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T10.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T11.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T12.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T13.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T14.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T15.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T17.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T18.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T19.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T20.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T21.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T22.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T23.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T25.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T26.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_master.py",
+        "--sync",
+        "E:\\YOUTUBE\\abyss-studio\\production\\episodes\\SB09\\qa\\final-dialogue\\requests\\bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686\\T12-phrases.json"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    },
+    {
+      "argv": [
+        "C:\\Users\\PV\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "-X",
+        "utf8",
+        "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09\\verify_pass.py"
+      ],
+      "cwd": "E:\\YOUTUBE\\codex-video-factory\\production\\karma-drama\\SB09",
+      "exit_code": 0
+    }
+  ],
+  "performance_review": {
+    "windows": 96,
+    "sha256": "bbf7450218aa7a2263536e603b23f183c30439e7810da71d00a30ec0b4b00686",
+    "review_sha256": "7987c543920dbaf7522b1dcdbb8462cdd262a67a56ea95f16f10ffcab48b5416"
+  }
+}

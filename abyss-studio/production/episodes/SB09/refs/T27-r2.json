@@ -1,0 +1,12 @@
+{
+  "source": "T26",
+  "source_sha256": "77758a22fd1fba36c91c828fb96d88dc42f5457c6772d8d725a5cb4345332ef4",
+  "frame": 190,
+  "crop": [
+    35,
+    12,
+    900,
+    506
+  ],
+  "sha256": "ac5fd85cd30dbb83d2243f450f2c7ba5068bc927dcdcb2f9762b98e12a0d1b65"
+}

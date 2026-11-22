@@ -1,0 +1,174 @@
+{
+  "opening_frames_identical": 1766,
+  "segments": [
+    {
+      "segment": "ask",
+      "encoded_time": 0.641,
+      "lag_ms": 0.0,
+      "correlation": 0.9625222840977584
+    },
+    {
+      "segment": "field",
+      "encoded_time": 10.645,
+      "lag_ms": 0.0,
+      "correlation": 0.991088100130626
+    },
+    {
+      "segment": "guess",
+      "encoded_time": 20.24,
+      "lag_ms": 0.0,
+      "correlation": 0.9754579313246132
+    },
+    {
+      "segment": "answer",
+      "encoded_time": 29.126,
+      "lag_ms": 0.0,
+      "correlation": 0.9779397599303794
+    },
+    {
+      "segment": "jets",
+      "encoded_time": 39.77,
+      "lag_ms": 0.0,
+      "correlation": 0.9507378199789548
+    },
+    {
+      "segment": "net",
+      "encoded_time": 49.816,
+      "lag_ms": 0.0,
+      "correlation": 0.977187302595974
+    },
+    {
+      "segment": "close",
+      "encoded_time": 61.151,
+      "lag_ms": 0.0,
+      "correlation": 0.9901422739772652
+    },
+    {
+      "segment": "trace",
+      "encoded_time": 74.10333333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.9764231972131515
+    },
+    {
+      "segment": "bud",
+      "encoded_time": 95.52333333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9667069969254458
+    },
+    {
+      "segment": "shared",
+      "encoded_time": 119.13333333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.9753640772077683
+    },
+    {
+      "segment": "turn",
+      "encoded_time": 139.08333333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.9777762666418337
+    },
+    {
+      "segment": "study",
+      "encoded_time": 160.19333333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.973357599984416
+    },
+    {
+      "segment": "lever",
+      "encoded_time": 182.03333333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9751195677651723
+    },
+    {
+      "segment": "thrust",
+      "encoded_time": 205.58333333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.976433964029018
+    },
+    {
+      "segment": "wave",
+      "encoded_time": 229.24333333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.9745375151136214
+    },
+    {
+      "segment": "switch",
+      "encoded_time": 254.31833333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9738601425172894
+    },
+    {
+      "segment": "dark",
+      "encoded_time": 274.37833333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9820160656191995
+    },
+    {
+      "segment": "erenna",
+      "encoded_time": 296.0233333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9691241790497389
+    },
+    {
+      "segment": "lure",
+      "encoded_time": 321.35333333333335,
+      "lag_ms": 0.0,
+      "correlation": 0.9541235369415484
+    },
+    {
+      "segment": "color",
+      "encoded_time": 343.6933333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9274471188094067
+    },
+    {
+      "segment": "fish",
+      "encoded_time": 367.3933333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9767796468860269
+    },
+    {
+      "segment": "reach",
+      "encoded_time": 392.4483333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.975342001203092
+    },
+    {
+      "segment": "observed",
+      "encoded_time": 415.0233333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.983467053155216
+    },
+    {
+      "segment": "vehicle",
+      "encoded_time": 436.80333333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.9864988909601882
+    },
+    {
+      "segment": "scale",
+      "encoded_time": 458.36333333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.9653542815117211
+    },
+    {
+      "segment": "lamp",
+      "encoded_time": 482.5683333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9613473504428687
+    },
+    {
+      "segment": "return",
+      "encoded_time": 507.4483333333333,
+      "lag_ms": 0.0,
+      "correlation": 0.9866527906051271
+    },
+    {
+      "segment": "answer",
+      "encoded_time": 530.0733333333334,
+      "lag_ms": 0.0,
+      "correlation": 0.9932675690091818
+    }
+  ],
+  "sha256": "f060182866b9e21ab8487c659e8c96aa420eebb8b530b0c9bcaecf5ee24f0ba1"
+}

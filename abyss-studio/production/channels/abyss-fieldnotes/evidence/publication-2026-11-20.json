@@ -1,0 +1,40 @@
+{
+  "at": "2026-11-20T04:06:04+00:00",
+  "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0HHGW2X_MPmuB8CQ_HzV_Q",
+  "studio_screenshot": "production/channels/abyss-fieldnotes/evidence/studio-content-2026-11-20.png",
+  "entries": [
+    {
+      "episode": "D004",
+      "title": "How a Sperm Whale Hunts in Total Darkness",
+      "video_id": "YZOXjyeiJTc",
+      "url": "https://www.youtube.com/watch?v=YZOXjyeiJTc",
+      "published": "2026-11-18T14:25:30+00:00",
+      "studio_views": 0
+    },
+    {
+      "episode": "D003",
+      "title": "What Happens After a Whale Sinks?",
+      "video_id": "xZzsJYE6JGs",
+      "url": "https://www.youtube.com/watch?v=xZzsJYE6JGs",
+      "published": "2026-11-17T15:59:44+00:00",
+      "studio_views": 167
+    },
+    {
+      "episode": "D002",
+      "title": "Why Does This Fish Have a See-Through Head?",
+      "video_id": "omnPBXUSGbc",
+      "url": "https://www.youtube.com/watch?v=omnPBXUSGbc",
+      "published": "2026-11-16T12:54:49+00:00",
+      "studio_views": 1
+    },
+    {
+      "episode": "D001",
+      "title": "Why Does the Colossal Squid Need an Eye This Big?",
+      "video_id": "svKwkelaZKY",
+      "url": "https://www.youtube.com/watch?v=svKwkelaZKY",
+      "published": "2026-11-15T08:00:23+00:00",
+      "studio_views": 4
+    }
+  ],
+  "thumbnail_observation": "D003 AFTER THE FALL leads this snapshot. Studio shows views, without impressions, traffic sources or click-through rates."
+}
