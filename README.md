@@ -4,9 +4,11 @@
 
 ## Mở trên PC khác
 
-Cài Git, Node.js 22.12 trở lên và Python 3.11 trên Windows. Clone repo riêng bằng tài khoản có quyền. Từ thư mục đã clone, chạy PowerShell:
+Cài Git, Node.js 22.12 trở lên và Python 3.11 trên Windows. Mở PowerShell rồi chạy các lệnh sau để tải và mở app.
 
 ```powershell
+git clone https://github.com/minhpark89/abyss-studio.git
+cd abyss-studio
 .\Setup.ps1
 .\Start.ps1
 ```
